@@ -8,15 +8,21 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
     title=" Profil Kelompok",
     default=True)
 
-Mahasiswa3 = st.Page(
-    "Buku Kating/086_Sania Dwi Ayu Lestari.py",
-    title="086 - Sania Dwi Ayu Lestari",
-    icon=":material/person:",
-)
-
 Mahasiswa1 = st.Page(
     "Buku Kating/110_Ihsan Maulana Yusuf.py",
     title="110 - Ihsan Maulana Yusuf",
+    icon=":material/person:",
+)
+
+Mahasiswa2 = st.Page(
+    "Buku Kating/071_Khairunnisa Maharani.py",
+    title="071 - Khairunnisa Maharani",
+    icon=":material/person:",
+)
+
+Mahasiswa3 = st.Page(
+    "Buku Kating/086_Sania Dwi Ayu Lestari.py",
+    title="086 - Sania Dwi Ayu Lestari",
     icon=":material/person:",
 )
 
@@ -29,7 +35,7 @@ if st.session_state.pindah:
     pg = st.navigation(
         {
             "Halaman Utama": [Homepage],
-            "Buku Kating": [Mahasiswa3,Mahasiswa1],
+            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3],
             "Try Me !!": [KREASI, KREASII],
         }
     )
