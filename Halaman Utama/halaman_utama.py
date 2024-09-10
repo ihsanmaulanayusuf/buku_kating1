@@ -137,7 +137,7 @@ elif menu == "About Us":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Y4JIu4K3Nzmt0t3nShgbmGs0AoHz9cTs",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=18eqn8Q5fIikdFfwb4MKJcMxCNx_iOiUp",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
@@ -157,11 +157,11 @@ elif menu == "About Us":
                 "motto_hidup": "Everyone hates what i love, everyone love what i hate",
             },
             {
-                "nama": "C",
+                "nama": "Sania Dwi Ayu Lestari",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450086",
+                "fun_fact": "nyemil es batu",
+                "motto_hidup": "Live to learn, act to inspire",
             },
             {
                 "nama": "D",
