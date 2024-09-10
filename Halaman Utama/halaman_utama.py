@@ -140,6 +140,10 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=18eqn8Q5fIikdFfwb4MKJcMxCNx_iOiUp",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
         ]
         data_list = [
             {
@@ -177,6 +181,36 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
             },
+            {
+                "nama": "F",
+                "sebagai": "Anggota",
+                "nim": "122450100",
+                "fun_fact": "nyemilin es bata, kiko",
+                "motto_hidup": "jalanin dulu keles",
+            },
+            {
+                "nama": "G",
+                "sebagai": "Anggota",
+                "nim": "122450100",
+                "fun_fact": "nyemilin es bata, kiko",
+                "motto_hidup": "jalanin dulu keles",
+            },
+            {
+                "nama": "H",
+                "sebagai": "Anggota",
+                "nim": "122450100",
+                "fun_fact": "nyemilin es bata, kiko",
+                "motto_hidup": "jalanin dulu keles",
+            },
+            {
+                "nama": "Nydia Manda Putri",
+                "sebagai": "Anggota",
+                "nim": "123450018",
+                "fun_fact": "suka makan pedas",
+                "motto_hidup": "all do is try, try, try",
+            },
+
+
         ]
         display_images_with_data(gambar_urls, data_list)
 
