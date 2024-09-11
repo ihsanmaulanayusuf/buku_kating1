@@ -75,15 +75,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
-            "icon": {"color": "black", "font-size": "19px"},
+            "container": {"padding": "0!important", "background-color": "#050505"},
+            "icon": {"color": "white", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#2a1018",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#562c3a"},
         },
     )
     return selected
@@ -136,7 +136,7 @@ elif menu == "About Us":
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PN7eJgfVsTXJTlpKewK_Wbpw8AZCJrdW",
-            "https://drive.google.com/uc?export=view&id=1Y4JIu4K3Nzmt0t3nShgbmGs0AoHz9cTs",
+            "https://drive.google.com/uc?export=view&id=1dG3saD1v1svC9qOBCURzLdQPm8lIIxpt",
             "https://drive.google.com/uc?export=view&id=18eqn8Q5fIikdFfwb4MKJcMxCNx_iOiUp",
             "https://drive.google.com/uc?export=view&id=18_Us-qRt-xWdIIhD_K4AzwBOkjESCoNa",
             "https://drive.google.com/uc?export=view&id=1RtnVwiRw0QeKthU_Z8Xz4gCVt7MPc-Gg",
