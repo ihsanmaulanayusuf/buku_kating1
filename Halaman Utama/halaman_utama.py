@@ -145,7 +145,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1WZScsJ1fzfznd-fvmaVyOQyRZahgUrrX",
             "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
             "https://drive.google.com/uc?export=view&id=1ck4eAmxfk3SNRjrD2CGlSUAjPJj_Ajuw",
-            "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
+            "https://drive.google.com/uc?export=view&id=1jyPINzk7dkpsmA2zAfHtEu_rTl--QDQp",
             "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
             "https://drive.google.com/uc?export=view&id=1d5NWYIrEVOBeauFCEMrlUkLkoFrK7aHO",
         ]
@@ -221,11 +221,11 @@ elif menu == "About Us":
                 "motto_hidup": "First u learn, then u remove the l",
             },
             {
-                "nama": "Nydia Manda Putri",
+                "nama": "Qois Olifio",
                 "sebagai": "Anggota",
-                "nim": "123450018",
-                "fun_fact": "suka makan pedas",
-                "motto_hidup": "all do is try, try, try",
+                "nim": "123450067",
+                "fun_fact": "Bisa habisin air 3 liter sehari",
+                "motto_hidup": "Berpikir positif, bertindak positif, dan menerima hasil positif",
             },
             {
                 "nama": "Nydia Manda Putri",
