@@ -38,6 +38,12 @@ Mahasiswa6 = st.Page(
     icon=":material/person:",
 )
 
+Mahasiswa7 = st.Page(
+    "Buku Kating/040_Aprilia Dewi Hutapea.py",
+    title="040 - Aprilia Dewi Hutapea",
+    icon=":material/person:",
+)
+
 Mahasiswa10 = st.Page(
     "Buku Kating/019_Anadia Carana.py",
     title="019 - Anadia Carana",
@@ -64,7 +70,7 @@ if st.session_state.pindah:
     pg = st.navigation(
         {
             "Halaman Utama": [Homepage],
-            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3, Mahasiswa5, Mahasiswa6, Mahasiswa10, Mahasiswa11, Mahasiswa13],
+            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3, Mahasiswa5, Mahasiswa6, Mahasiswa7, Mahasiswa10, Mahasiswa11, Mahasiswa13],
             "Try Me !!": [KREASI, KREASII],
         }
     )
