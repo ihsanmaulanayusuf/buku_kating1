@@ -147,7 +147,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1ck4eAmxfk3SNRjrD2CGlSUAjPJj_Ajuw",
             "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
             "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
-            "https://drive.google.com/uc?export=view&id=12ahvJf_BkqcdzmiRYSTMN23nxZcIcjM4",
+            "https://drive.google.com/uc?export=view&id=1d5NWYIrEVOBeauFCEMrlUkLkoFrK7aHO",
         ]
         data_list = [
             {
@@ -168,7 +168,7 @@ elif menu == "About Us":
                 "nama": "Sania Dwi Ayu Lestari",
                 "sebagai": "Anggota",
                 "nim": "123450086",
-                "fun_fact": "nyemil es batu",
+                "fun_fact": "Nyemil es batu",
                 "motto_hidup": "Live to learn, act to inspire",
             },
             {
@@ -189,7 +189,7 @@ elif menu == "About Us":
                 "nama": "Gracia Yoan Eunika Nababan",
                 "sebagai": "Anggota",
                 "nim": "123450120",
-                "fun_fact": "suka nyemilin es batu",
+                "fun_fact": "Suka nyemilin es batu",
                 "motto_hidup": "Isaiah 41:10",
             },
             {
@@ -235,11 +235,11 @@ elif menu == "About Us":
                 "motto_hidup": "all do is try, try, try",
             },
             {
-                "nama": "Nydia Manda Putri",
+                "nama": "Romauli Oktavia Silaban",
                 "sebagai": "Anggota",
-                "nim": "123450018",
-                "fun_fact": "suka makan pedas",
-                "motto_hidup": "all do is try, try, try",
+                "nim": "123450014",
+                "fun_fact": "Pengkoleksi rok",
+                "motto_hidup": "Listen to music",
             },
 
 
