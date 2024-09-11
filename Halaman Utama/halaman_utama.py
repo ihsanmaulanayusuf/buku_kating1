@@ -168,7 +168,7 @@ elif menu == "About Us":
                 "nama": "Sania Dwi Ayu Lestari",
                 "sebagai": "Anggota",
                 "nim": "123450086",
-                "fun_fact": "Nyemil es batu",
+                "fun_fact": "Suka dingin tapi alergi dingin",
                 "motto_hidup": "Live to learn, act to inspire",
             },
             {
