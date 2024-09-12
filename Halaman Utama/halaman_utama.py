@@ -179,11 +179,11 @@ elif menu == "About Us":
                 "motto_hidup": "Kita tidak bisa mengarahkan angin, tetapi kita bisa mengatur layar kapal",
             },
             {
-                "nama": "E",
+                "nama": "Khansa Anyaveda Liyantri",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450099",
+                "fun_fact": "Love cats",
+                "motto_hidup": "hidup tanpa menaruh ekspektasi pada orang lain",
             },
             {
                 "nama": "Gracia Yoan Eunika Nababan",
