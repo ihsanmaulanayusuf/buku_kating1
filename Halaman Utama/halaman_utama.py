@@ -183,7 +183,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450099",
                 "fun_fact": "Love cats",
-                "motto_hidup": "hidup tanpa menaruh ekspektasi pada orang lain",
+                "motto_hidup": "Hidup tanpa menaruh ekspektasi pada orang lain",
             },
             {
                 "nama": "Gracia Yoan Eunika Nababan",
