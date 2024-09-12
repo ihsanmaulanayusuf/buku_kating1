@@ -228,11 +228,11 @@ elif menu == "About Us":
                 "motto_hidup": "Berpikir positif, bertindak positif, dan menerima hasil positif",
             },
             {
-                "nama": "Nydia Manda Putri",
+                "nama": "Kevin Antoni Junior",
                 "sebagai": "Anggota",
-                "nim": "123450018",
-                "fun_fact": "suka makan pedas",
-                "motto_hidup": "all do is try, try, try",
+                "nim": "123450109",
+                "fun_fact": "saya aslinya 2 orang",
+                "motto_hidup": "Listen to your mom",
             },
             {
                 "nama": "Romauli Oktavia Silaban",
