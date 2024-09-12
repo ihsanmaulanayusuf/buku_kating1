@@ -174,7 +174,7 @@ elif menu == "About Us":
             {
                 "nama": "Ridho Benedictus Togi Manik",
                 "sebagai": "Anggota",
-                "nim": "122450060",
+                "nim": "123450060",
                 "fun_fact": "Sering cek hp, padahal ga ada notif",
                 "motto_hidup": "Kita tidak bisa mengarahkan angin, tetapi kita bisa mengatur layar kapal",
             },
