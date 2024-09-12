@@ -231,7 +231,7 @@ elif menu == "About Us":
                 "nama": "Kevin Antoni Junior",
                 "sebagai": "Anggota",
                 "nim": "123450109",
-                "fun_fact": "saya aslinya 2 orang",
+                "fun_fact": "Saya aslinya 2 orang",
                 "motto_hidup": "Listen to your mom",
             },
             {
