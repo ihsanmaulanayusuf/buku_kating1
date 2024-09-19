@@ -214,6 +214,35 @@ elif menu == "About Us":
                 "fun_fact": "suka makan pedas",
                 "motto_hidup": "all do is try, try, try",
             },
+            {
+                "nama": "Nydia Manda Putri",
+                "sebagai": "Anggota",
+                "nim": "123450018",
+                "fun_fact": "suka makan pedas",
+                "motto_hidup": "all do is try, try, try",
+            },
+{
+                "nama": "Nydia Manda Putri",
+                "sebagai": "Anggota",
+                "nim": "123450018",
+                "fun_fact": "suka makan pedas",
+                "motto_hidup": "all do is try, try, try",
+            },
+{
+                "nama": "Nydia Manda Putri",
+                "sebagai": "Anggota",
+                "nim": "123450018",
+                "fun_fact": "suka makan pedas",
+                "motto_hidup": "all do is try, try, try",
+            },
+{
+                "nama": "Nydia Manda Putri",
+                "sebagai": "Anggota",
+                "nim": "123450018",
+                "fun_fact": "suka makan pedas",
+                "motto_hidup": "all do is try, try, try",
+            },
+
 
 
         ]
