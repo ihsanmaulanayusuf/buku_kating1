@@ -162,7 +162,7 @@ elif menu == "About Us":
                 "sebagai": "Bu Lurah",
                 "nim": "123450071",
                 "fun_fact": "Bisa sedikit bahasa cina",
-                "motto_hidup": "Everyone hates what i love, everyone love what i hate",
+                "motto_hidup": "Just eat snack when you feel low",
             },
             {
                 "nama": "Sania Dwi Ayu Lestari",
