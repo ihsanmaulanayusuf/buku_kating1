@@ -87,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
+            st.write(f"Hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -113,7 +113,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Pulau Damar",
-                "hobbi": "Dengerin musik",
+                "hobi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Abangnya fun, berwawasan luas, dan jago publik speakingnya",  
                 "pesan": "Semangat terus bang !!!"#1
@@ -124,7 +124,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Bukit Kemuning",
                 "alamat": "Pawen 2 Sukarame",
-                "hobbi": "Main gitar",
+                "hobi": "Main gitar",
                 "sosmed": "@pndrinsni21",
                 "kesan": "Abannyag asik dan humoris juga",  
                 "pesan": "Semangat terus kuliahnya bang !!!"#2
@@ -146,7 +146,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Pemda",
-                "hobbi": "Nyanyi",
+                "hobi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakak murah senyum dan suka ketawa.",  
                 "pesan": "Semangat terus, Kak!"#4
@@ -157,7 +157,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Payakumbuh",
                 "alamat": "Nangka 4",
-                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "hobi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakak yang selalu keliatan sabar dan perhatian.",  
                 "pesan": "Jaga kesehatan dan semangat terus ya, Kak! S"#5
@@ -168,7 +168,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Metro",
                 "alamat": "Kotabaru",
-                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "hobi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@nadillaadr26",
                 "kesan": "Pengertian, selalu memberikan masukan yang bermanfaat.",  
                 "pesan": "Semoga kuliahnya lancar, kakak!"#6
@@ -202,7 +202,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal": "Bogor",
                 "alamat": "Raden Saleh",
-                "hobbi": "Bertanya sama GPT",
+                "hobi": "Bertanya sama GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak murah senyum, ramah, asik, dan mudah diajak ngobrol.",  
                 "pesan": "Semoga kakak terus sukses dalam kuliahnya ya!" #7
@@ -213,7 +213,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal": "Tangerang Selatan",
                 "alamat": "Way Hui",
-                "hobbi": " Membaca",
+                "hobi": " Membaca",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik diajak tukar pikiran, selalu ada solusi buat setiap masalah.",  
                 "pesan": "Teruslah semangat belajar dan pantang menyerah kak!" #8
@@ -224,7 +224,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal": "Medan",
                 "alamat": "Raden Saleh",
-                "hobbi": "Menonton Film",
+                "hobi": "Menonton Film",
                 "sosmed": "@wlsbn0",
                 "kesan": "Sikap positif kakaknya bikin suasana jadi lebih santai.",  
                 "pesan": "Tetap semangat ya kakak!"#9
@@ -235,7 +235,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal": "Tangerang",
                 "alamat": "Jati Agung",
-                "hobbi": "Nonton Dracin",
+                "hobi": "Nonton Dracin",
                 "sosmed": "@anisadini10",
                 "kesan": "Sangat suportif dan selalu memberi motivasi.",  
                 "pesan": "Sukses selalu untuk kuliahnya kak!"#10
@@ -246,7 +246,7 @@ elif menu == "Baleg":
                 "umur": "19",
                 "asal": "Bernung, Pesawaran",
                 "alamat": "Bandar Lampung",
-                "hobbi": "Nonton Drakor",
+                "hobi": "Nonton Drakor",
                 "sosmed": "@ansftynn_",
                 "kesan": "Kakak ini asik banget.",  
                 "pesan": "Semangat terus kuliahnya kakak!"#11
@@ -257,7 +257,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal": "Padang",
                 "alamat": "Belwis",
-                "hobbi": "Sholat Dhuha",
+                "hobi": "Sholat Dhuha",
                 "sosmed": "@fer_yulius",
                 "kesan": "Punya energi positif tersendiri nih",  
                 "pesan": "Semoga abang selalu diberi kelancaran dalam segala urusan."#12
@@ -268,7 +268,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
-                "hobbi": "Baca Al-qur'an",
+                "hobi": "Baca Al-qur'an",
                 "sosmed": "@fleurnsh",
                 "kesan": "Ramah dan mudah diajak ngobrol",  
                 "pesan": "Semangat terus, Kak!"#13
@@ -279,7 +279,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal": "Lampung Timur",
                 "alamat": "Lampung Timur",
-                "hobbi": "Baca Jurnal",
+                "hobi": "Baca Jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "Kakak punya sikap yang menyenangkan hehe.",  
                 "pesan": "Semoga sukses di setiap langkah ke depannya, Kak. Teruslah bersinar!"#14
@@ -290,7 +290,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal": "Jakarta",
                 "alamat": "Korpri",
-                "hobbi": "Main Kucing",
+                "hobi": "Main Kucing",
                 "sosmed": "@myrrinn",
                 "kesan": "Kakak yang selalu ceria dan bisa bikin orang lain moodnya naik juga nih.",  
                 "pesan": "Jaga kesehatan dan semoga selalu diberi kemudahan ya Kak!"#15
@@ -301,7 +301,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal": "Ogan Ilir",
                 "alamat": "Natar",
-                "hobbi": "Nyari Sinyal di Gedung F",
+                "hobi": "Nyari Sinyal di Gedung F",
                 "sosmed": "@_.dheamelia",
                 "kesan": "Mudah bergaul dan selalu membawa suasana jadi nyaman.",  
                 "pesan": "Sukses selalu kakak!"#16
@@ -312,7 +312,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal": "Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini selalu bisa diandalkan, baik dalam situasi santai maupun serius.",  
                 "pesan": "Sukses terus dan semangat mengejar impiannya kak!"#17
@@ -323,7 +323,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal": "Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini sosok yang humble dan asik diajak bicara.",  
                 "pesan": "Semoga kakak selalu diberkahi kemudahan dalam segala urusan!"#18
@@ -334,7 +334,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Billabong, Gedong Air",
-                "hobbi": "Suka Bengong",
+                "hobi": "Suka Bengong",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Kakak selalu membawa aura positif dan humoris juga.",  
                 "pesan": "Semoga kakak selalu diberi kemudahan dalam segala urusan!"#19
