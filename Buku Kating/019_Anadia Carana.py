@@ -36,15 +36,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
-            "icon": {"color": "black", "font-size": "19px"},
+            "container": {"padding": "0!important", "background-color": "#black"},
+            "icon": {"color": "white", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#2a1018",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#562c3a"},
         },
     )
     return selected
@@ -182,11 +182,11 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Nsu9ZZFaBrTftT2vYhSyW86oNMZw9B59",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1vBgbMN4TwNW1v8Eh3tJ_8sZ5XHiwY0_S",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1jmlpKulaa5reHn2JLr4nlOgQlTnPeq4a",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1edK109nRD7bJk9Ymm0pWiZGprsSBB-mf",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
