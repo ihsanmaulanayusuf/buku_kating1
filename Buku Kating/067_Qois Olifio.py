@@ -36,13 +36,13 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#black"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#2a1018",
             },
             "nav-link-selected": {"background-color": "#3FBAD8"},
         },
@@ -239,8 +239,7 @@ elif menu == "Baleg":
                 "sosmed": "@anisadini10",
                 "kesan": "Sangat suportif dan selalu memberi motivasi.",  
                 "pesan": "Sukses selalu untuk kuliahnya kak!"#10
-            },
-            {
+            },{
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
                 "umur": "19",
@@ -250,8 +249,7 @@ elif menu == "Baleg":
                 "sosmed": "@ansftynn_",
                 "kesan": "Kakak ini asik banget.",  
                 "pesan": "Semangat terus kuliahnya kakak!"#11
-            },
-            {
+            },{
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -261,8 +259,7 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "Punya energi positif tersendiri nih",  
                 "pesan": "Semoga abang selalu diberi kelancaran dalam segala urusan."#12
-            },
-            {
+            },{
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
                 "umur": "21",
@@ -272,8 +269,7 @@ elif menu == "Baleg":
                 "sosmed": "@fleurnsh",
                 "kesan": "Ramah dan mudah diajak ngobrol",  
                 "pesan": "Semangat terus, Kak!"#13
-            },
-            {
+            },{
                 "nama": "Claudhea Angeliani",
                 "nim": "121450124",
                 "umur": "21",
@@ -283,8 +279,7 @@ elif menu == "Baleg":
                 "sosmed": "@dylebee",
                 "kesan": "Kakak punya sikap yang menyenangkan hehe.",  
                 "pesan": "Semoga sukses di setiap langkah ke depannya, Kak. Teruslah bersinar!"#14
-            },
-            {
+            },{
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -294,8 +289,7 @@ elif menu == "Baleg":
                 "sosmed": "@myrrinn",
                 "kesan": "Kakak yang selalu ceria dan bisa bikin orang lain moodnya naik juga nih.",  
                 "pesan": "Jaga kesehatan dan semoga selalu diberi kemudahan ya Kak!"#15
-            },
-            {
+            },{
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "20",
@@ -305,8 +299,7 @@ elif menu == "Baleg":
                 "sosmed": "@_.dheamelia",
                 "kesan": "Mudah bergaul dan selalu membawa suasana jadi nyaman.",  
                 "pesan": "Sukses selalu kakak!"#16
-            },
-            {
+            },{
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "122450000",
                 "umur": "18",
@@ -316,8 +309,7 @@ elif menu == "Baleg":
                 "sosmed": "@i",
                 "kesan": "Kakak ini selalu bisa diandalkan, baik dalam situasi santai maupun serius.",  
                 "pesan": "Sukses terus dan semangat mengejar impiannya kak!"#17
-            },
-            {
+            },{
                 "nama": "Berliana enda putri",
                 "nim": "122450000",
                 "umur": "18",
@@ -327,8 +319,7 @@ elif menu == "Baleg":
                 "sosmed": "@i",
                 "kesan": "Kakak ini sosok yang humble dan asik diajak bicara.",  
                 "pesan": "Semoga kakak selalu diberkahi kemudahan dalam segala urusan!"#18
-            },
-            {
+            },{
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
