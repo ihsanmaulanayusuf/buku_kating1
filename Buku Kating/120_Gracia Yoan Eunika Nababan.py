@@ -102,9 +102,11 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=10JMTzZp346Jpvx4S7PRfMG7XXTYHmDXc",#1
             "https://drive.google.com/uc?export=view&id=1V00ajYtfybobCZxx3BtGLgxfgfgxMYvA",#2
             "https://drive.google.com/uc?export=view&id=1Tazku1SaObGy6LaXIviIlggP0FEWfPEy",#3
-            "https://drive.google.com/uc?export=view&id=1JzZKzbnbb2w-lsruReePcNU6L5_GF9nn",#4
-            "https://drive.google.com/uc?export=view&id=1vTh0KSU-R2etoB19drW-cDZJkDSpBqv6",#5
-            "https://drive.google.com/uc?export=view&id=1DtdVPzkIsu3-YcGmbqHv_bdtmVzbL84S",#6
+            "https://drive.google.com/uc?export=view&id=1bb-7cSuTgkoRezMkbdLUo-faMPZIdRMN",#4
+            "https://drive.google.com/uc?export=view&id=1fC9Nho0n_A6sacyRUQzdPZ_Nt3q2W7ct",#5
+            "https://drive.google.com/uc?export=view&id=1zp4MVBN-LEZdb5gvcFhf6zYmqlsC5ei2",#6
+
+       
         ]
         data_list = [
             {
@@ -152,7 +154,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakaknya baik dan keren",  
-                "pesan":"semangat terus kuliahnya kakak!"#4
+                "pesan":"semangat terus kuliahnya kakak!" #4
 
             },
             {
