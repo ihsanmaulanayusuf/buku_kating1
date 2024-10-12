@@ -187,7 +187,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1ZyEnzEqaiQ-V-7G3_lnOtHLOQcXVlm7W",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_BQe9hTTF8l491BiRW4w3P7wMsyrovwn",
             "https://drive.google.com/uc?export=view&id=1ZwqgPkuC3flXEZbZYBgjiIMrKaSBrYGm",
             "https://drive.google.com/uc?export=view&id=1HUOvAdj0r3j1YB6IS16LqVocfntilfxf",
             "https://drive.google.com/uc?export=view&id=1_6mOZDW4Aa-3bKkWQBukpYPel8lR3uUo",
@@ -287,6 +287,28 @@ elif menu == "Baleg":
                 "sosmed": "@dylebee",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
+            },
+             {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobi": "Main Kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal":"Ogan Ilir",
+                "alamat": "Natar",
+                "hobi": "Nyari Sinyal di Gedung F",
+                "sosmed": "@_.dheamelia",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan":"Semangat terus kuliahnya kak!"
             },
            
             {
