@@ -100,7 +100,11 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1iBcQqzBHPBeyy-MSHQrEL_g8aE8GCRLG", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1hu_tp1DTE8J4kFvC2mm__w6_8tUQIyFe",
+            "https://drive.google.com/uc?export=view&id=1i503ZA6rRdAiiCm7Y2bQkYubUgbrP5BD",
+            "https://drive.google.com/uc?export=view&id=1i7cNmyKKEbWtgfpdsWgt6mrwfKY6kr1f",
+            "https://drive.google.com/uc?export=view&id=1i0lsr-cPF4Ux39g7EB_VaG7TA7fx-qkO",
+            "https://drive.google.com/uc?export=view&id=1iIvcxiMucUzuw2_CNEkQrsFXN5S0lZdl",
         ]
         data_list = [
             {
@@ -111,7 +115,7 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "bang kharisma sangat berwibawa dan memiliki wawasan yang luas.",  
+                "kesan": "bang kharisma memiliki karisma yang kuat dan berwawasan sangat luas.",  
                 "pesan":"semoga bang kharisma semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
             {
@@ -122,7 +126,7 @@ if menu == "Kesekjenan":
                 "alamat": "Pawen 2 Sukarame",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni21",
-                "kesan": "Bang Pandra orangnya asik dan tegas.",  
+                "kesan": "Bang Pandra wawasannya luas dan asikk.",  
                 "pesan":"semoga bang pandra semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
             {
