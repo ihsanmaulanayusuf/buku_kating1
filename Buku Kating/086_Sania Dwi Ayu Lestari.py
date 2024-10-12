@@ -282,16 +282,15 @@ elif menu == "Baleg":
                 "pesan":"!"# 8
             },
             {
-                "nama": "Mirzan Yusuf Rabbani",
+               "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
                 "asal":"Jakarta",
                 "alamat": "Korpri",
-                "hobi": "Main Kucing",
-                "sosmed": "@myrrinn",
+                "hobbi": "Main kucing",
+                "sosmed": "@myrriinn",
                 "kesan": "",  
-                "pesan":""# 9
-            },
+                "pesan":"!"# 9
             {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
