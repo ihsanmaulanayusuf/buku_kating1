@@ -235,7 +235,7 @@ elif menu == "Baleg":
                 "sosmed": "@anisadini10",
                 "kesan": "Peka sama lingkungan, supportif banget.",  
                 "pesan":"Terus kasih kita dukungan ya kak, semangat!"# 1
-            }
+            },
              {
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
@@ -246,7 +246,7 @@ elif menu == "Baleg":
                 "sosmed": "@ansftynn_",
                 "kesan": "KKakaknya asik diajak bicara",  
                 "pesan":"semangat menggapai cita-citanya kak !!!"# 1
-            }
+            },
             {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
@@ -257,7 +257,7 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "Bawaannya tenang kalo liat kakakf",  
                 "pesan":"Semoga kakak selalu diberi kesehatan!"# 1
-            }
+            },
             {
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
@@ -268,7 +268,7 @@ elif menu == "Baleg":
                 "sosmed": "@fleurnsh",
                 "kesan": "Kakak ini bisa bangun suasana nyaman",  
                 "pesan":"Semangat kuliahnya kak!"# 1
-            }
+            },
          {
                 "nama": "Claudhea Angeliani",
                 "nim": "121450124",
@@ -279,7 +279,7 @@ elif menu == "Baleg":
                 "sosmed": "@dylebee",
                 "kesan": "Kakak orangnya tenang tapi tetap asik",  
                 "pesan":"Sukses selalu kak"# 1
-            }
+            },
          {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
@@ -290,7 +290,7 @@ elif menu == "Baleg":
                 "sosmed": "@myrrinn",
                 "kesan": "Kakaknya baik",  
                 "pesan":"Jaga kesehatan biar tetap semangat ya kak!!"# 1
-            }
+            },
          {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
@@ -301,7 +301,7 @@ elif menu == "Baleg":
                 "sosmed": "@_.dheamelia",
                 "kesan": "Mudah dalam bergaul, kakaknya asik",  
                 "pesan":"Tetep humble terus ya kak!"# 1
-            }
+            },
            { 
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "122450000",
@@ -312,7 +312,7 @@ elif menu == "Baleg":
                 "sosmed": "@fhrul.pdf",
                 "kesan": "Kakaknya punya vibes lucu tapi  tenang dan pinter",  
                 "pesan":"Semoga kuliahnya lancar terus ya kak!"# 1
-            }
+            },
            {
                 "nama": "Berliana enda putri",
                 "nim": "122450000",
@@ -323,7 +323,7 @@ elif menu == "Baleg":
                 "sosmed": "@berlyyanda",
                 "kesan": "Kakaknya bisa bikin seneng semua orang",  
                 "pesan":"Semoga kakak selalu diberkahi kebahagiaan!"# 1
-            }
+            },
            {
                "nama": "Jeremia Susanto",
                 "nim": "122450022",
