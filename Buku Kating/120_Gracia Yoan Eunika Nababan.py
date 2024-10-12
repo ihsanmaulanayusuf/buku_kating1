@@ -105,7 +105,6 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1bb-7cSuTgkoRezMkbdLUo-faMPZIdRMN",#4
             "https://drive.google.com/uc?export=view&id=1fC9Nho0n_A6sacyRUQzdPZ_Nt3q2W7ct",#5
             "https://drive.google.com/uc?export=view&id=1zp4MVBN-LEZdb5gvcFhf6zYmqlsC5ei2",#6
-
        
         ]
         data_list = [
@@ -151,7 +150,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Sumatera Selatan",
                 "alamat": "Pemda",
-                "hobbi": "Nyanyi",
+                "hobi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakaknya baik dan keren",  
                 "pesan":"semangat terus kuliahnya kakak!" #4
