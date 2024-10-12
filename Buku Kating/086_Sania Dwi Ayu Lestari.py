@@ -308,7 +308,7 @@ elif menu == "Baleg":
                 "nim": "121450126",
                 "umur": "22",
                 "asal":"Surakarta",
-                "alamat": "Sukarame,
+                "alamat": "Sukarame",
                 "hobbi": "Melukis",
                 "sosmed": "@fhrul.pdf",
                 "kesan": "",  
