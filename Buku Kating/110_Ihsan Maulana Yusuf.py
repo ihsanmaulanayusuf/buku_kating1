@@ -32,19 +32,19 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
-        ],
+         ],
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
-            "icon": {"color": "black", "font-size": "19px"},
+            "container": {"padding": "0!important", "background-color": "#black"},
+            "icon": {"color": "white", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#2a1018",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#562c3a"},
         },
     )
     return selected
