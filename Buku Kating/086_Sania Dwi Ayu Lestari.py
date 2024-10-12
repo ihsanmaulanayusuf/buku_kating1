@@ -291,6 +291,7 @@ elif menu == "Baleg":
                 "sosmed": "@myrriinn",
                 "kesan": "",  
                 "pesan":"!"# 9
+            },
             {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
