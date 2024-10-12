@@ -192,7 +192,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1l-pMaA_vqOy3gmdvDqK2WhVoNnJHCO1n",
             "https://drive.google.com/uc?export=view&id=1lO2NAYJMt3FEpOz4y7VtSTxV6IWW8p_Q",
             "https://drive.google.com/uc?export=view&id=1l5AWICsH5TZNB_tiZfTV1ty4575hOVg_",
-            "https://drive.google.com/uc?export=view&id=1kvcTU7dop1bdGbXCVovK28fH5Q7XVTUN",
+            "https://drive.google.com/uc?export=view&id=1kw_tpSRdQBu2it1s0aAGyBv9820gYZp_",
         ]
         data_list = [
             {
