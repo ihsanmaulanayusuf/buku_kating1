@@ -102,6 +102,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1HRMWlnpO7I6uRbOrA5W-6FTlL1QNGApo", #1
             "https://drive.google.com/uc?export=view&id=11DHbdehlmCHNVylAyxcAdwGiaTpEZ8cr", #2
             "https://drive.google.com/uc?export=view&id=14IiwH93_xiBo8ATZfRYGQZrH_oyFJv4O", #3
+            "https://drive.google.com/uc?export=view&id=14IiwH93_xiBo8ATZfRYGQZrH_oyFJv4O", #4
         ]
         data_list = [
             {
@@ -134,8 +135,19 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobi": " Nonton Drakorr",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kakak ini baik, asik, dan ",  
-                "pesan":"Semangat untuk kakak, seoga sehat selalu"# 3
+                "kesan": "Kakak ini baik, asik, dan cantik ",  
+                "pesan":"Semangat untuk kakak, semoga sehat selalu"# 3
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak ini baik",  
+                "pesan":"Semangat untuk kakak, semoga sehat selalu"# 4
             },
         ]
         display_images_with_data(gambar_urls, data_list)
