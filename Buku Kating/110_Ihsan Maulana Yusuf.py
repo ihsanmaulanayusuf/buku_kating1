@@ -183,6 +183,26 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1IF5ORenld0XiGp69CGjAEIM5YfD_hdXi", #7
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #13
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #14
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #15
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #16
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #17
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #18
+            "https://drive.google.com/uc?export=view&id=15x2T_WIWrE0pBHBfVx43DsjGrDDN6bpY", #19
+
+
+
+
+
+
+            
+
+
+
         ]
         data_list = [
             {
@@ -227,7 +247,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton Dracin",
                 "sosmed": " @anisadini10",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!" 
+                "pesan":"semangat terus kuliahnya kakak !!!" #10
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -238,29 +258,95 @@ elif menu == "Baleg":
                 "hobi": "Nonton Drakor",
                 "sosmed": " @ansftynn_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!!" #11
             },
             {
-                "nama": "Annisa Cahyani Surya",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Tangerang Selatan",
-                "alamat": "Way Huwi",
-                "hobi": "Membaca",
-                "sosmed": "@annisacahyanisurya",
+                "nama": " Feryadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Padang",
+                "alamat": "Belwis",
+                "hobi": "Sholat Dhuha",
+                "sosmed": @fer_yulius",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!!" #12
             },
             {
-                "nama": "Annisa Cahyani Surya",
+                "nama": "Claudhea Angeliani",
                 "nim": "121450124",
                 "umur": "21",
-                "asal":"Tangerang Selatan",
-                "alamat": "Way Huwi",
-                "hobi": "Membaca",
-                "sosmed": "@annisacahyanisurya",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dylebee",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!!" #13
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobi": "Baca Al-qur’an",
+                "sosmed": "@fleurnsh",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!" #14
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobi": "Main Kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!" #15
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal":"Ogan Ilir",
+                "alamat": "Natar",
+                "hobi": "Nyari Sinyal di Gedung F",
+                "sosmed": "@_.dheamelia",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!" #16
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450126",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": " Sukarame",
+                "hobi": "Melukis",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!" #17
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobi": "Baca Al-qur’an",
+                "sosmed": "@fleurnsh",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!" #18
+            },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Billabong, Gedong Air",
+                "hobi": "Suka Bengong",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!" #19
             },
         ]
         display_images_with_data(gambar_urls, data_list)
