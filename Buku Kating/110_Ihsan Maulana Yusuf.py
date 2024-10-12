@@ -82,15 +82,15 @@ def display_images_with_data(gambar_urls, data_list):
             st.image(img, use_column_width=True)
 
         if i < len(data_list):
-            st.write(f"Nama: {data_list[i]['nama']}")
-            st.write(f"NIM: {data_list[i]['nim']}")
-            st.write(f"Umur: {data_list[i]['umur']}")
-            st.write(f"Asal: {data_list[i]['asal']}")
-            st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
-            st.write(f"Sosial Media: {data_list[i]['sosmed']}")
-            st.write(f"Kesan: {data_list[i]['kesan']}")
-            st.write(f"Pesan: {data_list[i]['pesan']}")
+            st.write(f"Nama            : {data_list[i]['nama']}")
+            st.write(f"NIM             : {data_list[i]['nim']}")
+            st.write(f"Umur            : {data_list[i]['umur']}")
+            st.write(f"Asal            : {data_list[i]['asal']}")
+            st.write(f"Alamat          : {data_list[i]['alamat']}")
+            st.write(f"Hobi            : {data_list[i]['hobbi']}")
+            st.write(f"Sosial Media    : {data_list[i]['sosmed']}")
+            st.write(f"Kesan           : {data_list[i]['kesan']}")
+            st.write(f"Pesan           : {data_list[i]['pesan']}")
             st.write("  ")
     st.write("Semua gambar telah dimuat!")
 menu = streamlit_menu()
@@ -99,21 +99,21 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=1wYvMGE78MNXZZLc1qhguivbnDEzpUBow", #1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengerin Musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Abang ini keren, berwibawa, dan mempunyai public speaking yang bagus",  
+                "pesan":"Semoga memiliki karir yang bagus dan diterima di perusahaan yang diinginkan"# 1
             },
             {
                 "nama": "Kakak B",
