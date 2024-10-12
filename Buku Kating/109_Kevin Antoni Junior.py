@@ -180,7 +180,7 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1lc0Vgc5f2aShBiZI1dvpWCzrzYxs8wGv",
+            "https://drive.google.com/uc?export=view&id=1legK8STqwYjUxtrQUdDFzwRzs-XVMv8W",
             "https://drive.google.com/uc?export=view&id=1l4LGZt1OCbILNr68x6IB8t3wegCNNJoG",
             "https://drive.google.com/uc?export=view&id=1ksEUlt09qsaYMuJ5dfb4coKn5SqhK1ML",
             "https://drive.google.com/uc?export=view&id=1lcr5vzdwBXamZkDYzOve-TUc4j0YL5mg",
