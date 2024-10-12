@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF"
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -97,43 +99,79 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/file/d/1nVqciR5qakWr6k3Rlu4F3h7Elj89IqUf/view?usp=sharing",
+            "https://drive.google.com/file/d/1nWq9M81Uurl1non0b-AJm5dHZ1qkod3y/view?usp=sharing",
+            "https://drive.google.com/file/d/1nYklRTEPIWhv3b8OGpQ1ihwcZmRGWsx-/view?usp=sharing",
+            "https://drive.google.com/file/d/1nOGkizORQASlGLdVbWmRTHV1oAq1YrYT/view?usp=sharing",
+            "https://drive.google.com/file/d/1nSFjz-jrx0Ptrv8lOwqL8GUQbby47vie/view?usp=sharing",
+            "https://drive.google.com/file/d/1nOGkizORQASlGLdVbWmRTHV1oAq1YrYT/view?usp=sharing",
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Kahim euy dingin",  
+                "pesan":"sukses terus bang"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Bukit Kemuning",
+                "alamat": "Pawen 2 Sukarame",
+                "hobbi": "Main Gitar",
+                "sosmed": "@pndrinsni21",
+                "kesan": "Abang ini asik",  
+                "pesan":"semangat terus bang"# 2
             },
             {
-                "nama": "Kakak CC",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Pagar Alam",
+                "alamat": "Kotabaru",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak ini asik dan lucu",  
+                "pesan":"semangat terus kak"# 3
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak ini lucu",  
+                "pesan":"semangat terus kak"# 4
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakak ini asik dan lucu",
+                "pesan":"semangat terus kakak !!!"# 5
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal": "Metro",
+                "alamat": "Kotabaru",
+                "hobbi": "Dengerin bang Pandra Gitaran",
+                "sosmed": "@nadillaadr26",
+                "kesan": "Kakak ini asik dan lucu",
+                "pesan":"semangat terus kakak !!!"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
