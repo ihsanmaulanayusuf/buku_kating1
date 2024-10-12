@@ -109,12 +109,9 @@ if menu == "Home":
         foto_kelompok = "https://drive.google.com/uc?export=view&id=1RmnnfCW4rjJs5sZk1qiA3ZgGVC0nSrjl"
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Nama "Jordan" memiliki makna simbolis, menggambarkan kekuatan, keberanian, dan semangat persatuan dalam kelompok ini, terinspirasi dari Sungai Jordan, yang dikenal sebagai tempat penting dalam sejarah dan simbol perjalanan spiritual. Nama ini mencerminkan tekad dan semangat anggota kelompok untuk terus maju dan mencapai tujuan bersama, terlepas dari tantangan yang mereka hadapi.
+
+Kelompok Jordan tidak hanya menjadi wadah untuk berkolaborasi, tetapi juga sebagai tempat di mana semua anggotanya dapat saling belajar dan bertumbuh, dengan dukungan dari para pemimpin dan pendamping yang selalu siap membantu.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
