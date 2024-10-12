@@ -182,15 +182,15 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=105brwiz2HlVf_5oztIM3rGZs3-StaAar",
-            "https://drive.google.com/uc?export=view&id=1-l6jgcfnmF1Yh5yXd48qZtdy-_wcRKhZ",
+            "https://drive.google.com/uc?export=view&id=1-mji1Sn-u6vll__yhV3uWOVsameUh3v3",
             "https://drive.google.com/uc?export=view&id=1-l6jgcfnmF1Yh5yXd48qZtdy-_wcRKhZ",
             "https://drive.google.com/uc?export=view&id=106mAjV6vabED1EhNMdBBlQbUZwpTeQ6y",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=103w9a1gtY8F2vQ9SrMxuXxFTFsc7y0-b",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1-mji1Sn-u6vll__yhV3uWOVsameUh3v3",
-            "https://drive.google.com/uc?export=view&id=1-tzj7nR8eFe4L1FO-fuIDNC993Hejxqh",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1-l6jgcfnmF1Yh5yXd48qZtdy-_wcRKhZ",
             "https://drive.google.com/uc?export=view&id=1-tzj7nR8eFe4L1FO-fuIDNC993Hejxqh",
             "https://drive.google.com/uc?export=view&id=1056mKidCjkNitjQAGh7lbsI9BzHTOPvm",
             "https://drive.google.com/uc?export=view&id=1-lzvM0otdkRW025tM-oahYKLInd0cSCg",
