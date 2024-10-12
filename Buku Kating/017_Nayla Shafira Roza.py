@@ -178,9 +178,18 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1gux73vMm-6AgK0Sa47VL6QUFfKIJd96",
+            "https://drive.google.com/uc?export=view&id=1Jj4Cc7PW9FXZbZyUvnEXn-Ia5XNshxbf",
+            "https://drive.google.com/uc?export=view&id=1rVnhRYy-X8KD5RXAJ1SargEjOp06HsS",
+            "https://drive.google.com/uc?export=view&id1-Ip-p2G6pDretXHluvm3S3VaYUvgB8Mm",
+            "https://drive.google.com/uc?export=view&id=1VmSAGmiMtdY2vEhhetp1WGSYDA6fbCbe",
+            "https://drive.google.com/uc?export=view&id=1dtTPgALOVMRmchxFMS6whh40oCQBC8Bc",
+            "https://drive.google.com/uc?export=view&id=1Z87M68gLK-IJrsu_Es6BCy-LrDIKuMlE",
+            "https://drive.google.com/uc?export=view&id=12dXMfgax4MdR7EfNM_RfT6Wmu0u0vXqA",
+            "https://drive.google.com/uc?export=view&id=1YLxMZM5I5OEJMQeHqScmVis2v4ap33_T",
+            "https://drive.google.com/uc?export=view&id=18rC4QlmrUv01qpTD0lsEhxIDnWsUd5Up",
+            "https://drive.google.com/uc?export=view&id=14Os4Bk7LEJY_-YHCupGRB1lOiiGF_14x",
+
         ]
         data_list = [
             {
@@ -202,8 +211,8 @@ elif menu == "Baleg":
                 "alamat": "Way Hui",
                 "hobbi": " Membaca",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak ini asik diajak tukar pikiran, selalu ada solusi buat setiap masalah.",  
-                "pesan":"Teruslah semangat belajar, kak! Masa depan cerah menanti!"# 1
+                "kesan": "kakak ini bisa diajak cerita apa aja",  
+                "pesan":"Semangat belajarnya kak"# 1
             },
             {
                 "nama": "Wulan Sabina",
@@ -213,8 +222,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Menonton Film",
                 "sosmed": "@wlsbn0",
-                "kesan": "Kakak punya sikap positif yang bikin suasana jadi lebih santai tapi tetap produktif.",  
-                "pesan":"Tetap semangat ya kakak! Jangan lupa istirahat di tengah kesibukan kuliah!"# 1
+                "kesan": "Kakaknya punya vibes positif yang bikin tenang",  
+                "pesan":"Semangat untuk menebarkan hal positif kak!"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -224,8 +233,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi": "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan": "Sangat suportif dan selalu memberi dorongan, kakak ini bikin kita jadi lebih termotivasi.",  
-                "pesan":"Sukses selalu untuk kuliahnya! Tetap semangat dan jangan pernah berhenti belajar."# 1
+                "kesan": "Peka sama lingkungan, supportif banget.",  
+                "pesan":"Terus kasih kita dukungan ya kak, semangat!"# 1
             }
              {
                 "nama": "Anisa Fitriyani",
@@ -235,8 +244,8 @@ elif menu == "Baleg":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@ansftynn_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "KKakaknya asik diajak bicara",  
+                "pesan":"semangat menggapai cita-citanya kak !!!"# 1
             }
             {
                 "nama": "Feryadi Yulius",
@@ -246,8 +255,8 @@ elif menu == "Baleg":
                 "alamat": "Belwis",
                 "hobbi": "Sholat Dhuha",
                 "sosmed": "@fer_yulius",
-                "kesan": "Kakak selalu memberi energi positif",  
-                "pesan":"Semoga kakak selalu diberi kelancaran dalam segala urusan. Tetap semangat!"# 1
+                "kesan": "Bawaannya tenang kalo liat kakakf",  
+                "pesan":"Semoga kakak selalu diberi kesehatan!"# 1
             }
             {
                 "nama": "Renisha Putri Giani",
@@ -257,8 +266,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk Betung",
                 "hobbi": "Baca Al-qur'an",
                 "sosmed": "@fleurnsh",
-                "kesan": "Kakak ini selalu ramah dan gampang diajak ngobrol, suasana jadi lebih hidup",  
-                "pesan":"Semangat terus, Kak! Jangan menyerah dan teruslah berjuang sampai garis akhir!"# 1
+                "kesan": "Kakak ini bisa bangun suasana nyaman",  
+                "pesan":"Semangat kuliahnya kak!"# 1
             }
          {
                 "nama": "Claudhea Angeliani",
@@ -268,8 +277,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Jurnal",
                 "sosmed": "@dylebee",
-                "kesan": "Kakak punya sikap yang menyenangkan, setiap obrolan jadi asik dan nggak pernah membosankan.",  
-                "pesan":"Semoga sukses di setiap langkah ke depannya, Kak. Teruslah bersinar!"# 1
+                "kesan": "Kakak orangnya tenang tapi tetap asik",  
+                "pesan":"Sukses selalu kak"# 1
             }
          {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -279,8 +288,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi": "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan": "Kakaknya selalu ceria dan bisa bikin orang lain ikut merasa positif.",  
-                "pesan":"Jaga kesehatan dan semoga selalu diberi kemudahan dalam setiap perjalanan hidup, Kak!"# 1
+                "kesan": "Kakaknya baik",  
+                "pesan":"Jaga kesehatan biar tetap semangat ya kak!!"# 1
             }
          {
                 "nama": "Dhea Amelia Putri",
@@ -290,8 +299,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Sangat mudah bergaul dan selalu membawa suasana jadi nyaman.",  
-                "pesan":"Teruslah jadi inspirasi untuk orang-orang di sekitar kakak! Sukses selalu!"# 1
+                "kesan": "Mudah dalam bergaul, kakaknya asik",  
+                "pesan":"Tetep humble terus ya kak!"# 1
             }
            { 
                 "nama": "Muhammad Fahrul Aditya",
@@ -300,9 +309,9 @@ elif menu == "Baleg":
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini selalu bisa diandalkan, baik dalam situasi santai maupun serius.",  
-                "pesan":"Semoga kakak semakin sukses dan terus semangat mengejar impian!"# 1
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Kakaknya punya vibes lucu tapi  tenang dan pinter",  
+                "pesan":"Semoga kuliahnya lancar terus ya kak!"# 1
             }
            {
                 "nama": "Berliana enda putri",
@@ -311,9 +320,9 @@ elif menu == "Baleg":
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini sosok yang humble dan asik diajak bicara tentang apa saja",  
-                "pesan":"Semoga kakak selalu diberkahi kemudahan dalam segala urusan. Tetap semangat menjalani hari-hari ke depan!"# 1
+                "sosmed": "@berlyyanda",
+                "kesan": "Kakaknya bisa bikin seneng semua orang",  
+                "pesan":"Semoga kakak selalu diberkahi kebahagiaan!"# 1
             }
            {
                "nama": "Jeremia Susanto",
@@ -323,8 +332,8 @@ elif menu == "Baleg":
                 "alamat": "Billabong, Gedong Air",
                 "hobbi": "Suka Bengong",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Kakak selalu membawa aura positif, jadi nyaman kalau ngobrol lama-lama.",  
-                "pesan":"Semoga kakak selalu diberi kebahagiaan dan sukses di setiap langkahnya!"# 1
+                "kesan": "Kakak selalu buat orang lain ketawa",  
+                "pesan":"Terus menghibur orang sekitar ya kak!"# 1
             }
         ]
         display_images_with_data(gambar_urls, data_list)
