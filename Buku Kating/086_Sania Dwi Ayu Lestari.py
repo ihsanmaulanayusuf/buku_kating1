@@ -275,7 +275,7 @@ elif menu == "Baleg":
                 "nim": "121450124",
                 "umur": "21",
                 "asal":"Lampung timur",
-                "alamat": "",
+                "alamat": "Lampung timur",
                 "hobbi": "Baca jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "",  
@@ -290,7 +290,7 @@ elif menu == "Baleg":
                 "hobi": "Main Kucing",
                 "sosmed": "@myrrinn",
                 "kesan": "",  
-                "pesan":"" #9
+                "pesan":""# 9
             },
             {
                 "nama": "Dhea Amelia Putri",
