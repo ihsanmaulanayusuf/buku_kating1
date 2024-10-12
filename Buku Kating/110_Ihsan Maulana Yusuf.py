@@ -87,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur            : {data_list[i]['umur']}")
             st.write(f"Asal            : {data_list[i]['asal']}")
             st.write(f"Alamat          : {data_list[i]['alamat']}")
-            st.write(f"Hobi            : {data_list[i]['hobbi']}")
+            st.write(f"Hobi            : {data_list[i]['hobi']}")
             st.write(f"Sosial Media    : {data_list[i]['sosmed']}")
             st.write(f"Kesan           : {data_list[i]['kesan']}")
             st.write(f"Pesan           : {data_list[i]['pesan']}")
@@ -99,7 +99,7 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=1Bgr7vLO2SB3lxdLlwrPb82sCTLQy8RMO", #1
+            "https://drive.google.com/uc?export=view&id=1HRMWlnpO7I6uRbOrA5W-6FTlL1QNGApo", #1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
