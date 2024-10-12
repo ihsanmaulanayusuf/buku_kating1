@@ -102,7 +102,9 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1HRMWlnpO7I6uRbOrA5W-6FTlL1QNGApo", #1
             "https://drive.google.com/uc?export=view&id=11DHbdehlmCHNVylAyxcAdwGiaTpEZ8cr", #2
             "https://drive.google.com/uc?export=view&id=14IiwH93_xiBo8ATZfRYGQZrH_oyFJv4O", #3
-            "https://drive.google.com/uc?export=view&id=1qR6dlQM82i1rqyTk1WYrYy09ntAJwfm5", #4
+            "https://drive.google.com/uc?export=view&id=1UFtt-GnC6E9Izs0fEI_mMWWtjxGQs-CO", #4
+            "https://drive.google.com/uc?export=view&id=1qR6dlQM82i1rqyTk1WYrYy09ntAJwfm5", #5
+            "https://drive.google.com/uc?export=view&id=1cZRCIVdAeq9zGGEdtXClKf2FnZtx-Vsr", #6
         ]
         data_list = [
             {
@@ -139,6 +141,17 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat untuk kakak, semoga sehat selalu"# 3
             },
             {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakak ini baik, dan friendly",  
+                "pesan":"Semangat untuk kakak kuliahnya, semoga sehat selalu"# 4
+            },
+            {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -147,7 +160,18 @@ if menu == "Kesekjenan":
                 "hobi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakak ini baik",  
-                "pesan":"Semangat untuk kakak, semoga sehat selalu"# 4
+                "pesan":"Semangat untuk kakak, semoga sehat selalu"# 5
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kotabaru",
+                "hobi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@nadillaadr26",
+                "kesan": "Kakak ini baik, friendly, dan ramah",  
+                "pesan":"Semangat untuk kakak, semoga sehat selalu dan bisa lulus dengan hasil yang mumaskan"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -156,43 +180,87 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1IF5ORenld0XiGp69CGjAEIM5YfD_hdXi",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobi": "Bertanya sama GPT",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Kakak ini asik sekali, friendly, public speakingnya juga bagus",  
+                "pesan":"Semangat terus kuliahnya kak, semoga sehat selalu, dan jangan lupa untuk terus tersenyum"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobi": "Menonton Film",
+                "sosmed": "@wlsbn0",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak DD",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)

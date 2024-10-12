@@ -20,7 +20,8 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
-            "Departemen MIKFES",
+            "Departemen MEDKRAF",
+
         ],
         icons=[
             "people-fill",
@@ -114,6 +115,14 @@ if menu == "Kesekjenan":
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Abang ini punya pengetahuan yang luas",  
                 "pesan":"sukses terus bang"# 1
+
+                "asal": "Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Abang ini pengetahuannya luas",  
+                "pesan":"sukses terus bang!"# 1
+
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -125,6 +134,13 @@ if menu == "Kesekjenan":
                 "sosmed": "@pndrinsni21",
                 "kesan": "Abang ini asik",  
                 "pesan":"semangat terus bang"# 1
+                "asal": "Bukit Kemuning",
+                "alamat": "Pawen 2 Sukarame",
+                "hobbi": "Main gitar",
+                "sosmed": "@pndrinsni21",
+                "kesan": "Abang ini asik",  
+                "pesan":"sukses terus bang!"# 1
+
             },
             {
                 "nama": "Meliza Wulandari",
@@ -136,6 +152,12 @@ if menu == "Kesekjenan":
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Kakak ini asik dan lucu",  
                 "pesan":"semangat terus kak"# 1
+                "asal": "Pagar Alam",
+                "alamat": "Kotabaru",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak ini asik",  
+                "pesan":"semangat terus kakak !!!"# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -147,6 +169,35 @@ if menu == "Kesekjenan":
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakak ini lucu",  
                 "pesan":"semangat terus kak"
+                "asal": "Payakumbuh",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak ini asik",  
+                "pesan":"semangat terus kakak !!!"
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakak ini asik dan lucu",
+                "pesan":"semangat terus kakak !!!"
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal": "Metro",
+                "alamat": "Kotabaru",
+                "hobbi": "Dengerin bang Pandra Gitaran",
+                "sosmed": "@nadillaadr26",
+                "kesan": "Kakak ini asik dan lucu",
+                "pesan":"semangat terus kakak !!!"
+
             },
             {
                "nama": "Hartiti Fadilah",
