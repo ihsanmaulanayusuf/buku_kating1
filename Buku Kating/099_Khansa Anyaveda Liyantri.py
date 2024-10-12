@@ -142,42 +142,147 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=151iYJpuIdkm-bU_5rX1Puw_12bub9AXf",
+            "https://drive.google.com/uc?export=view&id=151UwaScsvKhi30bJ2hLeh0oH4c8Kyjmj",
+            "https://drive.google.com/uc?export=view&id=1540ux8D6-fGiU0iDbpuyN9vdHN7QZL-I",
+            "https://drive.google.com/uc?export=view&id=151sC0kOm2X20V6lWxf9yLyBoH9v8Uxem",
+            "https://drive.google.com/uc?export=view&id=152sV2D_Oo4wdZdKG175Oo32yxGidokQt",
+            "https://drive.google.com/uc?export=view&id=152QQBffwirZqfZIIWzSg6ISc1-X3ZHPn",
+            
+        ]
+        data_list = [
+            {
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@amsirahk",
+                "kesan": "Abang ini mirip bang Pandra",  
+                "pesan":"Semangat menjalani perkuliahan bang kahim !!!"# 1
+            },
+            {
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450077",
+                "umur": "21",
+                "asal":"Bukit Kemuning, Lampung Utara",
+                "alamat": "Bawean 2",
+                "hobbi": "Main gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "Abang ini mirip bang Gumi",  
+                "pesan":"semangat terus kuliahnya bang Sekjen"# 2
+            },
+            {
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Pagar Alam, Sumsel",
+                "alamat": "Kota Baru",
+                "hobbi": "Nonton drakor",
+                "sosmed": "@wulandarimelinza",
+                "kesan": "kakaknya imut banget",  
+                "pesan":"semangat menjalani perkuliahan kakak sekre cantikk "# 3
+            },
+            {
+                "nama": "Hartiti Fadhilaj",
+                "nim": "12145031",
+                "umur": "21",
+                "asal":"Sumatera Selatan",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "kakak ini baik dan sedikit pendiam",  
+                "pesan":"semangat menjalani perkuliahan BUNDAhara"# 4
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Sumatera Barat",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin Bang Pandra gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "kakaknya baik dan sedikit pendiam seperti kak Hartiti",  
+                "pesan":"semangat terus kuliahnya kakak sekre 1"# 5
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kota Baru",
+                "hobbi": "Dengerin Bang Pandra gitaran kaya kak Putri",
+                "sosmed": "@nadillaandr26",
+                "kesan": "kakaknya keren dan tegas bangett",  
+                "pesan":"semangat terus kuliahnya kakak bendahara 1!"# 6
+            },
+            
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    kesekjenan()
+
+elif menu == "Baleg":
+    def baleg():
+        gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi": "Nanya ke GPT",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Kakak ramah sekali",  
+                "pesan":"semangat terus kuliahnya kakak cantikkk!!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450114",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi": "Membaca, menonton",
+                "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak DD",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "nama": "Annisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Jati Agung",
+                "hobbi": "Nonton Drachin",
+                "sosmed": "@anisadini10",
+                "kesan": "Kakak ini imut",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobbi": "Belajar, Menonton film, tidur",
+                "sosmed": "@wlsbn0",
+                "kesan": "Kakak ini baik",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobbi": "Belajar, Menonton film, tidur",
+                "sosmed": "@wlsbn0",
+                "kesan": "Kakak ini baik",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
         ]
