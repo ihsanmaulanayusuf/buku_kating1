@@ -110,7 +110,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
-                "hobbi": "Dengerin Musik",
+                "hobi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Abang ini keren, berwibawa, dan mempunyai public speaking yang bagus",  
                 "pesan":"Semoga memiliki karir yang bagus dan diterima di perusahaan yang diinginkan"# 1
