@@ -21,6 +21,7 @@ def streamlit_menu():
             "Departemen Internal",
             "Departemen SSD",
             "Departemen MEDKRAF",
+
         ],
         icons=[
             "people-fill",
@@ -108,28 +109,49 @@ if menu == "Kesekjenan":
                 "nama": "Kharisma Gumilang",
                 "nim": "121450142",
                 "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Abang ini punya pengetahuan yang luas",  
+                "pesan":"sukses terus bang"# 1
+
                 "asal": "Palembang",
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Abang ini pengetahuannya luas",  
                 "pesan":"sukses terus bang!"# 1
+
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
                 "nim": "121450137",
                 "umur": "21",
+                "asal":"Bukit Kemuning",
+                "alamat": "Pawen 2 Sukarame",
+                "hobbi": "Main Gitar",
+                "sosmed": "@pndrinsni21",
+                "kesan": "Abang ini asik",  
+                "pesan":"semangat terus bang"# 1
                 "asal": "Bukit Kemuning",
                 "alamat": "Pawen 2 Sukarame",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni21",
                 "kesan": "Abang ini asik",  
                 "pesan":"sukses terus bang!"# 1
+
             },
             {
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
+                "asal":"Pagar Alam",
+                "alamat": "Kotabaru",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak ini asik dan lucu",  
+                "pesan":"semangat terus kak"# 1
                 "asal": "Pagar Alam",
                 "alamat": "Kotabaru",
                 "hobbi": "Nonton Drakor",
@@ -141,6 +163,12 @@ if menu == "Kesekjenan":
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
+                "asal":"Payakumbuh",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak ini lucu",  
+                "pesan":"semangat terus kak"
                 "asal": "Payakumbuh",
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin bang Pandra Gitaran",
@@ -169,7 +197,29 @@ if menu == "Kesekjenan":
                 "sosmed": "@nadillaadr26",
                 "kesan": "Kakak ini asik dan lucu",
                 "pesan":"semangat terus kakak !!!"
+
             },
+            {
+               "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakak ini baik",  
+                "pesan":"semangat terus kak" 
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kotabaru",
+                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@nadillaadr26",
+                "kesan": "Kakak ini lucu dan baik",  
+                "pesan":"semangat terus kak" 
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
