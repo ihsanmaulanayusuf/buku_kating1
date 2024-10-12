@@ -82,15 +82,15 @@ def display_images_with_data(gambar_urls, data_list):
             st.image(img, use_column_width=True)
 
         if i < len(data_list):
-            st.write(f"Nama: {data_list[i]['nama']}")
-            st.write(f"NIM: {data_list[i]['nim']}")
-            st.write(f"Umur: {data_list[i]['umur']}")
-            st.write(f"Asal: {data_list[i]['asal']}")
-            st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
-            st.write(f"Sosial Media: {data_list[i]['sosmed']}")
-            st.write(f"Kesan: {data_list[i]['kesan']}")
-            st.write(f"Pesan: {data_list[i]['pesan']}")
+            st.write(f"Nama          : {data_list[i]['nama']}")
+            st.write(f"NIM           : {data_list[i]['nim']}")
+            st.write(f"Umur          : {data_list[i]['umur']}")
+            st.write(f"Asal          : {data_list[i]['asal']}")
+            st.write(f"Alamat        : {data_list[i]['alamat']}")
+            st.write(f"Hobbi         : {data_list[i]['hobbi']}")
+            st.write(f"Sosial Media  : {data_list[i]['sosmed']}")
+            st.write(f"Kesan         : {data_list[i]['kesan']}")
+            st.write(f"Pesan         : {data_list[i]['pesan']}")
             st.write("  ")
     st.write("Semua gambar telah dimuat!")
 menu = streamlit_menu()
@@ -99,43 +99,76 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=1iBcQqzBHPBeyy-MSHQrEL_g8aE8GCRLG", #1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "bang kharisma sangat berwibawa dan memiliki wawasan yang luas.",  
+                "pesan":"semoga bang kharisma semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450077",
+                "umur": "21",
+                "asal":"Bukit Kemuning",
+                "alamat": "Pawen 2 Sukarame",
+                "hobbi": "Main gitar",
+                "sosmed": "@pndrinsni21",
+                "kesan": "Bang Pandra orangnya asik dan tegas.",  
+                "pesan":"semoga bang pandra semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
             {
-                "nama": "Kakak CC",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Pagar Alam",
+                "alamat": "Kotabaru",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "kak meliza orangnya baik dan asik.",  
+                "pesan":"semoga kak meliza semakin sukses dalam himpunan maupun di luar himpunan"# 1
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "kak hartiti ramah dan mudah senyum.",  
+                "pesan":"semoga kak meliza semakin sukses dalam himpunan maupun di luar himpunan"# 1
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kak putri pembawaannya baik , ramah, dan mudah senyum.",  
+                "pesan":"semoga kak meliza semakin sukses dalam himpunan maupun di luar himpunan"# 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kotabaru",
+                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@nadillaadr26",
+                "kesan": "Kak nadilla mudah senyum dan baik.",  
+                "pesan":"semoga kak nadilla semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
