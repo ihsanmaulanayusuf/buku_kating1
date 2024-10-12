@@ -298,33 +298,45 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal":"Ogan Ilir",
                 "alamat": "Natar",
-                "hobi": "Nyari Sinyal di Gedung F",
+                "hobbi": "Nyari sinyal di gedung f",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!" #10
+                "kesan": "",  
+                "pesan":""# 10
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450126",
                 "umur": "22",
                 "asal":"Surakarta",
-                "alamat": " Sukarame",
-                "hobi": "Melukis",
+                "alamat": "Sukarame,
+                "hobbi": "Melukis",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!" #11
+                "kesan": "",  
+                "pesan":"!"# 11
             },
             {
-                "nama": "Jeremia Susanto",
+               "nama": "Berliana Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"Sumatra Barat",
+                "alamat": "Way Huwi",
+                "hobbi": "Baca buku, ngoding, ibadah",
+                "sosmed": "@berlyyanda",
+                "kesan": "",  
+                "pesan":"!"# 12
+            },
+            {
+               "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
                 "asal":"Bandar Lampung",
-                "alamat": "Billabong, Gedong Air",
-                "hobi": "Suka Bengong",
+                "alamat": "Billabong, Gedong air",
+                "hobbi": "Suka bengong",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!" #12
+                "kesan": "",  
+                "pesan":"!"# 13
             },
+            
             
         ]
         display_images_with_data(gambar_urls, data_list)
