@@ -101,7 +101,7 @@ if menu == "Kesekjenan":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1HRMWlnpO7I6uRbOrA5W-6FTlL1QNGApo", #1
             "https://drive.google.com/uc?export=view&id=11DHbdehlmCHNVylAyxcAdwGiaTpEZ8cr", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=14IiwH93_xiBo8ATZfRYGQZrH_oyFJv4O", #3
         ]
         data_list = [
             {
@@ -127,15 +127,15 @@ if menu == "Kesekjenan":
                 "pesan":"Semoga selalu sehat, dan memiliki karir yang sukses"# 2
             },
             {
-                "nama": "Kakak CC",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Pagar Alam",
+                "alamat": "Kotabaru",
+                "hobi": " Nonton Drakorr",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak ini baik, asik, dan ",  
+                "pesan":"Semangat untuk kakak, seoga sehat selalu"# 3
             },
         ]
         display_images_with_data(gambar_urls, data_list)
