@@ -87,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur        : {data_list[i]['umur']}")
             st.write(f"Asal        : {data_list[i]['asal']}")
             st.write(f"Alamat      : {data_list[i]['alamat']}")
-            st.write(f"Hobbi       : {data_list[i]['hobi']}")
+            st.write(f"Hobi       : {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan       : {data_list[i]['kesan']}")
             st.write(f"Pesan       : {data_list[i]['pesan']}")
@@ -113,7 +113,7 @@ if menu == "Kesekjenan":
                 "umur"  : "21",
                 "asal"  :"Palembang",
                 "alamat": "Pulau Damar",
-                "hobbi" : "Dengerin musik",
+                "hobi" : "Dengerin musik",
                 "sosmed": "@amsirahk",
                 "kesan" : "Baik dan Keren banget",  
                 "pesan" :"semangat terus kuliahnya bang"#1
@@ -125,7 +125,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Sukarame",
-                "hobbi": "Main gitar",
+                "hobi": "Main gitar",
                 "sosmed": "@pndrinsnptr2",
                 "kesan": "Abangnya asik",  
                 "pesan":"semangat terus kuliahnya bang"#2
@@ -137,7 +137,7 @@ if menu == "Kesekjenan":
                 "umur": "20",
                 "asal":"Pagar Alam, Sumsel",
                 "alamat": "Kota Baru",
-                "hobbi": "Nonton drakor",
+                "hobi": "Nonton drakor",
                 "sosmed": "@azilem",
                 "kesan": "Kakaknya lucu",  
                 "pesan":"semangat terus kuliahnya kakak!"#3
@@ -161,7 +161,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Sumatera Barat",
                 "alamat": "Nangka 4",
-                "hobbi": "Dengerin Bang Pandra gitaran",
+                "hobi": "Dengerin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "kakaknya baik dan keren",  
                 "pesan":"semangat terus kuliahnya kakak!"#5
@@ -173,10 +173,10 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Metro",
                 "alamat": "Kota Baru",
-                "hobbi": "Dengerin  bang Pandra Gitaran",
+                "hobi": "Dengerin bang Pandra Gitaran",
                 "sosmed": "@azilem",
                 "kesan": "kakaknya baik dan keren",  
-                "pesan":"semangat terus kuliahnya kakak!"#6
+                "pesan":"semangat terus kuliahnya kakak!" #6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -204,7 +204,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal":"Bogor",
                 "alamat": "Raden Saleh",
-                "hobbi": "Bertanya sama GPT",
+                "hobi": "Bertanya sama GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakaknya asik banget dan cara berkomunikasinya enak didengar",  
                 "pesan":"semangat kak terus menginspirasi dan semangat kuliahnya!" #1
@@ -216,7 +216,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal":"Tanggerang Selatan",
                 "alamat": "Way Hui",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "kakaknya lucu",  
                 "pesan":"semangat terus kuliahnya kak" #2
@@ -228,19 +228,19 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal":"Medan",
                 "alamat": "Raden Saleh",
-                "hobbi": "Menonton Film",
+                "hobi": "Menonton Film",
                 "sosmed": "@wlsbn0",
                 "kesan": "kakaknya baik banget dan mukanya adem",  
                 "pesan":"sukses terus kuliahnya kak" #3
 
             },
             {
-              "nama": "Anisa Dini Amalia",
+               "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "20",
                 "asal":"Tanggerang",
                 "alamat": "Jati Agung",
-                "hobbi": "Nonton Dracin",
+                "hobi": "Nonton Dracin",
                 "sosmed": "@anisadini10",
                 "kesan": "cantik dan asik",  
                 "pesan":"semangat terus kuliahnya kak" #4
@@ -252,7 +252,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal":"Sumatera Selatan",
                 "alamat": "Way Kandis",
-                "hobbi": "Sholat Dhuha",
+                "hobi": "Sholat Dhuha",
                 "sosmed": "@fer_yulius",
                 "kesan": "abangnya baik",  
                 "pesan":"semangat terus kuliahnya bang" #5
@@ -264,11 +264,10 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Teluk Betung",
-                "hobbi": "Baca Al-qur’an",
+                "hobi": "Baca Al-qur’an",
                 "sosmed": "@fleurnsh",
                 "kesan": "Kakaknya baik",  
                 "pesan":"semangat terus kuliahnya kak" #6
-
 
             },
             {
@@ -277,7 +276,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal":"Lampung Timur",
                 "alamat": "Lampung Timur",
-                "hobbi": "Baca Jurnal",
+                "hobi": "Baca Jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "baik banget",  
                 "pesan":"semangat kak" #7
@@ -289,7 +288,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal":"Jakarta",
                 "alamat": "Korpri",
-                "hobbi": "Main Kucing",
+                "hobi": "Main Kucing",
                 "sosmed": "@myrrinn",
                 "kesan": "tinggi banget",  
                 "pesan":"jangan lupa kasih makan kucing kak" #8
@@ -301,31 +300,31 @@ elif menu == "Baleg":
                 "umur": "22",
                 "asal":"Surakarta",
                 "alamat": "Sukarame",
-                "hobbi": "Melukis",
+                "hobi": "Melukis",
                 "sosmed": "@fhrul.pdf",
                 "kesan": "baik",  
                 "pesan":"semangat kak" #9
 
             },
             {
-               "nama": "Jeremia Susanto",
+                "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
                 "asal":"Bandar Lampung",
                 "alamat": "Bandar Lampung",
-                "hobbi": "Suka Bengong",
+                "hobi": "Suka Bengong",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Abangnya keren",  
                 "pesan":"semangat terus kuliahnya bang" #10
 
             },
             {
-               "nama": "Berliana Enda Putri",
+                "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "20",
                 "asal":"Sumatera Barat",
                 "alamat": "Way Huwi",
-                "hobbi": "Baca Buku, Ngoding, Ibadah",
+                "hobi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
                 "kesan": "kakaknya baik dn seru",  
                 "pesan":"sukses terus kuliahnya kak" #11
