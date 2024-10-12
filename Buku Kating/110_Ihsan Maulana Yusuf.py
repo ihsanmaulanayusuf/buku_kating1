@@ -180,9 +180,9 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1IF5ORenld0XiGp69CGjAEIM5YfD_hdXi",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1IF5ORenld0XiGp69CGjAEIM5YfD_hdXi", #7
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
         ]
         data_list = [
             {
@@ -194,7 +194,7 @@ elif menu == "Baleg":
                 "hobi": "Bertanya sama GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak ini asik sekali, friendly, public speakingnya juga bagus",  
-                "pesan":"Semangat terus kuliahnya kak, semoga sehat selalu, dan jangan lupa untuk terus tersenyum"
+                "pesan":"Semangat terus kuliahnya kak, semoga sehat selalu, dan jangan lupa untuk terus tersenyum" #7
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -205,7 +205,7 @@ elif menu == "Baleg":
                 "hobi": "Membaca",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!!" #8
             },
             {
                 "nama": "Wulan Sabina",
@@ -216,27 +216,27 @@ elif menu == "Baleg":
                 "hobi": "Menonton Film",
                 "sosmed": "@wlsbn0",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!!" #9
             },
             {
-                "nama": "Annisa Cahyani Surya",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Tangerang Selatan",
-                "alamat": "Way Huwi",
-                "hobi": "Membaca",
-                "sosmed": "@annisacahyanisurya",
+                "nama": "Anisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Jati Agung",
+                "hobi": "Nonton Dracin",
+                "sosmed": " @anisadini10",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!!" 
             },
             {
-                "nama": "Annisa Cahyani Surya",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Tangerang Selatan",
-                "alamat": "Way Huwi",
-                "hobi": "Membaca",
-                "sosmed": "@annisacahyanisurya",
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bernung, Pesawaran",
+                "alamat": "Bandar Lampung",
+                "hobi": "Nonton Drakor",
+                "sosmed": " @ansftynn_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
