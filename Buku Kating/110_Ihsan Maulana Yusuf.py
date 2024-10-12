@@ -180,43 +180,87 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1IF5ORenld0XiGp69CGjAEIM5YfD_hdXi",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobi": "Bertanya sama GPT",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Kakak ini asik sekali, friendly, public speakingnya juga bagus",  
+                "pesan":"Semangat terus kuliahnya kak, semoga sehat selalu, dan jangan lupa untuk terus tersenyum"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobi": "Menonton Film",
+                "sosmed": "@wlsbn0",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak DD",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Membaca",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
