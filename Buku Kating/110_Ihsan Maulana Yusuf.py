@@ -102,8 +102,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1HRMWlnpO7I6uRbOrA5W-6FTlL1QNGApo", #1
             "https://drive.google.com/uc?export=view&id=11DHbdehlmCHNVylAyxcAdwGiaTpEZ8cr", #2
             "https://drive.google.com/uc?export=view&id=14IiwH93_xiBo8ATZfRYGQZrH_oyFJv4O", #3
-            "https://drive.google.com/uc?export=view&id=1qR6dlQM82i1rqyTk1WYrYy09ntAJwfm5", #4
-            "https://drive.google.com/uc?export=view&id=1UFtt-GnC6E9Izs0fEI_mMWWtjxGQs-CO", #5
+            "https://drive.google.com/uc?export=view&id=1UFtt-GnC6E9Izs0fEI_mMWWtjxGQs-CO", #4
+            "https://drive.google.com/uc?export=view&id=1qR6dlQM82i1rqyTk1WYrYy09ntAJwfm5", #5
             "https://drive.google.com/uc?export=view&id=1cZRCIVdAeq9zGGEdtXClKf2FnZtx-Vsr", #6
         ]
         data_list = [
@@ -141,17 +141,6 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat untuk kakak, semoga sehat selalu"# 3
             },
             {
-                "nama": "Putri Maulida Chairani",
-                "nim": "121450050",
-                "umur": "21",
-                "asal":"Payakumbuh",
-                "alamat": "Nangka 4",
-                "hobi": "Dengerin  bang Pandra Gitaran",
-                "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakak ini baik",  
-                "pesan":"Semangat untuk kakak, semoga sehat selalu"# 4
-            },
-            {
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -160,7 +149,18 @@ if menu == "Kesekjenan":
                 "hobi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakak ini baik, dan friendly",  
-                "pesan":"Semangat untuk kakak kuliahnya, semoga sehat selalu"# 5
+                "pesan":"Semangat untuk kakak kuliahnya, semoga sehat selalu"# 4
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak ini baik",  
+                "pesan":"Semangat untuk kakak, semoga sehat selalu"# 5
             },
             {
                 "nama": "Nadilla Andhara Putri",
