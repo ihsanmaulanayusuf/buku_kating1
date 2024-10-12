@@ -181,7 +181,7 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1IF5ORenld0XiGp69CGjAEIM5YfD_hdXi", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
+            "https://drive.google.com/uc?export=view&id=1toRUKq-1-5ZyO2FOmco94Xxoe1OEW9tn", #8
             "https://drive.google.com/uc?export=view&id=1x8wS0GBUGBqiChsHapJ7ktL-wDRO2Fh4", #9
             "https://drive.google.com/uc?export=view&id=13QdFXzafl5TGpCDje_o_XGWa0DmmKH3k", #10
             "https://drive.google.com/uc?export=view&id=1iZ2asxm4SFaQlLvNR2MtCN1ESssj7R0g", #11
