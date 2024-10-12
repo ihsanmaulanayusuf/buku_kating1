@@ -99,9 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=1iBcQqzBHPBeyy-MSHQrEL_g8aE8GCRLG", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1iBcQqzBHPBeyy-MSHQrEL_g8aE8GCRLG", 
+            "https://drive.google.com/uc?export=view&id=1hu_tp1DTE8J4kFvC2mm__w6_8tUQIyFe",
+            "https://drive.google.com/uc?export=view&id=1i503ZA6rRdAiiCm7Y2bQkYubUgbrP5BD",
+            "https://drive.google.com/uc?export=view&id=1i7cNmyKKEbWtgfpdsWgt6mrwfKY6kr1f",
+            "https://drive.google.com/uc?export=view&id=1i0lsr-cPF4Ux39g7EB_VaG7TA7fx-qkO",
+            "https://drive.google.com/uc?export=view&id=1iIvcxiMucUzuw2_CNEkQrsFXN5S0lZdl",
         ]
         data_list = [
             {
@@ -124,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni21",
                 "kesan": "Bang Pandra orangnya asik dan tegas.",  
-                "pesan":"semoga bang pandra semakin sukses dalam himpunan maupun di luar himpunan"# 1
+                "pesan":"semoga bang pandra cepat lulus dan mendapatkan kesempatan yang layak"# 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -146,7 +149,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "kak hartiti ramah dan mudah senyum.",  
-                "pesan":"semoga kak meliza semakin sukses dalam himpunan maupun di luar himpunan"# 1
+                "pesan":"semoga kak meliza semakin sukses "# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -156,7 +159,7 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kak putri pembawaannya baik , ramah, dan mudah senyum.",  
+                "kesan": "kakak orangnya moodbooster bangett.",  
                 "pesan":"semoga kak meliza semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
             {
@@ -167,7 +170,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@nadillaadr26",
-                "kesan": "Kak nadilla mudah senyum dan baik.",  
+                "kesan": "kakak orangnya penyebar virus senyum.",  
                 "pesan":"semoga kak nadilla semakin sukses dalam himpunan maupun di luar himpunan"# 1
             },
         ]
