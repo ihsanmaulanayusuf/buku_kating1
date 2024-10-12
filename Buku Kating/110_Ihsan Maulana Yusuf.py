@@ -103,6 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=11DHbdehlmCHNVylAyxcAdwGiaTpEZ8cr", #2
             "https://drive.google.com/uc?export=view&id=14IiwH93_xiBo8ATZfRYGQZrH_oyFJv4O", #3
             "https://drive.google.com/uc?export=view&id=1qR6dlQM82i1rqyTk1WYrYy09ntAJwfm5", #4
+            "https://drive.google.com/uc?export=view&id=1UFtt-GnC6E9Izs0fEI_mMWWtjxGQs-CO", #5
+            "https://drive.google.com/uc?export=view&id=1cZRCIVdAeq9zGGEdtXClKf2FnZtx-Vsr", #6
         ]
         data_list = [
             {
@@ -148,6 +150,28 @@ if menu == "Kesekjenan":
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakak ini baik",  
                 "pesan":"Semangat untuk kakak, semoga sehat selalu"# 4
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakak ini baik, dan friendly",  
+                "pesan":"Semangat untuk kakak kuliahnya, semoga sehat selalu"# 5
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kotabaru",
+                "hobi": "Dengerin  bang Pandra Gitaran",
+                "sosmed": "@nadillaadr26",
+                "kesan": "Kakak ini baik, friendly, dan ramah",  
+                "pesan":"Semangat untuk kakak, semoga sehat selalu dan bisa lulus dengan hasil yang mumaskan"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
