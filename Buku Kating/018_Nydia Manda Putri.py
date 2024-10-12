@@ -294,7 +294,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal":"Jakarta",
                 "alamat": "Korpri",
-                "hobi": "Main Kucing",
+                "hobbi": "Main Kucing",
                 "sosmed": "@myrrinn",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -305,7 +305,7 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal":"Ogan Ilir",
                 "alamat": "Natar",
-                "hobi": "Nyari Sinyal di Gedung F",
+                "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": "@_.dheamelia",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan":"Semangat terus kuliahnya kak!"
