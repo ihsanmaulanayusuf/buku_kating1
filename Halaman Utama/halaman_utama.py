@@ -102,12 +102,7 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kelompok 1 Jordan adalah sebuah kelompok yang terdiri dari 13 anggota yang berasal dari berbagai latar belakang, menunjukkan keragaman pengalaman dan kepribadian dalam tim ini. Kelompok ini dipimpin oleh dua sosok yang disebut "lurah"—Bu Lurah yang bernama Nisa dan Pak Lurah yang bernama Ihsan—yang bertugas mengoordinasikan dan memimpin tim dalam berbagai aktivitas. Selain itu, kelompok ini juga didampingi oleh Bang Danang dan Kak Alyaa, yang berperan sebagai pendamping kelompok, membantu memberikan arahan, dukungan, dan bimbingan bagi anggota kelompok selama kegiatan berlangsung.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
