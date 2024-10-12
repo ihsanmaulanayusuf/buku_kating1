@@ -181,15 +181,17 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1_XZ8lZH9gpp9wu4PTFPdC2qPJRFZYu1S",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1DLiUE4D6ivWAhdY1IzrTmErr0LRBm65g",
+            "https://drive.google.com/uc?export=view&id=1_Di_li9QcSKFF85iZ_lnQbifB2xjga_B",
+            "https://drive.google.com/uc?export=view&id=1_Qwv83dGmFIo06EyAk9EiSc80M6jtORR",
+            "https://drive.google.com/uc?export=view&id=1DPQ7WDdGPhr8luyv3CF3eJt39NYJ2Gv9",
             "https://drive.google.com/uc?export=view&id=1ZyEnzEqaiQ-V-7G3_lnOtHLOQcXVlm7W",
+            "https://drive.google.com/uc?export=view&id=1_Hk4Atl-RyiIiqIKB-wht1f35lJR7dWZ",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_BQe9hTTF8l491BiRW4w3P7wMsyrovwn",
             "https://drive.google.com/uc?export=view&id=1ZwqgPkuC3flXEZbZYBgjiIMrKaSBrYGm",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1HUOvAdj0r3j1YB6IS16LqVocfntilfxf",
             "https://drive.google.com/uc?export=view&id=1_6mOZDW4Aa-3bKkWQBukpYPel8lR3uUo",
         ]
         data_list = [
@@ -281,10 +283,36 @@ elif menu == "Baleg":
                 "nama": "Claudhea Angeliani",
                 "nim": "121450124",
                 "umur": "21",
-                "asal": "Lampung Timurr",
+                "asal": "Lampung Timur",
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Jurnal",
                 "sosmed": "@dylebee",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+           
+           
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Korpri",
+                "hobbi": "Main Kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+           
+           
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal": "Ogan Ilir",
+                "alamat": "Natar",
+                "hobbi": "Nyari Sinyal di Gedung F",
+                "sosmed": "@_.dheamelia",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
