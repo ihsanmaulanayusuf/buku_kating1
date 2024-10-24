@@ -342,4 +342,1698 @@ elif menu == "Baleg":
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
+elif menu == "Senator":
+    def senator():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1WHyeA41zi0ZoHQVileQKKaLEGY-1xBHL",
+            "https://drive.google.com/uc?export=view&id=1YEq-iuqGiEFd58N-ALDINq4iB52B8p0F",
+        ]
+        data_list = [
+            {
+                "nama"     : "Anissa Luthfi Alifia",
+                "nim"      : "121450093",
+                "umur"     : "22",
+                "asal"     : "Lampung Tengah",
+                "alamat"   : "Kos Putri Rahayu",
+                "hobbi"    : "Bernyanyi",
+                "sosmed"   : "@annisalutfia_",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "Rian Bintang Wijaya",
+                "nim"      : "122450094",
+                "umur"     : "20",
+                "asal"     : "Palembang",
+                "alamat"   : "Kota baru",
+                "hobbi"    : "Tidur",
+                "sosmed"   : "@bintangtwinkle",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
+
+elif menu == "Departemen PSDA":
+    def departemenPSDA():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenPSDA()
+
+elif menu == "Departemen MIKFES":
+    def departemenMIKFES():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenMIKFES()
+
+elif menu == "Departemen Eksternal":
+    def departemenEksternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenEksternal()
+
+elif menu == "Departemen Internal":
+    def departemenInternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenInternal()
+
+elif menu == "Departemen SSD":
+    def departemenSSD():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenSSD()
+
+elif menu == "Departemen MEDKRAF":
+    def departemenMEDKRAF():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "A",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Kakak ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "B",
+                "nim"      : "1",
+                "umur"     : "2",
+                "asal"     : "Lampung",
+                "alamat"   : "Kos",
+                "hobbi"    : " ",
+                "sosmed"   : "@",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenMEDKRAF()
 # Tambahkan menu lainnya sesuai kebutuhan
