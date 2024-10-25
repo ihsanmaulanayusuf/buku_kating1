@@ -653,7 +653,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1YyJcPovQqlK0pTJVFGz1IBtdPbsh7lNF",
             "https://drive.google.com/uc?export=view&id=1Z5zgN5xL54UHBvrnkx-B0_1vOrbzFTaA",
             "https://drive.google.com/uc?export=view&id=1E5-jUdeQIeFSlvmYRMSvdY3GPQAaEA4d",
-            "https://drive.google.com/uc?export=view&id=1DQEZNGNzhDUa24Df4LGD8ij4ESaNHhje",
+            "https://drive.google.com/uc?export=view&id=1Z6RvKc-Q5vG-uJ8Bjjl-Ko9_r5zm14is",
             "https://drive.google.com/uc?export=view&id=1FB6nWOGF0ZOyJOrSvbUa0TF4qGbU3HO6",
             "https://drive.google.com/uc?export=view&id=1EqNUar5oYAIa5GKoop5Tz932lAwh62ru",
             "https://drive.google.com/uc?export=view&id=1DQrzI-Fhpxv1SJcHCSNDwumK2s9vx4Zk",
