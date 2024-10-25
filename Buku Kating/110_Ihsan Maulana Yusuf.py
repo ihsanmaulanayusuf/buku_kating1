@@ -410,7 +410,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Bekasi",
                 "alamat": "Khobam",
                 "hobi": "Travelling",
-                "sosmed": @ericsonchandra99",
+                "sosmed": "@ericsonchandra99",
                 "kesan": "Abang ini asik sekali, punya pemikiran yang luas, public speakingnya bagus, tegas, dan seru untuk diajak diskusi tentang apapun",  
                 "pesan":"Semangat terus kuliahnya bang, semoga bisa cepat lulus dengan hasil yang memuaskan" #22
             },
@@ -646,7 +646,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus bang" #43
             },
             {
-                "nama":  Rafly Prabu Darmawan",
+                "nama":  "Rafly Prabu Darmawan",
                 "nim": "122450094",
                 "umur": "20",
                 "asal":"Palembang",
