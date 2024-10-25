@@ -187,8 +187,8 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1DPQ7WDdGPhr8luyv3CF3eJt39NYJ2Gv9",
             "https://drive.google.com/uc?export=view&id=1ZyEnzEqaiQ-V-7G3_lnOtHLOQcXVlm7W",
             "https://drive.google.com/uc?export=view&id=1DLiUE4D6ivWAhdY1IzrTmErr0LRBm65g",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ppa97a5LevilJVp6LMD9ngaUXApY3zff",
+            "https://drive.google.com/uc?export=view&id=1pep2AGFpJib65LohK19x6VJ90KOqiFb8",
             "https://drive.google.com/uc?export=view&id=1_BQe9hTTF8l491BiRW4w3P7wMsyrovwn",
             "https://drive.google.com/uc?export=view&id=1ZwqgPkuC3flXEZbZYBgjiIMrKaSBrYGm",
             "https://drive.google.com/uc?export=view&id=1HUOvAdj0r3j1YB6IS16LqVocfntilfxf",
@@ -352,4 +352,36 @@ elif menu == "Baleg":
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+elif menu == "Senator":
+    def senator():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1GlCneruH_gGV8ojJ06uwDr56Ejd59DxC",
+            "https://drive.google.com/uc?export=view&id=1Gi5gS9LdgHRh0OAFXGkyFGY40sjBKq0i",
+        ]
+        data_list = [
+            {
+                "nama": "Anissa Luthfi Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal": "Lampung Tengah",
+                "alamat": "Kos Putri Rahayu",
+                "hobbi": "Bernyanyi,
+                "sosmed": "@annisalutfia_",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+           
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Tidur",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
