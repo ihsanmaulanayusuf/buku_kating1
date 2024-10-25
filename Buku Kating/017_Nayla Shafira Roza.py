@@ -246,7 +246,7 @@ elif menu == "Baleg":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@ansftynn_",
-                "kesan": "KKakaknya asik diajak bicara",  
+                "kesan": "Kakaknya asik diajak bicara",  
                 "pesan":"semangat menggapai cita-citanya kak !!!"# 1
             },
             {
@@ -349,26 +349,26 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Anissa Luthfi Alifia",
-                "nim": "121450093",
-                "umur": "22",
-                "asal":"Lampung Tengah",
-                "alamat": "Kos Putri Rahayu",
-                "hobbi": "Bernyanyi",
-                "sosmed": "@anissaluthfi_",
-                "kesan": "Pembawaan kakaknya tegas, keren banget",  
-                "pesan":"Semangat dalam menjalankan tugasnya kak!!!"
+                "nama"    : "Anissa Luthfi Alifia",
+                "nim"     : "121450093",
+                "umur"    : "22",
+                "asal"    : "Lampung Tengah",
+                "alamat"  : "Kos Putri Rahayu",
+                "hobbi"   : "Bernyanyi",
+                "sosmed"  : "@anissaluthfi_",
+                "kesan"   : "Pembawaan kakaknya tegas, keren banget",  
+                "pesan"   : "Semangat dalam menjalankan tugasnya kak!"
             },
             {
-                "nama": "Rian Bintang Wijaya",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobbi": "Tidur",
-                "sosmed": "@bintangtwinkle",
-                "kesan": "Abang ini aktif di organisasi dan kepanitiaan",  
-                "pesan":"semangat kuliahnya bang!"
+                "nama"    : "Rian Bintang Wijaya",
+                "nim"     : "122450094",
+                "umur"    : "20",
+                "asal"    : "Palembang",
+                "alamat"  : "Kota Baru",
+                "hobbi"   : "Tidur",
+                "sosmed"  : "@bintangtwinkle",
+                "kesan"   : "Abang ini aktif di organisasi dan kepanitiaan",  
+                "pesan"   : "Semangat kuliahnya bang!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
