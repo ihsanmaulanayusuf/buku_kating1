@@ -645,8 +645,8 @@ elif menu == "Departemen PSDA":
         display_images_with_data(gambar_urls, data_list)
     departemenpsda()
 
-elif menu == "MIKFES":
-    def mikfes ():
+elif menu == "Departemen MIKFES":
+    def departemen_mikfes ():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17PkJXwqPqa4lyeBMno1iCsnvqGy1ytYd",#1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#2
@@ -833,7 +833,7 @@ elif menu == "MIKFES":
             {
                 "nama": "Happy Syahrul Ramadhan",
                 "nim": "122450013",
-                "umur": " ",
+                "umur": "20",
                 "asal":"Lampung Timur",
                 "alamat": "Karang Anyar",
                 "hobi": "Main game",
@@ -854,5 +854,5 @@ elif menu == "MIKFES":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    mikfes()
+   departemen_mikfes()
 
