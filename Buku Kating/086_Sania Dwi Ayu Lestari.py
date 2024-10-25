@@ -695,7 +695,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "21",
                 "asal":"Lubuk Linggau, Sumatera Selatan",
                 "alamat": "Jl. Nangka 4",
-                "hobi": "Olahraga",
+                "hobbi": "Olahraga",
                 "sosmed": "@rafadhlillahh13",
                 "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
                 "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #45
@@ -706,7 +706,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Lampung Utara",
                 "alamat": "Jl. Pulau Sebesi",
-                "hobi": "Memasak",
+                "hobbi": "Memasak",
                 "sosmed": "@anovavona",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak kuliahnya, semoga setelah lulus nanti bisa mendapatkan pekerjaan sesuai dengan yang kakak mau" #46
@@ -717,7 +717,7 @@ elif menu == "Departemen MIKFES":
                 "umur": " ",
                 "asal":" ",
                 "alamat": " ",
-                "hobi": " ",
+                "hobbi": " ",
                 "sosmed": " ",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #47
@@ -728,7 +728,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Tulang Bawang",
                 "alamat": "Sukarame",
-                "hobi": "Olahraga",
+                "hobbi": "Olahraga",
                 "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #48
@@ -739,7 +739,7 @@ elif menu == "Departemen MIKFES":
                 "umur": " ",
                 "asal":" ",
                 "alamat": " ",
-                "hobi": " ",
+                "hobbi": " ",
                 "sosmed": " ",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #49
@@ -750,7 +750,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Palembang",
                 "alamat": "Jl. Permadi",
-                "hobi": "Ngasprak ADS",
+                "hobbi": "Ngasprak ADS",
                 "sosmed": "@",
                 "kesan": "abangnya asikk",  
                 "pesan":"Semangat terus bang" #50
@@ -761,7 +761,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Tangerang",
                 "alamat": "Gg. Yudistira",
-                "hobi": "Review jurnal Bu Mika",
+                "hobbi": "Review jurnal Bu Mika",
                 "sosmed": "@",
                 "kesan": "kakanya kalem pendiem",  
                 "pesan":"Semangat terus kak" #51
@@ -772,7 +772,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "",
                 "asal":"",
                 "alamat": "",
-                "hobi": "",
+                "hobbi": "",
                 "sosmed": "@natanaelokt",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #52
@@ -783,7 +783,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Bukittinggi",
                 "alamat": "Korpri",
-                "hobi": "ML (Machine Learning)",
+                "hobbi": "ML (Machine Learning)",
                 "sosmed": "@",
                 "kesan": "baikk",  
                 "pesan":"Semangat terus kak" #53
@@ -794,7 +794,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Kemiling",
-                "hobi": "Resume Webinar",
+                "hobbi": "Resume Webinar",
                 "sosmed": "@anjaniiidev",
                 "kesan": "kakanya kalem gitu, asik baik jugaa",  
                 "pesan":"Semangat terus kak" #54
@@ -805,7 +805,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal":"Medan",
                 "alamat": "Jl. Lapas",
-                "hobi": "Membaca jurnal Bu Mika",
+                "hobbi": "Membaca jurnal Bu Mika",
                 "sosmed": "@dindanababan",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #55
@@ -816,7 +816,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal":"Depok",
                 "alamat": "Gg. Nangka 3",
-                "hobi": "Review jurnal Bu Mika",
+                "hobbi": "Review jurnal Bu Mika",
                 "sosmed": "@marletacornelia",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #56
@@ -827,7 +827,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Kepulauan riau",
                 "alamat": "Gg. Nangka 3",
-                "hobi": "Menghitung akurasi",
+                "hobbi": "Menghitung akurasi",
                 "sosmed": "@junitaa_0406",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #57
@@ -838,7 +838,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
-                "hobi": "Berenang",
+                "hobbi": "Berenang",
                 "sosmed": "@puspadr",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #58
@@ -849,7 +849,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
-                "hobi": "Berenang",
+                "hobbi": "Berenang",
                 "sosmed": "@rhmn_abdr",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #59
@@ -860,7 +860,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Metro",
                 "alamat": "Korpri",
-                "hobi": "Ngoding wisata",
+                "hobbi": "Ngoding wisata",
                 "sosmed": "@rahm_adityaa",
                 "kesan": "abangnya pendiem kalem",  
                 "pesan":"Semangat terus kak" #60
@@ -871,7 +871,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Sukabumi",
                 "alamat": "Korpri",
-                "hobi": "Ngoding wisata",
+                "hobbi": "Ngoding wisata",
                 "sosmed": "@_egistr",
                 "kesan": "bang egi public speakingnya jago, kerennn",  
                 "pesan":"Semangat kuliahnya bang" #61
@@ -882,7 +882,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Tulang bawang",
                 "alamat": "Jl. Kelengkeng Raya",
-                "hobi": "Review jurnal",
+                "hobbi": "Review jurnal",
                 "sosmed": "@pratiwifebiya",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #62
@@ -893,7 +893,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
-                "hobi": "Berenang",
+                "hobbi": "Berenang",
                 "sosmed": "@sudo.syahrulramadhann",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #63
@@ -904,7 +904,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "21",
                 "asal":"Banten",
                 "alamat": "Sukarame",
-                "hobi": "Tidur dan Berkembang",
+                "hobbi": "Tidur dan Berkembang",
                 "sosmed": "@randaandriana_",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #64
@@ -915,7 +915,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
-                "hobi": "Berenang",
+                "hobbi": "Berenang",
                 "sosmed": "@vita.annn",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #65
@@ -949,7 +949,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@andriangaol",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Departemen SSD"
             },
             {
                 "nama": "Adisty Syawaida Arianto",
@@ -961,7 +960,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@adistysa_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Sekretaris Departemen SSD"
             },
             {
                 "nama": "Nabila Azhari",
@@ -973,7 +971,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@zhjung",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi KWU"
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -985,7 +982,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@dananghk_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff KWU"
             },
             {
                 "nama": "Farel Julio Akbar",
@@ -997,7 +993,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@farel_julio",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff KWU"
             },
             {
                 "nama": "Ahmad Rizqi",
@@ -1009,7 +1004,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@ahmad.ris45",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff KWU"
             },
             {
                 "nama": "Tessa Kania Sagala",
@@ -1021,7 +1015,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@tesakanias",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff KWU"
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1033,7 +1026,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@nabilahanftr",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Sponsor"
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1045,7 +1037,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@meylanielia",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Sponsor"
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
@@ -1057,7 +1048,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Sponsor"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
