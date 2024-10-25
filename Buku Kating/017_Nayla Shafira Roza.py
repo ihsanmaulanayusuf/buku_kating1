@@ -344,8 +344,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tyyuYpAwS1S5tkcHgEPIRwrP0NVN5cPi",
-            "https://drive.google.com/uc?export=view&id=15UOg9j_79297AHxq3EKOyoNrP9oYfZng",
+            "https://drive.google.com/uc?export=view&id=1tyyuYpAwS1S5tkcHgEPIRwrP0NVN5cPi", #1
+            "https://drive.google.com/uc?export=view&id=15UOg9j_79297AHxq3EKOyoNrP9oYfZng", #2
         ]
         data_list = [
             {
@@ -357,7 +357,7 @@ elif menu == "Senator":
                 "hobbi"   : "Bernyanyi",
                 "sosmed"  : "@anissaluthfi_",
                 "kesan"   : "Pembawaan kakaknya tegas, keren banget",  
-                "pesan"   : "Semangat dalam menjalankan tugasnya kak!"
+                "pesan"   : "Semangat dalam menjalankan tugasnya kak!" #1
             },
             {
                 "nama"    : "Rian Bintang Wijaya",
@@ -368,7 +368,7 @@ elif menu == "Senator":
                 "hobbi"   : "Tidur",
                 "sosmed"  : "@bintangtwinkle",
                 "kesan"   : "Abang ini aktif di organisasi dan kepanitiaan",  
-                "pesan"   : "Semangat kuliahnya bang!"
+                "pesan"   : "Semangat kuliahnya bang!" #2
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -377,7 +377,7 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def departemenPSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1oU_VbxLR6fUM7920Yd5SM1e5hG-VYiM4",
+            "https://drive.google.com/uc?export=view&id=1oU_VbxLR6fUM7920Yd5SM1e5hG-VYiM4", 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=16gh_Av-Hs0cJ96_yShBspgNkg1Rt_1FD",
             "https://drive.google.com/uc?export=view&id=1aW8-X29lu2un3Mxn1oYcgtYtNBtUtU7z",
