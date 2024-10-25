@@ -856,3 +856,129 @@ elif menu == "MIKFES":
         display_images_with_data(gambar_urls, data_list)
     mikfes()
 
+elif menu == "Departemen Eksternal":
+    def departemen_eksternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "12145",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Jati Mulyo",
+                "hobi": "Bangun Pagi",
+                "sosmed": "@yogyyy",
+                "kesan": "Abangnya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya bang!" #1
+
+            },
+            {
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "TVRI",
+                "hobi": "Jalan-jalan",
+                "sosmed": "@ramadhitatifa",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #2
+
+            },
+            {
+                "nama": "Nazwa Nabilla",
+                "nim": "121450122",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Way Kandis",
+                "hobi": "Belajar",
+                "sosmed": "@nazwanbilla",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"sukses terus kuliahnya kak!" #3
+
+            },
+            {
+               "nama": "Bastian Heskia Silaban",
+                "nim": "122450130",
+                "umur": "21",
+                "asal":"Batam",
+                "alamat": "Belwis",
+                "hobi": "Main Game",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "Abangnya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya bang!" #4
+
+            },
+            {
+                "nama": "Dea Mutia Risani",
+                "nim": "122450099",
+                "umur": "20",
+                "asal":"Sumatera Barat",
+                "alamat": "Korpri",
+                "hobi": "Dengerin musik",
+                "sosmed": "@deaa.rsn",
+                "kesan": "Kakaknya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya kak!" #5
+
+            },
+            {
+                "nama": "Esteria Rohanauli Sidauruk",
+                "nim": "122450005",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobi": "Kirim BC-an",
+                "sosmed": "@esteriars",
+                "kesan": "Kakaknya baik asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #6
+
+            },
+            {
+               "nama": "Natasya Ega Lina",
+                "nim": "122450024",
+                "umur": "19",
+                "asal":"Sumatera Utara",
+                "alamat": "Pemda",
+                "hobi": "Jadi Humas",
+                "sosmed": "@natee__15",
+                "kesan": "Kakaknya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya kak!" #7
+
+            },
+            {
+                "nama": "Novelia Adinda",
+                "nim": "122450104",
+                "umur": "20",
+                "asal":"Saburai",
+                "alamat": "Belwis",
+                "hobi": "Tidur",
+                "sosmed": "@nvliaadinda",
+                "kesan": "Kakaknya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya kak!" #8
+
+            },
+            {
+                "nama": "Ratu Keisha Jasmine Deanova",
+                "nim": "122450106",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "Way Kandis",
+                "hobi": "Pulang malam",
+                "sosmed": "@jasminednva",
+                "kesan": "Kakaknya baik dan seru",  
+                "pesan":"emangat terus kuliahnya kak!" #9
+
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemen_eksternal()
+
