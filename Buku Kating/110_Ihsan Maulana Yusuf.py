@@ -19,7 +19,7 @@ def streamlit_menu():
             "Departemen MIKFES",
             "Departemen Eksternal",
             "Departemen Internal",
-            "Departemen SSD",
+            "Departemen Storage Sains Data",
             "Departemen MEDKRAF",
         ],
         icons=[
@@ -1360,7 +1360,7 @@ elif menu == "Departemen Internal":
         display_images_with_data(gambar_urls, data_list)
     departemeninternal()
 
-elif menu == "Departemen SSD":
+elif menu == "Departemen Storage Sains Data":
     def departemenssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=11i-RffyRtIRUkj6MUqYIL9sfKMbmTG-4", #101
