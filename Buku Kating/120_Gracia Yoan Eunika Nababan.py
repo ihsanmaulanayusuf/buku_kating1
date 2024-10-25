@@ -370,7 +370,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
     
-    if menu == "Departemen PSDA":
+elif menu == "Departemen PSDA":
     def departemenPSDA():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv",#1
@@ -394,9 +394,7 @@ elif menu == "Senator":
             "https://drive.google.com/uc?export=view&id=12kIyMuSNELwUt6GZk_lPGgBsY6I9Y2CB",#19
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#20
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#21
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#22
-            
-       
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#22        
         ]
         data_list = [
             {
@@ -893,7 +891,7 @@ elif menu == "MIKFES":
                 "kesan": "Abangnya baik dan asik",  
                 "pesan":"Semangat terus kuliahnya bang!" #19
             },
-              {
+            {
                 "nama": "Vita Anggraini",
                 "nim": " ",
                 "umur": " ",
@@ -903,9 +901,20 @@ elif menu == "MIKFES":
                 "sosmed": " ",
                 "kesan": " ",  
                 "pesan":"Semangat terus kuliahnya kak!" #20
-            },
-                
+            },             
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
+
+elif menu == "Eksternal":
+    def eksternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+    
 
