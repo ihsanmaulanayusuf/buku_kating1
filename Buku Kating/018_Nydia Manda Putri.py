@@ -450,7 +450,7 @@ elif menu == "Departemen PSDA":
                 "nim": "122450033",
                 "umur": "20",
                 "asal": "Sumatera Barat",
-                "alamat": "Gg. Perwira Belwis,
+                "alamat": "Gg. Perwira Belwis",
                 "hobbi": "Main",
                 "sosmed": "@allyaislami_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
