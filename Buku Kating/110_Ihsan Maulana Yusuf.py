@@ -1252,7 +1252,7 @@ elif menu == "Departemen Internal":
                 "umur": "21",
                 "asal":"Bekasi",
                 "alamat": "Jl. Lapas Raya",
-                "hobi": Nulis lagu",
+                "hobi": "Nulis lagu",
                 "sosmed": "@rendaepr",
                 "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
                 "pesan":"Semangat terus bang kuliahnya" #91
