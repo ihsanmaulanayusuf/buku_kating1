@@ -376,7 +376,7 @@ elif menu == "Senator":
     senator()
 
 elif menu == "Departemen PSDA":
-    def departemen_psda():
+    def departemenpsda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1BK8dk83jEIciIsS5ZRWmO61VU7U5R2WT", #22
             "https://drive.google.com/uc?export=view&id=1HuvD1X9ffARDvtI0f6MhRetQdJ3echd8", #23
@@ -658,6 +658,6 @@ elif menu == "Departemen PSDA":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    departemen_psda()
+    departemenpsda()
         
             
