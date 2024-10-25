@@ -649,7 +649,7 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def departemenmikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1EKGPM1bj7a7KW_hQMxmIGVNu096PdJu0",
+            "https://drive.google.com/uc?export=view&id=1ZG842FNxvXawVwQLjjwGvA8VflI0XYtQ",
             "https://drive.google.com/uc?export=view&id=1DEq3m3j_mreF9Ssp_1MRKNx_gNwCCjM7",
             "https://drive.google.com/uc?export=view&id=1DT8d6LybqmSytmJGM4cNdD-xsuJmRK23",
             "https://drive.google.com/uc?export=view&id=1E5-jUdeQIeFSlvmYRMSvdY3GPQAaEA4d",
