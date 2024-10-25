@@ -404,8 +404,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
+                "kesan": "Kakak ini orangnya ramah dan mudah diajak bicara.",
+                "pesan": "Semangat terus dalam mengejar cita-cita, kak!",
                 "jabatan": "Kepala Departemen PSDA"
             },
             {
@@ -416,8 +416,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
+                "kesan": "Kakak sabar mendengarkan keluh kesah kami.",
+                "pesan": "Teruslah berbagi pengetahuan dan pengalaman, kak!",
                 "jabatan": "Sekretaris Departemen PSDA"
             },
             {
@@ -428,8 +428,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Pulau Damar",
                 "hobbi": "Belajar",
                 "sosmed": "@depanloo",
-                "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
+                "kesan": "Kakak ini selalu tampil percaya diri dan positif.",
+                "pesan": "Jangan pernah lelah untuk belajar dan berkembang, kak!",
                 "jabatan": "Kepala Divisi Manajemen Minat dan Bakat"
             },
             {
