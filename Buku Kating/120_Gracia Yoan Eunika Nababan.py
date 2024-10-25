@@ -650,24 +650,20 @@ elif menu == "MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17PkJXwqPqa4lyeBMno1iCsnvqGy1ytYd",#1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#3
-            "https://drive.google.com/uc?export=view&id=1oUGYdedJx1FzdRBEunbriW7v8wqgjJNq",#4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#5
-            "https://drive.google.com/uc?export=view&id=1SH5Ep3AglNZL-k1rkBGSmzKBD25iFGx0",#6
-            "https://drive.google.com/uc?export=view&id=1U7d0QQNQjA7SZuPS49q-lezyfmJv9by7",#7
-            "https://drive.google.com/uc?export=view&id=1h00eL-OCFb9fgoTX6BRQSKVqKjFirDJw",#8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#9
+            "https://drive.google.com/uc?export=view&id=1oUGYdedJx1FzdRBEunbriW7v8wqgjJNq",#3
+            "https://drive.google.com/uc?export=view&id=1SH5Ep3AglNZL-k1rkBGSmzKBD25iFGx0",#4
+            "https://drive.google.com/uc?export=view&id=1U7d0QQNQjA7SZuPS49q-lezyfmJv9by7",#5
+            "https://drive.google.com/uc?export=view&id=1h00eL-OCFb9fgoTX6BRQSKVqKjFirDJw",#6
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#7
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#8
+            "https://drive.google.com/uc?export=view&id=1ufAiRZrrKLPFSdZtEMviJAeGhqrLgfbE",#9
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#10
-            "https://drive.google.com/uc?export=view&id=1ufAiRZrrKLPFSdZtEMviJAeGhqrLgfbE",#11
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#12
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#13
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#11
+            "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc",#12
+            "https://drive.google.com/uc?export=view&id=10HtMXzV8oBASuu8L7UKsruQ_O3NmxmhB",#13
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#14
-            "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc",#15
-            "https://drive.google.com/uc?export=view&id=10HtMXzV8oBASuu8L7UKsruQ_O3NmxmhB",#16
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#17
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#18
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#19
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#20
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#15
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#16
         ]
         data_list = [
             {
@@ -693,18 +689,6 @@ elif menu == "MIKFES":
                 "pesan": "Semangat terus kuliahnya kak!" #2
             },
             {
-                "nama": "Mujadid Choirus Surya",
-                "nim": " ", 
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": " ",  
-                "pesan":"Semangat terus kuliahnya bang!" #3
-
-            },
-            {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
                 "umur": "20",
@@ -713,19 +697,7 @@ elif menu == "MIKFES":
                 "hobi": "Olahraga",
                 "sosmed": "@sahid22__",
                 "kesan": "Abangnya baik dan asik",  
-                "pesan":"Sukses terus kuliahnya bang!" #4
-
-            },
-            {
-               "nama": "Fadhil Fitra Wijaya",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": " ",  
-                "pesan":"Semangat terus kuliahnya bang!" #5
+                "pesan":"Sukses terus kuliahnya bang!" #3
 
             },
             {
@@ -737,7 +709,7 @@ elif menu == "MIKFES":
                 "hobi": "Ngasprak ADS",
                 "sosmed": "@mregiiii_",
                 "kesan": "Abangnya baik dan seru banget",  
-                "pesan":"Semangat terus kuliahnya bang!" #6
+                "pesan":"Semangat terus kuliahnya bang!" #4
 
             },
             {
@@ -749,7 +721,7 @@ elif menu == "MIKFES":
                 "hobi": "Review jurnal bu mika",
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakaknya baik dan lucu",  
-                "pesan":"Semangat terus kuliahnya kak!" #7
+                "pesan":"Semangat terus kuliahnya kak!" #5
 
             },
             {
@@ -761,7 +733,7 @@ elif menu == "MIKFES":
                 "hobi": "ML (Machine Learning)",
                 "sosmed": "@here.am.ai",
                 "kesan": "Abangnya baik dan seru",  
-                "pesan":"Semangat terus kuliahnya bang!" #8
+                "pesan":"Semangat terus kuliahnya bang!" #6
             },  
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
@@ -772,7 +744,7 @@ elif menu == "MIKFES":
                 "hobi": "Resume Webinar",
                 "sosmed": "@anjaniiidev",
                 "kesan": "Kakanya baik dan keren",  
-                "pesan":"Semangat terus kuliahnya kak" #9
+                "pesan":"Semangat terus kuliahnya kak" #7
             },
             {
                 "nama": "Dinda Nababan",
@@ -783,7 +755,7 @@ elif menu == "MIKFES":
                 "hobi": "Membaca jurnal bu mika",
                 "sosmed": "@dindanababan",
                 "kesan": "NIM ujung dan marga kita sama kak",  
-                "pesan": "Semangat terus kuliahnya ya kak!" #10
+                "pesan": "Semangat terus kuliahnya ya kak!" #8
  
             },
             {
@@ -795,7 +767,7 @@ elif menu == "MIKFES":
                 "hobi": "Review jurnal bu mika",
                 "sosmed": "@marletacornelia",
                 "kesan": "Kakaknya baik banget dan asik",  
-                "pesan": "Semangat terus kuliahnya kak!" #11
+                "pesan": "Semangat terus kuliahnya kak!" #9
 
             },
             {
@@ -807,7 +779,7 @@ elif menu == "MIKFES":
                 "hobi": "Menghitung akurasi",
                 "sosmed": "@junitaa_0406",
                 "kesan": "Kakaknya baik dan seru",  
-                "pesan": "Semangat terus kuliahnya kak!" #12
+                "pesan": "Semangat terus kuliahnya kak!" #10
 
             },
             {
@@ -819,19 +791,7 @@ elif menu == "MIKFES":
                 "hobi": "Membangkitkan bilangan",
                 "sosmed": "@pratiwifebiya",
                 "kesan": "Kakaknya baik dan asik",  
-                "pesan": "Semangat terus kuliahnya kak!" #13
-
-            },
-            {
-               "nama": "Abdurrahman Al-atsary",
-                "nim": " ",
-                "umur": " ",
-                "asal":" "
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": " ",  
-                "pesan": "Semangat terus kuliahnya bang!" #14
+                "pesan": "Semangat terus kuliahnya kak!" #11
 
             },
             {
@@ -843,7 +803,7 @@ elif menu == "MIKFES":
                 "hobi": "Ngoding wisata",
                 "sosmed": "@rahm.adityaa",
                 "kesan": "Abangnya baik dan asik",  
-                "pesan":"Semangat terus kuliahnya bang!" #15
+                "pesan":"Semangat terus kuliahnya bang!" #12
 
             },
             {
@@ -855,7 +815,7 @@ elif menu == "MIKFES":
                 "hobi": "Ngoding wisata",
                 "sosmed": "@_egistr",
                 "kesan": "Abangnya baik dan keren",  
-                "pesan": "Semangat terus kuliahnya bang!" #16
+                "pesan": "Semangat terus kuliahnya bang!" #13
 
             },
             {
@@ -867,7 +827,7 @@ elif menu == "MIKFES":
                 "hobi": "Review jurnal",
                 "sosmed": "@pratiwifebiya",
                 "kesan": "Kakaknya baik dan asik",  
-                "pesan": "Semangat terus kuliahnya kak!" #17
+                "pesan": "Semangat terus kuliahnya kak!" #14
 
             },
             {
@@ -879,7 +839,7 @@ elif menu == "MIKFES":
                 "hobi": "Main game",
                 "sosmed": "@sudo.syahrulramadhan",
                 "kesan": "Abangnya baik dan asik",  
-                "pesan":"Semangat terus kuliahnya bang!" #18
+                "pesan":"Semangat terus kuliahnya bang!" #15
             },
             {
                 "nama": "Randa Andriana Putra",
@@ -890,20 +850,8 @@ elif menu == "MIKFES":
                 "hobi": "Tidur dan berkembang",
                 "sosmed": "@randaandriana_",
                 "kesan": "Abangnya baik dan asik",  
-                "pesan":"Semangat terus kuliahnya bang!" #19
+                "pesan":"Semangat terus kuliahnya bang!" #16
             },
-              {
-                "nama": "Vita Anggraini",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": " ",  
-                "pesan":"Semangat terus kuliahnya kak!" #20
-            },
-                
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
