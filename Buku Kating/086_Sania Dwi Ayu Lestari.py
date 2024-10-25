@@ -402,7 +402,6 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1kVYbs2E6394NaYZBZJ78Z2losM3Bg7bC",
             "https://drive.google.com/uc?export=view&id=1lGnY5-IftXz9HH3X_5rDfS8eruEeis7o",
             "https://drive.google.com/uc?export=view&id=1kWg5hvU0j95IXgyqVxU1-VwvFxH5nIU8",
-            "https://drive.google.com/uc?export=view&id=1kX0sE6FG3Py2ZUq6cAbzPcD1IP_WJdFZ",
         ]
         data_list = [
             {
