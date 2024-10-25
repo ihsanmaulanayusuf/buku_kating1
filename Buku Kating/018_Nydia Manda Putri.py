@@ -643,5 +643,5 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kuliahnya kak!"
             },
         ]
-        display_images_with_data(gambar_urls, data_list)
+          display_images_with_data(gambar_urls, data_list)
     departemenpsda()
