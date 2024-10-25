@@ -411,7 +411,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1F3-BG5YZlLYYBYcM-USexli-EFJpLno_",
             "https://drive.google.com/uc?export=view&id=1EOEawIg4Jl7GzSmPGN0XOhDmrdUCc3ZD",
         ]
-        data_list = [
+        
+       data_list = [
             {
                 "nama": "Ericson Chandra Sihombing",
                 "nim": "121450026",
@@ -643,5 +644,5 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kuliahnya kak!"
             },
         ]
-          display_images_with_data(gambar_urls, data_list)
+        display_images_with_data(gambar_urls, data_list)
     departemenpsda()
