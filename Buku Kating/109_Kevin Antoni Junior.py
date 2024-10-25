@@ -1,3 +1,4 @@
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -339,7 +340,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!" #19
             },
         ]
-             display_images_with_data(gambar_urls, data_list)
+        display_images_with_data(gambar_urls, data_list)
     baleg()
     
 elif menu == "Senator":
@@ -372,8 +373,9 @@ elif menu == "Senator":
                 "pesan":"infokan catur bang"# 2
             },
         ]
-            display_images_with_data(gambar_urls, data_list)
+        display_images_with_data(gambar_urls, data_list)
     senator()
+    
 elif menu == "Departemen PSDA":
     def departemenpsda():
         gambar_urls = [
@@ -401,7 +403,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#43
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#44
         ]
-         {
+        data_list = [
+           {
                 "nama": "Ericson Chandra Sihombing",
                 "nim": "121450026",
                 "umur": "21",
@@ -657,7 +660,7 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenpsda()
-        ]
+        
         
 
 # Tambahkan menu lainnya sesuai kebutuhan
