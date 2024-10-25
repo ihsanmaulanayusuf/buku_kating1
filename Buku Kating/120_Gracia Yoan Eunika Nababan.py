@@ -371,7 +371,7 @@ elif menu == "Senator":
     senator()
     
 elif menu == "Departemen PSDA":
-    def departemenpsda ():
+    def departemen_psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv",#1
             "https://drive.google.com/uc?export=view&id=1hd_ZBV8YXCjifW3POxChGh5B9432VlOo",#2
@@ -643,10 +643,10 @@ elif menu == "Departemen PSDA":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    departemenpsda()
+    departemen_psda()
 
 elif menu == "Departemen MIKFES":
-    def departemen_mikfes ():
+    def departemen_mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17PkJXwqPqa4lyeBMno1iCsnvqGy1ytYd",#1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#2
