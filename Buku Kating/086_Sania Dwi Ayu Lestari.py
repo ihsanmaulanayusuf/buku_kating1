@@ -355,7 +355,7 @@ elif menu == "Senator":
                 "umur": "22",
                 "asal":"Lampung Tengah",
                 "alamat": "Kost Putri Rahayu",
-                "hobi": "Bernyanyi",
+                "hobbi": "Bernyanyi",
                 "sosmed": "@annisalutfia_",
                 "kesan": "Kakanya baik asik jugaa",  
                 "pesan":"semangat terus kuliahnya kak!" #1
@@ -367,7 +367,7 @@ elif menu == "Senator":
                 "umur": "20",
                 "asal":"Palembang",
                 "alamat": "Kota baru",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "abangnya baik dan tegas",  
                 "pesan":"semangat terus kuliahnya bang" #2
