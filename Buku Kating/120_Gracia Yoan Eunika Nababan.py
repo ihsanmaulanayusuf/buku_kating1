@@ -853,8 +853,8 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semangat terus kuliahnya bang!" #16
             },
         ]
-        display_images_with_data(gambar_urls, data_list)
-   departemen_mikfes()
+         display_images_with_data(gambar_urls, data_list)
+    departemen_mikfes()
 
 elif menu == "Departemen Eksternal":
     def departemen_eksternal():
