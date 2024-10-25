@@ -180,7 +180,7 @@ if menu == "Kesekjenan":
 
 elif menu == "Baleg":
     def baleg():
-        gambar_urls = [
+        gambar_urls = """ [
             "https://drive.google.com/uc?export=view&id=105brwiz2HlVf_5oztIM3rGZs3-StaAar", #1
             "https://drive.google.com/uc?export=view&id=1-mji1Sn-u6vll__yhV3uWOVsameUh3v3", #2
             "https://drive.google.com/uc?export=view&id=1-m--bsigFmXuCQNr6jJ373W_HUHeLYnf", #3
@@ -196,7 +196,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1-lzvM0otdkRW025tM-oahYKLInd0cSCg", #13
             
             
-        ]
+        ]"""
         data_list = [
             {
                 "nama": "Tri Murniya Ningsih",
