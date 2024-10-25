@@ -184,9 +184,9 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1gKwnARsd07N3GCM8X465ikdrD-DEPHUW",
             "https://drive.google.com/uc?export=view&id=1gQ9B0HT3YhoWyrbNB3RZJVVmMdiz4GkG",
             "https://drive.google.com/uc?export=view&id=1gFk42bc_4efBRkvym4etYFX6WXIMPjzp",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1fpA9i32p1kBNW_5oaJ5F3ONVhH2y5LWK",
+            "https://drive.google.com/uc?export=view&id=14qk7upfYCxCRKkfyquWu9qCIpRgWUbOn",
+            "https://drive.google.com/uc?export=view&id=14qbyVX3Ecvd7NjVC6K9fDRv6_PH17rIY",
             "https://drive.google.com/uc?export=view&id=1fjhLldMZX79mtV2naj7MXNd5BBQaDo3-",
             "https://drive.google.com/uc?export=view&id=1fvDgdR0Wfk9_Kmg84MCOsO7TdHhSuDU5",
             "https://drive.google.com/uc?export=view&id=1gJhtp3YxE2T4LAIQlwFHTY2RGsX3rJz-",
@@ -333,8 +333,8 @@ elif menu == "Baleg":
                 "alamat": "Billabong, Gedong air",
                 "hobbi": "Suka bengong",
                 "sosmed": "@jeremia_s_",
-                "kesan": "",  
-                "pesan":"!"# 13
+                "kesan": "bang jere baik banget asik jugaa",  
+                "pesan":"Semangat kuliahnya bang!"# 13
             },
             
             
@@ -342,4 +342,39 @@ elif menu == "Baleg":
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+elif menu == "Senator":
+    def senator ():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1mM9apWiLnliAJIgdKSU09bpdO3qNW-v8",
+            "https://drive.google.com/uc?export=view&id=1mO-iRiFk11rX_qJHnp8x5iKXQJU0-RdS",
+        ]
+        data_list = [
+            {
+                "nama": "Anissa Luthfi Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobi": "Bernyanyi",
+                "sosmed": "@annisalutfia_",
+                "kesan": "Kakanya baik asik jugaa",  
+                "pesan":"semangat terus kuliahnya kak!" #1
+
+            },
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kota baru",
+                "hobi": "Tidur",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "abangnya baik dan tegas",  
+                "pesan":"semangat terus kuliahnya bang" #2
+
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
+
+
