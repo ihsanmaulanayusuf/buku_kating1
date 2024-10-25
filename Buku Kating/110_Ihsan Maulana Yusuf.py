@@ -330,7 +330,7 @@ elif menu == "Baleg":
             {
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
-                "umur": "20",
+                "umur": "20", 
                 "asal":"Bandar Lampung",
                 "alamat": "Billabong, Gedong Air",
                 "hobi": "Suka Bengong",
