@@ -614,47 +614,47 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "M. Farhan Athaulloh",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
+                "nim": "121450117",
+                "umur": "21",
+                "asal":"Lampung",
                 "alamat": "Kota Baru",
-                "hobi": "Membantu orang",
-                "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang" #41
+                "hobi": "Menolong",
+                "sosmed": "@mfarhan.ath",
+                "kesan": "Abang ini, asik, orangnya santai, friendly, suka menolong dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa cepat lulus dengan hasil yang memuaskan" #41
             },
             {
                 "nama": "Gede Moana",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Tidur",
-                "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang" #42
+                "nim": "121450014",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Korpri Raya",
+                "hobi": "Belajar, Game, Baca Komik",
+                "sosmed": "@gedemoenaa",
+                "kesan": "Abang ini asik, baik, dan ramah",  
+                "pesan":"Semangat terus bang kuliahnya semoga cepat lulus dengan nilai yang bagus" #42
             },
             {
                 "nama": "Jaclin Alcavella",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Tidur",
-                "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang" #43
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #43
             },
             {
                 "nama":  "Rafly Prabu Darmawan",
-                "nim": "122450094",
+                "nim": "122450140",
                 "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Tidur",
-                "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang" #44
+                "asal":"Bangka Belitung",
+                "alamat": "Sukarame",
+                "hobi": "Main Game",
+                "sosmed": "@raflyy_pd",
+                "kesan": "Abang ini asik, baik, dan ramah",  
+                "pesan":"Semangat terus bang kuliahnya" #44
             },
         ]
         display_images_with_data(gambar_urls, data_list)
