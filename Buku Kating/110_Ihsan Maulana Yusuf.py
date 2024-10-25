@@ -1361,7 +1361,7 @@ elif menu == "Departemen Internal":
     departemeninternal()
 
 elif menu == "Departemen SSD":
-    def departemen_ssd():
+    def departemenssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=11i-RffyRtIRUkj6MUqYIL9sfKMbmTG-4", #101
             "https://drive.google.com/uc?export=view&id=1-5-T_P7VFs_WbsmNy0D1e5hEm3r0jf6s", #102
@@ -1500,7 +1500,7 @@ elif menu == "Departemen SSD":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    departemen_ssd()
+    departemenssd()
             
        
              
