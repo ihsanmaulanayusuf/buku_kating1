@@ -936,7 +936,7 @@ elif menu == "Departemen Eksternal":
                 "nim": "21450122",
                 "umur": "21",
                 "asal": "Jakarta Selatan",
-                "alamat": "Korpri
+                "alamat": "Korpri",
                 "hobbi": "Main Golf",
                 "sosmed": "@nazwanbilla",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
@@ -965,7 +965,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Semangat terus kuliahnya kak!"
             },
             {
-                "nama": "Esteria Rohanauli Sidauruk"",
+                "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
@@ -977,7 +977,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Natasya Ega Lina",
-                "nim": "122450024,
+                "nim": "122450024",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwis",
@@ -990,7 +990,7 @@ elif menu == "Departemen Eksternal":
                 "nama": "Novelia Adinda",
                 "nim": "122450104",
                 "umur": "21",
-                "asal": "Jakarta Timur"",
+                "asal": "Jakarta Timur",
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
@@ -998,8 +998,8 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Semangat terus kuliahnya kak!"
             },
             {
-                "nama": "Ratu Keisha Jasmine Deanova"",
-                "nim": "122450106,
+                "nama": "Ratu Keisha Jasmine Deanova",
+                "nim": "122450106",
                 "umur": "20",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
@@ -1010,17 +1010,17 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Tobias David Manogari",
-                "nim": "122450091"",
+                "nim": "122450091",
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
-                "sosmed": "@tobiassiagian"",
+                "sosmed": "@tobiassiagian",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
             {
-                "nama": "Yohana Manik"",
+                "nama": "Yohana Manik",
                 "nim": "122450126",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
@@ -1037,13 +1037,13 @@ elif menu == "Departemen Eksternal":
                 "asal": "Bekasi",
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
-                "sosmed": "@rzkdrnnn"",
+                "sosmed": "@rzkdrnnn",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
             {
-                "nama": "Arafi Ramadhan Maulana,
-                "nim": "122450002"",
+                "nama": "Arafi Ramadhan Maulana",
+                "nim": "122450002",
                 "umur": "20",
                 "asal": "Bandung",
                 "alamat": "Way Huwi",
@@ -1065,7 +1065,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Asa Do’a Uyi",
-                "nim": "122450005"",
+                "nim": "122450005",
                 "umur": "20",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
@@ -1081,7 +1081,7 @@ elif menu == "Departemen Eksternal":
                 "asal": "Padang",
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
-                "sosmed": "@chlfawww"",
+                "sosmed": "@chlfawww",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
@@ -1101,7 +1101,7 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450090",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat": "Teluk Betung"",
+                "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
