@@ -365,7 +365,7 @@ elif menu == "Senator":
                 "umur": "22",
                 "asal": "Lampung Tengah",
                 "alamat": "Kos Putri Rahayu",
-                "hobbi": "Bernyanyi,
+                "hobbi": "Bernyanyi",
                 "sosmed": "@annisalutfia_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
