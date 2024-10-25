@@ -659,5 +659,267 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenpsda()
+    
+elif menu == "Departemen MIKFES":
+    def departemen_mikfes():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1LPWD-gDJpIV_wn3_-gpvlFbwocQ1cPOH", #45
+            "https://drive.google.com/uc?export=view&id=1HuvD1X9ffARDvtI0f6MhRetQdJ3echd8", #46
+            "https://drive.google.com/uc?export=view&id=1y3XZcYM6BbOiXeXE1tD_UWW-AV0QvnVa", #47
+            "https://drive.google.com/uc?export=view&id=12BiBN6Z-VsYHLTnPc5k5wiV2XiztZ94a", #48
+            "https://drive.google.com/uc?export=view&id=1RQTLjJwk8RyCJ_iA9cBh5HglwBX8UFxT", #49
+            "https://drive.google.com/uc?export=view&id=1N5Quim5BZzCJ37WQnKxVjuCtMogpCyFh", #50
+            "https://drive.google.com/uc?export=view&id=1flMeVOHUJkCnmgAcgSFnsdqrnHE_sT-s", #51
+            "https://drive.google.com/uc?export=view&id=1yEAkN20ZAkx1Ha0Mkduqr1CNrMFdfw7u", #52
+            "https://drive.google.com/uc?export=view&id=1KX-7P3BHz1vnMDzjTNiSbYK0kCzexo-K", #53
+            "https://drive.google.com/uc?export=view&id=1ixrJFfIFSnhdhLJSjnxw8c1-lT6_cO9N", #54
+            "https://drive.google.com/uc?export=view&id=1IZdlioTBZ9BuYD6flw7iMwirz-I-CVHd", #55
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #56
+            "https://drive.google.com/uc?export=view&id=1UlIGJaGmKRpVZsufC8x3VnMN64f68y3z", #57
+            "https://drive.google.com/uc?export=view&id=1oF2ILseFnmh3Zb1Gi1EIjQ-he4h933F4", #58
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #59
+            "https://drive.google.com/uc?export=view&id=1cwwLR90vieznnhcbGXyvQcQldVpU96mt", #60
+            "https://drive.google.com/uc?export=view&id=1_D7mOlSQ77xuCoKbwbvWRJW7OrnieDGs", #61
+            "https://drive.google.com/uc?export=view&id=1-FsbN3aYy_Q0o9vvlIdusmqovDUx-vr2", #62
+            "https://drive.google.com/uc?export=view&id=1zMx6vCEyiaXhOGO1BHABM11H4BhOKkRW", #63
+            "https://drive.google.com/uc?export=view&id=1ye2Y3mmSSuyE4saZWb73_E0J6P0S_Dux", #64
+            "https://drive.google.com/uc?export=view&id=1Ct4HiQljB6SHDoQoaxqPP2egxClQHMSI", #65
+        ]
+        data_list = [
+            {
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
+                "umur": "21",
+                "asal":"Lubuk Linggau, Sumatera Selatan",
+                "alamat": "Jl. Nangka 4",
+                "hobi": "Olahraga",
+                "sosmed": "@rafadhlillahh13",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #45
+            },
+            {
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "19",
+                "asal":"Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi",
+                "hobi": "Memasak",
+                "sosmed": "@anovavona",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak kuliahnya, semoga setelah lulus nanti bisa mendapatkan pekerjaan sesuai dengan yang kakak mau" #46
+            },
+            {
+                "nama": "Mujadid Choirus Surya",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #47
+            },
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "19",
+                "asal":"Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobi": "Olahraga",
+                "sosmed": "@",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #48
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #49
+            },
+            {
+                "nama": "Muhammad Regi Abdi Putra Amanta",
+                "nim": "122450031",
+                "umur": "19",
+                "asal":"Palembang",
+                "alamat": "Jl. Permadi",
+                "hobi": "Ngasprak ADS",
+                "sosmed": "@",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #50
+            },
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "19",
+                "asal":"Tangerang",
+                "alamat": "Gg. Yudistira",
+                "hobi": "Review jurnal Bu Mika",
+                "sosmed": "@",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #51
+            },
+            {
+                "nama": "Natanael Oktavianus Partahan Sihombing",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #52
+            },
+            {
+                "nama": "Anwar Muslim",
+                "nim": "122450117",
+                "umur": "19",
+                "asal":"Bukittinggi",
+                "alamat": "Korpri",
+                "hobi": "ML (Machine Learning)",
+                "sosmed": "@",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #53
+            },
+            {
+                "nama": "Deva Anjani Khayyuninafsyah",
+                "nim": "122450014",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Kemiling",
+                "hobi": "Resume Webinar",
+                "sosmed": "@",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #54
+            },
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal":"Medan",
+                "alamat": "Jl. Lapas",
+                "hobi": "Membaca jurnal Bu Mika",
+                "sosmed": "@dindanababan",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #55
+            },
+            {
+                "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal":"Depok",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Review jurnal Bu Mika",
+                "sosmed": "@marletacornelia",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #56
+            },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #57
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #58
+            },
+            {
+                "nama": "Abdurrahman Al-atsary",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #59
+            },
+            {
+                "nama": "Aditya Rahman",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #60
+            },
+            {
+                "nama": "Eggi satria",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #61
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #62
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #63
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #64
+            },
+            {
+                "nama": "Vita Anggraini",
+                "nim": "122450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinaclcv",
+                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus kak" #65
+            },
+         ]
+        display_images_with_data(gambar_urls, data_list)
+    departemen_mikfes()
+            
         
             
