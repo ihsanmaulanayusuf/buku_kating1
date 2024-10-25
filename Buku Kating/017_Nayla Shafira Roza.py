@@ -670,24 +670,26 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def departemenmikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
+            "https://drive.google.com/uc?export=view&id=1PujWWhHQxNlfXAlAzu8l-QwK6bkukNil", #1
+            "https://drive.google.com/uc?export=view&id=1QQQze-9DGOjRIjQsONvyJvvwhWnMRLba", #2
+            "https://drive.google.com/uc?export=view&id=1QHdUDlTMeK8-Wr9cg3xBjBJOKIiQJwwY", #3
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
+            "https://drive.google.com/uc?export=view&id=1R398Hbj_npPUbwQgBWne2Mi39m3NoDU8", #5
+            "https://drive.google.com/uc?export=view&id=1R4SvKONJG1OvPpJdmaRReKzQ_jeCSyfz", #6
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #13
+            "https://drive.google.com/uc?export=view&id=1Qe4df8BJ-aOdoii_obTA-7PpVbj4fEVz", #8
+            "https://drive.google.com/uc?export=view&id=1QPFZDbRUgAhDYwswxQzExIh-kt_UxCMY", #9
+            "https://drive.google.com/uc?export=view&id=1PzNcNmmmQUP-D8DCHh6-fKFO2-VkF2BY", #10
+            "https://drive.google.com/uc?export=view&id=1QpecQh3-D0Ubo1AuW_M6NtAnqXVUafts", #11
+            "https://drive.google.com/uc?export=view&id=1R7Mv5_m772FuH21yE5CPk2795upOZp2u", #12
+            "https://drive.google.com/uc?export=view&id=1QqULVWLFkZ61Es8tiJ-DYCRn53O93OAF", #13
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #14
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #15
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #16
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #17
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #18
+            "https://drive.google.com/uc?export=view&id=1QCF8D4k6ZZjeUx5hYeMsnHlTfUJXcFm-", #15
+            "https://drive.google.com/uc?export=view&id=1QZOAMqBNSr8VFUHGVLGVwmfpMeKFT3Yc", #16
+            "https://drive.google.com/uc?export=view&id=1Qq80yNHFWnZhhUOcnoLIV4YKEXAvBFig", #17
+            "https://drive.google.com/uc?export=view&id=1R0o0ZLgH-hP-WU4-GuiBsmAfJNDHp5vO", #18
+            "https://drive.google.com/uc?export=view&id=1QSAPi9u6oEIITgUx4NM398psN5RgKheN", #19
+            
         ]
         data_list = [
             {
@@ -914,8 +916,8 @@ elif menu == "Departemen MIKFES":
                 "alamat sekarang": "Jl Nangka 3",
                 "hobi": "Berolahraga",
                 "sosial media": "@randardn",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Asisten tutorial matdas pas tpb",
+                "pesan": "Semoga ilmu yang diajarkan jadi amal jariyah",
             }
         ]
 
@@ -1422,73 +1424,73 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Farel Julio Akbar",
                 "nim": "122450110",
-                "Umur": "20",
-                "Asal": "Bogor",
-                "Alamat Sekarang": "Lapas",
-                "Hobi": "Bebas",
-                "Sosial Media": "@farel_julio",
-                "Kesan": "",
-                "Pesan": "",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Lapas",
+                "hobbi": "Bebas",
+                "sosmed": "@farel_julio",
+                "kesan": "",
+                "pesan": "",
      
             },
             {
                 "nama": "Ahmad Rizqi",
                 "nim": "122450138",
-                "Umur": "20",
-                "Asal": "Bukittingi",
-                "Alamat Sekarang": "Airan 1",
-                "Hobi": "Badminton",
-                "Sosial Media": "@ahmad.ris45",
-                "Kesan": "",
-                "Pesan": "",
+                "umur": "20",
+                "asal": "Bukittingi",
+                "alamat": "Airan 1",
+                "hobbi": "Badminton",
+                "sosmed": "@ahmad.ris45",
+                "kesan": "",
+                "pesan": "",
              
             },
             {
                 "nama": "Tessa Kania Sagala",
                 "nim": "122450040",
-                "Umur": "20",
-                "Asal": "Simalungun",
-                "Alamat Sekarang": "Pemda",
-                "Hobi": "Menulis",
-                "Sosial Media": "@tesakanias",
-                "Kesan": "",
-                "Pesan": "",
+                "umur": "20",
+                "asal": "Simalungun",
+                "alamat": "Pemda",
+                "hobbi": "Menulis",
+                "sosmed": "@tesakanias",
+                "kesan": "",
+                "pesan": "",
            
             },
             {
                 "nama": "Nabilah Andika Fitriati",
                 "nim": "121450139",
-                "Umur": "20",
-                "Asal": "Kedaton",
-                "Alamat Sekarang": "Kedaton",
-                "Hobi": "Tidur",
-                "Sosial Media": "@nabilahanftr",
-                "Kesan": "",
-                "Pesan": "",
+                "umur": "20",
+                "asal": "Kedaton",
+                "alamat": "Kedaton",
+                "hobbi": "Tidur",
+                "sosmed": "@nabilahanftr",
+                "kesan": "",
+                "pesan": "",
               
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
                 "nim": "122450026",
-                "Umur": "20",
-                "Asal": "Bekasi",
-                "Alamat Sekarang": "Korpri",
-                "Hobi": "Main Alat Musik",
-                "Sosial Media": "@meylanielia",
-                "Kesan": "",
-                "Pesan": "",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan": "",
+                "pesan": "",
     
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
-                "Umur": "20",
-                "Asal": "Bandar Lampung",
-                "Alamat Sekarang": "Jl. Nangkal",
-                "Hobi": "Olahraga",
-                "Sosial Media": "@dhafinrzqa13",
-                "Kesan": "",
-                "Pesan": "",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jl. Nangkal",
+                "hobbi": "Olahraga",
+                "sosmed": "@dhafinrzqa13",
+                "kesan": "",
+                "pesan": "",
               
             }
         ]
