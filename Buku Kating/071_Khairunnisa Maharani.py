@@ -653,7 +653,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Rafi Fadhlillah",
                 "nim": "121450143",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Lubuk Linggau",
                 "alamat sekarang": "Jl. Nangka 4",
                 "hobi": "Olahraga",
@@ -665,7 +665,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Annisa Novantika",
                 "nim": "121450005",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Lampung Utara",
                 "alamat sekarang": "Jl. Pulau Sebesi, Sukarame",
                 "hobi": "Memasak",
@@ -677,7 +677,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Tulang Bawang",
                 "alamat sekarang": "Sukarame",
                 "hobi": "Olahraga",
@@ -689,7 +689,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Fadhil Fitra Wijaya",
                 "nim": "122450082",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Bekasi",
                 "alamat sekarang": "Teluk Betung",
                 "hobi": "Main Game",
@@ -701,7 +701,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
                 "nim": "122450031",
-                "umur": 19,
+                "umur": "19",
                 "asal": "Palembang",
                 "alamat sekarang": "Jl. Permadi Sukarame",
                 "hobi": "Jadi admin ig mikfes.hmsd",
@@ -713,7 +713,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Syalaisha Andina Putriansyah",
                 "nim": "122450121",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Tangerang",
                 "alamat sekarang": "Gg Yudhistira",
                 "hobi": "Baca Novel",
@@ -725,7 +725,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
                 "nim": "121450107",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Jakarta",
                 "alamat sekarang": "Kemiling",
                 "hobi": "Membuka Wisata HMSD",
@@ -737,7 +737,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Bukittinggi",
                 "alamat sekarang": "Korpri",
                 "hobi": "ML (Machine Learning)",
@@ -749,7 +749,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
                 "nim": "122450014",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Kemiling",
                 "hobi": "Menonton Film",
@@ -761,7 +761,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Dinda Nababan",
                 "nim": "122450120",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Medan",
                 "alamat sekarang": "Jl. Lapas",
                 "hobi": "",
@@ -773,7 +773,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Marleta Cornelia Leander",
                 "nim": "122450092",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Depok, Jawa Barat",
                 "alamat sekarang": "Gg. Nangka 3",
                 "hobi": "Liatin Jurnal",
@@ -785,7 +785,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Rut Junita Sari Siburian",
                 "nim": "122450103",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Batam, Kep.Riau",
                 "alamat sekarang": "Gg. Nangka 3",
                 "hobi": "Resume Jurnal",
@@ -797,7 +797,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Syadza Puspadari Azhar",
                 "nim": "122450072",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Palembang",
                 "alamat sekarang": "Belwis",
                 "hobi": "Membaca",
@@ -809,7 +809,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Abdurrahman Al-atsary",
                 "nim": "121450128",
-                "umur": 23,
+                "umur": "23",
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Perumnas Way Kandis",
                 "hobi": "Membaca",
@@ -821,7 +821,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Aditya Rahman",
                 "nim": "122450113",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Lampung Timur",
                 "alamat sekarang": "Korpri",
                 "hobi": "Ngoding WISATA",
@@ -833,7 +833,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Eggi Satria",
                 "nim": "122450032",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Sukabumi",
                 "alamat sekarang": "Korpri",
                 "hobi": "Ngoding dan buat konten WISATA",
@@ -845,7 +845,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Febiya Jomy Pratiwi",
                 "nim": "122450074",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Tulang Bawang",
                 "alamat sekarang": "Jl Kelengkeng Raya",
                 "hobi": "Nonton K-Drama",
@@ -857,7 +857,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Happy Syahrul Ramadhan",
                 "nim": "122450013",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Lampung",
                 "alamat sekarang": "Karang Anyar",
                 "hobi": "Main Game",
@@ -869,7 +869,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Banten",
                 "alamat sekarang": "Jl Nangka 3",
                 "hobi": "Berolahraga",
@@ -911,7 +911,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Tangerang",
                 "alamat sekarang": "Jatimulyo",
                 "hobi": "BAB setiap jam 7 pagi",
@@ -923,7 +923,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Ramadhita Atifa Hendri",
                 "nim": "121450131",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Rajabasa",
                 "hobi": "Jalan - Jalan",
@@ -935,7 +935,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Nazwa Nabila",
                 "nim": "121450122",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Jakarta Selatan",
                 "alamat sekarang": "Kochpri",
                 "hobi": "Main Golf",
@@ -947,7 +947,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Bastian Heskia Silaban",
                 "nim": "122450130",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Batam, Kep. Riau",
                 "alamat sekarang": "Belwis",
                 "hobi": "Menggambar",
@@ -959,7 +959,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Dea Mutia Risani",
                 "nim": "122450099",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Sumatera Barat",
                 "alamat sekarang": "Korpri",
                 "hobi": "Berkebun",
@@ -971,7 +971,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
-                "umur": 19,
+                "umur": "19",
                 "asal": "Jakarta Selatan",
                 "alamat sekarang": "Belwis",
                 "hobi": "Main golf bareng kadiv",
@@ -983,7 +983,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Natasya Ega Lina",
                 "nim": "122450024",
-                "umur": 19,
+                "umur": "19",
                 "asal": "Jakarta Selatan",
                 "alamat sekarang": "Belwais",
                 "hobi": "Surfing",
@@ -995,7 +995,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Novelia Adinda",
                 "nim": "122450104",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Jakarta Timur",
                 "alamat sekarang": "Belwis",
                 "hobi": "Tidur",
@@ -1007,7 +1007,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
                 "nim": "122450106",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Jakarta Selatan",
                 "alamat sekarang": "Way Kandis",
                 "hobi": "Main sepak takraw",
@@ -1019,7 +1019,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Tobias David Manogari",
                 "nim": "122450091",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat sekarang": "Pemda",
                 "hobi": "Jogging",
@@ -1031,7 +1031,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yohana Manik",
                 "nim": "122450126",
-                "umur": 19,
+                "umur": "19",
                 "asal": "Jakarta Selatan",
                 "alamat sekarang": "Belwais",
                 "hobi": "Main Bowling",
@@ -1043,7 +1043,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Rizky Adrian Bennovry",
                 "nim": "121450073",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Bekasi",
                 "alamat sekarang": "TVRI",
                 "hobi": "Bikin portofolio",
@@ -1055,7 +1055,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Arafi Ramadhan Maulana",
                 "nim": "122450002",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Bandung",
                 "alamat sekarang": "Way Huwi",
                 "hobi": "Bertani",
@@ -1067,7 +1067,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Asa Do’a Uyi",
                 "nim": "122450005",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Muara Enim",
                 "alamat sekarang": "Korpri",
                 "hobi": "Tepuk Semangat",
@@ -1079,7 +1079,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Chalifia Wananda",
                 "nim": "122450076",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Padang",
                 "alamat sekarang": "Sukarame",
                 "hobi": "Q Time",
@@ -1091,7 +1091,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Irvan Alfaritzi",
                 "nim": "122450093",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Sumatera Barat",
                 "alamat sekarang": "Sukarame",
                 "hobi": "Nonton youtube, main game",
@@ -1103,7 +1103,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Izza Lutfia",
                 "nim": "122450090",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Teluk Betung",
                 "hobi": "Main Rubik",
@@ -1115,7 +1115,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
                 "nim": "122450034",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Rajabasa",
                 "hobi": "Mengaji",
@@ -1127,7 +1127,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Raid Muhammad Naufal",
                 "nim": "122450027",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Lampung Tengah",
                 "alamat sekarang": "Sukarame",
                 "hobi": "Nemenin Tobias lari",
@@ -1139,7 +1139,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Tria Yunanni",
                 "nim": "122450127",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Palembang",
                 "alamat sekarang": "Way Dadi",
                 "hobi": "Olahraga",
@@ -1172,7 +1172,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Dimas Rizky Ramadhani",
                 "nim": "121450027",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Tangerang Selatan",
                 "alamat sekarang": "Way Kandis (Kobam)",
                 "hobi": "Menunggu ayam jantan bertelur",
@@ -1184,7 +1184,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Chatrine Sinaga",
                 "nim": "121450071",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat sekarang": "Airan",
                 "hobi": "Baca Novel",
@@ -1196,7 +1196,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "M. Akbar Restika",
                 "nim": "121450066",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Lampung Barat",
                 "alamat sekarang": "Pasaruntung",
                 "hobi": "Mengoleksi Dino",
@@ -1208,7 +1208,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Renita Siahaan",
                 "nim": "122450070",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Sumatera Utara",
                 "alamat sekarang": "Gerbang Barat",
                 "hobi": "Membaca dan Memancing",
@@ -1220,7 +1220,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Salwa Farhanatussaidah",
                 "nim": "122450055",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Pesawaran",
                 "alamat sekarang": "Airan",
                 "hobi": "Nonton",
@@ -1232,7 +1232,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Rendra Eka Prayoga",
                 "nim": "122450112",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Bekasi",
                 "alamat sekarang": "Jl. Lapas Raya",
                 "hobi": "Menulis lagu",
@@ -1244,7 +1244,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Yosia Retare Banurea",
                 "nim": "121450149",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat sekarang": "Perum Griya Indah",
                 "hobi": "Nungguin ayam betina berkokok",
@@ -1256,7 +1256,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Ari Sigit",
                 "nim": "121450069",
-                "umur": 23,
+                "umur": "23",
                 "asal": "Lampung Barat",
                 "alamat sekarang": "Labuhan Ratu",
                 "hobi": "Futsal",
@@ -1268,7 +1268,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Josua Panggabean",
                 "nim": "122450061",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Sumatera Utara",
                 "alamat sekarang": "Gerbang Barat",
                 "hobi": "Ngejokes",
@@ -1280,7 +1280,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Azizah Kusuma Putri",
                 "nim": "122450068",
-                "umur": 21,
+                "umur": "21",
                 "asal": "Lampung Selatan",
                 "alamat sekarang": "Natar",
                 "hobi": "Berkebun",
@@ -1292,7 +1292,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Pesawaran",
                 "alamat sekarang": "Airan",
                 "hobi": "Nonton",
@@ -1304,7 +1304,7 @@ elif menu == "Departemen Internal":
             {
                 "nama": "Rendi Alexander Hutagalung",
                 "nim": "122450057",
-                "umur": 20,
+                "umur": "20",
                 "asal": "Tangerang",
                 "alamat sekarang": "Kost Benawang",
                 "hobi": "Berenang di Laut",
@@ -1335,7 +1335,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Andrian Agustinus Lumbangaol",
                 "nim": "121450090",
-                "Umur": 21,
+                "Umur": "21",
                 "Asal": "Panjibako",
                 "Alamat Sekarang": "Jl. Bel",
                 "Hobi": "Mencari Uang",
@@ -1347,7 +1347,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Adisty Syawaida Arianto",
                 "nim": "121450136",
-                "Umur": 23,
+                "Umur": "23",
                 "Asal": "Metro",
                 "Alamat Sekarang": "Sukarame",
                 "Hobi": "Nonton Film",
@@ -1359,7 +1359,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
-                "Umur": 21,
+                "Umur": "21",
                 "Asal": "Simalungun",
                 "Alamat Sekarang": "Airan",
                 "Hobi": "Menghitung Uang",
@@ -1371,7 +1371,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Danang Hilal Kurniawan",
                 "nim": "122450085",
-                "Umur": 21,
+                "Umur": "21",
                 "Asal": "Bandar Lampung",
                 "Alamat Sekarang": "Airan",
                 "Hobi": "Touring",
@@ -1383,7 +1383,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Farel Julio Akbar",
                 "nim": "122450110",
-                "Umur": 20,
+                "Umur": "20",
                 "Asal": "Bogor",
                 "Alamat Sekarang": "Lapas",
                 "Hobi": "Bebas",
@@ -1395,7 +1395,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Ahmad Rizqi",
                 "nim": "122450138",
-                "Umur": 20,
+                "Umur": "20",
                 "Asal": "Bukittingi",
                 "Alamat Sekarang": "Airan 1",
                 "Hobi": "Badminton",
@@ -1407,7 +1407,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Tessa Kania Sagala",
                 "nim": "122450040",
-                "Umur": 20,
+                "Umur": "20",
                 "Asal": "Simalungun",
                 "Alamat Sekarang": "Pemda",
                 "Hobi": "Menulis",
@@ -1419,7 +1419,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Nabilah Andika Fitriati",
                 "nim": "121450139",
-                "Umur": 20,
+                "Umur": "20",
                 "Asal": "Kedaton",
                 "Alamat Sekarang": "Kedaton",
                 "Hobi": "Tidur",
@@ -1431,7 +1431,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Elia Meylani Simanjuntak",
                 "nim": "122450026",
-                "Umur": 20,
+                "Umur": "20",
                 "Asal": "Bekasi",
                 "Alamat Sekarang": "Korpri",
                 "Hobi": "Main Alat Musik",
@@ -1443,7 +1443,7 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
-                "Umur": 20,
+                "Umur": "20",
                 "Asal": "Bandar Lampung",
                 "Alamat Sekarang": "Jl. Nangkal",
                 "Hobi": "Olahraga",
