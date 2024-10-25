@@ -187,16 +187,16 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ljb9SvoosMi5KmnZeK4zVxS7voKFkgcU",#1
+            "https://drive.google.com/uc?export=view&id=1NjhtffCc82MtBFUSA2fzTAVC5_imxkkg",#2
+            "https://drive.google.com/uc?export=view&id=10HlLY9RZ2J11NaAI-lcOv_6u1Ku6nBvh",#3
+            "https://drive.google.com/uc?export=view&id=1Dp07vXIkUG2iC04B3wIEpvQCNVvxq4Z1",#4
+            "https://drive.google.com/uc?export=view&id=1Ffk9SXS1tLeogQlM8nqmscilaqXUXQSE",#5
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1aHSlA8xzCqpjE3uVzhRNStT0zyX5POUo",#7
+            "https://drive.google.com/uc?export=view&id=1mcaAXEfl3s1SelPYauHeh7YucCyRvxJn",#8
+            "https://drive.google.com/uc?export=view&id=1XLwRMp-nUeR7mkaMEHv4Thx8NQKygWUg",#9
+            "https://drive.google.com/uc?export=view&id=1hUiGkZy3YhqCfERBH08wPtevcIY9vPbM",#10
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#11
         ]
         data_list = [
             {
@@ -219,7 +219,7 @@ elif menu == "Baleg":
                 "alamat": "Way Hui",
                 "hobi": "Membaca",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "kakaknya lucu",  
+                "kesan": "kakaknya lucu dan asik",  
                 "pesan":"semangat terus kuliahnya kak" #2
 
             },
@@ -279,8 +279,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobi": "Baca Jurnal",
                 "sosmed": "@dylebee",
-                "kesan": "baik banget",  
-                "pesan":"semangat kak" #7
+                "kesan": "kakanya baik banget",  
+                "pesan":"semangat terus kuliahnya kak" #7
 
             },
             {
@@ -303,8 +303,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobi": "Melukis",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "baik",  
-                "pesan":"semangat kak" #9
+                "kesan": "abangnya baik",  
+                "pesan":"semangat terus kuliahnya bang" #9
 
             },
             {
@@ -315,7 +315,7 @@ elif menu == "Baleg":
                 "alamat": "Bandar Lampung",
                 "hobi": "Suka Bengong",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keren",  
+                "kesan": "Abangnya keren dan baik ",  
                 "pesan":"semangat terus kuliahnya bang" #10
 
             },
@@ -327,12 +327,46 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
-                "kesan": "kakaknya baik dn seru",  
-                "pesan":"sukses terus kuliahnya kak" #11
+                "kesan": "kakaknya baik dan seru",  
+                "pesan":"semangat terus kuliahnya kak" #11
             },
            
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+elif menu == "Senator":
+    def senator ():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Anissa Luthfi Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobi": "Bernyanyi",
+                "sosmed": "@annisalutfia_",
+                "kesan": "Kakaknya baik dan cara berkomunikasinya enak didengar",  
+                "pesan":"semangat terus kuliahnya kak!" #1
+
+            },
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kota baru",
+                "hobi": "Tidur",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "abangnya baik dan tegas",  
+                "pesan":"semangat terus kuliahnya bang" #2
+
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
+
