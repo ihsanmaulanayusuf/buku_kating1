@@ -649,11 +649,11 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def departemenmikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1EKGPM1bj7a7KW_hQMxmIGVNu096PdJu0",
-            "https://drive.google.com/uc?export=view&id=1DEq3m3j_mreF9Ssp_1MRKNx_gNwCCjM7",
-            "https://drive.google.com/uc?export=view&id=1DT8d6LybqmSytmJGM4cNdD-xsuJmRK23",
+            "https://drive.google.com/uc?export=view&id=1ZG842FNxvXawVwQLjjwGvA8VflI0XYtQ",
+            "https://drive.google.com/uc?export=view&id=1YyJcPovQqlK0pTJVFGz1IBtdPbsh7lNF",
+            "https://drive.google.com/uc?export=view&id=1Z5zgN5xL54UHBvrnkx-B0_1vOrbzFTaA",
             "https://drive.google.com/uc?export=view&id=1E5-jUdeQIeFSlvmYRMSvdY3GPQAaEA4d",
-            "https://drive.google.com/uc?export=view&id=1DQEZNGNzhDUa24Df4LGD8ij4ESaNHhje",
+            "https://drive.google.com/uc?export=view&id=1Z6RvKc-Q5vG-uJ8Bjjl-Ko9_r5zm14is",
             "https://drive.google.com/uc?export=view&id=1FB6nWOGF0ZOyJOrSvbUa0TF4qGbU3HO6",
             "https://drive.google.com/uc?export=view&id=1EqNUar5oYAIa5GKoop5Tz932lAwh62ru",
             "https://drive.google.com/uc?export=view&id=1DQrzI-Fhpxv1SJcHCSNDwumK2s9vx4Zk",
