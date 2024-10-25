@@ -700,7 +700,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@rafadhilillahh13",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Departement"
+               
             },
             {
                 "nama": "Annisa Novantika",
@@ -712,7 +712,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@anovavona",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Sekretaris Departement"
+               
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -724,7 +724,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@sahid22__",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+               
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
@@ -736,7 +736,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@fadhilfwee",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+               
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -748,7 +748,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@mregiiii_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -760,7 +760,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@dkselsd_31",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+               
             },
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
@@ -772,7 +772,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@natanaeloks",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Anwar Muslim",
@@ -784,7 +784,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@here.am.ai",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
@@ -796,7 +796,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@anjaniiidev",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                
             },
             {
                 "nama": "Dinda Nababan",
@@ -808,7 +808,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@dindanababan_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+              
             },
             {
                 "nama": "Marleta Cornelia Leander",
@@ -820,7 +820,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@marletacornelia",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Rut Junita Sari Siburian",
@@ -832,7 +832,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@junitaa_0406",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -844,7 +844,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@puspadrr",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+              
             },
             {
                 "nama": "Abdurrahman Al-atsary",
@@ -856,7 +856,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@rahmn_abdr",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Aditya Rahman",
@@ -868,7 +868,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@rahm_adityaa",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Eggi Satria",
@@ -880,7 +880,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@egistr",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -892,7 +892,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@pratiwifebiya",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -904,7 +904,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@sudo.syahrulramadhannn",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Randa Andriana Putra",
@@ -916,7 +916,6 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@randardn",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
             }
         ]
 
@@ -958,7 +957,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@yogyst",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Departemen"
+            
             },
             {
                 "nama": "Ramadhita Atifa Hendri",
@@ -970,7 +969,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@ramadhitaatifa",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Sekretaris Departemen"
+                
             },
             {
                 "nama": "Nazwa Nabila",
@@ -982,7 +981,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@nazwanbilla",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Hubungan Luar"
+               
             },
             {
                 "nama": "Bastian Heskia Silaban",
@@ -994,7 +993,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@bastiansilaban_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -1006,7 +1005,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@deaa.rsn",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+               "
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",
@@ -1018,7 +1017,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@esteriars",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+               
             },
             {
                 "nama": "Natasya Ega Lina",
@@ -1030,7 +1029,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@nateee__15",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                
             },
             {
                 "nama": "Novelia Adinda",
@@ -1042,7 +1041,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@nvliaadinda",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -1054,7 +1053,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@jasminednva",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+               
             },
             {
                 "nama": "Tobias David Manogari",
@@ -1066,7 +1065,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@tobiassiagian",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+               
             },
             {
                 "nama": "Yohana Manik",
@@ -1078,7 +1077,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@yo_annamnk",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+               
             },
             {
                 "nama": "Rizky Adrian Bennovry",
@@ -1090,7 +1089,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@rzkdrnnn",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Pengabdian Masyarakat"
+                
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
@@ -1102,7 +1101,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@rafiramadhanmaulana",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+               
             },
             {
                 "nama": "Asa Do’a Uyi",
@@ -1114,7 +1113,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@u_yippy",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                
             },
             {
                 "nama": "Chalifia Wananda",
@@ -1126,7 +1125,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@chlfawww",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                
             },
             {
                 "nama": "Irvan Alfaritzi",
@@ -1138,7 +1137,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@alfaritziirvan",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+               
             },
             {
                 "nama": "Izza Lutfia",
@@ -1150,7 +1149,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@izzalutfia",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                
             },
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
@@ -1162,7 +1161,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@alyaavanevi",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                
             },
             {
                 "nama": "Raid Muhammad Naufal",
@@ -1174,7 +1173,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@rayths_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+               
             },
             {
                 "nama": "Tria Yunanni",
@@ -1186,7 +1185,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@triayunanni",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+            
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1219,7 +1218,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@dimzrky_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Departemen Internal"
+                
             },
             {
                 "nama": "Chatrine Sinaga",
@@ -1231,7 +1230,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@cathrine.sinaga",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Sekretaris Departemen Internal"
+              
             },
             {
                 "nama": "M. Akbar Restika",
@@ -1243,7 +1242,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@akbar_restika",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kadiv Keharmonisasian"
+                
             },
             {
                 "nama": "Renita Siahaan",
@@ -1255,7 +1254,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@renita.shn",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+               
             },
             {
                 "nama": "Salwa Farhanatussaidah",
@@ -1267,7 +1266,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@slwfhn_694",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+          
             },
             {
                 "nama": "Rendra Eka Prayoga",
@@ -1279,7 +1278,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@rendraepr",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+            
             },
             {
                 "nama": "Yosia Retare Banurea",
@@ -1291,7 +1290,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@yosiabanurea",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+           
             },
             {
                 "nama": "Ari Sigit",
@@ -1303,7 +1302,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@ari_sigit17",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Kerohanian"
+            
             },
             {
                 "nama": "Josua Panggabean",
@@ -1315,7 +1314,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@josuapanggabean_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Kerohanian"
+           
             },
             {
                 "nama": "Azizah Kusuma Putri",
@@ -1327,7 +1326,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@azizahksma15",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Kerohanian"
+          
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1339,7 +1338,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@meirasty_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Kerohanian"
+               
             },
             {
                 "nama": "Rendi Alexander Hutagalung",
@@ -1351,7 +1350,7 @@ elif menu == "Departemen Internal":
                 "sosial media": "@rexander",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Staff Kerohanian"
+               
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1382,7 +1381,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@andriangaol",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Kepala Departemen SSD"
+            
             },
             {
                 "nama": "Adisty Syawaida Arianto",
@@ -1394,7 +1393,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@adistysa_",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Sekretaris Departemen SSD"
+                
             },
             {
                 "nama": "Nabila Azhari",
@@ -1406,7 +1405,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@zhjung",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Kepala Divisi KWU"
+             
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -1418,7 +1417,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@dananghk_",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Staff KWU"
+           
             },
             {
                 "nama": "Farel Julio Akbar",
@@ -1430,7 +1429,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@farel_julio",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Staff KWU"
+     
             },
             {
                 "nama": "Ahmad Rizqi",
@@ -1442,7 +1441,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@ahmad.ris45",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Staff KWU"
+             
             },
             {
                 "nama": "Tessa Kania Sagala",
@@ -1454,7 +1453,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@tesakanias",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Staff KWU"
+           
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1466,7 +1465,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@nabilahanftr",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Kepala Divisi Sponsor"
+              
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1478,7 +1477,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@meylanielia",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Staff Sponsor"
+    
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
@@ -1490,7 +1489,7 @@ elif menu == "Departemen SSD":
                 "Sosial Media": "@dhafinrzqa13",
                 "Kesan": "",
                 "Pesan": "",
-                "Jabatan": "Staff Sponsor"
+              
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1530,7 +1529,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Departemen"
+             
             },
             {
                 "nama": "Elok Fiola",
@@ -1542,7 +1541,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@elokfiola",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Sekretaris"
+              
             },
             {
                 "nama": "Arsyiah Azahra",
@@ -1554,7 +1553,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@arsyiah._",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Media & Konten"
+               
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
@@ -1566,7 +1565,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@dino_kiper",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi PDD"
+                
             },
             {
                 "nama": "Muhammad Arsal Ranjana Putra",
@@ -1578,7 +1577,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@arsal.utama",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Kepala Divisi Visual Desain"
+              
             },
             {
                 "nama": "Cintya Bella",
@@ -1590,7 +1589,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@cintyabella28",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+           
             },
             {
                 "nama": "Eka Fidiya Putri",
@@ -1602,7 +1601,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@ekafdyaptri",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+           
             },
             {
                 "nama": "Najla Juwairia",
@@ -1612,9 +1611,9 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Airan",
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan": "",
+                "kesan": "Kakaknya lucu dan ramah",
                 "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+               
             },
             {
                 "nama": "Patricia Leondra Diajeng Putri",
@@ -1624,9 +1623,9 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jatimulyo",
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "kesan": "Kak cia yang super duper ramah",
+                "pesan": "Sehat selalu kak",
+             
             },
             {
                 "nama": "Rahma Neliyana",
@@ -1638,7 +1637,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@rahmanellyana",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+            
             },
             {
                 "nama": "Try Yani Rizki Nur Rohmah",
@@ -1650,7 +1649,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+              
             },
             {
                 "nama": "Dwi Ratna Anggraeni",
@@ -1662,7 +1661,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@dwiratnn_",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+            
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
@@ -1674,7 +1673,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@jimnn.as",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+     
             },
             {
                 "nama": "Nasywa Nur Afifah",
@@ -1686,7 +1685,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@nsywanaf",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+          
             },
             {
                 "nama": "Priska Silvia Ferantiana",
@@ -1698,7 +1697,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@prskslv",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+            
             },
             {
                 "nama": "Abit Ahmad Oktarian",
@@ -1710,7 +1709,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@abitahmad",
                 "kesan": "",
                 "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+            
             },
             {
                 "nama": "Akmal Faiz Abdillah",
@@ -1720,9 +1719,9 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi": "Main HP",
                 "sosmed": "_akmal.faiz",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "kesan": "Perhatian dan daplokable bangett",
+                "pesan": "Semoga hal baik selalu dateng ke abang",
+            
             },
             {
                 "nama": "Hermawan Manurung",
@@ -1732,9 +1731,9 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani)",
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "kesan": "Abang asprak alproo",
+                "pesan": "Semangat kuliahnya ya bang",
+
             },
             {
                 "nama": "Khusnun Nisa",
@@ -1744,9 +1743,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Belwis",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "kesan": "Kak nun lucu bangett, pinter jugaa",
+                "pesan": "Semangat meraih mimpi dan cita-cita kak",
             }
         ]
         display_images_with_data(gambar_urls, data_list)
