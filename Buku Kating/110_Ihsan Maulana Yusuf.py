@@ -389,11 +389,11 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1KX-7P3BHz1vnMDzjTNiSbYK0kCzexo-K", #30
             "https://drive.google.com/uc?export=view&id=1ixrJFfIFSnhdhLJSjnxw8c1-lT6_cO9N", #31
             "https://drive.google.com/uc?export=view&id=1IZdlioTBZ9BuYD6flw7iMwirz-I-CVHd", #32
-            "https://drive.google.com/uc?export=view&id=1mZ2QASD_pYf9F3LZGvG47pNDCW1geWhR", #33
+            "https://drive.google.com/uc?export=view&id=1Oxs9ZFK-CE85RHhjCDTHfMpKPJnhA0Ms", #33
             "https://drive.google.com/uc?export=view&id=1UlIGJaGmKRpVZsufC8x3VnMN64f68y3z", #34
             "https://drive.google.com/uc?export=view&id=1oF2ILseFnmh3Zb1Gi1EIjQ-he4h933F4", #35
-            "https://drive.google.com/uc?export=view&id=15x2T_WIWrE0pBHBfVx43DsjGrDDN6bpY", #36
-            "https://drive.google.com/uc?export=view&id=1RQTLjJwk8RyCJ_iA9cBh5HglwBX8UFxT", #37
+            "https://drive.google.com/uc?export=view&id=1Oxs9ZFK-CE85RHhjCDTHfMpKPJnhA0Ms", #36
+            "https://drive.google.com/uc?export=view&id=1cwwLR90vieznnhcbGXyvQcQldVpU96mt", #37
             "https://drive.google.com/uc?export=view&id=1_D7mOlSQ77xuCoKbwbvWRJW7OrnieDGs", #38
             "https://drive.google.com/uc?export=view&id=1-FsbN3aYy_Q0o9vvlIdusmqovDUx-vr2", #39
             "https://drive.google.com/uc?export=view&id=1zMx6vCEyiaXhOGO1BHABM11H4BhOKkRW", #40
@@ -515,24 +515,24 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Syalaisha Andini Putriansyah",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Tidur",
-                "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang" #32
+                "nim": "122450111",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobi": "Membaca",
+                "sosmed": "@syalaisha.i_",
+                "kesan": "Kakak ini asik, baik dan ramah",  
+                "pesan":"Semangat terus kak kuliahnya" #32
             },
             {
                 "nama": " Ibnu Farhan Al-Ghifari",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Tidur",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
                 "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "kesan": "Abang ini asik",  
                 "pesan":"Semangat terus bang" #33
             },
             {
@@ -559,11 +559,11 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Leonard Andreas Napitupulu",
-                "nim": "122450094",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Tidur",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
                 "sosmed": "@-",
                 "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus bang" #36
