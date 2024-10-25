@@ -1183,7 +1183,14 @@ elif menu == "Departemen Eksternal":
 elif menu == "DEPARTEMEN INTERNAL ":
     def Internal():
         gambar_urls = [
-         
+            "https://drive.google.com/uc?export=view&id=1RzdL7Jg5PRDnR04_Nwb2NEBjEUK597Ps",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1SI4kXQBvaUCnp_LHhcUklkv6TIL0UtHF",
+            
         ]
         data_list = [
             {
