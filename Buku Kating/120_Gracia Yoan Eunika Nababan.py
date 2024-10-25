@@ -392,9 +392,9 @@ elif menu == "Senator":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#17
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#18
             "https://drive.google.com/uc?export=view&id=12kIyMuSNELwUt6GZk_lPGgBsY6I9Y2CB",#19
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#10
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#20
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#21
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#22
             
        
         ]
@@ -511,7 +511,7 @@ elif menu == "Senator":
                 "kesan": "abangnya lucu dan seru",  
                 "pesan": "semangat terus kuliahnya bang!" #10
 
-              },
+            },
             {
                "nama": "Presilia",
                 "nim": "122450081",
@@ -561,7 +561,7 @@ elif menu == "Senator":
 
             },
             {
-                "nama": "Rafa Aqilla Jungjunan,
+                "nama": "Rafa Aqilla Jungjunan",
                 "nim": "122450122",
                 "umur": "20",
                 "asal":"Pekanbaru",
@@ -607,7 +607,7 @@ elif menu == "Senator":
                 "kesan": "Abangnya baik dan seru",  
                 "pesan":"Semangat terus kuliahnya bang!" #18
             },
-             {
+            {
                 "nama": "Jaclin Alcavella",
                 "nim": "121450015",
                 "umur": "19",
@@ -649,12 +649,26 @@ elif menu == "Senator":
 elif menu == "MIKFES":
     def mikfes ():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=17PkJXwqPqa4lyeBMno1iCsnvqGy1ytYd",#1
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#2
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#3
+            "https://drive.google.com/uc?export=view&id=1oUGYdedJx1FzdRBEunbriW7v8wqgjJNq",#4
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#5
+            "https://drive.google.com/uc?export=view&id=1SH5Ep3AglNZL-k1rkBGSmzKBD25iFGx0",#6
+            "https://drive.google.com/uc?export=view&id=1U7d0QQNQjA7SZuPS49q-lezyfmJv9by7",#7
+            "https://drive.google.com/uc?export=view&id=1h00eL-OCFb9fgoTX6BRQSKVqKjFirDJw",#8
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#9
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#10
+            "https://drive.google.com/uc?export=view&id=1ufAiRZrrKLPFSdZtEMviJAeGhqrLgfbE",#11
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#12
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#13
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#14
+            "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc",#15
+            "https://drive.google.com/uc?export=view&id=10HtMXzV8oBASuu8L7UKsruQ_O3NmxmhB",#16
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#17
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#18
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#19
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#20
         ]
         data_list = [
             {
@@ -667,20 +681,230 @@ elif menu == "MIKFES":
                 "sosmed": "@rafadhlillahh13",
                 "kesan": "Abangnya baik dan seru",  
                 "pesan":"Semangat terus kuliahnya bang!" #1
-
             },
             {
                 "nama": "Annisa Novantika",
                 "nim": "121450005",
-                "umur": " ",
+                "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Jl. Pulau Sebesi",
                 "hobi": "Memasak",
                 "sosmed": "@anovavona",
                 "kesan": "Kakaknya baik dan asik",  
                 "pesan": "Semangat terus kuliahnya kak!" #2
+            },
+            {
+                "nama": "Mujadid Choirus Surya",
+                "nim": " ", 
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":"Semangat terus kuliahnya bang!" #3
 
             },
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobi": "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan": "Abangnya baik dan asik",  
+                "pesan":"Sukses terus kuliahnya bang!" #4
+
+            },
+            {
+               "nama": "Fadhil Fitra Wijaya",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":"Semangat terus kuliahnya bang!" #5
+
+            },
+            {
+                "nama": "Muhammad Regi Abdi Putra Amanta",
+                "nim": "122450031",
+                "umur": "19",
+                "asal":"Palembang",
+                "alamat": "Jl. Permadi",
+                "hobi": "Ngasprak ADS",
+                "sosmed": "@mregiiii_",
+                "kesan": "Abangnya baik dan seru banget",  
+                "pesan":"Semangat terus kuliahnya bang!" #6
+
+            },
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Gg. Yudistira",
+                "hobi": "Review jurnal bu mika",
+                "sosmed": "@dkselsd_31",
+                "kesan": "Kakaknya baik dan lucu",  
+                "pesan":"Semangat terus kuliahnya kak!" #7
+
+            },
+            {
+               "nama": "Anwar Muslim",
+                "nim": "122450117",
+                "umur": "21",
+                "asal":"Bukit tinggi",
+                "alamat": "Korpri",
+                "hobi": "ML (Machine Learning)",
+                "sosmed": "@here.am.ai",
+                "kesan": "Abangnya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya bang!" #8
+            },  
+            {
+                "nama": "Deva Anjani Khayyuninafsyah",
+                "nim": "122450014",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Kemiling",
+                "hobi": "Resume Webinar",
+                "sosmed": "@anjaniiidev",
+                "kesan": "Kakanya baik dan keren",  
+                "pesan":"Semangat terus kuliahnya kak" #9
+            },
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal":"Medan",
+                "alamat": "Jl. Lapas",
+                "hobi": "Membaca jurnal bu mika",
+                "sosmed": "@dindanababan",
+                "kesan": "NIM ujung dan marga kita sama kak",  
+                "pesan": "Semangat terus kuliahnya ya kak!" #10
+ 
+            },
+            {
+               "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal":"Depok",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Review jurnal bu mika",
+                "sosmed": "@marletacornelia",
+                "kesan": "Kakaknya baik banget dan asik",  
+                "pesan": "Semangat terus kuliahnya kak!" #11
+
+            },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal": "Kepulauan Riau",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Menghitung akurasi",
+                "sosmed": "@junitaa_0406",
+                "kesan": "Kakaknya baik dan seru",  
+                "pesan": "Semangat terus kuliahnya kak!" #12
+
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450074",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Belwis",
+                "hobi": "Membangkitkan bilangan",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan": "Semangat terus kuliahnya kak!" #13
+
+            },
+            {
+               "nama": "Abdurrahman Al-atsary",
+                "nim": " ",
+                "umur": " ",
+                "asal":" "
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan": "Semangat terus kuliahnya bang!" #14
+
+            },
+            {
+                "nama": "Aditya Rahman",
+                "nim": "122450113",
+                "umur": "20",
+                "asal":"Metro",
+                "alamat": "Korpri",
+                "hobi": "Ngoding wisata",
+                "sosmed": "@rahm.adityaa",
+                "kesan": "Abangnya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya bang!" #15
+
+            },
+            {
+                "nama": "Eggi satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal": "Sukabumi",
+                "alamat": "Korpri",
+                "hobi": "Ngoding wisata",
+                "sosmed": "@_egistr",
+                "kesan": "Abangnya baik dan keren",  
+                "pesan": "Semangat terus kuliahnya bang!" #16
+
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Jl. Kelengkeng Raya",
+                "hobi": "Review jurnal",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan": "Semangat terus kuliahnya kak!" #17
+
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": " ",
+                "asal":"Lampung Timur",
+                "alamat": "Karang Anyar",
+                "hobi": "Main game",
+                "sosmed": "@sudo.syahrulramadhan",
+                "kesan": "Abangnya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya bang!" #18
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Sukarame",
+                "hobi": "Tidur dan berkembang",
+                "sosmed": "@randaandriana_",
+                "kesan": "Abangnya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya bang!" #19
+            },
+              {
+                "nama": "Vita Anggraini",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":"Semangat terus kuliahnya kak!" #20
+            },
+                
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
