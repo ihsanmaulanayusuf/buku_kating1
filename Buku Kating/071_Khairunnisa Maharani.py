@@ -912,7 +912,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=178cw49H9lFRurKILz8xjSHXd9R_wvlGO", #20
             
         ]
-           data_list = [
+        data_list = [
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
@@ -1176,7 +1176,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
             
         ]
-            data_list = [
+        data_list = [
             {
                 "nama": "Dimas Rizky Ramadhani",
                 "nim": "121450027",
@@ -1340,7 +1340,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
         ]
-          data_list = [
+        data_list = [
             {
                 "nama": "Andrian Agustinus Lumbangaol",
                 "nim": "121450090",
@@ -1703,4 +1703,3 @@ elif menu == "Departemen MEDKRAF":
 
         display_images_with_data(gambar_urls, data_list)
     departemenmedkraf()
-
