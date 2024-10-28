@@ -1747,7 +1747,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "Kak nun lucu bangett, pinter jugaa",
                 "pesan": "Semangat meraih mimpi dan cita-cita kak",
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenmedkraf()
