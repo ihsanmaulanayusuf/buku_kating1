@@ -375,7 +375,7 @@ elif menu == "Senator":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    senator()
+    senator()
 
 elif menu == "Departemen PSDA":
     def departemenPSDA():
@@ -1007,7 +1007,7 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@deaa.rsn",
                 "kesan": "",
                 "pesan": "",
-               "
+        
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",
