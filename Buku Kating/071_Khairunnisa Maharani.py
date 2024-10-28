@@ -105,7 +105,6 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=14MJotgMAMP03E1UsfWdPLudVSmQ98d-V",
             "https://drive.google.com/uc?export=view&id=14JAB81cih6GiA3HHeqffIAWZEzdpfhev",
             "https://drive.google.com/uc?export=view&id=14HzTAF-53F2FvmtsfmP27IFWSxMBinGB",
-            
         ]
         data_list = [
             {
@@ -194,8 +193,6 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1-tzj7nR8eFe4L1FO-fuIDNC993Hejxqh", #11
             "https://drive.google.com/uc?export=view&id=1056mKidCjkNitjQAGh7lbsI9BzHTOPvm", #12
             "https://drive.google.com/uc?export=view&id=1-lzvM0otdkRW025tM-oahYKLInd0cSCg", #13
-            
-            
         ]
         data_list = [
             {
@@ -208,8 +205,7 @@ elif menu == "Baleg":
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak selalu ramah dan mudah diajak ngobrol, suasananya jadi nyaman.",  
                 "pesan":"Semoga kakak terus sukses dalam kuliahnya dan selalu semangat menggapai impian!" #1
-            },
-            {
+            },{
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450124",
                 "umur": "21",
@@ -219,8 +215,7 @@ elif menu == "Baleg":
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik diajak tukar pikiran, selalu ada solusi buat setiap masalah.",  
                 "pesan":"Teruslah semangat belajar, kak! Masa depan cerah menanti!"# 2
-            },
-            {
+            },{
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
                 "umur": "21",
@@ -354,8 +349,7 @@ elif menu == "Senator":
                 "sosmed": "@annisalutfi_",
                 "kesan": "kakak ini baik dan suka bercerita banyak",
                 "pesan": "semoga sukses terus kak jadi senator" #1
-            },
-            {
+            },{
                 "nama": "Rian Bintang Wijaya",
                 "nim": "122450094",
                 "umur": "20",
@@ -393,7 +387,6 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1yx5LLG-n5Vj9Ya7iesV5gLnH6CfD7NNu", #17
             "https://drive.google.com/uc?export=view&id=1yzQ1tLYTTp4cuhBcJ3EA2DtIL_mSChlo", #18
             "https://drive.google.com/uc?export=view&id=1ywzdCOAzSAn5BTEEx0JnnJGOOHuS21lp", #19
-            
         ]
         data_list = [
             {
@@ -651,7 +644,6 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1BLzKF6VLfFh3QC2OQSS-ZVMnrkZYW6TJ", #17
             "https://drive.google.com/uc?export=view&id=1ChPkXwdH26fpnOTCcBBG4bMQMvVBsKOC", #18
             "https://drive.google.com/uc?export=view&id=1BNrN2XQ-O6dn_9u3blqd-mIMnWImokbf", #19
-            
         ]
         data_list = [
             {
@@ -910,7 +902,6 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=17jck-30bMbHh6S0D5pYwa_KcM5Rc2o9X", #18
             "https://drive.google.com/uc?export=view&id=17bzGX0XVOLsY60siyNErh82LFJZYwITO", #19
             "https://drive.google.com/uc?export=view&id=178cw49H9lFRurKILz8xjSHXd9R_wvlGO", #20
-            
         ]
         data_list = [
             {
@@ -1154,7 +1145,6 @@ elif menu == "Departemen Eksternal":
                 "jabatan": "Staff Divisi Pengabdian Masyarakat"
             }
         ]
-
         display_images_with_data(gambar_urls, data_list)
     departemeneksternal()
 
@@ -1174,7 +1164,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
-            
         ]
         data_list = [
             {
@@ -1700,6 +1689,5 @@ elif menu == "Departemen MEDKRAF":
                 "pesan": "Semangat terus ya, Kak Khusnun! Jangan lupa ambil waktu buat rileks juga."
             }
         ]
-
         display_images_with_data(gambar_urls, data_list)
     departemenmedkraf()
