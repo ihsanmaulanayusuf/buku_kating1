@@ -272,7 +272,7 @@ elif menu == "Baleg":
 
             },
             {
-               "nama": "Claudhea Angeliani",
+                "nama": "Claudhea Angeliani",
                 "nim": "121450124",
                 "umur": "21",
                 "asal":"Lampung Timur",
@@ -421,7 +421,7 @@ elif menu == "PSDA":
                 "pesan": "semangat terus kuliahnya kak!" #kak abeth
             },
             {
-               "nama": "Nisrina Nur Afifah",
+                "nama": "Nisrina Nur Afifah",
                 "nim": "122450052",
                 "umur": "19",
                 "asal":"Jawa Barat",
@@ -454,7 +454,7 @@ elif menu == "PSDA":
                 "pesan":"semangat terus kuliahnya kak!" #kak eksanty
             },
             {
-               "nama": "Farahanum Afifah Ardiansyah",
+                "nama": "Farahanum Afifah Ardiansyah",
                 "nim": "122450056",
                 "umur": "20",
                 "asal": "Padang",
@@ -555,7 +555,7 @@ elif menu == "PSDA":
                 "pesan":"Semangat terus kuliahnya kak!" #15
             },
             {
-               "nama": "Sahid Maulana",
+                "nama": "Sahid Maulana",
                 "nim": "122450109",
                 "umur": "21",
                 "asal":"Kota Depok, Jabar",
@@ -692,7 +692,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sahid22__",
                 "kesan": "Abangnya baik dan asik",  
                 "pesan":"Sukses terus kuliahnya bang!" #3
-
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -704,7 +703,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@mregiiii_",
                 "kesan": "Abangnya baik dan seru banget",  
                 "pesan":"Semangat terus kuliahnya bang!" #4
-
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -716,10 +714,9 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakaknya baik dan lucu",  
                 "pesan":"Semangat terus kuliahnya kak!" #5
-
             },
             {
-               "nama": "Anwar Muslim",
+                "nama": "Anwar Muslim",
                 "nim": "122450117",
                 "umur": "21",
                 "asal":"Bukit tinggi",
@@ -753,7 +750,7 @@ elif menu == "Departemen MIKFES":
  
             },
             {
-               "nama": "Marleta Cornelia Leander",
+                "nama": "Marleta Cornelia Leander",
                 "nim": "122450092",
                 "umur": "20",
                 "asal":"Depok",
@@ -847,7 +844,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semangat terus kuliahnya bang!" #16
             },
         ]
-         display_images_with_data(gambar_urls, data_list)
+        display_images_with_data(gambar_urls, data_list)
     departemen_mikfes()
     
 elif menu == "Departemen Eksternal":
@@ -937,7 +934,7 @@ elif menu == "Departemen Eksternal":
 
             },
             {
-               "nama": "Natasya Ega Lina",
+                "nama": "Natasya Ega Lina",
                 "nim": "122450024",
                 "umur": "19",
                 "asal":"Sumatera Utara",
