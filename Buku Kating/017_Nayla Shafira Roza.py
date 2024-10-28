@@ -274,7 +274,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak ini bisa bangun suasana nyaman",  
                 "pesan":"Semangat kuliahnya kak!"# 1
             },
-         {
+            {
                 "nama": "Claudhea Angeliani",
                 "nim": "121450124",
                 "umur": "21",
@@ -285,7 +285,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak orangnya tenang tapi tetap asik",  
                 "pesan":"Sukses selalu kak"# 1
             },
-         {
+            {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -296,7 +296,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya baik",  
                 "pesan":"Jaga kesehatan biar tetap semangat ya kak!!"# 1
             },
-         {
+            {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "20",
@@ -307,7 +307,7 @@ elif menu == "Baleg":
                 "kesan": "Mudah dalam bergaul, kakaknya asik",  
                 "pesan":"Tetep humble terus ya kak!"# 1
             },
-           { 
+            { 
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "122450000",
                 "umur": "18",
@@ -318,7 +318,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya punya vibes lucu tapi  tenang dan pinter",  
                 "pesan":"Semoga kuliahnya lancar terus ya kak!"# 1
             },
-           {
+            {
                 "nama": "Berliana enda putri",
                 "nim": "122450000",
                 "umur": "18",
@@ -329,7 +329,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya bisa bikin seneng semua orang",  
                 "pesan":"Semoga kakak selalu diberkahi kebahagiaan!"# 1
             },
-           {
+            {
                "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
@@ -339,7 +339,7 @@ elif menu == "Baleg":
                 "sosmed": "@jeremia_s_",
                 "kesan": "Kakak selalu buat orang lain ketawa",  
                 "pesan":"Terus menghibur orang sekitar ya kak!"# 1
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
@@ -473,7 +473,7 @@ elif menu == "Departemen PSDA":
                 "kesan"    : "Kakak ini asik, ramah, dan keren",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
 
-              },
+            },
             {
                 "nama"     : "Ferdy Kevin Naibaho",
                 "nim"      : "122450107",
@@ -548,7 +548,7 @@ elif menu == "Departemen PSDA":
                 "alamat"   : "Golf Asri",
                 "hobbi"    : "Ngetik print hello dunia",
                 "sosmed"   : "@kemasverii",
-                "kesan"    : "Abang ini pinta, sabar, dan keren",  
+                "kesan"    : "Abang ini pintar, sabar, dan keren",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
             },
             {
@@ -918,7 +918,7 @@ elif menu == "Departemen MIKFES":
                 "sosial media": "@randardn",
                 "kesan": "Asisten tutorial matdas pas tpb",
                 "pesan": "Semoga ilmu yang diajarkan jadi amal jariyah",
-            }
+            },
         ]
 
         display_images_with_data(gambar_urls, data_list)
@@ -1188,7 +1188,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "",
                 "pesan": "",
             
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     departemeneksternal()
@@ -1353,7 +1353,7 @@ elif menu == "Departemen Internal":
                 "kesan": "",
                 "pesan": "",
                
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     departemeninternal()
@@ -1492,7 +1492,7 @@ elif menu == "Departemen SSD":
                 "kesan": "",
                 "pesan": "",
               
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenssd()
