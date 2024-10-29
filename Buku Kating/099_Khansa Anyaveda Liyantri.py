@@ -359,22 +359,22 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=13BpmwuKnTQjMnD4ryi2uLsogzD1B-K4L", #2
             "https://drive.google.com/uc?export=view&id=12yUZvSEV9aUowxiQ9pN-2HQA7_5S5svZ", #3
             "https://drive.google.com/uc?export=view&id=136UJRINLiEB7RrXEMOrT4rzxhI4ibRbv", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
+            "https://drive.google.com/uc?export=view&id=135mjT7mM2uvxU0S5AUkxJ3qA8tB5pzlv", #5
             "https://drive.google.com/uc?export=view&id=12zOPuMl59yIcZIeqiCk46GRqu-Ensv3e", #6
             "https://drive.google.com/uc?export=view&id=12u2MFwJLQERa_onjNE426p6Z9KHqOR_q", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
+            "https://drive.google.com/uc?export=view&id=13-rqDTBmm4KOyZq4ecg-vAHZfIhTjqaS", #8
+            "https://drive.google.com/uc?export=view&id=130b-gVC38gd_sl81U1nGK7jdAnn2bnfS", #9
+            "https://drive.google.com/uc?export=view&id=12u5ntP021raozEk9bDZL1SwuF6ibvll_", #10
             "https://drive.google.com/uc?export=view&id=13-Xhcgkd23VSAccFUaWK1FZOWtXlao7b", #11
             "https://drive.google.com/uc?export=view&id=1370U9MU4g5ZeOQM0J7YsWHdqUtC8b-bE", #12
             "https://drive.google.com/uc?export=view&id=13BPlGIxGQoyXtolPHAGKG4qbAWsQ2uNd", #13
             "https://drive.google.com/uc?export=view&id=136eCdtwSL3NfGUMj8n0Bth7qxQj8O3Xk", #14
             "https://drive.google.com/uc?export=view&id=13ApcRlYZNxfwZmk0-2y6JTPDXZ7OMsTy", #15
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #16
+            "https://drive.google.com/uc?export=view&id=135LuXCkCfiuzhaq4OLCB0NM5KZgYIDK2", #16
             "https://drive.google.com/uc?export=view&id=133oPZTYCLFkxGaW_xiTI4sANtMlHHr2i", #17
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #18
-             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #19
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #20
+            "https://drive.google.com/uc?export=view&id=132tMDBhaqRMGJDbj5ihVFVTxaUn_5B8m", #18
+            "https://drive.google.com/uc?export=view&id=132jT5V3scf-mcU4lpFBWMvhCQIydj-iS", #19
+            "https://drive.google.com/uc?export=view&id=137HxddapiW0_cSOCrDlXuJfc7KMqHX3_", #20
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #21
         ]
         data_list = [
@@ -607,13 +607,13 @@ elif menu == "Departemen PSDA":
                 "jabatan": "Staff Olahraga dan Perlombaan"
             },
             {
-                "nama": "Jaclin Alcavella",
-                "nim": "122450015",
-                "umur": "19",
-                "asal": "Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobbi": "Berenang",
-                "sosmed": "@jaclinaclcv_",
+                "nama": "Ferdy Kevin Naibaho",
+                "nim": "122450107",
+                "umur": "20",
+                "asal": "Medan",
+                "alamat": "Jl. Pangeran Senopati Raya 18",
+                "hobbi": "Baca Kitab Suci",
+                "sosmed": "@ferdy_kevin",
                 "kesan": "",
                 "pesan": "",
                 "jabatan": "Staff Olahraga dan Perlombaan"
