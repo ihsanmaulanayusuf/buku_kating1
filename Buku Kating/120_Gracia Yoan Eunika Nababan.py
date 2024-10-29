@@ -375,7 +375,7 @@ elif menu == "Departemen PSDA":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv", #bang econ
             "https://drive.google.com/uc?export=view&id=1hd_ZBV8YXCjifW3POxChGh5B9432VlOo", #kak abeth
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1kJ1j6egF-fXTTkIuW06uhBannSIJiqPE", #kak afifah
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -403,8 +403,18 @@ elif menu == "Departemen PSDA":
                 "kesan": "kakaknya lucu dan asik",  
                 "pesan": "semangat terus kuliahnya kak!" #kak abeth
             },
-
-        [
+            {
+                "nama": "Nisrina Nur Afifah",
+                "nim": "122450052",
+                "umur": "19",
+                "asal":"Jawa Barat",
+                "alamat": "Sukarame",
+                "hobi": "Marahin orang",
+                "sosmed": "@afifahhnsrn",
+                "kesan": "Kakaknya lucu dan asik",  
+                "pesan":"semangat terus kuliahnya kak!" #kak afifah
+            },
+        ]
         display_images_with_data(gambar_urls, data_list)
      departemenpsda ()
 
