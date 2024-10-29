@@ -370,11 +370,11 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
     
-elif menu == "Departemen PSDA"
+elif menu == "Departemen PSDA":
     def departemenpsda ():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv", #bang econ
+            "https://drive.google.com/uc?export=view&id=1hd_ZBV8YXCjifW3POxChGh5B9432VlOo", #kak abeth
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -392,6 +392,18 @@ elif menu == "Departemen PSDA"
                 "kesan" : "abangnya keren dan tegas",  
                 "pesan" :"semangat terus kuliahnya bang" #bang econ
             },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450123",
+                "umur": "18",
+                "asal":"Tangerang",
+                "alamat": "Kemiling",
+                "hobi": "Bernafas",
+                "sosmed": "@celisabeth",
+                "kesan": "kakaknya lucu dan asik",  
+                "pesan": "semangat terus kuliahnya kak!" #kak abeth
+            },
+
         [
         display_images_with_data(gambar_urls, data_list)
      departemenpsda ()
