@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"# 1
+                "pesan": "Semangat terus kuliahnya kak!"
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main Gitar",
                 "sosmed": "@pndrinsni21",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan":"Semangat terus kuliahnya kak!"# 1
+                "pesan":"Semangat terus kuliahnya kak!"
             },
             {
                "nama": "Meliza Wulandari",
@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"# 1
+                "pesan": "Semangat terus kuliahnya kak!"
             },
              {
                 "nama": "Putri Maulida Chairani",
@@ -149,7 +149,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Bang Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"# 1
+                "pesan": "Semangat terus kuliahnya kak!"
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan":"Semangat terus kuliahnya kak!"# 1
+                "pesan":"Semangat terus kuliahnya kak!"
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -171,7 +171,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Bang Pandra Gitaran",
                 "sosmed": "@nadillaadr26",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"# 1
+                "pesan": "Semangat terus kuliahnya kak!"
             }, 
         ]
         display_images_with_data(gambar_urls, data_list)
