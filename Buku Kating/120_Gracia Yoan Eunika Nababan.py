@@ -370,3 +370,30 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
     
+elif menu == "Departemen PSDA"
+    def departemenpsda ():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama"  : "Ericson Chandra Sihombing",
+                "nim"   : "121450026",
+                "umur"  : "21",
+                "asal"  :"Bekasi",
+                "alamat": "Kobam",
+                "hobi" : "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan" : "abangnya keren dan tegas",  
+                "pesan" :"semangat terus kuliahnya bang" #bang econ
+            },
+        [
+        display_images_with_data(gambar_urls, data_list)
+     departemenpsda ()
+
+    
