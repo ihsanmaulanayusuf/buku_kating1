@@ -415,7 +415,5 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kak!" #kak afifah
             },
         ]
-        display_images_with_data(gambar_urls, data_list)
-     departemenpsda ()
-
-    
+         display_images_with_data(gambar_urls, data_list)
+    departemenpsda()
