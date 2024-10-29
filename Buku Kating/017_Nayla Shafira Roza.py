@@ -1533,8 +1533,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "@",
-                "kesan": "",
-                "pesan": "",#1
+                "kesan": "Keren",
+                "pesan": "Semangat bang!",#1
              
             },
             {
