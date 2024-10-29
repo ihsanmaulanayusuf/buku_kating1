@@ -375,10 +375,10 @@ elif menu == "Departemen PSDA":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv", #bang econ
             "https://drive.google.com/uc?export=view&id=1hd_ZBV8YXCjifW3POxChGh5B9432VlOo", #kak abeth
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1kJ1j6egF-fXTTkIuW06uhBannSIJiqPE", #kak afifah
+            "https://drive.google.com/uc?export=view&id=1bHfjq83sG46AVHifNWOlT7KKcPA8lAez", #kak allya
+            "https://drive.google.com/uc?export=view&id=1c1c6ZOytsjEGJeWPLiSPIFy9w56z-ioi", #kak eksanty
+            "https://drive.google.com/uc?export=view&id=15O1wFRBBL-6CnyHdG03sZiObWNUIpNOf", #kak farahanum
         ]
         data_list = [
             {
@@ -426,6 +426,28 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@allyaislami_",
                 "kesan": "Kakaknya keren dan ramah",  
                 "pesan":"Semangat terus kuliahnya kak!" #kak allya
+            },
+            {
+                "nama": "Eksanty Febriana Sugma Islamiyati",
+                "nim": "122450001",
+                "umur": "20",
+                "asal":"Jawa Barat",
+                "alamat": "Metro",
+                "hobi": "Nyopet",
+                "sosmed": "@eksantyfebriana",
+                "kesan": "Kakaknya keren dan baik",  
+                "pesan":"Semangat terus kuliahnya kak!" #Kak eksanty
+            },
+            {
+                "nama": "Farahanum Afifah Ardiansyah",
+                "nim": "122450056",
+                "umur": "20",
+                "asal":"Padang",
+                "alamat": "Sukarame",
+                "hobi": "Bengong",
+                "sosmed": "@farahanumafifahh",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #kak farahanum
 
             },
         ]
