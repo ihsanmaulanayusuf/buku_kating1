@@ -641,3 +641,228 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenpsda()
+
+elif menu == "Departemen MIKFES":
+    def mikfes():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=17PkJXwqPqa4lyeBMno1iCsnvqGy1ytYd", #bang rafi
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+          {
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
+                "umur": "21",
+                "asal": "Lubuk Linggau",
+                "alamat sekarang": "Jl. Nangka 4",
+                "hobi": "Olahraga",
+                "sosial media": "@rafadhilillahh13",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat sekarang": "Jl. Pulau Sebesi, Sukarame",
+                "hobi": "Memasak",
+                "sosial media": "@anovavona",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat sekarang": "Sukarame",
+                "hobi": "Olahraga",
+                "sosial media": "@sahid22__",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat sekarang": "Teluk Betung",
+                "hobi": "Main Game",
+                "sosial media": "@fadhilfwee",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Muhammad Regi Abdi Putra Amanta",
+                "nim": "122450031",
+                "umur": "19",
+                "asal": "Palembang",
+                "alamat sekarang": "Jl. Permadi Sukarame",
+                "hobi": "Jadi admin ig mikfes.hmsd",
+                "sosial media": "@mregiiii_",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "21",
+                "asal": "Tangerang",
+                "alamat sekarang": "Gg Yudhistira",
+                "hobi": "Baca Novel",
+                "sosial media": "@dkselsd_31",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Natanael Oktavianus Partahan Sihombing",
+                "nim": "121450107",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat sekarang": "Kemiling",
+                "hobi": "Membuka Wisata HMSD",
+                "sosial media": "@natanaeloks",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Anwar Muslim",
+                "nim": "122450117",
+                "umur": "21",
+                "asal": "Bukittinggi",
+                "alamat sekarang": "Korpri",
+                "hobi": "ML (Machine Learning)",
+                "sosial media": "@here.am.ai",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Deva Anjani Khayyuninafsyah",
+                "nim": "122450014",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat sekarang": "Kemiling",
+                "hobi": "Menonton Film",
+                "sosial media": "@anjaniiidev",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal": "Medan",
+                "alamat sekarang": "Jl. Lapas",
+                "hobi": "",
+                "sosial media": "@dindanababan_",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal": "Depok, Jawa Barat",
+                "alamat sekarang": "Gg. Nangka 3",
+                "hobi": "Liatin Jurnal",
+                "sosial media": "@marletacornelia",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal": "Batam, Kep.Riau",
+                "alamat sekarang": "Gg. Nangka 3",
+                "hobi": "Resume Jurnal",
+                "sosial media": "@junitaa_0406",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat sekarang": "Belwis",
+                "hobi": "Membaca",
+                "sosial media": "@puspadrr",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Abdurrahman Al-atsary",
+                "nim": "121450128",
+                "umur": "23",
+                "asal": "Bandar Lampung",
+                "alamat sekarang": "Perumnas Way Kandis",
+                "hobi": "Membaca",
+                "sosial media": "@rahmn_abdr",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Aditya Rahman",
+                "nim": "122450113",
+                "umur": "20",
+                "asal": "Lampung Timur",
+                "alamat sekarang": "Korpri",
+                "hobi": "Ngoding WISATA",
+                "sosial media": "@rahm_adityaa",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Eggi Satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal": "Sukabumi",
+                "alamat sekarang": "Korpri",
+                "hobi": "Ngoding dan buat konten WISATA",
+                "sosial media": "@egistr",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat sekarang": "Jl Kelengkeng Raya",
+                "hobi": "Nonton K-Drama",
+                "sosial media": "@pratiwifebiya",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal": "Lampung",
+                "alamat sekarang": "Karang Anyar",
+                "hobi": "Main Game",
+                "sosial media": "@sudo.syahrulramadhannn",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal": "Banten",
+                "alamat sekarang": "Jl Nangka 3",
+                "hobi": "Berolahraga",
+                "sosial media": "@randardn",
+                "kesan": "",
+                "pesan": ""
+            },        
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    mikfes()
+
