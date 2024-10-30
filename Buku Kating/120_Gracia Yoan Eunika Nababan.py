@@ -382,8 +382,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1SJBR8830ArwIeedJJ5rpBZu4-uVP1jPZ", #bang ferdy
             "https://drive.google.com/uc?export=view&id=1Dkk4HDAX80mKS7KyeYuhAx3fKY-f45IO", #bang deri
             "https://drive.google.com/uc?export=view&id=1vfhH9Mdce6NDwSR4emT28Mj1EzmlroxN", #kak okta
-            "https://drive.google.com/uc?export=view&id=1sOKeiEl3XhzRypSEoUVSjCXmXuyGdIS5", #bang depan
-            "https://drive.google.com/uc?export=view&id=1cBVRbgIjzrC0uF-Wm6YxMj87Pq7ehiAS", #bang jo
+            "https://drive.google.com/uc?export=view&id=1I1D_PIcLwCclXzN6l7Zmlnagt8nAlCrQ", #bang depan
+            "https://drive.google.com/uc?export=view&id=1TXUm18LQjY9Vjesd-fC5joWipaepGa7l", #bang jo
             "https://drive.google.com/uc?export=view&id=16F3MzhLyOCkVOO-pNG9HHMH-PB6JtD2F", #bang kemas
             "https://drive.google.com/uc?export=view&id=137TseVQV8bjwy8rpn7jFVH3Hdf-0HLXg", #kak presilia
             "https://drive.google.com/uc?export=view&id=10e0ohlhCLigqj7Ar-4VXWN30HR6bd3u6", #kak rafa
@@ -391,6 +391,10 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1ZFv-HVojrNqZgGrmuAMjX5sYpmr6ZSVb", #kak vanessa
             "https://drive.google.com/uc?export=view&id=1DzbUYPNbZEJ0S8Suh47NzBzJbAhN52mN", #bang ateng
             "https://drive.google.com/uc?export=view&id=1Ejt45cRkNGEexOtxax30kGq8AwoWbDM7", #bang gede
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
         ]
         data_list = [
             {
@@ -563,7 +567,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@sahid_maul19",
                 "kesan": "Abangnya baik banget dan seru",  
                 "pesan":"Semangat terus kuliahnya bang!" #bang sahid
-
             },
             {
                 "nama": "Vanessa Olivia Rose",
@@ -586,7 +589,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@mfarhan.ath",
                 "kesan": "Abangnya baik dan cara berkomunikasinya enak didengar",  
                 "pesan":"Semangat terus kuliahnya bang!" #bang ateng
-
             },
             {
                 "nama": "Gede Moana",
@@ -599,6 +601,42 @@ elif menu == "Departemen PSDA":
                 "kesan": "Abangnya baik dan seru",  
                 "pesan":"Semangat terus kuliahnya bang!" #bang gede
             },
+            {
+                "nama": "Jaclin Alcavella",
+                "nim": "121450015",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinalcv_",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #19
+
+            },
+            {
+                "nama": "Rafly Prabu Darmawan",
+                "nim": "122450140",
+                "umur": "20",
+                "asal":"Bangka Belitung",
+                "alamat": "Sukarame",
+                "hobi": "Main game",
+                "sosmed": "@raflyy_pd2684",
+                "kesan": "Abangnya baik dan seru",  
+                "pesan": "Semangat terus kuliahnya bang!" #20
+
+            },
+            {
+                "nama": "Syalaisha Andini Putriansyah",
+                "nim": "122450111",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobi": "Baca",
+                "sosmed": "@syalaisha.i__",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #21
+            },
+
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenpsda()
