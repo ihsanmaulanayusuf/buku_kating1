@@ -671,8 +671,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1jpkeQR7ysuQKABd3BAejFpTYWB_YoU7B", #47
             "https://drive.google.com/uc?export=view&id=1kMksdNEBMa6Ki7Fw2TxiG4p4o3cevwvW", #48
             "https://drive.google.com/uc?export=view&id=1N4JydmBgz27zouKbpwt1s0p2m0WfRjwb", #49
-            "https://drive.google.com/uc?export=view&id=1kMksdNEBMa6Ki7Fw2TxiG4p4o3cevwvW", #50
-            "https://drive.google.com/uc?export=view&id=1jrm1F_aGBULyebm19gl4iDD-De8Q0S8b", #51
+            "https://drive.google.com/uc?export=view&id=1jrm1F_aGBULyebm19gl4iDD-De8Q0S8b", #50
+            "https://drive.google.com/uc?export=view&id=1jruEr76pEtxra_-HyHIlgrgY10gQpvG1", #51
             "https://drive.google.com/uc?export=view&id=1N4JydmBgz27zouKbpwt1s0p2m0WfRjwb", #52
             "https://drive.google.com/uc?export=view&id=1k7GsUHnJIwihWt83AgqrBy-O06Go1E4o", #53
             "https://drive.google.com/uc?export=view&id=1jvRa8gTYCLP40RlvJzfMFeZxXeBDfE-d", #54
