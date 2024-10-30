@@ -1177,3 +1177,323 @@ elif menu == "Departemen Eksternal":
          ]
         display_images_with_data(gambar_urls, data_list)
     departemeneksternal()
+elif menu == "Departemen Internal":
+    def departemeninternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1MAastkagwtGWUC9GzEdMGB0IzUsJLtqA", #87
+            "https://drive.google.com/uc?export=view&id=1KiBZtdMhh0B1mksLm2GMpV3AzFEVbwHz", #88
+            "https://drive.google.com/uc?export=view&id=1SNj0J7eh0fdJDX7rnHaf5pikEOAeCSUf", #89
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #90
+            "https://drive.google.com/uc?export=view&id=1Pazqi3pSxG18QJc58ALRYtaFpTtn9gRM", #91
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #92
+            "https://drive.google.com/uc?export=view&id=1pkitQk81ZLsrBi0Xoc-D1at3Q8N7y9bB", #93
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #94
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #95
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #96
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #97
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #98
+            "https://drive.google.com/uc?export=view&id=1f9fENquXS0Joza_pOveBn1pPHjKuOYAl", #99
+            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #100
+
+        ]
+        data_list = [
+            {
+                "nama": "Dimas Rizky Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal":"Pamulang, Tangerang Selatan",
+                "alamat": "Way Kandis Kobam",
+                "hobi": "Manjat tower sutet",
+                "sosmed": "@dimzrky",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #87
+            },
+            {
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
+                "umur": "20",
+                "asal":"Sumatera Utara",
+                "alamat": "Airan",
+                "hobi": "Baca novel",
+                "sosmed": "@Catherine.sinaga",
+                "kesan": "Kakak ini asik, tegas, baik, dan ramah",  
+                "pesan":"Semangat terus kak kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #88
+            },
+            {
+                "nama": "Akbar Resdika",
+                "nim": "121450066",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Dalam",
+                "hobi": "Memelihara Dino",
+                "sosmed": "@akbar_resdika",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #89
+            },
+            {
+                "nama": "Rani Puspita sari",
+                "nim": "122450030",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Rajabasa",
+                "hobi": "Mengaji",
+                "sosmed": "@rannipu",
+                "kesan": "Kakak ini asik, baik, seru diajak diskusi",  
+                "pesan":"Semangat terus kak kuliahnya" #90
+            },
+            {
+                "nama": "Rendra Eka Prayoga",
+                "nim": "122450112",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Jl. Lapas Raya",
+                "hobi": "Nulis lagu",
+                "sosmed": "@rendaepr",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya" #91
+            },
+            {
+                "nama": "Salwa Farhanatussaidah",
+                "nim": "122450055",
+                "umur": "20",
+                "asal":"Pesawarn",
+                "alamat": "Airan raya",
+                "hobi": "Ngeliat cogan",
+                "sosmed": "@slwfn_694",
+                "kesan": "kakak ini asik, tegas, baik, dan lucu",  
+                "pesan":"Semangat terus kak kuliahnya" #92
+            },
+            {
+                "nama": "Ari Sigit",
+                "nim": "121450",
+                "umur": "23",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Ratu",
+                "hobi": "Main Futsal",
+                "sosmed": "@ari_sigit17",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #93
+            },
+            {
+                "nama": "Azizah Kusumah Putri",
+                "nim": "122450068",
+                "umur": "21",
+                "asal":"Lampung Selatan",
+                "alamat": "Jati Mulyo",
+                "hobi": "Bangun Pagi",
+                "sosmed": "@azizahksmh15",
+                "kesan": "Kakak ini asik, baik dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kak kuliahnya" #94
+            },
+            {
+                "nama": "Dearni Monica Br Manik",
+                "nim": "121450",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Jati Mulyo",
+                "hobi": "Bangun Pagi",
+                "sosmed": "@yogyyy",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #95
+            },
+            {
+                "nama": "Meira Listyaningrum",
+                "nim": "122450011",
+                "umur": "20",
+                "asal":"Pesawaran",
+                "alamat": "Airan Raya",
+                "hobi": "Menghalu",
+                "sosmed": "@meiraln",
+                "kesan": "Kakak ini asik baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kakak kuliahnya" #96
+            },
+            {
+                "nama": "Rendi Alexander Hutagalung",
+                "nim": "122450057",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Kost Gunawan",
+                "hobi": "menyanyi",
+                "sosmed": "@alexanderr",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya" #97
+            },
+            {
+                "nama": "Renta Siahaan",
+                "nim": "122450112",
+                "umur": "21",
+                "asal":"Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobi": "Mancing",
+                "sosmed": "@renta.shn",
+                "kesan": "Kakak ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kakak kuliahnya" #98
+            },
+            {
+                "nama": "Yosia Letare Banurea",
+                "nim": "121450149",
+                "umur": "20",
+                "asal":"Dairi, Sumatera Utara",
+                "alamat": "Perum Griya Indah",
+                "hobi": "Bawa motor pake kaki",
+                "sosmed": "@yosiabanurea",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya" #99
+            },
+            {
+                "nama": "Josua Panggabean",
+                "nim": "121450061",
+                "umur": "21",
+                "asal":"Pematang Siantar",
+                "alamat": "Bia Kost",
+                "hobi": "Ngawinin cupang",
+                "sosmed": "josuapanggabean16_",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus abang kuliahnya" #100
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemeninternal()
+
+elif menu == "Departemen SSD":
+    def departemenssd():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=11i-RffyRtIRUkj6MUqYIL9sfKMbmTG-4", #101
+            "https://drive.google.com/uc?export=view&id=1-5-T_P7VFs_WbsmNy0D1e5hEm3r0jf6s", #102
+            "https://drive.google.com/uc?export=view&id=1KTUmTnSQ6Trz9R61uxCAbE-G97E6UOLY", #103
+            "https://drive.google.com/uc?export=view&id=10T4c7w2C2rpuxOHf1hsLWsOxRRhkDuWk", #104
+            "https://drive.google.com/uc?export=view&id=19wuPXIPpdBnIwXJxiReZYeyzChyD8oCH", #105
+            "https://drive.google.com/uc?export=view&id=1ymVJWI6yKzbJuYEF8_lH9T6xbq7JkEjF", #106
+            "https://drive.google.com/uc?export=view&id=1HiDWVumn3aTnMjbb1nY5baAcqAjwz9rl", #107
+            "https://drive.google.com/uc?export=view&id=1kZO26W5C2YmMxsgYK1Vy1RmNIowxzT0P", #108
+            "https://drive.google.com/uc?export=view&id=1_n5UXf1RulNv4-X4IYfyMbU-G5WZc7js", #109
+            "https://drive.google.com/uc?export=view&id=1bbHmOp9GdbCpb4pGrNtJmO0sIP-whmWE", #110
+            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #111
+
+        ]
+        data_list = [
+            {
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
+                "umur": "21",
+                "asal":"Panjibako",
+                "alamat": "Jl. Bel",
+                "hobi": "Mencari Uang",
+                "sosmed": "@andriangaol",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto",
+                "nim": "121450136",
+                "umur": "22",
+                "asal":"Metro",
+                "alamat": "Sukarame",
+                "hobi": "Nonton film",
+                "sosmed": "@adistysa_",
+                "kesan": "Kakak ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus Kakak kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #102
+            },
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "21",
+                "asal":"Simalungun, Sumut",
+                "alamat": "Airan",
+                "hobi": "Hitung uang",
+                "sosmed": "@zhjung_",
+                "kesan": "Kakak ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kak kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #103
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal":"Bukittinggi",
+                "alamat": "Airan",
+                "hobi": "Badminton",
+                "sosmed": "@ahmad.ris45",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya" #104
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450085",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Airan",
+                "hobi": "Nyuruh-nyuruh",
+                "sosmed": "@dananghk_",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya, semoga hasil ujian selalu memuaskan" #105
+            },
+            {
+                "nama": "Farrel Julio Akbar",
+                "nim": "122450110",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "Lapas",
+                "hobi": "Apa aja",
+                "sosmed": "@farrel_julio",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya" #106
+            },
+            {
+                "nama": "Tessa Kania Sagala",
+                "nim": "122450040",
+                "umur": "20",
+                "asal":"Simalungun, Sumut",
+                "alamat": "Pemda",
+                "hobi": "Suka nulis",
+                "sosmed": "@tesakanias",
+                "kesan": "Kakak ini asik, baik, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kak kuliahnya" #107
+            },
+            {
+                "nama": "Nabilah Andika Fitriati",
+                "nim": "121450139",
+                "umur": "20",
+                "asal":"Kedaton",
+                "alamat": "Kedaton",
+                "hobi": "Tidur",
+                "sosmed": "@nabilahanftr",
+                "kesan": "Kakak ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kak kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #108
+            },
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal":"Binjai",
+                "alamat": "Korpri",
+                "hobi": "Nonton windah",
+                "sosmed": "@alviagnting",
+                "kesan": "Kakak ini asik, baik, ramah dan lucu",  
+                "pesan":"Semangat terus kak kuliahnya" #109
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal":"Balam",
+                "alamat": "Jalan Nangka 1",
+                "hobi": "Tidur",
+                "sosmed": "@dhafinrzqa",
+                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus bang kuliahnya" #110
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Korpri",
+                "hobi": "Badminton",
+                "sosmed": "@meylanielia",
+                "kesan": "Kakak ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat terus kakak kuliahnya" #111
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenssd()
+            
