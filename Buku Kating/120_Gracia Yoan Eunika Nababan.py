@@ -379,6 +379,18 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1bHfjq83sG46AVHifNWOlT7KKcPA8lAez", #kak allya
             "https://drive.google.com/uc?export=view&id=1c1c6ZOytsjEGJeWPLiSPIFy9w56z-ioi", #kak eksanty
             "https://drive.google.com/uc?export=view&id=15O1wFRBBL-6CnyHdG03sZiObWNUIpNOf", #kak farahanum
+            "https://drive.google.com/uc?export=view&id=1SJBR8830ArwIeedJJ5rpBZu4-uVP1jPZ", #bang ferdy
+            "https://drive.google.com/uc?export=view&id=1Dkk4HDAX80mKS7KyeYuhAx3fKY-f45IO", #bang deri
+            "https://drive.google.com/uc?export=view&id=1vfhH9Mdce6NDwSR4emT28Mj1EzmlroxN", #kak okta
+            "https://drive.google.com/uc?export=view&id=1sOKeiEl3XhzRypSEoUVSjCXmXuyGdIS5", #bang depan
+            "https://drive.google.com/uc?export=view&id=1cBVRbgIjzrC0uF-Wm6YxMj87Pq7ehiAS", #bang jo
+            "https://drive.google.com/uc?export=view&id=16F3MzhLyOCkVOO-pNG9HHMH-PB6JtD2F", #bang kemas
+            "https://drive.google.com/uc?export=view&id=137TseVQV8bjwy8rpn7jFVH3Hdf-0HLXg", #kak presilia
+            "https://drive.google.com/uc?export=view&id=10e0ohlhCLigqj7Ar-4VXWN30HR6bd3u6", #kak rafa
+            "https://drive.google.com/uc?export=view&id=1sl7-pT9eJMwmv7jsw5-EbKl0don5CW-t", #bang sahid
+            "https://drive.google.com/uc?export=view&id=1ZFv-HVojrNqZgGrmuAMjX5sYpmr6ZSVb", #kak vanessa
+            "https://drive.google.com/uc?export=view&id=1DzbUYPNbZEJ0S8Suh47NzBzJbAhN52mN", #bang ateng
+            "https://drive.google.com/uc?export=view&id=1Ejt45cRkNGEexOtxax30kGq8AwoWbDM7", #bang gede
         ]
         data_list = [
             {
@@ -448,7 +460,144 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@farahanumafifahh",
                 "kesan": "Kakaknya baik dan asik",  
                 "pesan":"Semangat terus kuliahnya kak!" #kak farahanum
+            },
+            {
+                "nama": "Ferdy Kevin Naibaho",
+                "nim": "122450107",
+                "umur": "19",
+                "asal":"Medan",
+                "alamat": "Jalan Pangeran Senopati Raya 18",
+                "hobi": "Baca Kitab Suci",
+                "sosmed": "@ferdy_kevin",
+                "kesan": "Abangnya baik dan pendiam",  
+                "pesan":"Semangat bang!" #bang ferdy
 
+            },
+            {
+                "nama": "M. Deriansyah Okutra",
+                "nim": "122450101",
+                "umur": "19",
+                "asal":"Kayu Agung",
+                "alamat": "Jalan Pagar Alam Kedaton",
+                "hobi": "Ngukur Jalan",
+                "sosmed": "@dransyh_",
+                "kesan": "abangnya lucu dan asik",  
+                "pesan":"semangat terus kuliahnya bang!" #bang deri
+
+            },
+            {
+                "nama": "Oktavia Nurwenda Puspita Sari",
+                "nim": "122450041",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Way Huwi",
+                "hobi": "Travelling",
+                "sosmed": "@_oktavianrwnda_",
+                "kesan": "kakanya baik dan keren", 
+                "pesan":"semangat terus kuliahnya kak!" #kak okta
+
+            },
+            {
+                "nama": "Deyvan Loxefal",
+                "nim": "121450148",
+                "umur": "21",
+                "asal":"Duri, Riau",
+                "alamat": "Pulau Damar Kobam",
+                "hobi": "Belajar",
+                "sosmed": "@depanloo",
+                "kesan": "abangnya lucu banget dan seru",  
+                "pesan":"Jangan pernah cape menghibur orang ya bang" #bang depan
+            },
+            {
+                "nama": "Johannes Krisjon Silitonga",
+                "nim": "122450043",
+                "umur": "19",
+                "asal":"Tangerang",
+                "alamat": "Jalan Lapas",
+                "hobi": "Asprak",
+                "sosmed": "@johanneskrsjnnn",
+                "kesan": "Abangnya baik dan seru",  
+                "pesan":"semangat terus kuliahnya bang!" #bang jo
+            },
+            {
+                "nama": "Kemas Veriandra Ramadhan",
+                "nim": "122450016",
+                "umur": "19",
+                "asal":"Bekasi",
+                "alamat": "Golf Asri",
+                "hobi": "Ngetik print hello dunia",
+                "sosmed": "@kemasverii",
+                "kesan": "Abangnya seru banget, sepuh kodingan, dan baik banget",  
+                "pesan":"Semangat terus kuliahnya bang!" #bang kemas
+            },
+            {
+                "nama": "Presilia",
+                "nim": "122450081",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Kota Baru",
+                "hobi": "Dengerin The Adams",
+                "sosmed": "@presilliamg",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #kak presilia
+
+            },
+            {
+                "nama": "Rafa Aqilla Jungjunan",
+                "nim": "122450122",
+                "umur": "20",
+                "asal":"Pekanbaru",
+                "alamat": "Belwis",
+                "hobi": "Baca webtoon",
+                "sosmed": "@rafaaqilla",
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan": "Semangat terus kuliahnya kak!" #kak rafa
+            },
+            {
+                "nama": "Sahid Maulana",
+                "nim": "122450109",
+                "umur": "21",
+                "asal":"Kota Depok, Jabar",
+                "alamat": "Jalan Airan Raya",
+                "hobi": "Dengerin juicy luicy",
+                "sosmed": "@sahid_maul19",
+                "kesan": "Abangnya baik banget dan seru",  
+                "pesan":"Semangat terus kuliahnya bang!" #bang sahid
+
+            },
+            {
+                "nama": "Vanessa Olivia Rose",
+                "nim": "121450108",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Perum Korpri",
+                "hobi": "Minum kopi, belajar, bikin deyvan senang",
+                "sosmed": "@roselivness__",
+                "kesan": "Kakaknya jago basket dan asik",  
+                "pesan":"Semangat terus kuliahnya kak!" #kak vanessa
+            },
+            {
+                "nama": "M. Farhan Athaulloh",
+                "nim": "121450117",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Menolong",
+                "sosmed": "@mfarhan.ath",
+                "kesan": "Abangnya baik dan cara berkomunikasinya enak didengar",  
+                "pesan":"Semangat terus kuliahnya bang!" #bang ateng
+
+            },
+            {
+                "nama": "Gede Moana",
+                "nim": "121450014",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Korpri Raya",
+                "hobi": "Belajar dan main game",
+                "sosmed": "@gedemoenaa",
+                "kesan": "Abangnya baik dan seru",  
+                "pesan":"Semangat terus kuliahnya bang!" #bang gede
             },
         ]
         display_images_with_data(gambar_urls, data_list)
