@@ -1087,17 +1087,6 @@ elif menu == "Departemen Eksternal":
                 "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #78
             },
             {
-                "nama": "Arafi Ramadhan Maulana",
-                "nim": "122450002",
-                "umur": "20",
-                "asal":"Depok",
-                "alamat": "Way huwi",
-                "hobi": "Imam TVRI",
-                "sosmed": "@-",
-                "kesan": "Abang ini asik, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya" #79
-            },
-            {
                 "nama": "Asa Do'a Uyi",
                 "nim": "122450005",
                 "umur": "20",
@@ -1180,19 +1169,19 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def departemeninternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1MAastkagwtGWUC9GzEdMGB0IzUsJLtqA", #87
-            "https://drive.google.com/uc?export=view&id=1KiBZtdMhh0B1mksLm2GMpV3AzFEVbwHz", #88
-            "https://drive.google.com/uc?export=view&id=1SNj0J7eh0fdJDX7rnHaf5pikEOAeCSUf", #89
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #90
-            "https://drive.google.com/uc?export=view&id=1Pazqi3pSxG18QJc58ALRYtaFpTtn9gRM", #91
+            "https://drive.google.com/uc?export=view&id=1LI3ZocH98THXhGmqbR4iqQPXWyW5SDGi", #87
+            "https://drive.google.com/uc?export=view&id=1L0e_u5XLlZXhHdP3USwyxCPeNFuenh8X", #88
+            "https://drive.google.com/uc?export=view&id=1LEWNSz4s-o9IKXw8BMbu6RnAVkEwsemF", #89
+            "https://drive.google.com/uc?export=view&id=1LFxEKftMRjFR-GisxlSWqZKd8jiALjAr", #90
+            "https://drive.google.com/uc?export=view&id=1LFxEKftMRjFR-GisxlSWqZKd8jiALjAr", #91
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #92
-            "https://drive.google.com/uc?export=view&id=1pkitQk81ZLsrBi0Xoc-D1at3Q8N7y9bB", #93
+            "https://drive.google.com/uc?export=view&id=1L5srgbiAa37elW4AIr6cU-BP2RjFHNMY", #93
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #94
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #95
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #96
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #97
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #98
-            "https://drive.google.com/uc?export=view&id=1f9fENquXS0Joza_pOveBn1pPHjKuOYAl", #99
+            "https://drive.google.com/uc?export=view&id=1L3muJthZh0tlVIaS8_hte2POMHeDGc9E", #99
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #100
 
         ]
@@ -1358,17 +1347,17 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def departemenssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=11i-RffyRtIRUkj6MUqYIL9sfKMbmTG-4", #101
-            "https://drive.google.com/uc?export=view&id=1-5-T_P7VFs_WbsmNy0D1e5hEm3r0jf6s", #102
-            "https://drive.google.com/uc?export=view&id=1KTUmTnSQ6Trz9R61uxCAbE-G97E6UOLY", #103
-            "https://drive.google.com/uc?export=view&id=10T4c7w2C2rpuxOHf1hsLWsOxRRhkDuWk", #104
-            "https://drive.google.com/uc?export=view&id=19wuPXIPpdBnIwXJxiReZYeyzChyD8oCH", #105
-            "https://drive.google.com/uc?export=view&id=1ymVJWI6yKzbJuYEF8_lH9T6xbq7JkEjF", #106
-            "https://drive.google.com/uc?export=view&id=1HiDWVumn3aTnMjbb1nY5baAcqAjwz9rl", #107
-            "https://drive.google.com/uc?export=view&id=1kZO26W5C2YmMxsgYK1Vy1RmNIowxzT0P", #108
-            "https://drive.google.com/uc?export=view&id=1_n5UXf1RulNv4-X4IYfyMbU-G5WZc7js", #109
-            "https://drive.google.com/uc?export=view&id=1bbHmOp9GdbCpb4pGrNtJmO0sIP-whmWE", #110
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #111
+            "https://drive.google.com/uc?export=view&id=1LLFd89uDrv1_SLRa4Uy6--BYUl69dLD6", #101
+            "https://drive.google.com/uc?export=view&id=1M9iv_EdaVlTZgkWOy-a1pyAdhwgVAoj8", #102
+            "https://drive.google.com/uc?export=view&id=1LOKsxB8wsNs2Sz-LJWH3VVJyvkzLK7e8", #103
+            "https://drive.google.com/uc?export=view&id=1MGmN0PE-SMJ3orlW-LvhSkhM4iPUlV_6", #104
+            "https://drive.google.com/uc?export=view&id=1MG_FvyBKzpE2_w5NKgRpwF52BGFfmQax", #105
+            "https://drive.google.com/uc?export=view&id=1MFWYqJEtJMVD0syHCzLqhSWSV2cglr-L", #106
+            "https://drive.google.com/uc?export=view&id=1LSAeq5OnSoWGnYkmzKTHkqnTF3aPa3cN", #107
+            "https://drive.google.com/uc?export=view&id=1KxqmaVgtTq6W3esjMXHPXM6uD9Nn_pzt", #108
+            "https://drive.google.com/uc?export=view&id=1LNgXR_ZaGsrpqAjhkTWFvv7_VgAKeWDx", #109
+            "https://drive.google.com/uc?export=view&id=1M9Q1fubQeJFDTaJFXzmrB8TW7PhzwKec", #110
+            "https://drive.google.com/uc?export=view&id=1LR7-xkfwfU6yMSjWLXJ5accDWuRqTh1K", #111
 
         ]
         data_list = [
