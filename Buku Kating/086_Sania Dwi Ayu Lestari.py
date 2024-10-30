@@ -1198,18 +1198,18 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def departemeninternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1BZGEatbyf2qVMkBiDNLTBjIqrF3LP-0W", #1
-            "https://drive.google.com/uc?export=view&id=1Bla5wCFwjRdlCrZXaAO_2yOBgmc03GIw", #2
-            "https://drive.google.com/uc?export=view&id=1C0_dqsGEqVF4KAcibafo4hBEqKzZsXwr", #3
+            "https://drive.google.com/uc?export=view&id=1mGyNPx5HD2e6EmyJ36kBf2GxIJ5Hmgo7", #1
+            "https://drive.google.com/uc?export=view&id=1lxUU8I-vZJPS2iL0qaG832wHRIF02jnI", #2
+            "https://drive.google.com/uc?export=view&id=1lqDLuteV8HtBu-x2DerrfiuFZ1UqX-T8", #3
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
-            "https://drive.google.com/uc?export=view&id=1C0_dqsGEqVF4KAcibafo4hBEqKzZsXwr", #7
-            "https://drive.google.com/uc?export=view&id=1BuJTXAaIc0GmqnZTKTSjzP8HfVvK_pPC", #8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
+            "https://drive.google.com/uc?export=view&id=1lpcSqwS3sPDwAEN_jVZjBZuX1AF7Fqe1", #6
+            "https://drive.google.com/uc?export=view&id=1m-dAQylJ-YIFi2Ono6Yc5Noi8QF9VQPl", #7
+            "https://drive.google.com/uc?export=view&id=1m8PBgRGBPOPmjFB0B50HNdNV5KA82ckB", #8
+            "https://drive.google.com/uc?export=view&id=1mDEfNHWGG8f1ZbQZ4cv5NBilL1DGQOVe", #9
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
+            "https://drive.google.com/uc?export=view&id=1luIGhQtMTZM7RjB8MAk6y1KtbBmIIQ9l", #12
             
         ]
         data_list = [
