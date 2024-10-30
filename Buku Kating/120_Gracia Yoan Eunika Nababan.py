@@ -647,15 +647,18 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=17PkJXwqPqa4lyeBMno1iCsnvqGy1ytYd", #bang rafi
             "https://drive.google.com/uc?export=view&id=1VV6PXcclOuKPR3mgIlaQ4H1Hljal7x3A", #kak anova
             "https://drive.google.com/uc?export=view&id=1Cziha9Z0PhCGP0fVjSDi4mM3KCF1cfo6", #bang ahmad
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bang fadhil
             "https://drive.google.com/uc?export=view&id=1SH5Ep3AglNZL-k1rkBGSmzKBD25iFGx0", #bang regi
             "https://drive.google.com/uc?export=view&id=1U7d0QQNQjA7SZuPS49q-lezyfmJv9by7", #kak syalaisha
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bang natanael
             "https://drive.google.com/uc?export=view&id=1h00eL-OCFb9fgoTX6BRQSKVqKjFirDJw", #bang anwar
             "https://drive.google.com/uc?export=view&id=1tnIfxuKgWTPuwW5h4YrdnrIHD2iqtlGE", #kak deva
             "https://drive.google.com/uc?export=view&id=1bKU_PYXcMkF3IA6wdXRKYkDsB39k0cAc", #kak dinda
             "https://drive.google.com/uc?export=view&id=1ufAiRZrrKLPFSdZtEMviJAeGhqrLgfbE", #kak marleta
             "https://drive.google.com/uc?export=view&id=1VZkHwMbxchrmLkJZ_2nj3odt-mNVnmRJ", #kak rut
+            "https://drive.google.com/uc?export=view&id=1qHkw0rNj60mtNRZi4az493RHbr5OYmWg", #kak syadza
+            "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc", #bang adit
+            "https://drive.google.com/uc?export=view&id=10HtMXzV8oBASuu8L7UKsruQ_O3NmxmhB", #bang eggi
+            "https://drive.google.com/uc?export=view&id=1Cp_sIhIu5a70rheKW0-_A5NXfv7cRNxj", #kak febiya
+            "https://drive.google.com/uc?export=view&id=1VXrs2jQNsJHC_aUDj2nV2KVQCufotrR4", #bang randa
         ]
         data_list = [
           {
@@ -692,17 +695,6 @@ elif menu == "Departemen MIKFES":
                 "pesan": ""
             },
             {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": "122450082",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Teluk Betung",
-                "hobi": "Main Game",
-                "sosmed": "@fadhilfwee",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
                 "nim": "122450031",
                 "umur": "19",
@@ -721,17 +713,6 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg Yudhistira",
                 "hobi": "Baca Novel",
                 "sosmed": "@dkselsd_31",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
                 "kesan": "",
                 "pesan": ""
             },
@@ -802,17 +783,6 @@ elif menu == "Departemen MIKFES":
                 "pesan": ""
             },
             {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "121450128",
-                "umur": "23",
-                "asal": "Bandar Lampung",
-                "alamat": "Perumnas Way Kandis",
-                "hobi": "Membaca",
-                "sosmed": "@rahmn_abdr",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
                 "nama": "Aditya Rahman",
                 "nim": "122450113",
                 "umur": "20",
@@ -842,17 +812,6 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl Kelengkeng Raya",
                 "hobi": "Nonton K-Drama",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450013",
-                "umur": "20",
-                "asal": "Lampung",
-                "alamat": "Karang Anyar",
-                "hobi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "",
                 "pesan": ""
             },
