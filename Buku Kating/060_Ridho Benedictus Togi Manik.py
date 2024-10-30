@@ -1338,5 +1338,5 @@ elif menu == "DEPARTEMEN INTERNAL ":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Internal()
+    Internal()
 
