@@ -693,7 +693,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Lubuk Linggau",
                 "alamat sekarang": "Jl. Nangka 4",
                 "hobbi": "Olahraga",
-                "sosial media": "@rafadhilillahh13",
+                "sosmed": "@rafadhilillahh13",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus bang",
                 "jabatan": "Kepala Departement"
@@ -705,7 +705,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Lampung Utara",
                 "alamat sekarang": "Jl. Pulau Sebesi, Sukarame",
                 "hobbi": "Memasak",
-                "sosial media": "@anovavona",
+                "sosmed": "@anovavona",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Sekretaris Departement"
@@ -717,7 +717,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Tulang Bawang",
                 "alamat sekarang": "Sukarame",
                 "hobbi": "Olahraga",
-                "sosial media": "@sahid22__",
+                "sosmed": "@sahid22__",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus bang",
                 "jabatan": "Staff Divisi Club dan Komunitas"
@@ -729,7 +729,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Bekasi",
                 "alamat sekarang": "Teluk Betung",
                 "hobbi": "Main Game",
-                "sosial media": "@fadhilfwee",
+                "sosmed": "@fadhilfwee",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus kuliahnya bang!",
                 "jabatan": "Staff Divisi Club dan Komunitas"
@@ -741,7 +741,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Palembang",
                 "alamat sekarang": "Jl. Permadi Sukarame",
                 "hobbi": "Jadi admin ig mikfes.hmsd",
-                "sosial media": "@mregiiii_",
+                "sosmed": "@mregiiii_",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus bang",
                 "jabatan": "Staff Divisi Club dan Komunitas"
@@ -753,7 +753,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Tangerang",
                 "alamat sekarang": "Gg Yudhistira",
                 "hobbi": "Baca Novel",
-                "sosial media": "@dkselsd_31",
+                "sosmed": "@dkselsd_31",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Staff Divisi Club dan Komunitas"
@@ -765,7 +765,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Jakarta",
                 "alamat sekarang": "Kemiling",
                 "hobbi": "Membuka Wisata HMSD",
-                "sosial media": "@natanaeloks",
+                "sosmed": "@natanaeloks",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus bang",
                 "jabatan": "Kepala Divisi Pusat Inovasi dan Kajian Akademik"
@@ -777,7 +777,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Bukittinggi",
                 "alamat sekarang": "Korpri",
                 "hobbi": "ML (Machine Learning)",
-                "sosial media": "@here.am.ai",
+                "sosmed": "@here.am.ai",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus kuliahnya bang!",
                 "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
@@ -789,7 +789,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Kemiling",
                 "hobbi": "Menonton Film",
-                "sosial media": "@anjaniiidev",
+                "sosmed": "@anjaniiidev",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
@@ -801,7 +801,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Medan",
                 "alamat sekarang": "Jl. Lapas",
                 "hobbi": "",
-                "sosial media": "@dindanababan_",
+                "sosmed": "@dindanababan_",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
@@ -813,7 +813,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Depok, Jawa Barat",
                 "alamat sekarang": "Gg. Nangka 3",
                 "hobbi": "Liatin Jurnal",
-                "sosial media": "@marletacornelia",
+                "sosmed": "@marletacornelia",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "",
                 "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
@@ -825,7 +825,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Batam, Kep.Riau",
                 "alamat sekarang": "Gg. Nangka 3",
                 "hobbi": "Resume Jurnal",
-                "sosial media": "@junitaa_0406",
+                "sosmed": "@junitaa_0406",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
@@ -837,7 +837,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Palembang",
                 "alamat sekarang": "Belwis",
                 "hobbi": "Membaca",
-                "sosial media": "@puspadrr",
+                "sosmed": "@puspadrr",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Kakak ini asik dan ramah",
                 "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
@@ -849,7 +849,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Bandar Lampung",
                 "alamat sekarang": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
-                "sosial media": "@rahmn_abdr",
+                "sosmed": "@rahmn_abdr",
                 "kesan": "Abang ini baik",
                 "pesan": "Semangat terus bang",
                 "jabatan": "Kepala Divisi Survei dan Riset"
@@ -861,7 +861,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Lampung Timur",
                 "alamat sekarang": "Korpri",
                 "hobbi": "Ngoding WISATA",
-                "sosial media": "@rahm_adityaa",
+                "sosmed": "@rahm_adityaa",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya bang!",
                 "jabatan": "Staff Divisi Survei dan Riset"
@@ -873,7 +873,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Sukabumi",
                 "alamat sekarang": "Korpri",
                 "hobbi": "Ngoding dan buat konten WISATA",
-                "sosial media": "@egistr",
+                "sosmed": "@egistr",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya bang!",
                 "jabatan": "Staff Divisi Survei dan Riset"
@@ -885,7 +885,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Tulang Bawang",
                 "alamat sekarang": "Jl Kelengkeng Raya",
                 "hobbi": "Nonton K-Drama",
-                "sosial media": "@pratiwifebiya",
+                "sosmed": "@pratiwifebiya",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Staff Divisi Survei dan Riset"
@@ -897,7 +897,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Lampung",
                 "alamat sekarang": "Karang Anyar",
                 "hobbi": "Main Game",
-                "sosial media": "@sudo.syahrulramadhannn",
+                "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
                 "jabatan": "Staff Divisi Survei dan Riset"
@@ -909,7 +909,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Banten",
                 "alamat sekarang": "Jl Nangka 3",
                 "hobbi": "Berolahraga",
-                "sosial media": "@randardn",
+                "sosmed": "@randardn",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus bang",
                 "jabatan": "Staff Divisi Survei dan Riset"
