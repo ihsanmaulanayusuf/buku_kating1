@@ -1180,8 +1180,8 @@ elif menu == "Departemen Eksternal":
         display_images_with_data(gambar_urls, data_list)
     departemeneksternal()
 
-elif menu == "DEPARTEMEN INTERNAL ":
-    def Internal():
+elif menu == "Departemen Internal":
+    def departemeninternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1RzdL7Jg5PRDnR04_Nwb2NEBjEUK597Ps",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -1338,5 +1338,5 @@ elif menu == "DEPARTEMEN INTERNAL ":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Internal()
+    departemeninternal()
 
