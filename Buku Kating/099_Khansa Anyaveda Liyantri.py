@@ -375,7 +375,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=132tMDBhaqRMGJDbj5ihVFVTxaUn_5B8m", #18
             "https://drive.google.com/uc?export=view&id=132jT5V3scf-mcU4lpFBWMvhCQIydj-iS", #19
             "https://drive.google.com/uc?export=view&id=137HxddapiW0_cSOCrDlXuJfc7KMqHX3_", #20
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #21
+            "https://drive.google.com/uc?export=view&id=136hwJD2xkkVClv4dHAwhf8QhJ_OG-TkY", #21
         ]
         data_list = [
             {
@@ -387,8 +387,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
                 "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
-                "jabatan": "Kepala Departemen PSDA"
+                "pesan": "(Sesuaikan dengan kalian)"
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
@@ -399,8 +398,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
                 "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
-                "jabatan": "Sekretaris Departemen PSDA"
+                "pesan": "(Sesuaikan dengan kalian)"
             },
             {
                 "nama": "Deyvan Loxefal",
@@ -411,8 +409,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar",
                 "sosmed": "@depanloo",
                 "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
-                "jabatan": "Kepala Divisi Manajemen Minat dan Bakat"
+                "pesan": "(Sesuaikan dengan kalian)"
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -423,8 +420,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Muter - Muter",
                 "sosmed": "@afifahhnsrn",
                 "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
-                "jabatan": "Kepala Divisi Kaderisasi"
+                "pesan": "(Sesuaikan dengan kalian)"
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -435,8 +431,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Menolong",
                 "sosmed": "@mfarhan.ath",
                 "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
-                "jabatan": "Kepala Divisi Olahraga dan Perlombaan"
+                "pesan": "(Sesuaikan dengan kalian)"
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -447,8 +442,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
                 "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)",
-                "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
+                "pesan": "(Sesuaikan dengan kalian)"
             },
             {
                 "nama": "Kemas Veriandra Ramadhan",
@@ -459,8 +453,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Main Game",
                 "sosmed": "@kemasverii",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
+                "pesan": ""
             },
             {
                 "nama": "Presilia",
@@ -471,8 +464,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Dengerin Lomba Sihir",
                 "sosmed": "@presiliamg",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Bendahara Divisi Manajemen Minat dan Bakat"
+                "pesan": ""
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
@@ -483,8 +475,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
+                "pesan": ""
             },
             {
                 "nama": "Sahid Maulana",
@@ -495,8 +486,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nonton Jagad review",
                 "sosmed": "@sahid_maulana",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
+                "pesan": ""
             },
             {
                 "nama": "Vanessa Olivia Rose",
@@ -507,8 +497,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
+                "pesan": ""
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -519,8 +508,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nongs",
                 "sosmed": "@allyaislami_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Kaderisasi"
+                "pesan": ""
             },
             {
                 "nama": "Eksanty Febriana Sukma Islamiaty",
@@ -531,8 +519,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nyari sinyal di gedung F",
                 "sosmed": "@eksantyfebriana",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Kaderisasi"
+                "pesan": ""
             },
             {
                 "nama": "M. Deriansyah Okutra",
@@ -543,8 +530,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nongki - nongki",
                 "sosmed": "@dransyah_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Kaderisasi"
+                "pesan": ""
             },
             {
                 "nama": "Oktavia Nurwendah Puspita Sari",
@@ -555,8 +541,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Scroll Tiktok",
                 "sosmed": "@oktavianrwnda",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Kaderisasi"
+                "pesan": ""
             },
             {
                 "nama": "Gede Moena",
@@ -567,8 +552,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar, Game, Baca Komik",
                 "sosmed": "@gedemoenaa",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Olahraga dan Perlombaan"
+                "pesan": ""
             },
              {
                 "nama": "Jaclin Alcavella",
@@ -579,8 +563,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Berenang",
                 "sosmed": "@jaclinaclcv_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Olahraga dan Perlombaan"
+                "pesan": ""
             },
             {
                 "nama": "Rafly Prabu Darmawan",
@@ -591,8 +574,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Main Game",
                 "sosmed": "@raflyy_pd",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Olahraga dan Perlombaan"
+                "pesan": ""
             },
             {
                 "nama": "Syalaisha Andini Putriansyah",
@@ -603,8 +585,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Baca",
                 "sosmed": "@syalaisha.i_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Olahraga dan Perlombaan"
+                "pesan": ""
             },
             {
                 "nama": "Ferdy Kevin Naibaho",
@@ -615,20 +596,18 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Baca Kitab Suci",
                 "sosmed": "@ferdy_kevin",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Olahraga dan Perlombaan"
+                "pesan": ""
             },
             {
-                "nama": "Syalaisha Andini Putriansyah",
-                "nim": "122450111",
-                "umur": "21",
-                "asal": "Tangerang",
+                "nama": "Farahanum Afifah Ardiansyah",
+                "nim": "122450056",
+                "umur": "20",
+                "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobbi": "Baca",
-                "sosmed": "@syalaisha.i_",
+                "hobbi": "Bengong",
+                "sosmed": "@farahanumafifahh",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Olahraga dan Perlombaan"
+                "pesan": ""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -638,7 +617,7 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def departemenmikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
+            "https://drive.google.com/uc?export=view&id=18hdAAefK2KsGzJGN6odfUSq5yfYMY5x7", #1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
@@ -650,12 +629,10 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #13
+            "https://drive.google.com/uc?export=view&id=18cIjC8VowFdcA0fONDGIbZs0rDCwegHH", #13
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #14
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #15
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #16
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #17
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #18
+            "https://drive.google.com/uc?export=view&id=18_2SM5InLDP_vrmbqjU0bWugGhIzO4qv", #15
+            "https://drive.google.com/uc?export=view&id=18gI8jrSZFJWeAJYbluyTs6AFXB1VuEm5", #16
         ]
         data_list = [
             {
@@ -667,8 +644,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Olahraga",
                 "sosial media": "@rafadhilillahh13",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Departement"
+                "pesan": ""
             },
             {
                 "nama": "Annisa Novantika",
@@ -679,8 +655,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Memasak",
                 "sosial media": "@anovavona",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Sekretaris Departement"
+                "pesan": ""
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -691,8 +666,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Olahraga",
                 "sosial media": "@sahid22__",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                "pesan": ""
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
@@ -703,8 +677,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Main Game",
                 "sosial media": "@fadhilfwee",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                "pesan": ""
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -715,8 +688,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Jadi admin ig mikfes.hmsd",
                 "sosial media": "@mregiiii_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                "pesan": ""
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -727,8 +699,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Baca Novel",
                 "sosial media": "@dkselsd_31",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                "pesan": ""
             },
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
@@ -739,8 +710,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Membuka Wisata HMSD",
                 "sosial media": "@natanaeloks",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Anwar Muslim",
@@ -751,8 +721,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "ML (Machine Learning)",
                 "sosial media": "@here.am.ai",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
@@ -763,8 +732,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Menonton Film",
                 "sosial media": "@anjaniiidev",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Dinda Nababan",
@@ -775,8 +743,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "",
                 "sosial media": "@dindanababan_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Marleta Cornelia Leander",
@@ -787,8 +754,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Liatin Jurnal",
                 "sosial media": "@marletacornelia",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Rut Junita Sari Siburian",
@@ -799,8 +765,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Resume Jurnal",
                 "sosial media": "@junitaa_0406",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -811,8 +776,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Membaca",
                 "sosial media": "@puspadrr",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                "pesan": ""
             },
             {
                 "nama": "Abdurrahman Al-atsary",
@@ -823,8 +787,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Membaca",
                 "sosial media": "@rahmn_abdr",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Survei dan Riset"
+                "pesan": ""
             },
             {
                 "nama": "Aditya Rahman",
@@ -835,8 +798,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Ngoding WISATA",
                 "sosial media": "@rahm_adityaa",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                "pesan": ""
             },
             {
                 "nama": "Eggi Satria",
@@ -847,8 +809,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Ngoding dan buat konten WISATA",
                 "sosial media": "@egistr",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                "pesan": ""
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -859,8 +820,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Nonton K-Drama",
                 "sosial media": "@pratiwifebiya",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                "pesan": ""
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -871,8 +831,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Main Game",
                 "sosial media": "@sudo.syahrulramadhannn",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                "pesan": ""
             },
             {
                 "nama": "Randa Andriana Putra",
@@ -883,8 +842,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Berolahraga",
                 "sosial media": "@randardn",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                "pesan": ""
             }
         ]
 
