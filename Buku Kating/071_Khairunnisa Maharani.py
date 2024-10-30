@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=14DhRtvnb5UcEIAGqFe-d7fLat_5u1H-r",
-            "https://drive.google.com/uc?export=view&id=14GrbyWyqXY1wS4rDB6QBGc98TbGVxcoR",
-            "https://drive.google.com/uc?export=view&id=14MrjnZDcKJFstNX6oGblGcXWopC1KiiE",
-            "https://drive.google.com/uc?export=view&id=14MJotgMAMP03E1UsfWdPLudVSmQ98d-V",
-            "https://drive.google.com/uc?export=view&id=14JAB81cih6GiA3HHeqffIAWZEzdpfhev",
-            "https://drive.google.com/uc?export=view&id=14HzTAF-53F2FvmtsfmP27IFWSxMBinGB",
+            "https://drive.google.com/uc?export=view&id=14DhRtvnb5UcEIAGqFe-d7fLat_5u1H-r", #1
+            "https://drive.google.com/uc?export=view&id=14GrbyWyqXY1wS4rDB6QBGc98TbGVxcoR", #2
+            "https://drive.google.com/uc?export=view&id=14MrjnZDcKJFstNX6oGblGcXWopC1KiiE", #3
+            "https://drive.google.com/uc?export=view&id=14MJotgMAMP03E1UsfWdPLudVSmQ98d-V", #4
+            "https://drive.google.com/uc?export=view&id=14JAB81cih6GiA3HHeqffIAWZEzdpfhev", #5
+            "https://drive.google.com/uc?export=view&id=14HzTAF-53F2FvmtsfmP27IFWSxMBinGB", #6
         ]
         data_list = [
             {
@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni21",
                 "kesan": "Sangat ramah dan selalu siap membantu, kakak ini nggak pelit ilmu.",  
-                "pesan":"Terus semangat ya, Kak! Semoga kuliahnya lancar dan sukses selalu!"# 1
+                "pesan":"Terus semangat ya, Kak! Semoga kuliahnya lancar dan sukses selalu!"# 2
             },
             {
                 "nama": "Meliza Wulandari",
@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Kakaknya baik banget dan selalu memberikan penjelasan yang mudah dimengerti.",  
-                "pesan":"Semoga kakak bisa mencapai semua cita-citanya! Tetap semangat dan jangan menyerah!"# 1
+                "pesan":"Semoga kakak bisa mencapai semua cita-citanya! Tetap semangat dan jangan menyerah!"# 3
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -149,7 +149,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakak ini menyenangkan, selalu bisa diajak ngobrol santai tapi ilmunya banyak.",  
-                "pesan":"Semangat terus, Kak! Semoga sukses dalam setiap langkahmu di kampus dan di luar!"# 1
+                "pesan":"Semangat terus, Kak! Semoga sukses dalam setiap langkahmu di kampus dan di luar!"# 4
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Sikap kakak yang selalu sabar dan perhatian bikin saya nyaman bertanya.",  
-                "pesan":"Jaga kesehatan dan semangat terus ya, Kak! Semoga sukses dalam studinya!"# 1
+                "pesan":"Jaga kesehatan dan semangat terus ya, Kak! Semoga sukses dalam studinya!"# 5
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -171,7 +171,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin  bang Pandra Gitaran",
                 "sosmed": "@nadillaadr26",
                 "kesan": "Kakak ini sangat pengertian, selalu mendengarkan dan memberikan masukan yang bijak.",  
-                "pesan":"Semoga kuliahnya lancar, kakak! Terus berjuang dan gapai mimpimu!"# 1
+                "pesan":"Semoga kuliahnya lancar, kakak! Terus berjuang dan gapai mimpimu!"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
