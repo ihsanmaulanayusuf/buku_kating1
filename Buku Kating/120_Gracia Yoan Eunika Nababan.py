@@ -376,7 +376,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv", #bang econ
             "https://drive.google.com/uc?export=view&id=1hd_ZBV8YXCjifW3POxChGh5B9432VlOo", #kak abeth
             "https://drive.google.com/uc?export=view&id=1kJ1j6egF-fXTTkIuW06uhBannSIJiqPE", #kak afifah
-            "https://drive.google.com/uc?export=view&id=1bHfjq83sG46AVHifNWOlT7KKcPA8lAez", #kak allya
+            "https://drive.google.com/uc?export=view&id=1T1Y3AmgHVb38M74tIlajAdv0LU0a_BzY", #kak allya
             "https://drive.google.com/uc?export=view&id=1c1c6ZOytsjEGJeWPLiSPIFy9w56z-ioi", #kak eksanty
             "https://drive.google.com/uc?export=view&id=15O1wFRBBL-6CnyHdG03sZiObWNUIpNOf", #kak farahanum
             "https://drive.google.com/uc?export=view&id=1SJBR8830ArwIeedJJ5rpBZu4-uVP1jPZ", #bang ferdy
@@ -610,7 +610,7 @@ elif menu == "Departemen PSDA":
                 "hobi": "Berenang",
                 "sosmed": "@jaclinalcv_",
                 "kesan": "Kakaknya baik dan asik",  
-                "pesan":"Semangat terus kuliahnya kak!" #19
+                "pesan":"Semangat terus kuliahnya kak!" #kak jaclin
 
             },
             {
@@ -622,7 +622,7 @@ elif menu == "Departemen PSDA":
                 "hobi": "Main game",
                 "sosmed": "@raflyy_pd2684",
                 "kesan": "Abangnya baik dan seru",  
-                "pesan": "Semangat terus kuliahnya bang!" #20
+                "pesan": "Semangat terus kuliahnya bang!" #bang rafly
 
             },
             {
