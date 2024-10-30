@@ -696,7 +696,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rafadhilillahh13",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus bang",
-                "jabatan": "Kepala Departement"
+                
             },
             {
                 "nama": "Annisa Novantika",
@@ -708,7 +708,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anovavona",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Sekretaris Departement"
+                
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -720,7 +720,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sahid22__",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus bang",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
@@ -732,7 +732,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@fadhilfwee",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus kuliahnya bang!",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -744,7 +744,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@mregiiii_",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus bang",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -756,7 +756,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Staff Divisi Club dan Komunitas"
+                
             },
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
@@ -768,7 +768,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@natanaeloks",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus bang",
-                "jabatan": "Kepala Divisi Pusat Inovasi dan Kajian Akademik"
+                
             },
             {
                 "nama": "Anwar Muslim",
@@ -780,7 +780,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@here.am.ai",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus kuliahnya bang!",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
@@ -792,7 +792,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anjaniiidev",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                
             },
             {
                 "nama": "Dinda Nababan",
@@ -804,7 +804,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dindanababan_",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                
             },
             {
                 "nama": "Marleta Cornelia Leander",
@@ -816,7 +816,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@marletacornelia",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Rut Junita Sari Siburian",
@@ -828,7 +828,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@junitaa_0406",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+                
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -840,7 +840,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Kakak ini asik dan ramah",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
+               
             },
             {
                 "nama": "Abdurrahman Al-atsary",
@@ -852,7 +852,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rahmn_abdr",
                 "kesan": "Abang ini baik",
                 "pesan": "Semangat terus bang",
-                "jabatan": "Kepala Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Aditya Rahman",
@@ -864,7 +864,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rahm_adityaa",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya bang!",
-                "jabatan": "Staff Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Eggi Satria",
@@ -876,7 +876,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@egistr",
                 "kesan": "Abang ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya bang!",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -888,7 +888,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@pratiwifebiya",
                 "kesan": "Kakak ini asik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Staff Divisi Survei dan Riset"
+               
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -900,7 +900,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "Kakak ini baik dan ramah",
                 "pesan": "Semangat terus kuliahnya kak!",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                
             },
             {
                 "nama": "Randa Andriana Putra",
@@ -912,7 +912,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randardn",
                 "kesan": "Abang ini pintar, baik",
                 "pesan": "Semangat terus bang",
-                "jabatan": "Staff Divisi Survei dan Riset"
+                
             }
         ]
 
@@ -951,7 +951,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal":"Tangerang",
                 "alamat": "Jati Mulyo",
-                "hobi": "Bangun Pagi",
+                "hobbi": "Bangun Pagi",
                 "sosmed": "@yogyyy",
                 "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
                 "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #66
@@ -962,7 +962,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "TVRI",
-                "hobib": "Jalan-jalan",
+                "hobbi": "Jalan-jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan": "Kakak ini asik, baik, pemikirannya luas, dan publik speakingnya bagus",  
                 "pesan":"Semangat terus kak kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #67
