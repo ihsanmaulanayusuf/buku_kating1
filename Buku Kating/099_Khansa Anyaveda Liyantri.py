@@ -618,19 +618,19 @@ elif menu == "Departemen MIKFES":
     def departemenmikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=18hdAAefK2KsGzJGN6odfUSq5yfYMY5x7", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #12
-            "https://drive.google.com/uc?export=view&id=18cIjC8VowFdcA0fONDGIbZs0rDCwegHH", #13
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #14
+            "https://drive.google.com/uc?export=view&id=18dbSe8ThfxW3lLP9CCsEeREUrJ2iGAkx", #2
+            "https://drive.google.com/uc?export=view&id=18ipTbf_DDUSaUd-TbDd4hi8phsh-BcSX", #3
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4fadhil
+            "https://drive.google.com/uc?export=view&id=18XUho29DrUdfkOLBkSQhXBPEXcPW02ec", #5
+            "https://drive.google.com/uc?export=view&id=18bDO8Moyg9fyjofbajYru52t7IhxDlTS", #6
+            "https://drive.google.com/uc?export=view&id=18dim6vnJ7OsPDynkX9GIgTME4wotaB-6", #7
+            "https://drive.google.com/uc?export=view&id=18dVqqfDTu7lrzMZQyv6k7Lm489rvk4eG", #8
+            "https://drive.google.com/uc?export=view&id=18i4FowhU0Sy3oA-f2Olyeecf3AU81Lm4", #9
+            "https://drive.google.com/uc?export=view&id=18jgiR8wz-HHy6VhegAzzHfO1ltOsXGBG", #10
+            "https://drive.google.com/uc?export=view&id=18XYc_AkAU7woyh9mFgx92Qr61PuBCxIt", #11
+            "https://drive.google.com/uc?export=view&id=18i8dB_yuuo-xBbepuLkb_z7G9Vkq2oXg", #12
+            "https://drive.google.com/uc?export=view&id=18eklXnm9UN69pVY_iWpd6AjveB6x19AN", #13
+            "https://drive.google.com/uc?export=view&id=18cIjC8VowFdcA0fONDGIbZs0rDCwegHH", #14
             "https://drive.google.com/uc?export=view&id=18_2SM5InLDP_vrmbqjU0bWugGhIzO4qv", #15
             "https://drive.google.com/uc?export=view&id=18gI8jrSZFJWeAJYbluyTs6AFXB1VuEm5", #16
         ]
@@ -702,17 +702,6 @@ elif menu == "Departemen MIKFES":
                 "pesan": ""
             },
             {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat sekarang": "Kemiling",
-                "hobi": "Membuka Wisata HMSD",
-                "sosial media": "@natanaeloks",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
                 "umur": "21",
@@ -779,17 +768,6 @@ elif menu == "Departemen MIKFES":
                 "pesan": ""
             },
             {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "121450128",
-                "umur": "23",
-                "asal": "Bandar Lampung",
-                "alamat sekarang": "Perumnas Way Kandis",
-                "hobi": "Membaca",
-                "sosial media": "@rahmn_abdr",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
                 "nama": "Aditya Rahman",
                 "nim": "122450113",
                 "umur": "20",
@@ -808,17 +786,6 @@ elif menu == "Departemen MIKFES":
                 "alamat sekarang": "Korpri",
                 "hobi": "Ngoding dan buat konten WISATA",
                 "sosial media": "@egistr",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Febiya Jomy Pratiwi",
-                "nim": "122450074",
-                "umur": "20",
-                "asal": "Tulang Bawang",
-                "alamat sekarang": "Jl Kelengkeng Raya",
-                "hobi": "Nonton K-Drama",
-                "sosial media": "@pratiwifebiya",
                 "kesan": "",
                 "pesan": ""
             },
