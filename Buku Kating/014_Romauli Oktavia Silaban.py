@@ -386,7 +386,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@ericsonchandra99",
         "kesan": "bang ericson orangnya baikk",
         "pesan": "semoga bang ericson semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Kepala Departemen PSDA"
     },
     {
         "nama": "Elisabeth Claudia Simanjuntak",
@@ -398,7 +397,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@celisabethh_",
         "kesan": "kak sabeth orangnya tegas",
         "pesan": "semoga kak sabeth semakin sukses didalam maupun diluar himpunan)",
-        "jabatan": "Sekretaris Departemen PSDA"
     },
     {
         "nama": "Deyvan Loxefal",
@@ -410,7 +408,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@depanloo",
         "kesan": "bang deyvan orangnya seru",
         "pesan": "semoga bang deyvan semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Kepala Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Nisrina Nur Afifah",
@@ -422,7 +419,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@afifahhnsrn",
         "kesan": "kak fifah orangnya baik dan cantik",
         "pesan": "semoga kak fifah semakin sukses didalam maupun diluar himpunan)",
-        "jabatan": "Kepala Divisi Kaderisasi"
     },
     {
         "nama": "M. Farhan Athaulloh",
@@ -434,7 +430,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@mfarhan.ath",
         "kesan": "bang ateng orangnya santai dan seru",
         "pesan": "semoga bang ateng semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Kepala Divisi Olahraga dan Perlombaan"
     },
     {
         "nama": "Johannes Krisjon Silitonga",
@@ -446,7 +441,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@johanneskrisjnnn",
         "kesan": "bang Johannes orangnya tegas ",
         "pesan": "semoga bang Johannes semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Kemas Veriandra Ramadhan",
@@ -458,7 +452,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@kemasverii",
         "kesan": "bang kemas orangnya baik dan humoris",
         "pesan": "semoga bang kemas semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Presilia",
@@ -470,7 +463,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@presiliamg",
         "kesan": "kak presilia orangnya baik dan ramah",
         "pesan": "semoga kak presilia semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Bendahara Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Rafa Aqilla Jungjunan",
@@ -482,7 +474,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@rafaaqilla",
         "kesan": "kak rafa orangnya pendiam dan pembawaannya alim",
         "pesan": "semoga kak rafa semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Sahid Maulana",
@@ -494,7 +485,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@sahid_maulana",
         "kesan": "bang sahid orangnya baik",
         "pesan": "semoga bang sahid semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Vanessa Olivia Rose",
@@ -506,7 +496,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@roselivnes__",
         "kesan": "kak vanessa orangnya kece dan namanya cantik banget",
         "pesan": "semoga kak vanessa semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Manajemen Minat dan Bakat"
     },
     {
         "nama": "Allya Nurul Islami Pasha",
@@ -518,7 +507,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@allyaislami_",
         "kesan": "kak alya orangnya tegas bangett",
         "pesan": "semoga kak alya semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Kaderisasi"
     },
     {
         "nama": "Eksanty Febriana Sukma Islamiaty",
@@ -530,7 +518,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@eksantyfebriana",
         "kesan": "kak eksanty orangnya tegas dan suka buat lucu lucuan",
         "pesan": "semoga kak eksanty semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Kaderisasi"
     },
 {
         "nama": " Farahanum Afifah Ardiansyah",
@@ -542,7 +529,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@farahanumafifahh",
         "kesan": "kak hanum orangnya baik",
         "pesan": "semoga kak hanum semakin sukses didalam maupun diluar himpunan)",
-        "jabatan": "Staff divisi Kaderisasi"
     },
  {
         "nama": "Ferdy Kevin Naibaho",
@@ -554,7 +540,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@ferdy_kevin",
         "kesan": "bang ferdy orangnya baik",
         "pesan": "semoga bang ferdy semakin sukses didalam maupun diluar himpunan)",
-        "jabatan": "Staff divisi Kaderisasi"
     },
 {
         "nama": "M. Deriansyah Okutra",
@@ -566,7 +551,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@dransyah_",
         "kesan": "bang deri murah senyum",
         "pesan": "semoga bang deri semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Kaderisasi"
     },
 {
         "nama": "Oktavia Nurwendah Puspita Sari",
@@ -578,7 +562,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@oktavianrwnda",
         "kesan": "kak okta orangnya baik",
         "pesan": "semoga kak okta semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Divisi Kaderisasi"
     },
     {
         "nama": "Gede Moena",
@@ -590,7 +573,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@gedemoenaa",
         "kesan": "bang moana orangnya bik dan seruu",
         "pesan": "semoga bang moana semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Olahraga dan Perlombaan"
     },
     {
         "nama": "Jaclin Alcavella",
@@ -602,7 +584,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@jaclinaclcv_",
         "kesan": "kak jaclin cantik dan super baik",
         "pesan": "semoga kak jaclin semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Olahraga dan Perlombaan"
     },
     {
         "nama": "Rafly Prabu Darmawan",
@@ -614,7 +595,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@raflyy_pd",
         "kesan": "bang rafly orangnya seru",
         "pesan": "semoga bang rafly semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Olahraga dan Perlombaan"
     },
     {
         "nama": "Syalaisha Andini Putriansyah",
@@ -626,7 +606,6 @@ elif menu == "Departemen PSDA":
         "sosmed": "@syalaisha.i_",
         "kesan": "kak dini orangnya baik ",
         "pesan": "semoga kak dini semakin sukses didalam maupun diluar himpunan",
-        "jabatan": "Staff Olahraga dan Perlombaan"
     }
 ]
         display_images_with_data(gambar_urls, data_list)
@@ -664,7 +643,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rafadhilillahh13",
                 "kesan": "bang rafi orangnya baik",
                 "pesan": "semoga bang rafi semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Kepala Departement"
             },
             {
                 "nama": "Annisa Novantika",
@@ -676,7 +654,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anovavona",
                 "kesan": "kak anissa orangnya baik",
                 "pesan": "semoga kak anissa semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Sekretaris Departement"
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -688,7 +665,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sahid22__",
                 "kesan": "bang sahit orangnya baik dan ramah ",
                 "pesan": "semoga bang sahid semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Club dan Komunitas"
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -700,7 +676,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@mregiiii_",
                 "kesan": "bang regi orangnya seru",
                 "pesan": "semoga bang regi semakin sukses didalam maupun diluar himpunan*",
-                "jabatan": "Staff Divisi Club dan Komunitas"
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -712,7 +687,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "kak syalaisha orangnya ramah",
                 "pesan": "semoga kak syalaisha semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Club dan Komunitas"
             },
             {
                 "nama": "Anwar Muslim",
@@ -724,7 +698,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@here.am.ai",
                 "kesan": "bang anwar orangnya baik",
                 "pesan": "semoga bang anwar semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
             },
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
@@ -736,7 +709,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anjaniiidev",
                 "kesan": "kak deva orangnya baik",
                 "pesan": "semoga kak deva semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
             },
             {
                 "nama": "Dinda Nababan",
@@ -748,7 +720,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dindanababan_",
                 "kesan": "kak dinda orangnya ramah",
                 "pesan": "semoga kak dinda semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
             },
             {
                 "nama": "Marleta Cornelia Leander",
@@ -760,7 +731,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@marletacornelia",
                 "kesan": "kak marleta orangnya baik bangett",
                 "pesan": "semoga kak marleta semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
             },
             {
                 "nama": "Rut Junita Sari Siburian",
@@ -772,7 +742,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@junitaa_0406",
                 "kesan": "kak junita orangnya ramah",
                 "pesan": "semoga kak junita semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -784,7 +753,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "kak puspa orangnya ramah",
                 "pesan": "semoga kak puspa semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Pusat Inovasi dan Kajian Akademik"
             },
             {
                 "nama": "Abdurrahman Al-atsary",
@@ -796,7 +764,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rahmn_abdr",
                 "kesan": "bang Rahman orangnya baik dan asik",
                 "pesan": "semoga bang Rahman semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Kepala Divisi Survei dan Riset"
             },
             {
                 "nama": "Aditya Rahman",
@@ -820,7 +787,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@egistr",
                 "kesan": "bang eggi orangnya baik dan ramah",
                 "pesan": "semoga bang eggi semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Survei dan Riset"
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -832,7 +798,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@pratiwifebiya",
                 "kesan": "kak febiya orangnya ramah",
                 "pesan": "semoga kak febiya semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Survei dan Riset"
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -844,7 +809,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "bang syahrul orangnya asik",
                 "pesan": "semoga bang syahrul semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Survei dan Riset"
             },
             {
                 "nama": "Randa Andriana Putra",
@@ -856,7 +820,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randardn",
                 "kesan": "bang randa orangnya baik",
                 "pesan": "semoga bang randa semakin sukses didalam maupun diluar himpunan",
-                "jabatan": "Staff Divisi Survei dan Riset"
             }
         ]
 
