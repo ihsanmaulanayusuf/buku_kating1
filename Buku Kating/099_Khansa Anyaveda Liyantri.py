@@ -640,9 +640,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "121450143",
                 "umur": "21",
                 "asal": "Lubuk Linggau",
-                "alamat sekarang": "Jl. Nangka 4",
-                "hobi": "Olahraga",
-                "sosial media": "@rafadhilillahh13",
+                "alamat": "Jl. Nangka 4",
+                "hobbi": "Olahraga",
+                "sosmed": "@rafadhilillahh13",
                 "kesan": "",
                 "pesan": ""
             },
@@ -651,9 +651,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "121450005",
                 "umur": "21",
                 "asal": "Lampung Utara",
-                "alamat sekarang": "Jl. Pulau Sebesi, Sukarame",
-                "hobi": "Memasak",
-                "sosial media": "@anovavona",
+                "alamat": "Jl. Pulau Sebesi, Sukarame",
+                "hobbi": "Memasak",
+                "sosmed": "@anovavona",
                 "kesan": "",
                 "pesan": ""
             },
@@ -662,9 +662,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450044",
                 "umur": "20",
                 "asal": "Tulang Bawang",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Olahraga",
-                "sosial media": "@sahid22__",
+                "alamat": "Sukarame",
+                "hobbi": "Olahraga",
+                "sosmed": "@sahid22__",
                 "kesan": "",
                 "pesan": ""
             },
@@ -673,9 +673,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450031",
                 "umur": "19",
                 "asal": "Palembang",
-                "alamat sekarang": "Jl. Permadi Sukarame",
-                "hobi": "Jadi admin ig mikfes.hmsd",
-                "sosial media": "@mregiiii_",
+                "alamat": "Jl. Permadi Sukarame",
+                "hobbi": "Jadi admin ig mikfes.hmsd",
+                "sosmed": "@mregiiii_",
                 "kesan": "",
                 "pesan": ""
             },
@@ -684,9 +684,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450121",
                 "umur": "21",
                 "asal": "Tangerang",
-                "alamat sekarang": "Gg Yudhistira",
-                "hobi": "Baca Novel",
-                "sosial media": "@dkselsd_31",
+                "alamat": "Gg Yudhistira",
+                "hobbi": "Baca Novel",
+                "sosmed": "@dkselsd_31",
                 "kesan": "",
                 "pesan": ""
             },
@@ -695,9 +695,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450117",
                 "umur": "21",
                 "asal": "Bukittinggi",
-                "alamat sekarang": "Korpri",
-                "hobi": "ML (Machine Learning)",
-                "sosial media": "@here.am.ai",
+                "alamat": "Korpri",
+                "hobbi": "ML (Machine Learning)",
+                "sosmed": "@here.am.ai",
                 "kesan": "",
                 "pesan": ""
             },
@@ -706,9 +706,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450014",
                 "umur": "21",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Kemiling",
-                "hobi": "Menonton Film",
-                "sosial media": "@anjaniiidev",
+                "alamat": "Kemiling",
+                "hobbi": "Menonton Film",
+                "sosmed": "@anjaniiidev",
                 "kesan": "",
                 "pesan": ""
             },
@@ -717,9 +717,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450120",
                 "umur": "20",
                 "asal": "Medan",
-                "alamat sekarang": "Jl. Lapas",
-                "hobi": "",
-                "sosial media": "@dindanababan_",
+                "alamat": "Jl. Lapas",
+                "hobbi": "",
+                "sosmed": "@dindanababan_",
                 "kesan": "",
                 "pesan": ""
             },
@@ -728,9 +728,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450092",
                 "umur": "20",
                 "asal": "Depok, Jawa Barat",
-                "alamat sekarang": "Gg. Nangka 3",
-                "hobi": "Liatin Jurnal",
-                "sosial media": "@marletacornelia",
+                "alamat": "Gg. Nangka 3",
+                "hobbi": "Liatin Jurnal",
+                "sosmed": "@marletacornelia",
                 "kesan": "",
                 "pesan": ""
             },
@@ -739,9 +739,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450103",
                 "umur": "20",
                 "asal": "Batam, Kep.Riau",
-                "alamat sekarang": "Gg. Nangka 3",
-                "hobi": "Resume Jurnal",
-                "sosial media": "@junitaa_0406",
+                "alamat": "Gg. Nangka 3",
+                "hobbi": "Resume Jurnal",
+                "sosmed": "@junitaa_0406",
                 "kesan": "",
                 "pesan": ""
             },
@@ -750,9 +750,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450072",
                 "umur": "20",
                 "asal": "Palembang",
-                "alamat sekarang": "Belwis",
-                "hobi": "Membaca",
-                "sosial media": "@puspadrr",
+                "alamat": "Belwis",
+                "hobbi": "Membaca",
+                "sosmed": "@puspadrr",
                 "kesan": "",
                 "pesan": ""
             },
@@ -761,9 +761,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450113",
                 "umur": "20",
                 "asal": "Lampung Timur",
-                "alamat sekarang": "Korpri",
-                "hobi": "Ngoding WISATA",
-                "sosial media": "@rahm_adityaa",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding WISATA",
+                "sosmed": "@rahm_adityaa",
                 "kesan": "",
                 "pesan": ""
             },
@@ -772,9 +772,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450074",
                 "umur": "20",
                 "asal": "Tulang Bawang",
-                "alamat sekarang": "Jl. Kelengkeng Raya",
-                "hobi": "Review jurnal",
-                "sosial media": "@pratiwifebiya",
+                "alamat": "Jl. Kelengkeng Raya",
+                "hobbi": "Review jurnal",
+                "sosmed": "@pratiwifebiya",
                 "kesan": "",
                 "pesan": ""
             },
@@ -783,9 +783,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450032",
                 "umur": "20",
                 "asal": "Sukabumi",
-                "alamat sekarang": "Korpri",
-                "hobi": "Ngoding dan buat konten WISATA",
-                "sosial media": "@egistr",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding dan buat konten WISATA",
+                "sosmed": "@egistr",
                 "kesan": "",
                 "pesan": ""
             },
@@ -794,9 +794,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450013",
                 "umur": "20",
                 "asal": "Lampung",
-                "alamat sekarang": "Karang Anyar",
-                "hobi": "Main Game",
-                "sosial media": "@sudo.syahrulramadhannn",
+                "alamat": "Karang Anyar",
+                "hobbi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "",
                 "pesan": ""
             },
@@ -805,9 +805,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450083",
                 "umur": "21",
                 "asal": "Banten",
-                "alamat sekarang": "Jl Nangka 3",
-                "hobi": "Berolahraga",
-                "sosial media": "@randardn",
+                "alamat": "Jl Nangka 3",
+                "hobbi": "Berolahraga",
+                "sosmed": "@randardn",
                 "kesan": "",
                 "pesan": ""
             }
@@ -846,57 +846,53 @@ elif menu == "Departemen Eksternal":
                 "nim": "121450041",
                 "umur": "21",
                 "asal": "Tangerang",
-                "alamat sekarang": "Jatimulyo",
-                "hobi": "BAB setiap jam 7 pagi",
-                "sosial media": "@yogyst",
+                "alamat": "Jatimulyo",
+                "hobbi": "BAB setiap jam 7 pagi",
+                "sosmed": "@yogyst",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Departemen"
+                "pesan": ""
             },
             {
                 "nama": "Ramadhita Atifa Hendri",
                 "nim": "121450131",
                 "umur": "21",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Rajabasa",
-                "hobi": "Jalan - Jalan",
-                "sosial media": "@ramadhitaatifa",
+                "alamat": "Rajabasa",
+                "hobbi": "Jalan - Jalan",
+                "sosmed": "@ramadhitaatifa",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Sekretaris Departemen"
+                "pesan": ""
             },
             {
                 "nama": "Nazwa Nabila",
                 "nim": "121450122",
                 "umur": "21",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Kochpri",
-                "hobi": "Main Golf",
-                "sosial media": "@nazwanbilla",
+                "alamat": "Kochpri",
+                "hobbi": "Main Golf",
+                "sosmed": "@nazwanbilla",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Bastian Heskia Silaban",
                 "nim": "122450130",
                 "umur": "21",
                 "asal": "Batam, Kep. Riau",
-                "alamat sekarang": "Belwis",
-                "hobi": "Menggambar",
-                "sosial media": "@bastiansilaban_",
+                "alamat": "Belwis",
+                "hobbi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Dea Mutia Risani",
                 "nim": "122450099",
                 "umur": "20",
                 "asal": "Sumatera Barat",
-                "alamat sekarang": "Korpri",
-                "hobi": "Berkebun",
-                "sosial media": "@deaa.rsn",
+                "alamat": "Korpri",
+                "hobbi": "Berkebun",
+                "sosmed": "@deaa.rsn",
                 "kesan": "",
                 "pesan": "",
                 "jabatan": "Staff Divisi Hubungan Luar"
@@ -906,21 +902,20 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450025",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Belwis",
-                "hobi": "Main golf bareng kadiv",
-                "sosial media": "@esteriars",
+                "alamat": "Belwis",
+                "hobbi": "Main golf bareng kadiv",
+                "sosmed": "@esteriars",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Natasya Ega Lina",
                 "nim": "122450024",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Belwais",
-                "hobi": "Surfing",
-                "sosial media": "@nateee__15",
+                "alamat": "Belwais",
+                "hobbi": "Surfing",
+                "sosmed": "@nateee__15",
                 "kesan": "",
                 "pesan": "",
                 "jabatan": "Staff Divisi Hubungan Luar"
@@ -930,156 +925,143 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450104",
                 "umur": "21",
                 "asal": "Jakarta Timur",
-                "alamat sekarang": "Belwis",
-                "hobi": "Tidur",
-                "sosial media": "@nvliaadinda",
+                "alamat": "Belwis",
+                "hobbi": "Tidur",
+                "sosmed": "@nvliaadinda",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
                 "nim": "122450106",
                 "umur": "20",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Way Kandis",
-                "hobi": "Main sepak takraw",
-                "sosial media": "@jasminednva",
+                "alamat": "Way Kandis",
+                "hobbi": "Main sepak takraw",
+                "sosmed": "@jasminednva",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Tobias David Manogari",
                 "nim": "122450091",
                 "umur": "20",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Pemda",
-                "hobi": "Jogging",
-                "sosial media": "@tobiassiagian",
+                "alamat": "Pemda",
+                "hobbi": "Jogging",
+                "sosmed": "@tobiassiagian",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Yohana Manik",
                 "nim": "122450126",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Belwais",
-                "hobi": "Main Bowling",
-                "sosial media": "@yo_annamnk",
+                "alamat": "Belwais",
+                "hobbi": "Main Bowling",
+                "sosmed": "@yo_annamnk",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "pesan": ""
             },
             {
                 "nama": "Rizky Adrian Bennovry",
                 "nim": "121450073",
                 "umur": "21",
                 "asal": "Bekasi",
-                "alamat sekarang": "TVRI",
-                "hobi": "Bikin portofolio",
-                "sosial media": "@rzkdrnnn",
+                "alamat": "TVRI",
+                "hobbi": "Bikin portofolio",
+                "sosmed": "@rzkdrnnn",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
                 "nim": "122450002",
                 "umur": "20",
                 "asal": "Bandung",
-                "alamat sekarang": "Way Huwi",
-                "hobi": "Bertani",
-                "sosial media": "@rafiramadhanmaulana",
+                "alamat": "Way Huwi",
+                "hobbi": "Bertani",
+                "sosmed": "@rafiramadhanmaulana",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Asa Do’a Uyi",
                 "nim": "122450005",
                 "umur": "20",
                 "asal": "Muara Enim",
-                "alamat sekarang": "Korpri",
-                "hobi": "Tepuk Semangat",
-                "sosial media": "@u_yippy",
+                "alamat": "Korpri",
+                "hobbi": "Tepuk Semangat",
+                "sosmed": "@u_yippy",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Chalifia Wananda",
                 "nim": "122450076",
                 "umur": "20",
                 "asal": "Padang",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Q Time",
-                "sosial media": "@chlfawww",
+                "alamat": "Sukarame",
+                "hobbi": "Q Time",
+                "sosmed": "@chlfawww",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Irvan Alfaritzi",
                 "nim": "122450093",
                 "umur": "21",
                 "asal": "Sumatera Barat",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Nonton youtube, main game",
-                "sosial media": "@alfaritziirvan",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton youtube, main game",
+                "sosmed": "@alfaritziirvan",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Izza Lutfia",
                 "nim": "122450090",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Teluk Betung",
-                "hobi": "Main Rubik",
-                "sosial media": "@izzalutfia",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Rubik",
+                "sosmed": "@izzalutfia",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
                 "nim": "122450034",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Rajabasa",
-                "hobi": "Mengaji",
-                "sosial media": "@alyaavanevi",
+                "alamat": "Rajabasa",
+                "hobbi": "Mengaji",
+                "sosmed": "@alyaavanevi",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Raid Muhammad Naufal",
                 "nim": "122450027",
                 "umur": "20",
                 "asal": "Lampung Tengah",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Nemenin Tobias lari",
-                "sosial media": "@rayths_",
+                "alamat": "Sukarame",
+                "hobbi": "Nemenin Tobias lari",
+                "sosmed": "@rayths_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             },
             {
                 "nama": "Tria Yunanni",
                 "nim": "122450127",
                 "umur": "20",
                 "asal": "Palembang",
-                "alamat sekarang": "Way Dadi",
-                "hobi": "Olahraga",
-                "sosial media": "@triayunanni",
+                "alamat": "Way Dadi",
+                "hobbi": "Olahraga",
+                "sosmed": "@triayunanni",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": ""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1107,144 +1089,132 @@ elif menu == "Departemen Internal":
                 "nim": "121450027",
                 "umur": "20",
                 "asal": "Tangerang Selatan",
-                "alamat sekarang": "Way Kandis (Kobam)",
-                "hobi": "Menunggu ayam jantan bertelur",
-                "sosial media": "@dimzrky_",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "Menunggu ayam jantan bertelur",
+                "sosmed": "@dimzrky_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Departemen Internal"
+                "pesan": ""
             },
             {
                 "nama": "Chatrine Sinaga",
                 "nim": "121450071",
                 "umur": "20",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Airan",
-                "hobi": "Baca Novel",
-                "sosial media": "@cathrine.sinaga",
+                "alamat": "Airan",
+                "hobbi": "Baca Novel",
+                "sosmed": "@cathrine.sinaga",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Sekretaris Departemen Internal"
+                "pesan": ""
             },
             {
                 "nama": "M. Akbar Restika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
-                "alamat sekarang": "Pasaruntung",
-                "hobi": "Mengoleksi Dino",
-                "sosial media": "@akbar_restika",
+                "alamat": "Pasaruntung",
+                "hobbi": "Mengoleksi Dino",
+                "sosmed": "@akbar_restika",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kadiv Keharmonisasian"
+                "pesan": ""
             },
             {
                 "nama": "Renita Siahaan",
                 "nim": "122450070",
                 "umur": "21",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Gerbang Barat",
-                "hobi": "Membaca dan Memancing",
-                "sosial media": "@renita.shn",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Membaca dan Memancing",
+                "sosmed": "@renita.shn",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+                "pesan": ""
             },
             {
                 "nama": "Salwa Farhanatussaidah",
                 "nim": "122450055",
                 "umur": "20",
                 "asal": "Pesawaran",
-                "alamat sekarang": "Airan",
-                "hobi": "Nonton",
-                "sosial media": "@slwfhn_694",
+                "alamat": "Airan",
+                "hobbi": "Nonton",
+                "sosmed": "@slwfhn_694",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+                "pesan": ""
             },
             {
                 "nama": "Rendra Eka Prayoga",
                 "nim": "122450112",
                 "umur": "20",
                 "asal": "Bekasi",
-                "alamat sekarang": "Jl. Lapas Raya",
-                "hobi": "Menulis lagu",
-                "sosial media": "@rendraepr",
+                "alamat": "Jl. Lapas Raya",
+                "hobbi": "Menulis lagu",
+                "sosmed": "@rendraepr",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+                "pesan": ""
             },
             {
                 "nama": "Yosia Retare Banurea",
                 "nim": "121450149",
                 "umur": "20",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Perum Griya Indah",
-                "hobi": "Nungguin ayam betina berkokok",
-                "sosial media": "@yosiabanurea",
+                "alamat": "Perum Griya Indah",
+                "hobbi": "Nungguin ayam betina berkokok",
+                "sosmed": "@yosiabanurea",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Keharmonisasian"
+                "pesan": ""
             },
             {
                 "nama": "Ari Sigit",
                 "nim": "121450069",
                 "umur": "23",
                 "asal": "Lampung Barat",
-                "alamat sekarang": "Labuhan Ratu",
-                "hobi": "Futsal",
-                "sosial media": "@ari_sigit17",
+                "alamat": "Labuhan Ratu",
+                "hobbi": "Futsal",
+                "sosmed": "@ari_sigit17",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Kerohanian"
+                "pesan": ""
             },
             {
                 "nama": "Josua Panggabean",
                 "nim": "122450061",
                 "umur": "21",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Gerbang Barat",
-                "hobi": "Ngejokes",
-                "sosial media": "@josuapanggabean_",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Ngejokes",
+                "sosmed": "@josuapanggabean_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Kerohanian"
+                "pesan": ""
             },
             {
                 "nama": "Azizah Kusuma Putri",
                 "nim": "122450068",
                 "umur": "21",
                 "asal": "Lampung Selatan",
-                "alamat sekarang": "Natar",
-                "hobi": "Berkebun",
-                "sosial media": "@azizahksma15",
+                "alamat": "Natar",
+                "hobbi": "Berkebun",
+                "sosmed": "@azizahksma15",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Kerohanian"
+                "pesan": ""
             },
             {
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
                 "umur": "20",
                 "asal": "Pesawaran",
-                "alamat sekarang": "Airan",
-                "hobi": "Nonton",
-                "sosial media": "@meirasty_",
+                "alamat": "Airan",
+                "hobbi": "Nonton",
+                "sosmed": "@meirasty_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Kerohanian"
+                "pesan": ""
             },
             {
                 "nama": "Rendi Alexander Hutagalung",
                 "nim": "122450057",
                 "umur": "20",
                 "asal": "Tangerang",
-                "alamat sekarang": "Kost Benawang",
-                "hobi": "Berenang di Laut",
-                "sosial media": "@rexander",
+                "alamat": "Kost Benawang",
+                "hobbi": "Berenang di Laut",
+                "sosmed": "@rexander",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Kerohanian"
+                "pesan": ""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1268,122 +1238,112 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Andrian Agustinus Lumbangaol",
                 "nim": "121450090",
-                "Umur": "21",
-                "Asal": "Panjibako",
-                "Alamat Sekarang": "Jl. Bel",
-                "Hobi": "Mencari Uang",
-                "Sosial Media": "@andriangaol",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Kepala Departemen SSD"
+                "umur": "21",
+                "asal": "Panjibako",
+                "alamat Sekarang": "Jl. Bel",
+                "hobbi": "Mencari Uang",
+                "sosmed": "@andriangaol",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Adisty Syawaida Arianto",
                 "nim": "121450136",
-                "Umur": "23",
-                "Asal": "Metro",
-                "Alamat Sekarang": "Sukarame",
-                "Hobi": "Nonton Film",
-                "Sosial Media": "@adistysa_",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Sekretaris Departemen SSD"
+                "umur": "23",
+                "asal": "Metro",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton Film",
+                "sosmed": "@adistysa_",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
-                "Umur": "21",
-                "Asal": "Simalungun",
-                "Alamat Sekarang": "Airan",
-                "Hobi": "Menghitung Uang",
-                "Sosial Media": "@zhjung",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Kepala Divisi KWU"
+                "umur": "21",
+                "asal": "Simalungun",
+                "alamat": "Airan",
+                "hobbi": "Menghitung Uang",
+                "sosmed": "@zhjung",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Danang Hilal Kurniawan",
                 "nim": "122450085",
-                "Umur": "21",
-                "Asal": "Bandar Lampung",
-                "Alamat Sekarang": "Airan",
-                "Hobi": "Touring",
-                "Sosial Media": "@dananghk_",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Staff KWU"
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Airan",
+                "hobbi": "Touring",
+                "sosmed": "@dananghk_",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Farel Julio Akbar",
                 "nim": "122450110",
-                "Umur": "20",
-                "Asal": "Bogor",
-                "Alamat Sekarang": "Lapas",
-                "Hobi": "Bebas",
-                "Sosial Media": "@farel_julio",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Staff KWU"
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Lapas",
+                "hobbi": "Bebas",
+                "sosmed": "@farel_julio",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Ahmad Rizqi",
                 "nim": "122450138",
-                "Umur": "20",
-                "Asal": "Bukittingi",
-                "Alamat Sekarang": "Airan 1",
-                "Hobi": "Badminton",
-                "Sosial Media": "@ahmad.ris45",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Staff KWU"
+                "umur": "20",
+                "asal": "Bukittingi",
+                "alamat": "Airan 1",
+                "hobbi": "Badminton",
+                "sosmed": "@ahmad.ris45",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Tessa Kania Sagala",
                 "nim": "122450040",
-                "Umur": "20",
-                "Asal": "Simalungun",
-                "Alamat Sekarang": "Pemda",
-                "Hobi": "Menulis",
-                "Sosial Media": "@tesakanias",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Staff KWU"
+                "umur": "20",
+                "asal": "Simalungun",
+                "alamat": "Pemda",
+                "hobbi": "Menulis",
+                "sosmed": "@tesakanias",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Nabilah Andika Fitriati",
                 "nim": "121450139",
-                "Umur": "20",
-                "Asal": "Kedaton",
-                "Alamat Sekarang": "Kedaton",
-                "Hobi": "Tidur",
-                "Sosial Media": "@nabilahanftr",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Kepala Divisi Sponsor"
+                "umur": "20",
+                "asal": "Kedaton",
+                "alamat": "Kedaton",
+                "hobbi": "Tidur",
+                "sosmed": "@nabilahanftr",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
                 "nim": "122450026",
-                "Umur": "20",
-                "Asal": "Bekasi",
-                "Alamat Sekarang": "Korpri",
-                "Hobi": "Main Alat Musik",
-                "Sosial Media": "@meylanielia",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Staff Sponsor"
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
-                "Umur": "20",
-                "Asal": "Bandar Lampung",
-                "Alamat Sekarang": "Jl. Nangkal",
-                "Hobi": "Olahraga",
-                "Sosial Media": "@dhafinrzqa13",
-                "Kesan": "",
-                "Pesan": "",
-                "Jabatan": "Staff Sponsor"
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jl. Nangkal",
+                "hobbi": "Olahraga",
+                "sosmed": "@dhafinrzqa13",
+                "kesan": "",
+                "pesan": ""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1422,8 +1382,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton",
                 "sosmed": "@",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Departemen"
+                "pesan": ""
             },
             {
                 "nama": "Elok Fiola",
@@ -1434,8 +1393,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Sekretaris"
+                "pesan": ""
             },
             {
                 "nama": "Arsyiah Azahra",
@@ -1446,8 +1404,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
@@ -1458,8 +1415,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Lagi Nyari",
                 "sosmed": "@dino_kiper",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi PDD"
+                "pesan": ""
             },
             {
                 "nama": "Muhammad Arsal Ranjana Putra",
@@ -1470,8 +1426,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Visual Desain"
+                "pesan": ""
             },
             {
                 "nama": "Cintya Bella",
@@ -1482,8 +1437,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Eka Fidiya Putri",
@@ -1494,8 +1448,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Najla Juwairia",
@@ -1506,8 +1459,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Patricia Leondra Diajeng Putri",
@@ -1518,8 +1470,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Rahma Neliyana",
@@ -1530,8 +1481,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Try Yani Rizki Nur Rohmah",
@@ -1542,8 +1492,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Media & Konten"
+                "pesan": ""
             },
             {
                 "nama": "Dwi Ratna Anggraeni",
@@ -1554,8 +1503,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Membaca",
                 "sosmed": "@dwiratnn_",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+                "pesan": ""
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
@@ -1566,8 +1514,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+                "pesan": ""
             },
             {
                 "nama": "Nasywa Nur Afifah",
@@ -1578,8 +1525,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+                "pesan": ""
             },
             {
                 "nama": "Priska Silvia Ferantiana",
@@ -1590,8 +1536,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi PDD"
+                "pesan": ""
             },
             {
                 "nama": "Abit Ahmad Oktarian",
@@ -1602,8 +1547,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "pesan": ""
             },
             {
                 "nama": "Akmal Faiz Abdillah",
@@ -1614,8 +1558,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Main HP",
                 "sosmed": "_akmal.faiz",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "pesan": ""
             },
             {
                 "nama": "Hermawan Manurung",
@@ -1626,8 +1569,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "pesan": ""
             },
             {
                 "nama": "Khusnun Nisa",
@@ -1638,8 +1580,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "",
-                "pesan": "",
-                "jabatan": "Anggota Divisi Visual Desain"
+                "pesan": ""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
