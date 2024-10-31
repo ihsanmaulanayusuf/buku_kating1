@@ -1093,8 +1093,164 @@ elif menu == "Departemen Eksternal":
                 "sosial media": "@triayunanni",
                 "kesan": "kak tria orangnya ramah",
                 "pesan": "semoga kak tria semakin sukses didalam maupun diluar himpunan",
-            
             }
         ]
         display_images_with_data(gambar_urls, data_list)
     departemeneksternal()
+    
+elif menu == "Departemen Internal":
+    def departemenInternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1lmBVUiyPKb_D-jGTY9kTEhhwcO7SMQAx",
+            "https://drive.google.com/uc?export=view&id=1mVotpn2OhP3rXRhsE68w7VIivkGUMg2l",
+            "https://drive.google.com/uc?export=view&id=1m11u7MGMUzjrr9Qg0nFhZDRT5k19MHjC",
+            "https://drive.google.com/uc?export=view&id=1lzaw-b8eYnRNnpwv8mQ6GoIoZCzTa73q",
+            "https://drive.google.com/uc?export=view&id=1lmvQY79ciwDk9vmGgvgfelrdjr8K5VJS",
+            "https://drive.google.com/uc?export=view&id=1m1yOkgOXRvw-LwJ4JVCrvjz44RWX2uN_",
+            "https://drive.google.com/uc?export=view&id=1mVcfk8zJAME-dpKJyNwT9n65ssFHl7G4",
+            "https://drive.google.com/uc?export=view&id=1mSZe7tmGjKKjMCogRHnUWg-ZybieQPf4",
+            "https://drive.google.com/uc?export=view&id=1lo-d0C5CkgEzYC4_52vGrqN8BvVnU_Lw",
+            "https://drive.google.com/uc?export=view&id=1m3tpyBTBQbvWq-HXfEQ8OtagwKW5xz01",
+            "https://drive.google.com/uc?export=view&id=1mEr_1HVyWrmbGxlieNOzhAq3U8uJHl4q",
+            "https://drive.google.com/uc?export=view&id=1mLuQaeBhDAABmO6oxSIe6opT5lgryMOF",
+        ]
+        data_list = [
+            {
+                "nama"     : "Dimas Rizky Ramadhani",
+                "nim"      : "121450027",
+                "umur"     : "20",
+                "asal"     : "Pamulang, Tangerang Selatan",
+                "alamat"   : "Way Kandis Kobam",
+                "hobbi"    : "Manjat tower sutet",
+                "sosmed"   : "@dimzrky",
+                "kesan"    : "Abang ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "Catherine Firdhasari Maulina Sinaga",
+                "nim"      : "121450071",
+                "umur"     : "20",
+                "asal"     : "Sumatera Utara",
+                "alamat"   : "Airan",
+                "hobbi"    : "Baca novel",
+                "sosmed"   : "@Catherine.sinaga",
+                "kesan"    : "Kakak ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "M.Akbar Resdika",
+                "nim"      : "121450066",
+                "umur"     : "20",
+                "asal"     : "Lampung Barat",
+                "alamat"   : "Labuhan Dalam",
+                "hobbi"    : "Memelihara Dino",
+                "sosmed"   : "@akbar_resdika",
+                "kesan"    : "Abang ini asik, ramah, dan baik",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "Renita Siahaan",
+                "nim"      : "122450112",
+                "umur"     : "21",
+                "asal"     : "Sumatera Utara",
+                "alamat"   : "Gerbang Barat",
+                "hobi"     : "Mancing",
+                "sosmed"   : "@renta.shn",
+                "kesan"    : "Kakak ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "Salwa Farhanatussaidah",
+                "nim"      : "122450055",
+                "umur"     : "20",
+                "asal"     : "Pesawaran",
+                "alamat"   : "Airan raya",
+                "hobbi"    : "Ngeliat cogan",
+                "sosmed"   : "@slwfn_694",
+                "kesan"    : "Kakak ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "Rendra Eka Prayoga",
+                "nim"      : "122450112",
+                "umur"     : "21",
+                "asal"     : "Bekasi",
+                "alamat"   : "Jl. Lapas Raya",
+                "hobbi"    : "Nulis lagu",
+                "sosmed"   : "@rendaepr",
+                "kesan"    : "Abang ini asik, ramah, dan public speakingnya bagus",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "Yosia Letare Banurea",
+                "nim"      : "121450149",
+                "umur"     : "20",
+                "asal"     : "Dairi, Sumatera Utara",
+                "alamat"   : "Perum Griya Indah",
+                "hobbi"    : "Bawa motor pake kaki",
+                "sosmed"   : "@yosiabanurea",
+                "kesan"    : "Kakak ini asik, ramah, dan baik",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "Ari Sigit",
+                "nim"      : "121450069",
+                "umur"     : "23",
+                "asal"     : "Lampung Barat",
+                "alamat"   : "Labuhan Ratut",
+                "hobbi"    : "Futsal",
+                "sosmed"   : "@ari_sigit17",
+                "kesan"    : "Abang ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya bang!"
+            },
+            {
+                "nama"     : "Rani Puspita sari",
+                "nim"      : "122450030",
+                "umur"     : "21",
+                "asal"     : "Metro",
+                "alamat"   : "Labuhan Ratu",
+                "hobbi"    : "Mengaji",
+                "sosmed"   : "@rannipu",
+                "kesan"    : "kak rani orangnya tegas",  
+                "pesan"    : "Semoga kak rani semakin sukses baik di dalam maupun luar himpunan"
+            },
+            {
+                "nama"     : "Azizah Kusumah Putri",
+                "nim"      : "122450068",
+                "umur"     : "21",
+                "asal"     : "Lampung Selatan",
+                "alamat"   : "Jati Mulyo",
+                "hobbi"    : "Bangun Pagi",
+                "sosmed"   : "@azizahksmh15",
+                "kesan"    : "Kakak ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "Meira Listyaningrum",
+                "nim"      : "122450011",
+                "umur"     : "20",
+                "asal"     : "Pesawaran",
+                "alamat"   : "Airan Raya",
+                "hobbi"    : "Menghalu",
+                "sosmed"   : "@meiraln",
+                "kesan"    : "Kakak ini baik, asik, dan ramah",  
+                "pesan"    : "Semangat selalu kuliahnya kakak!"
+            },
+            {
+                "nama"     : "Rendi Alexander Hutagalung",
+                "nim"      : "122450057",
+                "umur"     : "20",
+                "asal"     : "Tangerang",
+                "alamat"   : "Kost Gunawan",
+                "hobbi"    : "menyanyi",
+                "sosmed"   : "@alexanderr",
+                "kesan"    : "Abang ini asik, ramah, dan baik",  
+                "pesan"    : "Semangat selalu kuliahnya bang!",
+            }
+
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenInternal()
+
+
+
