@@ -1277,8 +1277,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "",  
-                "pesan":"" #bang andrian
+                "kesan": "Abangnya baik dan seru banget",  
+                "pesan":"Semangat terus kuliahnya bang!" #bang andrian
 
             },
             {
@@ -1397,7 +1397,7 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     ssd()
 
-elif menu == "Departemen medkraf":
+elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1e1pYUq3PoQA6sH9TmpviNGl_Xi3QdPB1", #bang wahyu
@@ -1417,7 +1417,7 @@ elif menu == "Departemen medkraf":
                 "hobi": "Nonton",
                 "sosmed": "@",
                 "kesan": "Abangnya baik dan pembawaan bicaranya enak didengar",  
-                "pesan":"Semangat terus kuliahnya bang" #bang wahyu
+                "pesan":"Semangat terus kuliahnya bang!" #bang wahyu
             },
             {
                 "nama": "Elok Fiola",
@@ -1427,8 +1427,8 @@ elif menu == "Departemen medkraf":
                 "alamat": "Bandar Lampung",
                 "hobi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "",  
-                "pesan":"" #kak elok
+                "kesan": "Kakaknya baik dan asik",  
+                "pesan":"Semangat terus kuliahnya bang!" #kak elok
             },
             {
                 "nama": "Arsyiah Azahra",
