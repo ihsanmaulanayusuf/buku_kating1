@@ -1379,7 +1379,7 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def departemenmedkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1cH8o6SW2w0Bir3m1n3Xq4VALNmBfelAN", #1
+            "https://drive.google.com/uc?export=view&id=1-RP_O_-o1vUEtF_SB1p_4Bw9_QLYzPyw", #1
         ]
         data_list = [
             {
