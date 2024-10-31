@@ -697,9 +697,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "121450143",
                 "umur": "21",
                 "asal": "Lubuk Linggau",
-                "alamat sekarang": "Jl. Nangka 4",
-                "hobi": "Olahraga",
-                "sosial media": "@rafadhilillahh13",
+                "alamat": "Jl. Nangka 4",
+                "hobbi": "Olahraga",
+                "sosmed": "@rafadhilillahh13",
                 "kesan": "",
                 "pesan": "",
                
@@ -709,9 +709,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "121450005",
                 "umur": "21",
                 "asal": "Lampung Utara",
-                "alamat sekarang": "Jl. Pulau Sebesi, Sukarame",
-                "hobi": "Memasak",
-                "sosial media": "@anovavona",
+                "alamat": "Jl. Pulau Sebesi, Sukarame",
+                "hobbi": "Memasak",
+                "sosmed": "@anovavona",
                 "kesan": "",
                 "pesan": "",
                
@@ -721,9 +721,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450044",
                 "umur": "20",
                 "asal": "Tulang Bawang",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Olahraga",
-                "sosial media": "@sahid22__",
+                "alamat": "Sukarame",
+                "hobbi": "Olahraga",
+                "sosmed": "@sahid22__",
                 "kesan": "",
                 "pesan": "",
                
@@ -733,9 +733,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450082",
                 "umur": "20",
                 "asal": "Bekasi",
-                "alamat sekarang": "Teluk Betung",
-                "hobi": "Main Game",
-                "sosial media": "@fadhilfwee",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Game",
+                "sosmed": "@fadhilfwee",
                 "kesan": "",
                 "pesan": "",
                
@@ -745,9 +745,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450031",
                 "umur": "19",
                 "asal": "Palembang",
-                "alamat sekarang": "Jl. Permadi Sukarame",
-                "hobi": "Jadi admin ig mikfes.hmsd",
-                "sosial media": "@mregiiii_",
+                "alamat": "Jl. Permadi Sukarame",
+                "hobbi": "Jadi admin ig mikfes.hmsd",
+                "sosmed": "@mregiiii_",
                 "kesan": "",
                 "pesan": "",
                 
@@ -757,9 +757,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450121",
                 "umur": "21",
                 "asal": "Tangerang",
-                "alamat sekarang": "Gg Yudhistira",
-                "hobi": "Baca Novel",
-                "sosial media": "@dkselsd_31",
+                "alamat": "Gg Yudhistira",
+                "hobbi": "Baca Novel",
+                "sosmed": "@dkselsd_31",
                 "kesan": "",
                 "pesan": "",
                
@@ -769,9 +769,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "121450107",
                 "umur": "20",
                 "asal": "Jakarta",
-                "alamat sekarang": "Kemiling",
-                "hobi": "Membuka Wisata HMSD",
-                "sosial media": "@natanaeloks",
+                "alamat": "Kemiling",
+                "hobbi": "Membuka Wisata HMSD",
+                "sosmed": "@natanaeloks",
                 "kesan": "",
                 "pesan": "",
                
@@ -781,9 +781,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450117",
                 "umur": "21",
                 "asal": "Bukittinggi",
-                "alamat sekarang": "Korpri",
-                "hobi": "ML (Machine Learning)",
-                "sosial media": "@here.am.ai",
+                "alamat": "Korpri",
+                "hobbi": "ML (Machine Learning)",
+                "sosmed": "@here.am.ai",
                 "kesan": "",
                 "pesan": "",
                
@@ -793,9 +793,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450014",
                 "umur": "21",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Kemiling",
-                "hobi": "Menonton Film",
-                "sosial media": "@anjaniiidev",
+                "alamat": "Kemiling",
+                "hobbi": "Menonton Film",
+                "sosmed": "@anjaniiidev",
                 "kesan": "",
                 "pesan": "",
                 
@@ -805,9 +805,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450120",
                 "umur": "20",
                 "asal": "Medan",
-                "alamat sekarang": "Jl. Lapas",
-                "hobi": "",
-                "sosial media": "@dindanababan_",
+                "alamat": "Jl. Lapas",
+                "hobbi": "",
+                "sosmed": "@dindanababan_",
                 "kesan": "",
                 "pesan": "",
               
@@ -817,9 +817,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450092",
                 "umur": "20",
                 "asal": "Depok, Jawa Barat",
-                "alamat sekarang": "Gg. Nangka 3",
-                "hobi": "Liatin Jurnal",
-                "sosial media": "@marletacornelia",
+                "alamat": "Gg. Nangka 3",
+                "hobbi": "Liatin Jurnal",
+                "sosmed": "@marletacornelia",
                 "kesan": "",
                 "pesan": "",
                
@@ -829,9 +829,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450103",
                 "umur": "20",
                 "asal": "Batam, Kep.Riau",
-                "alamat sekarang": "Gg. Nangka 3",
-                "hobi": "Resume Jurnal",
-                "sosial media": "@junitaa_0406",
+                "alamat": "Gg. Nangka 3",
+                "hobbi": "Resume Jurnal",
+                "sosmed": "@junitaa_0406",
                 "kesan": "",
                 "pesan": "",
                
@@ -841,9 +841,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450072",
                 "umur": "20",
                 "asal": "Palembang",
-                "alamat sekarang": "Belwis",
-                "hobi": "Membaca",
-                "sosial media": "@puspadrr",
+                "alamat": "Belwis",
+                "hobbi": "Membaca",
+                "sosmed": "@puspadrr",
                 "kesan": "",
                 "pesan": "",
               
@@ -853,9 +853,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "121450128",
                 "umur": "23",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Perumnas Way Kandis",
-                "hobi": "Membaca",
-                "sosial media": "@rahmn_abdr",
+                "alamat": "Perumnas Way Kandis",
+                "hobbi": "Membaca",
+                "sosmed": "@rahmn_abdr",
                 "kesan": "",
                 "pesan": "",
                
@@ -865,9 +865,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450113",
                 "umur": "20",
                 "asal": "Lampung Timur",
-                "alamat sekarang": "Korpri",
-                "hobi": "Ngoding WISATA",
-                "sosial media": "@rahm_adityaa",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding WISATA",
+                "sosmed": "@rahm_adityaa",
                 "kesan": "",
                 "pesan": "",
                
@@ -877,9 +877,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450032",
                 "umur": "20",
                 "asal": "Sukabumi",
-                "alamat sekarang": "Korpri",
-                "hobi": "Ngoding dan buat konten WISATA",
-                "sosial media": "@egistr",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding dan buat konten WISATA",
+                "sosmed": "@egistr",
                 "kesan": "",
                 "pesan": "",
                
@@ -889,9 +889,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450074",
                 "umur": "20",
                 "asal": "Tulang Bawang",
-                "alamat sekarang": "Jl Kelengkeng Raya",
-                "hobi": "Nonton K-Drama",
-                "sosial media": "@pratiwifebiya",
+                "alamat": "Jl Kelengkeng Raya",
+                "hobbi": "Nonton K-Drama",
+                "sosmed": "@pratiwifebiya",
                 "kesan": "",
                 "pesan": "",
                
@@ -901,9 +901,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450013",
                 "umur": "20",
                 "asal": "Lampung",
-                "alamat sekarang": "Karang Anyar",
-                "hobi": "Main Game",
-                "sosial media": "@sudo.syahrulramadhannn",
+                "alamat": "Karang Anyar",
+                "hobbi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "",
                 "pesan": "",
                
@@ -913,9 +913,9 @@ elif menu == "Departemen MIKFES":
                 "nim": "122450083",
                 "umur": "21",
                 "asal": "Banten",
-                "alamat sekarang": "Jl Nangka 3",
-                "hobi": "Berolahraga",
-                "sosial media": "@randardn",
+                "alamat": "Jl Nangka 3",
+                "hobbi": "Berolahraga",
+                "sosmed": "@randardn",
                 "kesan": "Asisten tutorial matdas pas tpb",
                 "pesan": "Semoga ilmu yang diajarkan jadi amal jariyah",
             },
@@ -928,14 +928,14 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def departemeneksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
+            "https://drive.google.com/uc?export=view&id=1o0QQLEsTG4pcXcyRPumAEVjyJxHQpvFm", #1
+            "https://drive.google.com/uc?export=view&id=1giKIlu-oVDFaAgCVQbHBhdLPpP2Aa3tp", #2
+            "https://drive.google.com/uc?export=view&id=1AZWKzoqdoTT6LN7WTYdlVYd9bQwGqGYB", #3
+            "https://drive.google.com/uc?export=view&id=1OR1mh2S_d8tWvg79V0b5zCt_0xDiQ8ug", #4
+            "https://drive.google.com/uc?export=view&id=1RHJFT-Ajz-MfWyHTt-ZgXOMowCA8OIVn", #5
+            "https://drive.google.com/uc?export=view&id=1udEaPHMGPDLSl0F7FhvqzZ5t85IeGl-q", #6
+            "https://drive.google.com/uc?export=view&id=1YGTDKEpJKQHx2b_PobgnW-_6UOG_WLjX", #7
+            "https://drive.google.com/uc?export=view&id=1LN95NPIDtkKYxdlNAplsqLuJ3ZWkJ7Ae", #8
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
@@ -955,11 +955,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "121450041",
                 "umur": "21",
                 "asal": "Tangerang",
-                "alamat sekarang": "Jatimulyo",
-                "hobi": "BAB setiap jam 7 pagi",
-                "sosial media": "@yogyst",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Jatimulyo",
+                "hobbi": "BAB setiap jam 7 pagi",
+                "sosmed": "@yogyst",
+                "kesan": "Abangnya baik",
+                "pesan": "Sukses ya bang!",#1
             
             },
             {
@@ -967,11 +967,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "121450131",
                 "umur": "21",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Rajabasa",
-                "hobi": "Jalan - Jalan",
-                "sosial media": "@ramadhitaatifa",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Rajabasa",
+                "hobbi": "Jalan - Jalan",
+                "sosmed": "@ramadhitaatifa",
+                "kesan": "Kakaknya keren tapi lucu jugaa",
+                "pesan": "Semangat terus kak",#2
                 
             },
             {
@@ -979,11 +979,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "121450122",
                 "umur": "21",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Kochpri",
-                "hobi": "Main Golf",
-                "sosial media": "@nazwanbilla",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Kochpri",
+                "hobbi": "Main Golf",
+                "sosmed": "@nazwanbilla",
+                "kesan": "Kakaknya keren",
+                "pesan": "Tetap keren dan terus semangat ya kak!",#3
                
             },
             {
@@ -991,11 +991,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450130",
                 "umur": "21",
                 "asal": "Batam, Kep. Riau",
-                "alamat sekarang": "Belwis",
-                "hobi": "Menggambar",
-                "sosial media": "@bastiansilaban_",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Belwis",
+                "hobbi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "Abangnya baik baik dan terlihat kalem",
+                "pesan": "Tetap semangat bang!",#4
                 
             },
             {
@@ -1003,11 +1003,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450099",
                 "umur": "20",
                 "asal": "Sumatera Barat",
-                "alamat sekarang": "Korpri",
-                "hobi": "Berkebun",
-                "sosial media": "@deaa.rsn",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Korpri",
+                "hobbi": "Berkebun",
+                "sosmed": "@deaa.rsn",
+                "kesan": "Kakaknya cantik, baik, dan pintar",
+                "pesan": "Keren selalu ya kak!",#5
         
             },
             {
@@ -1015,11 +1015,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450025",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Belwis",
-                "hobi": "Main golf bareng kadiv",
-                "sosial media": "@esteriars",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Belwis",
+                "hobbi": "Main golf bareng kadiv",
+                "sosmed": "@esteriars",
+                "kesan": "Kakaknya lucu dan menarik banget",
+                "pesan": "Sehat dan bahagia selalu ya kak!",#6
                
             },
             {
@@ -1027,11 +1027,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450024",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Belwais",
-                "hobi": "Surfing",
-                "sosial media": "@nateee__15",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Belwais",
+                "hobbi": "Surfing",
+                "sosmed": "@nateee__15",
+                "kesan": "Kak nate lucuu, baik, dan pengertian banget",
+                "pesan": "Kak nate semangat jadi imtek yaa!",#7
                 
             },
             {
@@ -1039,11 +1039,11 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450104",
                 "umur": "21",
                 "asal": "Jakarta Timur",
-                "alamat sekarang": "Belwis",
-                "hobi": "Tidur",
-                "sosial media": "@nvliaadinda",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Belwis",
+                "hobbi": "Tidur",
+                "sosmed": "@nvliaadinda",
+                "kesan": "Kakaknya baik dan kalem",
+                "pesan": "Sehat selalu ya!",#8
                 
             },
             {
@@ -1051,9 +1051,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450106",
                 "umur": "20",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Way Kandis",
-                "hobi": "Main sepak takraw",
-                "sosial media": "@jasminednva",
+                "alamat": "Way Kandis",
+                "hobbi": "Main sepak takraw",
+                "sosmed": "@jasminednva",
                 "kesan": "",
                 "pesan": "",
                
@@ -1063,9 +1063,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450091",
                 "umur": "20",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Pemda",
-                "hobi": "Jogging",
-                "sosial media": "@tobiassiagian",
+                "alamat": "Pemda",
+                "hobbi": "Jogging",
+                "sosmed": "@tobiassiagian",
                 "kesan": "",
                 "pesan": "",
                
@@ -1075,10 +1075,10 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450126",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat sekarang": "Belwais",
-                "hobi": "Main Bowling",
-                "sosial media": "@yo_annamnk",
-                "kesan": "",
+                "alamat": "Belwis",
+                "hobbi": "Main Bowling",
+                "sosmed": "@yo_annamnk",
+                "kesan": "Kakaknya tegas",
                 "pesan": "",
                
             },
@@ -1087,9 +1087,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "121450073",
                 "umur": "21",
                 "asal": "Bekasi",
-                "alamat sekarang": "TVRI",
-                "hobi": "Bikin portofolio",
-                "sosial media": "@rzkdrnnn",
+                "alamat": "TVRI",
+                "hobbi": "Bikin portofolio",
+                "sosmed": "@rzkdrnnn",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1099,9 +1099,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450002",
                 "umur": "20",
                 "asal": "Bandung",
-                "alamat sekarang": "Way Huwi",
-                "hobi": "Bertani",
-                "sosial media": "@rafiramadhanmaulana",
+                "alamat": "Way Huwi",
+                "hobbi": "Bertani",
+                "sosmed": "@rafiramadhanmaulana",
                 "kesan": "",
                 "pesan": "",
                
@@ -1111,9 +1111,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450005",
                 "umur": "20",
                 "asal": "Muara Enim",
-                "alamat sekarang": "Korpri",
-                "hobi": "Tepuk Semangat",
-                "sosial media": "@u_yippy",
+                "alamat": "Korpri",
+                "hobbi": "Tepuk Semangat",
+                "sosmed": "@u_yippy",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1123,9 +1123,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450076",
                 "umur": "20",
                 "asal": "Padang",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Q Time",
-                "sosial media": "@chlfawww",
+                "alamat": "Sukarame",
+                "hobbi": "Q Time",
+                "sosmed": "@chlfawww",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1135,9 +1135,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450093",
                 "umur": "21",
                 "asal": "Sumatera Barat",
-                "alamat sekarang": "Sukarame",
-                "hobi": "Nonton youtube, main game",
-                "sosial media": "@alfaritziirvan",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton youtube, main game",
+                "sosmed": "@alfaritziirvan",
                 "kesan": "",
                 "pesan": "",
                
@@ -1147,9 +1147,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450090",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Teluk Betung",
-                "hobi": "Main Rubik",
-                "sosial media": "@izzalutfia",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Rubik",
+                "sosmed": "@izzalutfia",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1159,9 +1159,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450034",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat sekarang": "Rajabasa",
-                "hobi": "Mengaji",
-                "sosial media": "@alyaavanevi",
+                "alamat": "Rajabasa",
+                "hobbi": "Mengaji",
+                "sosmed": "@alyaavanevi",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1171,9 +1171,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450027",
                 "umur": "20",
                 "asal": "Lampung Tengah",
-                "alamat sekarang": "Sukarame",
+                "alamat": "Sukarame",
                 "hobi": "Nemenin Tobias lari",
-                "sosial media": "@rayths_",
+                "sosmed": "@rayths_",
                 "kesan": "",
                 "pesan": "",
                
@@ -1183,9 +1183,9 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450127",
                 "umur": "20",
                 "asal": "Palembang",
-                "alamat sekarang": "Way Dadi",
+                "alamat": "Way Dadi",
                 "hobi": "Olahraga",
-                "sosial media": "@triayunanni",
+                "sosmed": "@triayunanni",
                 "kesan": "",
                 "pesan": "",
             
@@ -1217,9 +1217,9 @@ elif menu == "Departemen Internal":
                 "nim": "121450027",
                 "umur": "20",
                 "asal": "Tangerang Selatan",
-                "alamat sekarang": "Way Kandis (Kobam)",
-                "hobi": "Menunggu ayam jantan bertelur",
-                "sosial media": "@dimzrky_",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "Menunggu ayam jantan bertelur",
+                "sosmed": "@dimzrky_",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1229,9 +1229,9 @@ elif menu == "Departemen Internal":
                 "nim": "121450071",
                 "umur": "20",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Airan",
-                "hobi": "Baca Novel",
-                "sosial media": "@cathrine.sinaga",
+                "alamat": "Airan",
+                "hobbi": "Baca Novel",
+                "sosmed": "@cathrine.sinaga",
                 "kesan": "",
                 "pesan": "",
               
@@ -1241,9 +1241,9 @@ elif menu == "Departemen Internal":
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
-                "alamat sekarang": "Pasaruntung",
-                "hobi": "Mengoleksi Dino",
-                "sosial media": "@akbar_restika",
+                "alamat": "Pasaruntung",
+                "hobbi": "Mengoleksi Dino",
+                "sosmed": "@akbar_restika",
                 "kesan": "",
                 "pesan": "",
                 
@@ -1253,9 +1253,9 @@ elif menu == "Departemen Internal":
                 "nim": "122450070",
                 "umur": "21",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Gerbang Barat",
-                "hobi": "Membaca dan Memancing",
-                "sosial media": "@renita.shn",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Membaca dan Memancing",
+                "sosmed": "@renita.shn",
                 "kesan": "",
                 "pesan": "",
                
@@ -1265,9 +1265,9 @@ elif menu == "Departemen Internal":
                 "nim": "122450055",
                 "umur": "20",
                 "asal": "Pesawaran",
-                "alamat sekarang": "Airan",
-                "hobi": "Nonton",
-                "sosial media": "@slwfhn_694",
+                "alamat": "Airan",
+                "hobbi": "Nonton",
+                "sosmed": "@slwfhn_694",
                 "kesan": "",
                 "pesan": "",
           
@@ -1277,11 +1277,11 @@ elif menu == "Departemen Internal":
                 "nim": "122450112",
                 "umur": "20",
                 "asal": "Bekasi",
-                "alamat sekarang": "Jl. Lapas Raya",
-                "hobi": "Menulis lagu",
-                "sosial media": "@rendraepr",
-                "kesan": "",
-                "pesan": "",
+                "alamat": "Jl. Lapas Raya",
+                "hobbi": "Menulis lagu",
+                "sosmed": "@rendraepr",
+                "kesan": "Abangnya ramah, salah satu asprak strukdat yang sabar",
+                "pesan": "Tetep semangat menjadi humas ya kak!",
             
             },
             {
@@ -1289,9 +1289,9 @@ elif menu == "Departemen Internal":
                 "nim": "121450149",
                 "umur": "20",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Perum Griya Indah",
-                "hobi": "Nungguin ayam betina berkokok",
-                "sosial media": "@yosiabanurea",
+                "alamat": "Perum Griya Indah",
+                "hobbi": "Nungguin ayam betina berkokok",
+                "sosmed": "@yosiabanurea",
                 "kesan": "",
                 "pesan": "",
            
@@ -1301,9 +1301,9 @@ elif menu == "Departemen Internal":
                 "nim": "121450069",
                 "umur": "23",
                 "asal": "Lampung Barat",
-                "alamat sekarang": "Labuhan Ratu",
+                "alamat": "Labuhan Ratu",
                 "hobi": "Futsal",
-                "sosial media": "@ari_sigit17",
+                "sosmed": "@ari_sigit17",
                 "kesan": "",
                 "pesan": "",
             
@@ -1313,9 +1313,9 @@ elif menu == "Departemen Internal":
                 "nim": "122450061",
                 "umur": "21",
                 "asal": "Sumatera Utara",
-                "alamat sekarang": "Gerbang Barat",
-                "hobi": "Ngejokes",
-                "sosial media": "@josuapanggabean_",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Ngejokes",
+                "sosmed": "@josuapanggabean_",
                 "kesan": "",
                 "pesan": "",
            
@@ -1325,9 +1325,9 @@ elif menu == "Departemen Internal":
                 "nim": "122450068",
                 "umur": "21",
                 "asal": "Lampung Selatan",
-                "alamat sekarang": "Natar",
-                "hobi": "Berkebun",
-                "sosial media": "@azizahksma15",
+                "alamat": "Natar",
+                "hobbi": "Berkebun",
+                "sosmed": "@azizahksma15",
                 "kesan": "",
                 "pesan": "",
           
@@ -1337,9 +1337,9 @@ elif menu == "Departemen Internal":
                 "nim": "122450011",
                 "umur": "20",
                 "asal": "Pesawaran",
-                "alamat sekarang": "Airan",
-                "hobi": "Nonton",
-                "sosial media": "@meirasty_",
+                "alamat": "Airan",
+                "hobbi": "Nonton",
+                "sosmed": "@meirasty_",
                 "kesan": "",
                 "pesan": "",
                
@@ -1349,9 +1349,9 @@ elif menu == "Departemen Internal":
                 "nim": "122450057",
                 "umur": "20",
                 "asal": "Tangerang",
-                "alamat sekarang": "Kost Benawang",
-                "hobi": "Berenang di Laut",
-                "sosial media": "@rexander",
+                "alamat": "Kost Benawang",
+                "hobbi": "Berenang di Laut",
+                "sosmed": "@rexander",
                 "kesan": "",
                 "pesan": "",
                
@@ -1379,49 +1379,49 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Andrian Agustinus Lumbangaol",
                 "nim": "121450090",
-                "Umur": "21",
-                "Asal": "Panjibako",
-                "Alamat Sekarang": "Jl. Bel",
-                "Hobi": "Mencari Uang",
-                "Sosial Media": "@andriangaol",
-                "Kesan": "",
-                "Pesan": "",#1
+                "umur": "21",
+                "asal": "Panjibako",
+                "alamat": "Jl. Bel",
+                "hobbi": "Mencari Uang",
+                "sosial": "@andriangaol",
+                "kesan": "",
+                "pesan": "",#1
             
             },
             {
                 "nama": "Adisty Syawaida Arianto",
                 "nim": "121450136",
-                "Umur": "23",
-                "Asal": "Metro",
-                "Alamat Sekarang": "Sukarame",
-                "Hobi": "Nonton Film",
-                "Sosial Media": "@adistysa_",
-                "Kesan": "",
-                "Pesan": "",#2
+                "umur": "23",
+                "asal": "Metro",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton Film",
+                "sosmed": "@adistysa_",
+                "kesan": "",
+                "pesan": "",#2
                 
             },
             {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
-                "Umur": "21",
-                "Asal": "Simalungun",
-                "Alamat Sekarang": "Airan",
-                "Hobi": "Menghitung Uang",
-                "Sosial Media": "@zhjung",
-                "Kesan": "",
-                "Pesan": "",#3
+                "umur": "21",
+                "asal": "Simalungun",
+                "alamat": "Airan",
+                "hobbi": "Menghitung Uang",
+                "sosmed": "@zhjung",
+                "kesan": "",
+                "pesan": "",#3
              
             },
             {
                 "nama": "Danang Hilal Kurniawan",
                 "nim": "122450085",
-                "Umur": "21",
-                "Asal": "Bandar Lampung",
-                "Alamat Sekarang": "Airan",
-                "Hobi": "Touring",
-                "Sosial Media": "@dananghk_",
-                "Kesan": "Daplok jordan nih",
-                "Pesan": "Tetap semangat berkarya bang!",#4
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Airan",
+                "hobbi": "Touring",
+                "sosmed": "@dananghk_",
+                "kesan": "Daplok jordan nih",
+                "pesan": "Tetap semangat berkarya bang!",#4
            
             },
             {
