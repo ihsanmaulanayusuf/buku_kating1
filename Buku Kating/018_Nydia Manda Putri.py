@@ -1212,6 +1212,7 @@ elif menu == "Departemen Internal":
                 "asal": "Bekasi",
                 "alamat": "Jl. Lapas Raya",
                 "hobbi": "Menulis lagu",
+                "sosmed": "@rendraepr"
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
@@ -1237,7 +1238,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
-             {
+            {
                 "nama": "Rani Puspita sari",
                 "nim": "122450030",
                 "umur": "21",
@@ -1280,7 +1281,7 @@ elif menu == "Departemen Internal":
                 "sosmed": "@rexander",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
-            }
+            },
         ]
 
         display_images_with_data(gambar_urls, data_list)
