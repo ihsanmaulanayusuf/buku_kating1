@@ -1113,5 +1113,174 @@ elif menu == "Departemen Eksternal":
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
+
+elif menu == "Departemen Internal":
+    def internal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1T-p_S1yFRkSIwtXB4PShNKRf_LMID3Rv", #bang dimas
+            "https://drive.google.com/uc?export=view&id=1uyY8GKyHfBTbUKKWeYLWRItCeqeOkewv", #kak catherine
+            "https://drive.google.com/uc?export=view&id=12ZdBE9sVhvJP87daxMutDX5M1MMc9CdW", #bang akbar
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak rani
+            "https://drive.google.com/uc?export=view&id=10f49Q00x1DmXOGdU_nY8sCo0wows2Aeh", #bang rendra
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak salwa
+            "https://drive.google.com/uc?export=view&id=1WvV7wEN1GqJsvu_dxXaXrRn9WX_ucIdZ", #bang ari
+            "https://drive.google.com/uc?export=view&id=1neTbnPqJF2KbE1ymCRA1edeY_MQ8B2mQ", #kak azizah
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak dearni
+            "https://drive.google.com/uc?export=view&id=1IBiR6PkvU-0ZVzFZ2y6AdaVPUrV8VOne", #kak meira
+            "https://drive.google.com/uc?export=view&id=1CxOxBUQwjb1QZNJsTdzTWSlsmiO0oseR", #bang rendi
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak renta
+            "https://drive.google.com/uc?export=view&id=1HC-IN_oBQ_lqdc-SdUWYiC4M5nnLS6d4", #bang yosia
+        ]
+        data_list = [
+            {
+                "nama": "Dimas Rizky Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal":"Pamulang, Tangerang Selatan",
+                "alamat": "Way Kandis Kobam",
+                "hobi": "Manjat tower sutet",
+                "sosmed": "@dimzrky",
+                "kesan": "Pembawaan abangnya asik banget dan banyak bercandanya jadi seru",  
+                "pesan": "Semangat terus bang kuliahnya semoga cepat lulus" #bang dimas
+            },
+            {
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
+                "umur": "20",
+                "asal":"Sumatera Utara",
+                "alamat": "Airan",
+                "hobi": "Baca novel",
+                "sosmed": "@Catherine.sinaga",
+                "kesan": "",  
+                "pesan":"" #kak catherine
+
+            },
+            {
+                "nama": "Akbar Resdika",
+                "nim": "121450066",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Dalam",
+                "hobi": "Memelihara Dino",
+                "sosmed": "@akbar_resdika",
+                "kesan": "",  
+                "pesan":"" #bang akbar
+            },
+            {
+               "nama": "Rani Puspita sari",
+                "nim": "122450030",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Rajabasa",
+                "hobi": "Mengaji",
+                "sosmed": "@rannipu",
+                "kesan": "",  
+                "pesan":"" #kak rani
+            },
+            {
+                "nama": "Rendra Eka Prayoga",
+                "nim": "122450112",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Jl. Lapas Raya",
+                "hobi": "Nulis lagu",
+                "sosmed": "@rendaepr",
+                "kesan": "",  
+                "pesan":"" #bang rendra
+
+            },
+            {
+                "nama": "Salwa Farhanatussaidah",
+                "nim": "122450055",
+                "umur": "20",
+                "asal":"Pesawaran",
+                "alamat": "Airan raya",
+                "hobi": "Ngeliat cogan",
+                "sosmed": "@slwfn_694",
+                "kesan": "",  
+                "pesan":"" #kak salwa
+
+            },
+            {
+                "nama": "Ari Sigit",
+                "nim": "121450",
+                "umur": "23",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Ratu",
+                "hobi": "Main Futsal",
+                "sosmed": "@ari_sigit17",
+                "kesan": "",  
+                "pesan":"" #bang ari
+            },
+            {
+                "nama": "Azizah Kusumah Putri",
+                "nim": "122450068",
+                "umur": "21",
+                "asal":"Lampung Selatan",
+                "alamat": "Jati Mulyo",
+                "hobi": "Bangun Pagi",
+                "sosmed": "@azizahksmh15",
+                "kesan": "",  
+                "pesan":"" #kak azizah
+            },
+            {
+                "nama": "Dearni Monica Br Manik",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak dearni
+            },
+            {
+                "nama": "Meira Listyaningrum",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak meira
+            },
+            {
+                "nama": "Rendi Alexander Hutagalung",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang rendi
+            },
+            {
+                "nama": "Renta Siahaan",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak renta
+            },
+            {
+                "nama": "Yosia Retare Banurea",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang yosia
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    internal()
+
     
 
