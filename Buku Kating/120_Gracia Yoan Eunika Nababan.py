@@ -882,7 +882,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1wv-ANiAqBiA8PXkxVSYhKAmaCraMjNkc", #kak alyaa
             "https://drive.google.com/uc?export=view&id=1p2IRB8hNjsyo8GmUECT3g367spF-tvIV", #bang raid
             "https://drive.google.com/uc?export=view&id=1jvg21cKs7nQbXcvyI_JaRVRarUpSHMwW", #kak yuna
-       
+        ]
         data_list = [
             {
                 "nama": "Yogy Sae Tama",
