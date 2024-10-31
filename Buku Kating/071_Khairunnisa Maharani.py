@@ -1379,24 +1379,6 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def departemenmedkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1cH8o6SW2w0Bir3m1n3Xq4VALNmBfelAN", #1
-            "https://drive.google.com/uc?export=view&id=1vFPvQH8yTI1chz9JIubX_Kb8QElnZ4Fm", #2
-            "https://drive.google.com/uc?export=view&id=1fwx061qqTxiPjtJigAWS1ZQ-vTGP9Ci7", #3
-            "https://drive.google.com/uc?export=view&id=1sYFT4HyXsn-HO1R88Ya9bYlVIpPs9WY5", #4
-            "https://drive.google.com/uc?export=view&id=1l0JyQcIhRN-wv1RQSqnzqObmukiDz_S8", #5
-            "https://drive.google.com/uc?export=view&id=1iMeQifPEAdKfTsz6n0dJr0GN4LcfMbbH", #6
-            "https://drive.google.com/uc?export=view&id=1imRlME4JNoGJKF1n_XSlcRiNVTQ6r-Lz", #7
-            "https://drive.google.com/uc?export=view&id=1fP8erzgyiUTuK93PFSzINY5r_FGQUmfT", #8
-            "https://drive.google.com/uc?export=view&id=1A55_yK1pgnNxGYXDABNE4SNWinDAZ_vN", #9
-            "https://drive.google.com/uc?export=view&id=1qz2Y-gPpsrMZkrjZed8WsRgv6YTkUV22", #10
-            "https://drive.google.com/uc?export=view&id=1W5Y4rwR9hEHvHmtb7SMp5zxNaOe5UZkV", #11
-            "https://drive.google.com/uc?export=view&id=1nfC3DWl1UIM1fTRFDR8pcXsJOZSFbgfK", #12
-            "https://drive.google.com/uc?export=view&id=1aLlonuLlbgburS015CM9CHNDfO4b95xC", #13
-            "https://drive.google.com/uc?export=view&id=1S7iUGY10O2a-5q3jouqscwxbhjulkJXp", #14
-            "https://drive.google.com/uc?export=view&id=1_qd63CnhNy-Jv93rWxKyNDinkLizPj19", #15
-            "https://drive.google.com/uc?export=view&id=1RWFN4A_RN5-S5n6aao7TuA4U5Cs6fNlZ", #16
-            "https://drive.google.com/uc?export=view&id=18ty3OvDubHH3lRSZq43ZdxCzJGq8RCij", #17
-            "https://drive.google.com/uc?export=view&id=1M9sFHJ0uYhMo4GMfZPLhLwpM_2vpj9n-", #18
         ]
         data_list = [
             {
