@@ -1507,14 +1507,14 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1jkuKFGNLHwd7LOuNrcEW2fo-7KYHI6mv", #112
             "https://drive.google.com/uc?export=view&id=14-SZhAULSm8Hs8ZmW2leYoZBEVhi99Kr", #113
-            "https://drive.google.com/uc?export=view&id=1KTUmTnSQ6Trz9R61uxCAbE-G97E6UOLY", #114
+            "https://drive.google.com/uc?export=view&id=1XECueK5R4WevA2zr_pK053tDVxjZ4ssU", #114
             "https://drive.google.com/uc?export=view&id=1icAYmK062K8cPljwn3Zx8xzdldHjZyR9", #115
             "https://drive.google.com/uc?export=view&id=1G6FDGR-9RyPXnYLmdLsoRiiPy3cG2U1j", #116
             "https://drive.google.com/uc?export=view&id=1bpPHniXJWhhRkLKPW9zeFDBmXFzljXjR", #117
             "https://drive.google.com/uc?export=view&id=1B61syVG5AjoXi8r_J0OdcrdAFbAyxfQm", #118
             "https://drive.google.com/uc?export=view&id=12Rkf9Jm0-dJzdiZFQQB66-t8yXAGF8Ot", #119
-            "https://drive.google.com/uc?export=view&id=1_n5UXf1RulNv4-X4IYfyMbU-G5WZc7js", #120
-            "https://drive.google.com/uc?export=view&id=1bbHmOp9GdbCpb4pGrNtJmO0sIP-whmWE", #121
+            "https://drive.google.com/uc?export=view&id=14vSMBMMEImeocaU1IrmbAyjFS22y6Q4A", #120
+            "https://drive.google.com/uc?export=view&id=10jwjo6zJ-mFw1xmWkKFNuWoUGm8eVf7Q", #121
             "https://drive.google.com/uc?export=view&id=1yz9WslVPsBRf8ulL2M66Yvv4P1bl6ERv", #122
             "https://drive.google.com/uc?export=view&id=16Q-Bgx98KZPdZfb-YGOE8iC547mAuQEu", #123
             "https://drive.google.com/uc?export=view&id=1KA5BxnM8iVeqixic0Psr_CPHk7wqkNnr", #124
