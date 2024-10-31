@@ -1364,50 +1364,63 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def departemenssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
+            "https://drive.google.com/uc?export=view&id=1ldYzEB5XBwoNiYmscLgsHG0G_0UUIc98", #101
+            "https://drive.google.com/uc?export=view&id=1lbX7GsAh_F0VbS4qxM93nidxGQeKF39A", #102
+            "https://drive.google.com/uc?export=view&id=1lbJiqY55RmJO_xcR5lil8oJGNpco8mJj", #103
+            "https://drive.google.com/uc?export=view&id=1lcuVLe0bV6YJ8XOaRXU4mBreTNEn0c5e", #104
+            "https://drive.google.com/uc?export=view&id=1lJ7Ms-O2eZcLZgKT4u6N7LVRCSnW2MLv", #105
+            "https://drive.google.com/uc?export=view&id=1lS6cieOYvSl2loQzZ4EA-SVPwlm9jAzY", #106
+            "https://drive.google.com/uc?export=view&id=1lW2xzGaNRTYSYyOUXq-RMcE4nmlR6ruJ", #107
+            "https://drive.google.com/uc?export=view&id=1ldHe9cZnZB7n7nxCxwl1F8RBbbyZA2mv", #108
+            "https://drive.google.com/uc?export=view&id=1lXfkdHzIKiMEAqVvzdGjsVyXaH3FLPJj", #109
+            "https://drive.google.com/uc?export=view&id=1lbwFKnfFAQe7tGmJZaUa984vJybAGXhr", #110
+            "https://drive.google.com/uc?export=view&id=1lXOVXhEyMYWv1ZWlK__Gn3DAsjvOoE34", #111
+
         ]
         data_list = [
             {
-                "nama": "Andrian Agustinus Lumbangaol",
+                "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "21",
                 "asal": "Panjibako",
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "abangnya seruu wawasan nya luas",  
+                "pesan": "Semangat terus bang kuliahnya" #101
             },
             {
-                "nama": "Adisty Syawaida Arianto",
+                "nama": "Adisty Syawaida Ariyanto",
                 "nim": "121450136",
-                "umur": "23",
+                "umur": "22",
                 "asal": "Metro",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton Film",
+                "hobbi": "Nonton film",
                 "sosmed": "@adistysa_",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "",  
+                "pesan": "semangat kuliahnya kak" #102
             },
             {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
                 "umur": "21",
-                "asal": "Simalungun",
+                "asal": "Simalungun, Sumut",
                 "alamat": "Airan",
-                "hobbi": "Menghitung Uang",
-                "sosmed": "@zhjung",
-                "kesan": "",
-                "pesan": "",
+                "hobbi": "Hitung uang",
+                "sosmed": "@zhjung_",
+                "kesan": "kakanya seru, tapi kaya aga kalem",  
+                "pesan": "Semangat terus kak kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #103
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal": "Bukittinggi",
+                "alamat": "Airan",
+                "hobbi": "Badminton",
+                "sosmed": "@ahmad.ris45",
+                "kesan": "bang ahmad seru meskipun kayanya aga introvert",  
+                "pesan": "Semangat terus bang kuliahnya" #104
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -1415,43 +1428,32 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat": "Airan",
-                "hobbi": "Touring",
+                "hobbi": "Nyuruh-nyuruh",
                 "sosmed": "@dananghk_",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "bang danang seru abiss dengan 1001 topik yang gaperna abis, asik bgt kalo diajak sharing",  
+                "pesan": "Semangat terus bang kuliahnya, semoga terus menginspirasi" #105
             },
             {
-                "nama": "Farel Julio Akbar",
+                "nama": "Farrel Julio Akbar",
                 "nim": "122450110",
                 "umur": "20",
                 "asal": "Bogor",
                 "alamat": "Lapas",
-                "hobbi": "Bebas",
-                "sosmed": "@farel_julio",
-                "kesan": "",
-                "pesan": "",
-            },
-            {
-                "nama": "Ahmad Rizqi",
-                "nim": "122450138",
-                "umur": "20",
-                "asal": "Bukittingi",
-                "alamat": "Airan 1",
-                "hobbi": "Badminton",
-                "sosmed": "@ahmad.ris45",
-                "kesan": "",
-                "pesan": "",
+                "hobbi": "Apa aja",
+                "sosmed": "@farrel_julio",
+                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas seru apalagi pas supporteran",  
+                "pesan": "Semangat terus bang kuliahnya" #106
             },
             {
                 "nama": "Tessa Kania Sagala",
                 "nim": "122450040",
                 "umur": "20",
-                "asal": "Simalungun",
+                "asal": "Simalungun, Sumut",
                 "alamat": "Pemda",
-                "hobbi": "Menulis",
+                "hobbi": "Suka nulis",
                 "sosmed": "@tesakanias",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kakak baik sekali",  
+                "pesan": "Semangat terus kak kuliahnya" #107
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1461,8 +1463,30 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "kakanya baik",  
+                "pesan": "Semangat terus kak kuliahnya" #108
+            },
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal": "Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton windah",
+                "sosmed": "@alviagnting",
+                "kesan": "Kakak ini asik, baik, ramah dan lucu",  
+                "pesan": "Semangat terus kak kuliahnya" #109
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Balam",
+                "alamat": "Jalan Nangka 1",
+                "hobbi": "Tidur",
+                "sosmed": "@dhafinrzqa",
+                "kesan": "abangnya seruu, baik jugaa",  
+                "pesan": "Semangat terus bang kuliahnya" #110
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1470,22 +1494,11 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Korpri",
-                "hobbi": "Main Alat Musik",
+                "hobbi": "Badminton",
                 "sosmed": "@meylanielia",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "kakanya seruu pas sharing sharing, asik pokoknya",  
+                "pesan": "Semangat terus kakak kuliahnya" #111
             },
-            {
-                "nama": "Dhafin Razaqa Luthfi",
-                "nim": "122450133",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Jl. Nangkal",
-                "hobbi": "Olahraga",
-                "sosmed": "@dhafinrzqa13",
-                "kesan": "",
-                "pesan": "",
-            }
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenssd()
