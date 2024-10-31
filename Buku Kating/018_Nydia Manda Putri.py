@@ -1666,3 +1666,146 @@ elif menu == "Departemen MEDKRAF":
         ]
         display_images_with_data(gambar_urls, data_list)
     departemenmedkraf()
+    
+elif menu == "Departemen SSD":
+    def departemenssd():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1lbKJNhAJ89fYEXXAS3Z_UV0d-lMCzwoV", 
+            "https://drive.google.com/uc?export=view&id=1lM5hiyYRfWL36tq1zh3i6ISPYAhtptwT", 
+            "https://drive.google.com/uc?export=view&id=1lSJB1k3YV4JYp-1UJkkrNihm4xcPaheW", 
+            "https://drive.google.com/uc?export=view&id=1krnTELzBG20AmRIoVycnCTSzst0aEV3c", 
+            "https://drive.google.com/uc?export=view&id=1l060QZO07tctiWE6xIA-0YAuF7yjNxVM", 
+            "https://drive.google.com/uc?export=view&id=1lJGu4d7mIRJ_xzvLplYwSnnfutdwKWyf", 
+            "https://drive.google.com/uc?export=view&id=1lOpC5_n3xJFKomtThgWojAvvtlHiHWHa", 
+            "https://drive.google.com/uc?export=view&id=1lW26EsEKrK03gCB8DKgF9STTWBQWCwp9", 
+            "https://drive.google.com/uc?export=view&id=1lW1Seqe2f4k_K8bzz2IbhVpAS_lcnNHG", 
+            "https://drive.google.com/uc?export=view&id=1l1cj3yyYg6uVQkUL4uBFi5ergdBhCisb", 
+            "https://drive.google.com/uc?export=view&id=1lMMK4CI27EgHY0AVs3UHuu1J4gcdYMcd", 
+
+        ]
+        data_list = [
+            {
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
+                "umur": "21",
+                "asal":"Panjibako",
+                "alamat": "Jl. Bel",
+                "hobbi": "Mencari Uang",
+                "sosmed": "@andriangaol",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto",
+                "nim": "121450136",
+                "umur": "22",
+                "asal":"Metro",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton film",
+                "sosmed": "@adistysa_",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "21",
+                "asal":"Simalungun, Sumut",
+                "alamat": "Airan",
+                "hobbi": "Hitung uang",
+                "sosmed": "@zhjung_",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal":"Bukittinggi",
+                "alamat": "Airan",
+                "hobbi": "Badminton",
+                "sosmed": "@ahmad.ris45",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450085",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Airan",
+                "hobbi": "Nyuruh-nyuruh",
+                "sosmed": "@dananghk_",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Farrel Julio Akbar",
+                "nim": "122450110",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "Lapas",
+                "hobbi": "Apa aja",
+                "sosmed": "@farrel_julio",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Tessa Kania Sagala",
+                "nim": "122450040",
+                "umur": "20",
+                "asal":"Simalungun, Sumut",
+                "alamat": "Pemda",
+                "hobbi": "Suka nulis",
+                "sosmed": "@tesakanias",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Nabilah Andika Fitriati",
+                "nim": "121450139",
+                "umur": "20",
+                "asal":"Kedaton",
+                "alamat": "Kedaton",
+                "hobbi": "Tidur",
+                "sosmed": "@nabilahanftr",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal":"Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton windah",
+                "sosmed": "@alviagnting",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal":"Balam",
+                "alamat": "Jalan Nangka 1",
+                "hobbi": "Tidur",
+                "sosmed": "@dhafinrzqa",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Badminton",
+                "sosmed": "@meylanielia",
+                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    departemenssd()
+
