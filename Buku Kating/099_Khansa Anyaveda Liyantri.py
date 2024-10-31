@@ -1070,17 +1070,19 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def departemeninternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
+            "https://drive.google.com/uc?export=view&id=18IUGYN8XDj_PKjhQqZLqibK5QJfAAym2", #1
+            "https://drive.google.com/uc?export=view&id=18VZ9-3hbux0V4b4j57QNv2L4msGfzVEV", #2
+            "https://drive.google.com/uc?export=view&id=18Q41oCyPwUxpvwtR2o95ibckDX6D07AC", #3
+            "https://drive.google.com/uc?export=view&id=18NwLy52otdSjr6RL_gbxNuqv2UO3xxCq", #4
+            "https://drive.google.com/uc?export=view&id=18JHDOUofaz1PExraec8nlInXAXPwbdOr", #5
+            "https://drive.google.com/uc?export=view&id=18OU0J4feGJUeYRcszqnAywdomNjXUt4r", #6
+            "https://drive.google.com/uc?export=view&id=18VF810Sfhco5E9qbWq3lAJBtr-C9m28a", #7
+            "https://drive.google.com/uc?export=view&id=18UMOSA-CcetN80Q4S6xDb82kSO0fBcEA", #8
+            "https://drive.google.com/uc?export=view&id=18UFzb-S0K1ikKR3cJsq8F7HqbAUpiLPH", #9
+            "https://drive.google.com/uc?export=view&id=18SMexfGUyfYH9PsWQ6DVI_IBpr6mZOVg", #10
+            "https://drive.google.com/uc?export=view&id=18Sex_0--fg65Z4uXGUgY_3btgvDwl97X", #11
+            "https://drive.google.com/uc?export=view&id=18TBDbisdE3UsgNxlpCTBhk9YU7oa3DG4", #12
+            "https://drive.google.com/uc?export=view&id=18MGYNe15NMfU0oPUjqEye-bMolY3HnyY", #13
         ]
         data_list = [
             {
@@ -1106,7 +1108,7 @@ elif menu == "Departemen Internal":
                 "pesan": ""
             },
             {
-                "nama": "M. Akbar Restika",
+                "nama": "M. Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
@@ -1214,6 +1216,17 @@ elif menu == "Departemen Internal":
                 "sosmed": "@rexander",
                 "kesan": "",
                 "pesan": ""
+            },
+            {
+                "nama": "Rani Puspita Ningrum",
+                "nim": "122450022",
+                "umur": "20",
+                "asal": "Metro",
+                "alamat": "Rajabasa",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@rannipu",
+                "kesan": "",
+                "pesan": ""
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1223,7 +1236,7 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def departemenssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
+            "https://drive.google.com/uc?export=view&id=18WbGDT-i8p0aG119TgklWr-qTP5jBNRj", #1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
@@ -1232,6 +1245,9 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #10
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #11
+        ]
         ]
         data_list = [
             {
