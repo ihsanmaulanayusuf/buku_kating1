@@ -1172,7 +1172,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobi": "Nemenin Tobias lari",
+                "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayths_",
                 "kesan": "Abangnya keren",
                 "pesan": "Semangat ya bang!",#19
@@ -1184,7 +1184,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Palembang",
                 "alamat": "Way Dadi",
-                "hobi": "Olahraga",
+                "hobbi": "Olahraga",
                 "sosmed": "@triayunanni",
                 "kesan": "Kakaknya baik, dan ramah",
                 "pesan": "Semangat untuk terus aktif kak",#20
