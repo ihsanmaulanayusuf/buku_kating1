@@ -676,12 +676,12 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1zyou9ktaAe8Nvz0ABmCaF7_FxL9ZqHlj", #9
             "https://drive.google.com/uc?export=view&id=1AdEViTbD-tVJpcnWsSwNb_Evqd2_bVUJ", #10
             "https://drive.google.com/uc?export=view&id=1TWjDxx49_nL4GstRGbqqHBOJ1jDrhW2J", #11
-            "https://drive.google.com/uc?export=view&id=183KOYVCO0z381XzjixOqGD14HN8OGMkq", #12
-            "https://drive.google.com/uc?export=view&id=1p1bhVR7d5F1u-KeYLYC-WTXpk3TQbrIH", #13
+            "https://drive.google.com/uc?export=view&id=1szWMaZU88kfA-Mokv_-WX7KJhQoAERHf", #12
+            "https://drive.google.com/uc?export=view&id=12EeQSYzSjmuzZe4HNpYtG0o-hVOZaEFK", #13
             "https://drive.google.com/uc?export=view&id=1C3GndP8m7d8elj9Xu51m90_bd2ux_cYY", #14
             "https://drive.google.com/uc?export=view&id=1coETCqT6tRkRtXK-rrhWCGidnsCzhEA-", #15
             "https://drive.google.com/uc?export=view&id=1LMOYShXKYJHCha0buWPWyd3jiKNLUcBq", #16
-            "https://drive.google.com/uc?export=view&id=1ei0p0wYqZd-rcF95RlKuFMASMENQnLDw", #17
+            "https://drive.google.com/uc?export=view&id=1hZoUSyLfj0Wt5M48NhXs4w17PHTgxwLW", #17
             "https://drive.google.com/uc?export=view&id=1C3GndP8m7d8elj9Xu51m90_bd2ux_cYY", #18
             "https://drive.google.com/uc?export=view&id=1PHc4EOHS1M6Hz-48j_sdCiQu9U6TM08E", #19
             "https://drive.google.com/uc?export=view&id=1wven5EYxejrmPRoMatEwDqcS6ND3olsH", #20
@@ -918,14 +918,14 @@ elif menu == "Departemen MIKFES":
             },
                         {
                 "nama": "Mujadid Choirus Surya",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #20
+                "nim": "122450113",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding WISATA",
+                "sosmed": "rahm_adityaa",
+                "kesan": "Abang ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus bang" #20
             },
         ]
         display_images_with_data(gambar_urls, data_list)
