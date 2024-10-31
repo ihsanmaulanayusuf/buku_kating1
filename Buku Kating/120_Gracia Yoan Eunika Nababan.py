@@ -1321,7 +1321,7 @@ elif menu == "Departemen SSD":
                 "kesan": "",  
                 "pesan":"" #kak adisty
             },
-             {
+            {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
                 "umur": "21",
@@ -1425,6 +1425,230 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
+
+elif menu == "Departemen medkraf":
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bang wahyu
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak elok
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Wahyudiyanto",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang wahyu
+            },
+            {
+                "nama": "Elok Fiola",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak elok
+            },
+            {
+                "nama": "Arsyiah Azahra",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak arsyiah
+            },
+            {
+               "nama": "Cintya Bella",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak cibel
+            },
+            {
+                "nama": "Eka Fidiya Putri",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak eka
+            },
+            {
+                "nama": "Najla Juwairia",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak najla
+            },
+            {
+                "nama": "Patricia Leondrea Diajeng Putri",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak patricia
+            },
+            {
+                "nama": "Rahma Neliyana",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak rahma
+            },
+            {
+                "nama": "Try Yani Rizki Nur Rohmah",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak try
+            },
+            {
+                "nama": "Muhammad Kaisar Firdaus",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang muhammad
+            },
+            {
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak dwi
+            },
+            {
+                "nama": "Gymnastiar Al Khoarizmy",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang gym
+            },
+            {
+                "nama": "Nasywa Nur Afifah",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak nasywa
+            },
+             {
+                "nama": "Priska Silvia Ferantiana",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak priska
+            },
+            {
+                "nama": "Muhammad Arsal Ranjana Utama",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang arsal
+            },
+            {
+                "nama": "Khusnun Nisa",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #kak khusnun
+            },
+            {
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Rajabasa Labuhan dalam",
+                "hobi": "Ngoding, gaming",
+                "sosmed": "@anitahmad",
+                "kesan": "",  
+                "pesan":"" #bang abit
+            },
+            {
+                "nama": "Akmal Faiz Abdillah",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang akmal
+            },
+            {
+                "nama": "Hermawan Manurung",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":"" #bang hermawan
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    medkraf()
 
     
 
