@@ -1511,19 +1511,19 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1icAYmK062K8cPljwn3Zx8xzdldHjZyR9", #115
             "https://drive.google.com/uc?export=view&id=19wuPXIPpdBnIwXJxiReZYeyzChyD8oCH", #116
             "https://drive.google.com/uc?export=view&id=1ymVJWI6yKzbJuYEF8_lH9T6xbq7JkEjF", #117
-            "https://drive.google.com/uc?export=view&id=1HiDWVumn3aTnMjbb1nY5baAcqAjwz9rl", #118
-            "https://drive.google.com/uc?export=view&id=1kZO26W5C2YmMxsgYK1Vy1RmNIowxzT0P", #119
+            "https://drive.google.com/uc?export=view&id=1B61syVG5AjoXi8r_J0OdcrdAFbAyxfQm", #118
+            "https://drive.google.com/uc?export=view&id=12Rkf9Jm0-dJzdiZFQQB66-t8yXAGF8Ot", #119
             "https://drive.google.com/uc?export=view&id=1_n5UXf1RulNv4-X4IYfyMbU-G5WZc7js", #120
             "https://drive.google.com/uc?export=view&id=1bbHmOp9GdbCpb4pGrNtJmO0sIP-whmWE", #121
             "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #122
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #123
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #124
+            "https://drive.google.com/uc?export=view&id=16Q-Bgx98KZPdZfb-YGOE8iC547mAuQEu", #123
+            "https://drive.google.com/uc?export=view&id=1XECueK5R4WevA2zr_pK053tDVxjZ4ssU", #124
             "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #125
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #126
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #127
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #128
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #129
-            "https://drive.google.com/uc?export=view&id=1DIb668c7lr60mltzLta7H8YFeFVoxCYO", #130
+            "https://drive.google.com/uc?export=view&id=1mT65K_RaI10jqVAbBi00-3Q8crLyxlva", #126
+            "https://drive.google.com/uc?export=view&id=1txnBDiOWOdaK5z6Sk-x4BHqkGb1_3y4Z", #127
+            "https://drive.google.com/uc?export=view&id=1Ui2J-IphlXapPcKKGcngKLFbzZKMQcvy", #128
+            "https://drive.google.com/uc?export=view&id=1SIk2_7_YDOM99MeOEOo9NTqRjjzBWWoC", #129
+            "https://drive.google.com/uc?export=view&id=19AXaGW1OOyqf-X--Qg5nY5PQUbhoI7zj", #130
             
         ]
         data_list = [
@@ -1572,150 +1572,150 @@ elif menu == "Departemen MEDKRAF":
                 "pesan":"Semangat kak kuliahnya, semoga selalu mendapatkan hasil yang bagus, dan juga jangan lupa senyum" #115
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Eka Fidiya Putri",
+                "nim": "122450045",
+                "umur": "20",
+                "asal":"Natar",
+                "alamat": "Natar",
+                "hobi": "Menyibukkan diri",
+                "sosmed": "@ekafdyaptri",
+                "kesan": " ",  
+                "pesan":" " #116
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Najla Juwairia",
+                "nim": "122450037",
+                "umur": "19",
+                "asal":"Sumatera Utara",
+                "alamat": "Airan",
+                "hobi": "Nulis, baca, fangirling",
+                "sosmed": "@nanana.minjoo",
+                "kesan": " ",  
+                "pesan":" " #117
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Patricia Leondrea Diajeng Putri",
+                "nim": "122450050",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Jatimulyo",
+                "hobi": "Nonton film",
+                "sosmed": "@patriciadiajeng",
+                "kesan": "Cantik, positive vibes, baik, seru diajak ngobrol, dan ramah juga, serta murah senyum",  
+                "pesan":"Semangat kak kuliahnya, jangan lupa senyum, bahagia selalu, dan mendapatkan nilai yang bagus untuk matkul apapun itu" #118
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Rahma Neliyana",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" " #119
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Try Yani Rizki Nur Rohmah",
+                "nim": "122450020",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Korpri",
+                "hobi": "Bernyanyi dan menonton",
+                "sosmed": "@tryyaniciaaa",
+                "kesan": " ",  
+                "pesan":" " #120
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Muhammad Kaisar Firdaus",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" " #121
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" " #122
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Gymnastiar Al Khoarizmy",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" " #123
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Nasywa Nur Afifah",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" " #124
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Priska Silvia Ferantiana",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" " #125
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
+                "nama": "Muhammad Arsal Ranjana Utama",
+                "nim": "121450111",
                 "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "asal":"Depok",
+                "alamat": "Nangka 3",
+                "hobi": "-",
+                "sosmed": "@arsal.utama",
+                "kesan": " ",  
+                "pesan":" " #126
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Khusnun Nisa",
+                "nim": "122450078",
+                "umur": "20",
+                "asal":"Lampung Selatan",
+                "alamat": "Belwis",
+                "hobi": "Mengerjakan tugas",
+                "sosmed": "@khusnun_nisa335",
+                "kesan": "positive vibes, baik, ramah, dan friendly ",  
+                "pesan":"semangat kak kuliahnya, kurangi ngeluh, dan semoga hasil nilai yang didapat selalu memuaskan " #127
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Rajabasa Labuhan dalam",
+                "hobi": "Ngoding, gaming",
+                "sosmed": "@anitahmad",
+                "kesan": "Abang ini asik, lucu, baik, friendly, pintar juga",  
+                "pesan":"Semangat terus bang kuliahnya, semoga ga pernah ngulang lagi bang" #128
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
+                "nama": "Akmal Faiz Abdillah",
                 "nim": "121450090",
                 "umur": "21",
                 "asal":"Panjibako",
@@ -1723,18 +1723,18 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Mencari Uang",
                 "sosmed": "@andriangaol",
                 "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #129
             },
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
+                "nama": "Hermawan Manurung",
+                "nim": "122450069",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "Wisma Hana Hani",
+                "hobi": "Bengong/ Membaca buku",
+                "sosmed": "linkedin",
                 "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #130
             },
         ]
         display_images_with_data(gambar_urls, data_list)
