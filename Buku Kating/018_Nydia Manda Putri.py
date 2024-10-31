@@ -1212,7 +1212,7 @@ elif menu == "Departemen Internal":
                 "asal": "Bekasi",
                 "alamat": "Jl. Lapas Raya",
                 "hobbi": "Menulis lagu",
-                "sosmed": "@rendraepr"
+                "sosmed": "@rendraepr",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
