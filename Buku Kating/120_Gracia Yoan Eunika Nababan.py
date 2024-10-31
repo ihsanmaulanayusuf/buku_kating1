@@ -388,14 +388,12 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=137TseVQV8bjwy8rpn7jFVH3Hdf-0HLXg", #kak presilia
             "https://drive.google.com/uc?export=view&id=10e0ohlhCLigqj7Ar-4VXWN30HR6bd3u6", #kak rafa
             "https://drive.google.com/uc?export=view&id=1sl7-pT9eJMwmv7jsw5-EbKl0don5CW-t", #bang sahid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ZFv-HVojrNqZgGrmuAMjX5sYpmr6ZSVb", #kak vanes 
+            "https://drive.google.com/uc?export=view&id=1N8IaM0W29s9Pw1UV48uidylVqw6vdfPC", #bang ateng
+            "https://drive.google.com/uc?export=view&id=1Ejt45cRkNGEexOtxax30kGq8AwoWbDM7", #bang gede
+            "https://drive.google.com/uc?export=view&id=12kIyMuSNELwUt6GZk_lPGgBsY6I9Y2CB", #kak jaclin
+            "https://drive.google.com/uc?export=view&id=1KyUWdpG4tnwBO98Izq3bB-nFT4qpF7iP", #bang rafly
+            "https://drive.google.com/uc?export=view&id=1SngJUeMi49X6v7qNbO_OianmKTZvv4r9", #kak syalaisha
         ]
         data_list = [
             {
@@ -649,6 +647,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1Cziha9Z0PhCGP0fVjSDi4mM3KCF1cfo6", #bang ahmad
             "https://drive.google.com/uc?export=view&id=1SH5Ep3AglNZL-k1rkBGSmzKBD25iFGx0", #bang regi
             "https://drive.google.com/uc?export=view&id=1U7d0QQNQjA7SZuPS49q-lezyfmJv9by7", #kak syalaisha
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bang natanael
             "https://drive.google.com/uc?export=view&id=1h00eL-OCFb9fgoTX6BRQSKVqKjFirDJw", #bang anwar
             "https://drive.google.com/uc?export=view&id=1tnIfxuKgWTPuwW5h4YrdnrIHD2iqtlGE", #kak deva
             "https://drive.google.com/uc?export=view&id=1bKU_PYXcMkF3IA6wdXRKYkDsB39k0cAc", #kak dinda
@@ -695,138 +694,123 @@ elif menu == "Departemen MIKFES":
                 "pesan": ""
             },
             {
-                "nama": "Muhammad Regi Abdi Putra Amanta",
-                "nim": "122450031",
-                "umur": "19",
-                "asal": "Palembang",
-                "alamat sekarang": "Jl. Permadi Sukarame",
-                "hobi": "Jadi admin ig mikfes.hmsd",
+                "nama"  : "Muhammad Regi Abdi Putra Amanta",
+                "nim"   : "122450031",
+                "umur"  : "19",
+                "asal"  :"Palembang",
+                "alamat": "Jl. Permadi",
+                "hobi" : "Ngasprak ADS",
                 "sosmed": "@mregiiii_",
-                "kesan": "",
-                "pesan": ""
+                "kesan" : "",  
+                "pesan" :""
+
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
                 "nim": "122450121",
                 "umur": "21",
-                "asal": "Tangerang",
-                "alamat": "Gg Yudhistira",
-                "hobi": "Baca Novel",
+                "asal":"Tangerang",
+                "alamat": "Gg. Yudistira",
+                "hobi": "Review jurnal bu mika",
                 "sosmed": "@dkselsd_31",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "",  
+                "pesan":""
+
+            },
+            {
+               "nama": "Natanael Oktavianus Partahan Sihombing",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""
+
             },
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
                 "umur": "21",
-                "asal": "Bukittinggi",
+                "asal":"Bukittinggi",
                 "alamat": "Korpri",
                 "hobi": "ML (Machine Learning)",
                 "sosmed": "@here.am.ai",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "",  
+                "pesan":"" 
+
             },
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
                 "nim": "122450014",
                 "umur": "21",
-                "asal": "Bandar Lampung",
+                "asal":"Bandar Lampung",
                 "alamat": "Kemiling",
-                "hobi": "Menonton Film",
+                "hobi": "Resume Webinar",
                 "sosmed": "@anjaniiidev",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "",  
+                "pesan":""
+
             },
             {
-                "nama": "Dinda Nababan",
+               "nama": "Dinda Nababan",
                 "nim": "122450120",
                 "umur": "20",
-                "asal": "Medan",
+                "asal":"Medan",
                 "alamat": "Jl. Lapas",
-                "hobi": "",
-                "sosmed": "@dindanababan_",
-                "kesan": "",
-                "pesan": ""
+                "hobi": "Membaca jurnal bu mika",
+                "sosmed": "@dindanababan",
+                "kesan": "",  
+                "pesan":"" 
             },
             {
-                "nama": "Marleta Cornelia Leander",
-                "nim": "122450092",
-                "umur": "20",
-                "asal": "Depok, Jawa Barat",
+                "nama"  : "Marleta Cornelia Leander",
+                "nim"   : "122450092",
+                "umur"  : "20",
+                "asal"  :"Depok",
                 "alamat": "Gg. Nangka 3",
-                "hobi": "Liatin Jurnal",
+                "hobi" : "Review jurnal bu mika",
                 "sosmed": "@marletacornelia",
-                "kesan": "",
-                "pesan": ""
+                "kesan" : "",  
+                "pesan" :""
             },
-            {
-                "nama": "Rut Junita Sari Siburian",
-                "nim": "122450103",
-                "umur": "20",
-                "asal": "Batam, Kep.Riau",
-                "alamat": "Gg. Nangka 3",
-                "hobi": "Resume Jurnal",
-                "sosmed": "@junitaa_0406",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Syadza Puspadari Azhar",
-                "nim": "122450072",
-                "umur": "20",
-                "asal": "Palembang",
-                "alamat": "Belwis",
-                "hobi": "Membaca",
-                "sosmed": "@puspadrr",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Aditya Rahman",
-                "nim": "122450113",
-                "umur": "20",
-                "asal": "Lampung Timur",
-                "alamat": "Korpri",
-                "hobi": "Ngoding WISATA",
-                "sosmed": "@rahm_adityaa",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Eggi Satria",
-                "nim": "122450032",
-                "umur": "20",
-                "asal": "Sukabumi",
-                "alamat": "Korpri",
-                "hobi": "Ngoding dan buat konten WISATA",
-                "sosmed": "@egistr",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Febiya Jomy Pratiwi",
-                "nim": "122450074",
-                "umur": "20",
-                "asal": "Tulang Bawang",
-                "alamat": "Jl Kelengkeng Raya",
-                "hobi": "Nonton K-Drama",
-                "sosmed": "@pratiwifebiya",
-                "kesan": "",
-                "pesan": ""
-            },
-            {
-                "nama": "Randa Andriana Putra",
-                "nim": "122450083",
-                "umur": "21",
-                "asal": "Banten",
-                "alamat": "Jl Nangka 3",
-                "hobi": "Berolahraga",
-                "sosmed": "@randardn",
-                "kesan": "",
-                "pesan": ""
-            },        
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
+
+elif menu == "Departemen Eksternal":
+    def eksternal ():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1K3gjaEX0QaFYeqnuuXJPpjuM7MIZ1nlk", #bang sae tama
+            "https://drive.google.com/uc?export=view&id=1y4vbk9B0FYMaq2gm68yTWzg4clw7Tcj6", #kak ramadhita
+        ]
+        data_list = [
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "12145",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Jati Mulyo",
+                "hobi": "Bangun Pagi",
+                "sosmed": "@yogyyy",
+                "kesan": "",  
+                "pesan":"" #bang sae tama
+
+            },
+            {
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "TVRI",
+                "hobi": "Jalan-jalan",
+                "sosmed": "@ramadhitatifa",
+                "kesan": "",  
+                "pesan":"" #kak ramadhita
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    eksternal()
+    
 
