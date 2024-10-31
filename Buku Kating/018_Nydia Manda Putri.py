@@ -618,6 +618,7 @@ elif menu == "Departemen PSDA":
                 "asal": "Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobbi": "Berenang",
+                "sosmed": "@jaclinaclcv",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
