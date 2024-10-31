@@ -374,13 +374,13 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1yN65qkZUK-yRL95CKesMV48haKuzYSrc", #4
             "https://drive.google.com/uc?export=view&id=1z0ZBFPy5qOE70b-sVyhkzoyNs_TB9Bj0", #5
             "https://drive.google.com/uc?export=view&id=1ybWFb6WXy9paLtoqab5hUqa2F4q-mkyX", #6
-            "https://drive.google.com/uc?export=view&id=1yrk1WkwKvBoAdIr3HSHojzjVRlP4_oDr", #7
+            "https://drive.google.com/uc?export=view&id=1TO4PGCXnefD5v5DuN4kjL13Oppuvm_hG", #7
             "https://drive.google.com/uc?export=view&id=1yvpaJ0HHSzCt4eg8w_yBAtIDbWT0a2tu", #8
             "https://drive.google.com/uc?export=view&id=1yc3-ZYIVe0I8XbRwZdZMPlWVKe9HtCId", #9
-            "https://drive.google.com/uc?export=view&id=1yrJoQi8FvBCSneJl21jFxpGMiJoKZeEL", #10
-            "https://drive.google.com/uc?export=view&id=1yfJcTiWsHi1dE9y163vAbbiaaTnRaZ4Y", #11
+            "https://drive.google.com/uc?export=view&id=1qv9qqDw5HhuCAHAunZBhlJGEbWOGWKoc", #10
+            "https://drive.google.com/uc?export=view&id=1dZoEOqlgV-AGmkErxUipiiaE3ESXnDQA", #11
             "https://drive.google.com/uc?export=view&id=1yTRKblZ21rzLqhdZbiN3-RFWE18mVU0_", #12
-            "https://drive.google.com/uc?export=view&id=1yLiXCv3TC1_Gd7SEG_75MadLo5xcuMm9", #13
+            "https://drive.google.com/uc?export=view&id=1IW5m8o4E_BlYF6Fm-_12dAga4gCvkuzL", #13
             "https://drive.google.com/uc?export=view&id=1yUjArE0Ku3vKc66Z09efsHB3sRAlpc7E", #14
             "https://drive.google.com/uc?export=view&id=1yOLhl9uLFCsM6hZPklnEM72LYst2MBhu", #15
             "https://drive.google.com/uc?export=view&id=1z-9-lOmguBymSZ0vm0NXcq5eCmxjxcvV", #16
