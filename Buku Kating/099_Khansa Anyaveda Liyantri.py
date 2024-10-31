@@ -820,12 +820,12 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def departemeneksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #6
+            "https://drive.google.com/uc?export=view&id=171mQQpwb7IoOIR5o_TQ7tCB1BVrDE5bW", #1
+            "https://drive.google.com/uc?export=view&id=170WZsJFSml2fV1fCWaihDL4ULNMbi9Aq", #2
+            "https://drive.google.com/uc?export=view&id=16yfMV2F6tar9OL9C15d1JwW2IsrgpSU-", #3
+            "https://drive.google.com/uc?export=view&id=16x5LaMCyRgS59vaBHYnWD9K-CfUJB4AS", #4
+            "https://drive.google.com/uc?export=view&id=1724JRRZbPcXQyTWvcggr-RDnlMkhwQuV", #5
+            "https://drive.google.com/uc?export=view&id=16xoOb4pR-Eym-VzwQQ4m2VO7QhlCgGD4", #6
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #8
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #9
