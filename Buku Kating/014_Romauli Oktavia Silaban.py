@@ -236,7 +236,8 @@ elif menu == "Baleg":
                 "sosmed": "@anisadini10",
                 "kesan": "kak dini baik dan mudah senyum.",  
                 "pesan":"semoga kak dini semakin sukses dalam himpunan maupun di luar himpunan."# 1
-            },{
+            },
+            {
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
                 "umur": "19",
@@ -246,7 +247,8 @@ elif menu == "Baleg":
                 "sosmed": "@ansftynn_",
                 "kesan": "kak fitri baik dan ramah bangett",  
                 "pesan":"semoga kak fitri semakin sukses dalam himpunan maupun di luar himpunan"# 1
-            },{
+            },
+            {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -256,7 +258,8 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "bang feryadi mudah senyum dan baik",  
                 "pesan":"semoga bang feryadi semakin sukses dalam himpunan maupun di luar himpunan"# 1
-            },{
+            },
+            {
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
                 "umur": "21",
@@ -266,7 +269,8 @@ elif menu == "Baleg":
                 "sosmed": "@fleurnsh",
                 "kesan": "Kak renisha asikk dan pembawaannya alim ",  
                 "pesan":"semoga kak renisha semakin sukses dalam himpunan maupun di luar himpunan"# 1
-            },{
+            },
+            {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "20",
@@ -276,7 +280,8 @@ elif menu == "Baleg":
                 "sosmed": "@_.dheamelia",
                 "kesan": "kak dhea kece dan asik.",  
                 "pesan":"semoga kak dhea  semakin sukses dalam himpunan maupun di luar himpunan"# 1
-            },{
+            },
+            {
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "122450000",
                 "umur": "18",
@@ -286,7 +291,8 @@ elif menu == "Baleg":
                 "sosmed": "@i",
                 "kesan": "bang Fahrul asik dan mudah bergaul.",  
                 "pesan":"semoga bang fahrul semakin sukses dalam himpunan maupun di luar himpunan!"# 1
-            },{
+            },
+            {
                 "nama": "Berliana enda putri",
                 "nim": "122450000",
                 "umur": "18",
@@ -296,7 +302,8 @@ elif menu == "Baleg":
                 "sosmed": "@i",
                 "kesan": "kakak berliana baik dan keren",  
                 "pesan":"semoga kak Berliana semakin sukses dalam himpunan maupun di luar himpunan"# 1
-            },{
+            },
+            {
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
