@@ -578,7 +578,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "",
                 "pesan": ""
             },
-             {
+            {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
                 "umur": "19",
@@ -791,7 +791,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "",
                 "pesan": ""
             },
-             {
+            {
                 "nama": "Febiya Jomy Pratiwi",
                 "nim": "122450074",
                 "umur": "20",
