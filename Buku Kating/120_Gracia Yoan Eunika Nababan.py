@@ -384,13 +384,13 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1vfhH9Mdce6NDwSR4emT28Mj1EzmlroxN", #kak okta
             "https://drive.google.com/uc?export=view&id=1I1D_PIcLwCclXzN6l7Zmlnagt8nAlCrQ", #bang depan
             "https://drive.google.com/uc?export=view&id=1TXUm18LQjY9Vjesd-fC5joWipaepGa7l", #bang jo
-            "https://drive.google.com/uc?export=view&id=16F3MzhLyOCkVOO-pNG9HHMH-PB6JtD2F", #bag kem
+            "https://drive.google.com/uc?export=view&id=1M2bkf0VH4oIOoN1cjJCqwBgg70PH_NAz", #bag kem
             "https://drive.google.com/uc?export=view&id=137TseVQV8bjwy8rpn7jFVH3Hdf-0HLXg", #kak presilia
-            "https://drive.google.com/uc?export=view&id=10e0ohlhCLigqj7Ar-4VXWN30HR6bd3u6", #kak rafa
-            "https://drive.google.com/uc?export=view&id=1sl7-pT9eJMwmv7jsw5-EbKl0don5CW-t", #bang sahid
-            "https://drive.google.com/uc?export=view&id=1ZFv-HVojrNqZgGrmuAMjX5sYpmr6ZSVb", #kak vanes 
+            "https://drive.google.com/uc?export=view&id=1ChmIvTdvsivyaMx54qkCcHKr1Cq_oO5Z", #kak rafa
+            "https://drive.google.com/uc?export=view&id=1OIJyWN2aU_A7NqdDMYghhCX3uutNS3Q7", #bang sahid
+            "https://drive.google.com/uc?export=view&id=1o_Gu7xby0jCOwP50ngKqo-CkzjPS9dMq", #kak vanes 
             "https://drive.google.com/uc?export=view&id=1N8IaM0W29s9Pw1UV48uidylVqw6vdfPC", #bang ateng
-            "https://drive.google.com/uc?export=view&id=1Ejt45cRkNGEexOtxax30kGq8AwoWbDM7", #bang gede
+            "https://drive.google.com/uc?export=view&id=1FgME2Ar8gTqa5X7to2dkLgsn0rG-8AS9", #bang gede
             "https://drive.google.com/uc?export=view&id=12kIyMuSNELwUt6GZk_lPGgBsY6I9Y2CB", #kak jaclin
             "https://drive.google.com/uc?export=view&id=1KyUWdpG4tnwBO98Izq3bB-nFT4qpF7iP", #bang rafly
             "https://drive.google.com/uc?export=view&id=1SngJUeMi49X6v7qNbO_OianmKTZvv4r9", #kak syalaisha
@@ -775,6 +775,94 @@ elif menu == "Departemen MIKFES":
                 "kesan" : "",  
                 "pesan" :""
             },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal": "Batam, Kep.Riau",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Resume Jurnal",
+                "sosial media": "@junitaa_0406",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Belwis",
+                "hobi": "Membaca",
+                "sosial media": "@puspadrr",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Abdurrahman Al-atsary",
+                "nim": "121450128",
+                "umur": "23",
+                "asal": "Bandar Lampung",
+                "alamat": "Perumnas Way Kandis",
+                "hobi": "Membaca",
+                "sosial media": "@rahmn_abdr",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Aditya Rahman",
+                "nim": "122450113",
+                "umur": "20",
+                "asal": "Lampung Timur",
+                "alamat": "Korpri",
+                "hobi": "Ngoding WISATA",
+                "sosial media": "@rahm_adityaa",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Eggi Satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal": "Sukabumi",
+                "alamat": "Korpri",
+                "hobi": "Ngoding dan buat konten WISATA",
+                "sosial media": "@egistr",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat sekarang": "Jl Kelengkeng Raya",
+                "hobi": "Nonton K-Drama",
+                "sosial media": "@pratiwifebiya",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal": "Lampung",
+                "alamat": "Karang Anyar",
+                "hobi": "Main Game",
+                "sosial media": "@sudo.syahrulramadhannn",
+                "kesan": "",
+                "pesan": ""
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal": "Banten",
+                "alamat": "Jl Nangka 3",
+                "hobi": "Berolahraga",
+                "sosial media": "@randardn",
+                "kesan": "",
+                "pesan": ""
+            },       
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
@@ -784,6 +872,8 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1K3gjaEX0QaFYeqnuuXJPpjuM7MIZ1nlk", #bang sae tama
             "https://drive.google.com/uc?export=view&id=1y4vbk9B0FYMaq2gm68yTWzg4clw7Tcj6", #kak ramadhita
+            "https://drive.google.com/uc?export=view&id=1WvZPP4-CUlByfUCnNsomsyNvdFqS63bX", #kak nazwa
+            "https://drive.google.com/uc?export=view&id=1PTwxv9zYpSDhnl9Agto_ECllWiefRCtc", #bang bastian
         ]
         data_list = [
             {
@@ -808,6 +898,28 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@ramadhitatifa",
                 "kesan": "",  
                 "pesan":"" #kak ramadhita
+            },
+            {
+                "nama": "Nazwa Nabila",
+                "nim": "121450122",
+                "umur": "21",
+                "asal": "Jakarta Selatan",
+                "alamat": "Kochpri",
+                "hobbi": "Main Golf",
+                "sosmed": "@nazwanbilla",
+                "kesan": "",
+                "pesan": "",
+            },
+            {
+                "nama": "Bastian Heskia Silaban",
+                "nim": "122450130",
+                "umur": "21",
+                "asal": "Batam, Kep. Riau",
+                "alamat": "Belwis",
+                "hobbi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "",
+                "pesan": "",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
