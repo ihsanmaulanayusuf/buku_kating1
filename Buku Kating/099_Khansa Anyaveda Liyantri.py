@@ -1272,7 +1272,6 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=16jRZRMIiUTbW_wnpRyyYxsJ0vea9iGmw", #10
             "https://drive.google.com/uc?export=view&id=16gtgAjlS4mq5BbV-nvTiBCUafb22x06b", #11
         ]
-        ]
         data_list = [
             {
                 "nama": "Andrian Agustinus Lumbangaol",
