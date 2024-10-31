@@ -1379,7 +1379,25 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def departemenmedkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1-RP_O_-o1vUEtF_SB1p_4Bw9_QLYzPyw", #1
+            "https://drive.google.com/uc?export=view&id=1-_OLHhtPgbpBrNWKTjE1XRzIdfzuG5wt", #1
+            "https://drive.google.com/uc?export=view&id=1YOkrZk6ebEKmAZTT1KQXBeGbhc20X6O2", #2
+            "https://drive.google.com/uc?export=view&id=1BnGOP6siHdSx4OREJZ34HlLsLYvGk-Xy", #3
+            "https://drive.google.com/uc?export=view&id=1NjusVrTzZAAqQw1vlyuL9VMWS1qTIsaw", #4
+            "https://drive.google.com/uc?export=view&id=1bYMz3BTdfWgZMSAlg5eJ9NR38GU26Euc", #5
+            "https://drive.google.com/uc?export=view&id=1YjoPJ8gFBZgue6_BqZBZhx32j_vfBysW", #6
+            "https://drive.google.com/uc?export=view&id=12jeGp8YWJFkluuCsvQa_C38Yo9xc-Tex", #7
+            "https://drive.google.com/uc?export=view&id=1HCQV3ZxaZPIariaJMT-2GkHEN2cXXQkY", #8
+            "https://drive.google.com/uc?export=view&id=1wETIVlsErc40aUsllKkOjb64XGEe-Fmv", #9
+            "https://drive.google.com/uc?export=view&id=1QCYs7Xc27O7UkhNP3gYvWd8Tuad6fDbw", #10
+            "https://drive.google.com/uc?export=view&id=1dviBzux_Iy10NG43PNmAoSTC64jml3_i", #11
+            "https://drive.google.com/uc?export=view&id=1iZ-U43RFR8QXKvSmYfbhodH5oWxMphyk", #12
+            "https://drive.google.com/uc?export=view&id=1QIJf2VMUEXTqiKpA6l7OZp-CT3pPZatp", #13
+            "https://drive.google.com/uc?export=view&id=1QC8qXwDFXh-T0FqVLJz8P2NL5fcMKq-C", #14
+            "https://drive.google.com/uc?export=view&id=1n2jTja7I9dIxnq4S6kKw7qSb7wcMoCM7", #15
+            "https://drive.google.com/uc?export=view&id=1zsn0-c3YQTPDGWx5Qim0X2E_cpKMah7-", #16
+            "https://drive.google.com/uc?export=view&id=1VlM2_REPbVm_rjuSA4zyOWwd-1HdvH9C", #17
+            "https://drive.google.com/uc?export=view&id=1ibyCjIfGf_L1qW6jM9r-p7WFbPt516oc", #18
+            "https://drive.google.com/uc?export=view&id=1qvVc11We-dsmJw-eNi4vlmL2n_SXbRNi", #19
         ]
         data_list = [
             {
