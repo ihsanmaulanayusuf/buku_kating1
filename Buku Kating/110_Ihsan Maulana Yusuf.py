@@ -1502,8 +1502,8 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     departemenssd()
     
-elif menu == "Departemen MIKFES":
-    def departemenmikfes():
+elif menu == "Departemen MEDKRAF":
+    def departemenmedkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=11i-RffyRtIRUkj6MUqYIL9sfKMbmTG-4", #112
             "https://drive.google.com/uc?export=view&id=1-5-T_P7VFs_WbsmNy0D1e5hEm3r0jf6s", #113
@@ -1738,7 +1738,7 @@ elif menu == "Departemen MIKFES":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    departemenmikfes()
+    departemenmedkraf()
         
        
              
