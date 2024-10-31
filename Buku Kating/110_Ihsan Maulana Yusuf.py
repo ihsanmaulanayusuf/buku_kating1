@@ -1505,7 +1505,7 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def departemenmedkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=11i-RffyRtIRUkj6MUqYIL9sfKMbmTG-4", #112
+            "https://drive.google.com/uc?export=view&id=1jkuKFGNLHwd7LOuNrcEW2fo-7KYHI6mv", #112
             "https://drive.google.com/uc?export=view&id=1-5-T_P7VFs_WbsmNy0D1e5hEm3r0jf6s", #113
             "https://drive.google.com/uc?export=view&id=1KTUmTnSQ6Trz9R61uxCAbE-G97E6UOLY", #114
             "https://drive.google.com/uc?export=view&id=10T4c7w2C2rpuxOHf1hsLWsOxRRhkDuWk", #115
@@ -1528,15 +1528,15 @@ elif menu == "Departemen MEDKRAF":
         ]
         data_list = [
             {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam komunikasi, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #101
+                "nama": "Wahyudiyanto",
+                "nim": "121450040",
+                "umur": "22",
+                "asal":"Makassar, Sulawesi Selatan",
+                "alamat": "Sukarame",
+                "hobi": "Nonton",
+                "sosmed": "@",
+                "kesan": "Abang ini tegas, baik, sepertiya juga disiplin, serta seru untuk diajak diskusi",  
+                "pesan":"Semangat bang semoga bisa cepat lulus, dan mendapatkan pekerjaan yang bagus, sesuai kemampuan dan minat abang" #112
             },
             {
                 "nama": "Andrian Agustinus Lumban Gaol",
