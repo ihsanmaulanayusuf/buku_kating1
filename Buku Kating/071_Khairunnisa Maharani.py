@@ -207,11 +207,11 @@ elif menu == "Baleg":
                 "pesan":"Semoga kakak terus sukses dalam kuliahnya dan selalu semangat menggapai impian!" #1
             },{
                 "nama": "Annisa Cahyani Surya",
-                "nim": "121450124",
+                "nim": "121450114",
                 "umur": "21",
                 "asal":"Tangerang Selatan",
                 "alamat": "Way Hui",
-                "hobbi": " Membaca",
+                "hobbi": "Membaca",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik diajak tukar pikiran, selalu ada solusi buat setiap masalah.",  
                 "pesan":"Teruslah semangat belajar, kak! Masa depan cerah menanti!"# 2
@@ -424,11 +424,11 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
-                "hobbi": "Muter - Muter",
+                "hobbi": "Marahin Orang",
                 "sosmed": "@afifahhnsrn",
                 "kesan": "Kakak ini cantik dan baik",
                 "pesan": "Saya harap kakak tetap terus menjadi baik, tersenyum dan bahagia"
@@ -479,7 +479,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
-                "nim": "122450142",
+                "nim": "122450122",
                 "umur": "20",
                 "asal": "Pekan Baru",
                 "alamat": "Belwis",
@@ -522,7 +522,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Jangan capek jadi contoh yang baik, Kak!"
             },
             {
-                "nama": "Eksanty Febriana Sukma Islamiaty",
+                "nama": "Eksanty Febriana Sukma Islamiyati",
                 "nim": "122450001",
                 "umur": "20",
                 "asal": "Pringsewu",
@@ -534,7 +534,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
@@ -544,7 +544,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Jaga kesehatan ya, Kak, jangan terlalu sibuk."
             },
             {
-                "nama": "Oktavia Nurwendah Puspita Sari",
+                "nama": "Oktavia Nurwenda Puspita Sari",
                 "nim": "122450041",
                 "umur": "20",
                 "asal": "Lampung Timur",
@@ -612,7 +612,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #4
             "https://drive.google.com/uc?export=view&id=1CWQeZb6_jP-A81vjCUusiIS6XbgUy3wq", #5
             "https://drive.google.com/uc?export=view&id=1CGx32vU5-bXUKCdhfLpzQhHhiK27hyA4", #6
-            "https://drive.google.com/uc?export=view&id=1CVts_ZeNI-vCc_xOEaVpany4LapEp3F9", #7
+            "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #7
             "https://drive.google.com/uc?export=view&id=1BKl7N_wmqDjCReqcBkI2kVqeB5wx8HSh", #8
             "https://drive.google.com/uc?export=view&id=1BK3dlTEQUfxJuE5gT8a4ZeBJQ6fd5bPD", #9
             "https://drive.google.com/uc?export=view&id=1BQ3OT-otHNhEgQusrh5SAbH0YMBI76Je", #10
@@ -732,7 +732,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal": "Medan",
                 "alamat": "Jl. Lapas",
-                "hobbi": "",
+                "hobbi": "Membaca jurnal Bu Mika",
                 "sosmed": "@dindanababan_",
                 "kesan": "Kakak sering terlihat enjoy aja, nggak pernah kelihatan stres.",
                 "pesan": "Semoga kakak bisa capai semua mimpi-mimpinya!"
@@ -754,14 +754,14 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal": "Batam, Kep.Riau",
                 "alamat": "Gg. Nangka 3",
-                "hobbi": "Resume Jurnal",
+                "hobbi": "Menghitung akurasi",
                 "sosmed": "@junitaa_0406",
                 "kesan": "Kakak ini selalu terlihat serius, tapi kayaknya asik juga.",
                 "pesan": "Semangat terus ya, Kak, jangan lupa senyum!"
             },
             {
                 "nama": "Syadza Puspadari Azhar",
-                "nim": "122450072",
+                "nim": "122450015",
                 "umur": "20",
                 "asal": "Palembang",
                 "alamat": "Belwis",
@@ -845,14 +845,14 @@ elif menu == "Departemen Eksternal":
     def departemeneksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17D2FymXXK0ZMaoO8oQwp82e6CEiZB0c8", #1
-            "https://drive.google.com/uc?export=view&id=17EuKg-pzfpWSod6vSOLDYtLSf7frHUjG", #2
+            "https://drive.google.com/uc?export=view&id=17BxbUzN_DXK-lZsGjg5qYH-NKD5PFQIV", #2
             "https://drive.google.com/uc?export=view&id=17TKMJPxj_YvsovDXkRZZFartjNA30Kl2", #3
             "https://drive.google.com/uc?export=view&id=17aeDqFvptn3Drmm2IqXnugIo5eQaPbkF", #4
             "https://drive.google.com/uc?export=view&id=17FbblvgZ4BWHeqZ1BEGffMVcYVZwh-NN", #5
             "https://drive.google.com/uc?export=view&id=17SBkcRIXG2PTwtkxqTGMfojTNqI9SXL0", #6
             "https://drive.google.com/uc?export=view&id=17FiyBqaYWbP6zwEKhCMMC6aaXOLFXSIp", #7
             "https://drive.google.com/uc?export=view&id=17_xjrrd3Lj1hoMY3tim3N-H1QcS8qGy_", #8
-            "https://drive.google.com/uc?export=view&id=17BxbUzN_DXK-lZsGjg5qYH-NKD5PFQIV", #9
+            "https://drive.google.com/uc?export=view&id=17EuKg-pzfpWSod6vSOLDYtLSf7frHUjG", #9
             "https://drive.google.com/uc?export=view&id=17WHcV3mX8Lf8GNdZr99pnaRXFuLwOvZN", #10
             "https://drive.google.com/uc?export=view&id=17A5317wYzurBTEmeXILbOUb_YQcdKD3S", #11
             "https://drive.google.com/uc?export=view&id=17ro6YLHHOyiUjCRXKcGkafPciOeIj-d1", #12
@@ -861,7 +861,6 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=17mAMrMIpGEpTUKuzI0vMJM3YR0tQUD5R", #15
             "https://drive.google.com/uc?export=view&id=17clFpLooK4hdSxU8La_DCFSRbgCGbKyA", #16
             "https://drive.google.com/uc?export=view&id=17jDscDbS4Rx6wsL9EzHcviSZ61mpecrl", #17
-            "https://drive.google.com/uc?export=view&id=17jck-30bMbHh6S0D5pYwa_KcM5Rc2o9X", #18
             "https://drive.google.com/uc?export=view&id=17bzGX0XVOLsY60siyNErh82LFJZYwITO", #19
             "https://drive.google.com/uc?export=view&id=178cw49H9lFRurKILz8xjSHXd9R_wvlGO", #20
         ]
@@ -872,7 +871,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Tangerang",
                 "alamat": "Jatimulyo",
-                "hobbi": "BAB setiap jam 7 pagi",
+                "hobbi": "Bangun Pagi",
                 "sosmed": "@yogyst",
                 "kesan": "Kak Yogy itu ramah dan selalu siap bantu.",
                 "pesan": "Tetap semangat, Kak Yogy! Terus jadi inspirasi bagi kita semua!"
@@ -884,7 +883,7 @@ elif menu == "Departemen Eksternal":
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
                 "hobbi": "Jalan - Jalan",
-                "sosmed": "@ramadhitaatifa",
+                "sosmed": "@ramadhitatifa",
                 "kesan": "Kak Ramadhita selalu membawa kebahagiaan di tim.",
                 "pesan": "Jangan lupa bawa cerita seru dari jalan-jalan ya, Kak!"
             },
@@ -981,7 +980,7 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450126",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
-                "alamat": "Belwais",
+                "alamat": "Belwis",
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
                 "kesan": "Kak Yohana penuh semangat dan selalu ceria.",
@@ -1054,37 +1053,26 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Selalu share resep enaknya ya, Kak!"
             },
             {
-                "nama": "Tiara Ayu",
-                "nim": "122450101",
+                "nama": "Raid Muhammad Naufal",
+                "nim": "122450027",
                 "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Way Halim",
-                "hobbi": "Tari",
-                "sosmed": "@tiara_ayu",
-                "kesan": "Kak Tiara selalu tampil anggun saat menari.",
-                "pesan": "Semoga selalu berbakat di dunia tari ya, Kak!"
-            },
-            {
-                "nama": "Sandy Shafira",
-                "nim": "122450123",
-                "umur": "20",
-                "asal": "Lampung Selatan",
-                "alamat": "Gading Rejo",
-                "hobbi": "Mendengarkan musik",
-                "sosmed": "@sandyshafira",
-                "kesan": "Kak Sandy selalu punya playlist musik yang bagus.",
-                "pesan": "Semoga terus menemukan lagu-lagu keren ya, Kak!"
-            },
-            {
-                "nama": "Dika Puspaningtyas",
-                "nim": "121450114",
-                "umur": "21",
-                "asal": "Surabaya",
+                "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobbi": "Memasak",
-                "sosmed": "@dika_puspaningtyas",
-                "kesan": "Kak Dika jago masak, pasti selalu enak.",
-                "pesan": "Semoga terus berkreasi di dapur ya, Kak!"
+                "hobbi": "Ngeresume Seminar",
+                "sosmed": "@rayths_",
+                "kesan": "Kak Raid kesannya suka ngoding.",
+                "pesan": "Semoga terus langgeng ya, Kak!"
+            },
+            {
+                "nama": "Tria Yunanni",
+                "nim": "121450062",
+                "umur": "20",
+                "asal": "Way Kanan",
+                "alamat": "Jakarta",
+                "hobbi": "Baca",
+                "sosmed": "@tria_y062",
+                "kesan": "Kak dita tuh cantik dan imut",
+                "pesan": "Semangat mengerjakan tugas kuliah, Kak!"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1256,8 +1244,9 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=19jlAHm3_j403ZjB_zdq_hCBMu7Oo_teC", #5
             "https://drive.google.com/uc?export=view&id=1A4THYDA8AQArtMVS0UHwyERJ3NMXYc2q", #6
             "https://drive.google.com/uc?export=view&id=19_S8zBjW-mWiv6cMkxe8zBnqS9zoaSqn", #7
-            "https://drive.google.com/uc?export=view&id=19c8SRRN1Yf9n-KKHdmPaIhdslFRJwdmr", #8
-            "https://drive.google.com/uc?export=view&id=19j0JccEW9M4rLfwCxW08F6Q0ZTvABcup", #9
+            "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #8
+            "https://drive.google.com/uc?export=view&id=19c8SRRN1Yf9n-KKHdmPaIhdslFRJwdmr", #9
+            "https://drive.google.com/uc?export=view&id=19j0JccEW9M4rLfwCxW08F6Q0ZTvABcup", #10
         ]
         data_list = [
             {
@@ -1390,10 +1379,10 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1wETIVlsErc40aUsllKkOjb64XGEe-Fmv", #9
             "https://drive.google.com/uc?export=view&id=1QCYs7Xc27O7UkhNP3gYvWd8Tuad6fDbw", #10
             "https://drive.google.com/uc?export=view&id=1dviBzux_Iy10NG43PNmAoSTC64jml3_i", #11
-            "https://drive.google.com/uc?export=view&id=1iZ-U43RFR8QXKvSmYfbhodH5oWxMphyk", #12
+            "https://drive.google.com/uc?export=view&id=1n2jTja7I9dIxnq4S6kKw7qSb7wcMoCM7", #12
             "https://drive.google.com/uc?export=view&id=1QIJf2VMUEXTqiKpA6l7OZp-CT3pPZatp", #13
             "https://drive.google.com/uc?export=view&id=1QC8qXwDFXh-T0FqVLJz8P2NL5fcMKq-C", #14
-            "https://drive.google.com/uc?export=view&id=1n2jTja7I9dIxnq4S6kKw7qSb7wcMoCM7", #15
+            "https://drive.google.com/uc?export=view&id=1iZ-U43RFR8QXKvSmYfbhodH5oWxMphyk", #15
             "https://drive.google.com/uc?export=view&id=1zsn0-c3YQTPDGWx5Qim0X2E_cpKMah7-", #16
             "https://drive.google.com/uc?export=view&id=1VlM2_REPbVm_rjuSA4zyOWwd-1HdvH9C", #17
             "https://drive.google.com/uc?export=view&id=1ibyCjIfGf_L1qW6jM9r-p7WFbPt516oc", #18
