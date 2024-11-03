@@ -649,22 +649,19 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1PujWWhHQxNlfXAlAzu8l-QwK6bkukNil", #1
             "https://drive.google.com/uc?export=view&id=1QQQze-9DGOjRIjQsONvyJvvwhWnMRLba", #2
             "https://drive.google.com/uc?export=view&id=1QHdUDlTMeK8-Wr9cg3xBjBJOKIiQJwwY", #3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #4
-            "https://drive.google.com/uc?export=view&id=1R398Hbj_npPUbwQgBWne2Mi39m3NoDU8", #5
-            "https://drive.google.com/uc?export=view&id=1R4SvKONJG1OvPpJdmaRReKzQ_jeCSyfz", #6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #7
-            "https://drive.google.com/uc?export=view&id=1Qe4df8BJ-aOdoii_obTA-7PpVbj4fEVz", #8
-            "https://drive.google.com/uc?export=view&id=1QPFZDbRUgAhDYwswxQzExIh-kt_UxCMY", #9
-            "https://drive.google.com/uc?export=view&id=1PzNcNmmmQUP-D8DCHh6-fKFO2-VkF2BY", #10
-            "https://drive.google.com/uc?export=view&id=1QpecQh3-D0Ubo1AuW_M6NtAnqXVUafts", #11
-            "https://drive.google.com/uc?export=view&id=1R7Mv5_m772FuH21yE5CPk2795upOZp2u", #12
-            "https://drive.google.com/uc?export=view&id=1QqULVWLFkZ61Es8tiJ-DYCRn53O93OAF", #13
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #14
-            "https://drive.google.com/uc?export=view&id=1QCF8D4k6ZZjeUx5hYeMsnHlTfUJXcFm-", #15
-            "https://drive.google.com/uc?export=view&id=1QZOAMqBNSr8VFUHGVLGVwmfpMeKFT3Yc", #16
-            "https://drive.google.com/uc?export=view&id=1Qq80yNHFWnZhhUOcnoLIV4YKEXAvBFig", #17
-            "https://drive.google.com/uc?export=view&id=1R0o0ZLgH-hP-WU4-GuiBsmAfJNDHp5vO", #18
-            "https://drive.google.com/uc?export=view&id=1QSAPi9u6oEIITgUx4NM398psN5RgKheN", #19
+            "https://drive.google.com/uc?export=view&id=1R398Hbj_npPUbwQgBWne2Mi39m3NoDU8", #4
+            "https://drive.google.com/uc?export=view&id=1R4SvKONJG1OvPpJdmaRReKzQ_jeCSyfz", #5
+            "https://drive.google.com/uc?export=view&id=1Qe4df8BJ-aOdoii_obTA-7PpVbj4fEVz", #6
+            "https://drive.google.com/uc?export=view&id=1QPFZDbRUgAhDYwswxQzExIh-kt_UxCMY", #7
+            "https://drive.google.com/uc?export=view&id=1PzNcNmmmQUP-D8DCHh6-fKFO2-VkF2BY", #8
+            "https://drive.google.com/uc?export=view&id=1QpecQh3-D0Ubo1AuW_M6NtAnqXVUafts", #9
+            "https://drive.google.com/uc?export=view&id=1R7Mv5_m772FuH21yE5CPk2795upOZp2u", #10
+            "https://drive.google.com/uc?export=view&id=1QqULVWLFkZ61Es8tiJ-DYCRn53O93OAF", #11
+            "https://drive.google.com/uc?export=view&id=1QCF8D4k6ZZjeUx5hYeMsnHlTfUJXcFm-", #12
+            "https://drive.google.com/uc?export=view&id=1QZOAMqBNSr8VFUHGVLGVwmfpMeKFT3Yc", #13
+            "https://drive.google.com/uc?export=view&id=1Qq80yNHFWnZhhUOcnoLIV4YKEXAvBFig", #14
+            "https://drive.google.com/uc?export=view&id=1R0o0ZLgH-hP-WU4-GuiBsmAfJNDHp5vO", #15
+            "https://drive.google.com/uc?export=view&id=1QSAPi9u6oEIITgUx4NM398psN5RgKheN", #16
             
         ]
         data_list = [
@@ -676,8 +673,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobbi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
-                "kesan": "Abangnya pinter dan teduh bawaannya",
-                "pesan": "Semangat terus jadi kadep bangg!",
+                "kesan": "Abangnya pinter dan profil linkedinnya bagus",
+                "pesan": "Semangat menjalani peran sebagai kadep mikfes bang!",#1
                
             },
             {
@@ -689,7 +686,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Memasak",
                 "sosmed": "@anovavona",
                 "kesan": "Kak Annisa kerenn",
-                "pesan": "Semangat kuliahnya kak!",
+                "pesan": "Semangat menjalani hari-hari kak!",#2
                
             },
             {
@@ -700,20 +697,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobbi": "Olahraga",
                 "sosmed": "@sahid22__",
-                "kesan": "Abangnya punya vibes pinter",
-                "pesan": "Semangat belajarnya bang!",
-               
-            },
-            {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": "122450082",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Teluk Betung",
-                "hobbi": "Main Game",
-                "sosmed": "@fadhilfwee",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Abangnya punya vibes kalem",
+                "pesan": "Semangat olahraga bang!",#3
                
             },
             {
@@ -724,8 +709,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Permadi Sukarame",
                 "hobbi": "Jadi admin ig mikfes.hmsd",
                 "sosmed": "@mregiiii_",
-                "kesan": "Bang Regi baik dan suka membantu",
-                "pesan": "Semangat bang regii!",
+                "kesan": "Bang Regi baik dan murah senyum",
+                "pesan": "Semangat kuliahnya bang regii!",#4
                 
             },
             {
@@ -737,19 +722,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Baca Novel",
                 "sosmed": "@dkselsd_31",
                 "kesan": "Mirip banget sama kembarannya ",
-                "pesan": "Baik-baik ya kakak kembar!",
-               
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": " ",
-                "pesan": " ",
+                "pesan": "Baik-baik ya kakak kembar!",#5
                
             },
             {
@@ -760,8 +733,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "ML (Machine Learning)",
                 "sosmed": "@here.am.ai",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Abangnya terlihat pendiam dan tenang",
+                "pesan": "Semangat bermain ML bang!",#6
                
             },
             {
@@ -772,8 +745,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Kemiling",
                 "hobbi": "Menonton Film",
                 "sosmed": "@anjaniiidev",
-                "kesan": "Kak deva lucu bangett",
-                "pesan": "Semangat ya kak",
+                "kesan": "Kak deva ekstrovert",
+                "pesan": "Tetap jadi orang yang ramah ya kak!",#7
                 
             },
             {
@@ -782,10 +755,10 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal": "Medan",
                 "alamat": "Jl. Lapas",
-                "hobbi": "",
+                "hobbi": "Membaca jurnal dari Bu Mika",
                 "sosmed": "@dindanababan_",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Kakaknya baik dan ramah sekali",
+                "pesan": "Semoga kak Dinda lulus tepat waktu!",#8
               
             },
             {
@@ -796,8 +769,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Liatin Jurnal",
                 "sosmed": "@marletacornelia",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Kakaknya cantik dan keliatan seperti cewe kue",
+                "pesan": "Kakak cocok banget memakai outfit warna terang",#9
                
             },
             {
@@ -808,8 +781,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Resume Jurnal",
                 "sosmed": "@junitaa_0406",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Kakaknya lucu pake outfit blackpink",
+                "pesan": "Terimakasih sudah menyebarkan aura positif kak!",#10
                
             },
             {
@@ -820,21 +793,9 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Belwis",
                 "hobbi": "Membaca",
                 "sosmed": "@puspadrr",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Kakaknya mirip sama seseorang",
+                "pesan": "Seamangat di departemen mikfes kak!",#11
               
-            },
-            {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "121450128",
-                "umur": "23",
-                "asal": "Bandar Lampung",
-                "alamat": "Perumnas Way Kandis",
-                "hobbi": "Membaca",
-                "sosmed": "@rahmn_abdr",
-                "kesan": " ",
-                "pesan": " ",
-               
             },
             {
                 "nama": "Aditya Rahman",
@@ -844,8 +805,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding WISATA",
                 "sosmed": "@rahm_adityaa",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Abangnya lucu dan rajin",
+                "pesan": "Semangat menimba ilmu kak!",#12
                
             },
             {
@@ -856,8 +817,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Abangnya pasti pinter ngoding",
+                "pesan": "Semangat menggapai cita-citanya kak!",#13
                
             },
             {
@@ -868,8 +829,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl Kelengkeng Raya",
                 "hobbi": "Nonton K-Drama",
                 "sosmed": "@pratiwifebiya",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": "Kakaknya cewe bumi",
+                "pesan": "Ada rekomendasi drakor yang harus ditonton sekali seumur hidup ga kak? ",#14
                
             },
             {
@@ -880,8 +841,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Anyar",
                 "hobbi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": " ",
-                "pesan": " ",
+                "kesan": " Abangnya udah keliatan gamers",
+                "pesan": "Jangan lupa bahagia ya bang",#15
                
             },
             {
@@ -893,7 +854,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Berolahraga",
                 "sosmed": "@randardn",
                 "kesan": "Asisten tutorial matdas pas tpb",
-                "pesan": "Semoga ilmu yang diajarkan jadi amal jariyah",
+                "pesan": "Semoga ilmu yang diajarkan jadi amal jariyah buat bang Randa!",#16
             },
         ]
 
