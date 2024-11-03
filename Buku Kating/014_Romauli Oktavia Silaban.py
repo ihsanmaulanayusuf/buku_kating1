@@ -1097,7 +1097,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Pamulang, Tangerang Selatan",
                 "alamat"   : "Way Kandis Kobam",
-                "hobbi"    : "Manjat tower sutet",
+                "hobi"    : "Manjat tower sutet",
                 "sosmed"   : "@dimzrky",
                 "kesan"    : "Abang ini asik, ramah, dan public speakingnya bagus",  
                 "pesan"    : "Semangat selalu kuliahnya bang!"
@@ -1108,7 +1108,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Sumatera Utara",
                 "alamat"   : "Airan",
-                "hobbi"    : "Baca novel",
+                "hobi"    : "Baca novel",
                 "sosmed"   : "@Catherine.sinaga",
                 "kesan"    : "Kakak ini baik, asik, dan ramah",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
@@ -1119,7 +1119,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Lampung Barat",
                 "alamat"   : "Labuhan Dalam",
-                "hobbi"    : "Memelihara Dino",
+                "hobi"    : "Memelihara Dino",
                 "sosmed"   : "@akbar_resdika",
                 "kesan"    : "Abang ini asik, ramah, dan baik",  
                 "pesan"    : "Semangat selalu kuliahnya bang!"
@@ -1141,7 +1141,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Pesawaran",
                 "alamat"   : "Airan raya",
-                "hobbi"    : "Ngeliat cogan",
+                "hobi"    : "Ngeliat cogan",
                 "sosmed"   : "@slwfn_694",
                 "kesan"    : "Kakak ini baik, asik, dan ramah",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
@@ -1152,7 +1152,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "21",
                 "asal"     : "Bekasi",
                 "alamat"   : "Jl. Lapas Raya",
-                "hobbi"    : "Nulis lagu",
+                "hobi"    : "Nulis lagu",
                 "sosmed"   : "@rendaepr",
                 "kesan"    : "Abang ini asik, ramah, dan public speakingnya bagus",  
                 "pesan"    : "Semangat selalu kuliahnya bang!"
@@ -1163,7 +1163,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Dairi, Sumatera Utara",
                 "alamat"   : "Perum Griya Indah",
-                "hobbi"    : "Bawa motor pake kaki",
+                "hobi"    : "Bawa motor pake kaki",
                 "sosmed"   : "@yosiabanurea",
                 "kesan"    : "Kakak ini asik, ramah, dan baik",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
@@ -1174,7 +1174,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "23",
                 "asal"     : "Lampung Barat",
                 "alamat"   : "Labuhan Ratut",
-                "hobbi"    : "Futsal",
+                "hobi"    : "Futsal",
                 "sosmed"   : "@ari_sigit17",
                 "kesan"    : "Abang ini baik, asik, dan ramah",  
                 "pesan"    : "Semangat selalu kuliahnya bang!"
@@ -1185,7 +1185,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "21",
                 "asal"     : "Metro",
                 "alamat"   : "Labuhan Ratu",
-                "hobbi"    : "Mengaji",
+                "hobi"    : "Mengaji",
                 "sosmed"   : "@rannipu",
                 "kesan"    : "kak rani orangnya tegas",  
                 "pesan"    : "Semoga kak rani semakin sukses baik di dalam maupun luar himpunan"
@@ -1196,7 +1196,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "21",
                 "asal"     : "Lampung Selatan",
                 "alamat"   : "Jati Mulyo",
-                "hobbi"    : "Bangun Pagi",
+                "hobi"    : "Bangun Pagi",
                 "sosmed"   : "@azizahksmh15",
                 "kesan"    : "Kakak ini baik, asik, dan ramah",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
@@ -1207,7 +1207,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Pesawaran",
                 "alamat"   : "Airan Raya",
-                "hobbi"    : "Menghalu",
+                "hobi"    : "Menghalu",
                 "sosmed"   : "@meiraln",
                 "kesan"    : "Kakak ini baik, asik, dan ramah",  
                 "pesan"    : "Semangat selalu kuliahnya kakak!"
@@ -1218,7 +1218,7 @@ elif menu == "Departemen Internal":
                 "umur"     : "20",
                 "asal"     : "Tangerang",
                 "alamat"   : "Kost Gunawan",
-                "hobbi"    : "menyanyi",
+                "hobi"    : "menyanyi",
                 "sosmed"   : "@alexanderr",
                 "kesan"    : "Abang ini asik, ramah, dan baik",  
                 "pesan"    : "Semangat selalu kuliahnya bang!",
@@ -1251,7 +1251,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal":"Panjibako",
                 "alamat": "Jl. Bel",
-                "hobbi": "Mencari Uang",
+                "hobi": "Mencari Uang",
                 "sosmed": "@andriangaol",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1262,7 +1262,7 @@ elif menu == "Departemen SSD":
                 "umur": "22",
                 "asal":"Metro",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton film",
+                "hobi": "Nonton film",
                 "sosmed": "@adistysa_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1273,7 +1273,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal":"Simalungun, Sumut",
                 "alamat": "Airan",
-                "hobbi": "Hitung uang",
+                "hobi": "Hitung uang",
                 "sosmed": "@zhjung_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1284,7 +1284,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Bukittinggi",
                 "alamat": "Airan",
-                "hobbi": "Badminton",
+                "hobi": "Badminton",
                 "sosmed": "@ahmad.ris45",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1295,7 +1295,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Airan",
-                "hobbi": "Nyuruh-nyuruh",
+                "hobi": "Nyuruh-nyuruh",
                 "sosmed": "@dananghk_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1306,7 +1306,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Bogor",
                 "alamat": "Lapas",
-                "hobbi": "Apa aja",
+                "hobi": "Apa aja",
                 "sosmed": "@farrel_julio",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1317,7 +1317,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Simalungun, Sumut",
                 "alamat": "Pemda",
-                "hobbi": "Suka nulis",
+                "hobi": "Suka nulis",
                 "sosmed": "@tesakanias",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1328,7 +1328,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Kedaton",
                 "alamat": "Kedaton",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@nabilahanftr",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1339,7 +1339,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Binjai",
                 "alamat": "Korpri",
-                "hobbi": "Nonton windah",
+                "hobi": "Nonton windah",
                 "sosmed": "@alviagnting",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1350,7 +1350,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Balam",
                 "alamat": "Jalan Nangka 1",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1361,7 +1361,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Bekasi",
                 "alamat": "Korpri",
-                "hobbi": "Badminton",
+                "hobi": "Badminton",
                 "sosmed": "@meylanielia",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1400,7 +1400,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "22",
                 "asal": "Makassar",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton",
+                "hobi": "Nonton",
                 "sosmed": "@",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1411,7 +1411,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "19",
                 "asal": "Bandar Lampung",
                 "alamat": "Bandar Lampung",
-                "hobbi": "Editing",
+                "hobi": "Editing",
                 "sosmed": "@elokfiola",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1422,7 +1422,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat": "Tanjung Senang",
-                "hobbi": "Nugas",
+                "hobi": "Nugas",
                 "sosmed": "@arsyiah._",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1433,7 +1433,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "21",
                 "asal": "Pesawaran",
                 "alamat": "Pulau Damar",
-                "hobbi": "Lagi Nyari",
+                "hobi": "Lagi Nyari",
                 "sosmed": "@dino_kiper",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1444,7 +1444,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "21",
                 "asal": "Depok",
                 "alamat": "Nangka 4",
-                "hobbi": "Ngoding",
+                "hobi": "Ngoding",
                 "sosmed": "@arsal.utama",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1455,7 +1455,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk",
-                "hobbi": "Ngegym",
+                "hobi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1466,7 +1466,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Natar, Lampung Selatan",
                 "alamat": "Natar, Lampung Selatan",
-                "hobbi": "Menyibukkan Diri",
+                "hobi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1477,7 +1477,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "19",
                 "asal": "Sumatra Utara",
                 "alamat": "Airan",
-                "hobbi": "Menulis, Membaca, fangirling",
+                "hobi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1488,7 +1488,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Jatimulyo",
-                "hobbi": "Nonton Film",
+                "hobi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1499,7 +1499,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Lampung",
                 "alamat": "Sukarame",
-                "hobbi": "Baca Coding",
+                "hobi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1510,7 +1510,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Lampung Barat",
                 "alamat": "Korpri",
-                "hobbi": "Bernyanyi dan Menonton",
+                "hobi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1521,7 +1521,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Jambi",
                 "alamat": "Jalan Durian 5 Pemda",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "@dwiratnn_",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1532,7 +1532,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Serang",
                 "alamat": "Lapangan Golf UIN",
-                "hobbi": "Baca Komik",
+                "hobi": "Baca Komik",
                 "sosmed": "@jimnn.as",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1543,7 +1543,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Jalan Durian 1 Pemda",
-                "hobbi": "Nonton Drakor",
+                "hobi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1554,7 +1554,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Palembang",
                 "alamat": "Jalan Nangka 2",
-                "hobbi": "Baca Novel yang Bikin Nangis",
+                "hobi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1565,7 +1565,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "19",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa, Labuhan Dalam",
-                "hobbi": "Ngoding, Gaming",
+                "hobi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1576,7 +1576,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Perumahan Griya Sukarame",
-                "hobbi": "Main HP",
+                "hobi": "Main HP",
                 "sosmed": "_akmal.faiz",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1587,7 +1587,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bogor",
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani)",
-                "hobbi": "Bengong/Membaca Buku",
+                "hobi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
@@ -1598,7 +1598,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Lampung Selatan",
                 "alamat": "Belwis",
-                "hobbi": "Mengerjakan Tugas",
+                "hobi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya kak!"
