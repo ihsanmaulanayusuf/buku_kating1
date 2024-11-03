@@ -338,7 +338,6 @@ elif menu == "Baleg":
                 "sosmed": "@myrriinn",
                 "kesan": "Abang ini baik dan sedikit pendiam",  
                 "pesan":""# 13
-                "pesan":"Terus berbagi ilmu ya, Bang! Semoga ilmunya makin bermanfaat dan sukses"# 13
             }
         ]
         display_images_with_data(gambar_urls, data_list)
