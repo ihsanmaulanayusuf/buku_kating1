@@ -649,19 +649,19 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1PujWWhHQxNlfXAlAzu8l-QwK6bkukNil", #1
             "https://drive.google.com/uc?export=view&id=1QQQze-9DGOjRIjQsONvyJvvwhWnMRLba", #2
             "https://drive.google.com/uc?export=view&id=1QHdUDlTMeK8-Wr9cg3xBjBJOKIiQJwwY", #3
-            "https://drive.google.com/uc?export=view&id=1NPq51hXzRKmLWpsYO1DfEEKGhj-v3N3R", #4
-            "https://drive.google.com/uc?export=view&id=1R4SvKONJG1OvPpJdmaRReKzQ_jeCSyfz", #5
-            "https://drive.google.com/uc?export=view&id=1Qe4df8BJ-aOdoii_obTA-7PpVbj4fEVz", #6
-            "https://drive.google.com/uc?export=view&id=1QPFZDbRUgAhDYwswxQzExIh-kt_UxCMY", #7
-            "https://drive.google.com/uc?export=view&id=1PzNcNmmmQUP-D8DCHh6-fKFO2-VkF2BY", #8
-            "https://drive.google.com/uc?export=view&id=1QpecQh3-D0Ubo1AuW_M6NtAnqXVUafts", #9
-            "https://drive.google.com/uc?export=view&id=1R7Mv5_m772FuH21yE5CPk2795upOZp2u", #10
-            "https://drive.google.com/uc?export=view&id=1QqULVWLFkZ61Es8tiJ-DYCRn53O93OAF", #11
-            "https://drive.google.com/uc?export=view&id=1QCF8D4k6ZZjeUx5hYeMsnHlTfUJXcFm-", #12
-            "https://drive.google.com/uc?export=view&id=1QZOAMqBNSr8VFUHGVLGVwmfpMeKFT3Yc", #13
-            "https://drive.google.com/uc?export=view&id=1Qq80yNHFWnZhhUOcnoLIV4YKEXAvBFig", #14
-            "https://drive.google.com/uc?export=view&id=1R0o0ZLgH-hP-WU4-GuiBsmAfJNDHp5vO", #15
-            "https://drive.google.com/uc?export=view&id=1QSAPi9u6oEIITgUx4NM398psN5RgKheN", #16
+            "https://drive.google.com/uc?export=view&id=1uMs1D52GtdCRXagLUpj2lB_CTDzcO9rC", #4
+            "https://drive.google.com/uc?export=view&id=1RWCaoJg0Uz37sQx6ZdPE7NWkbbsZS6dq", #5
+            "https://drive.google.com/uc?export=view&id=1CmoDj3S_8VPtxaCGFNtvV8f8v58K2KWO", #6
+            "https://drive.google.com/uc?export=view&id=1o5RNFiP-EJGFzaqdjEFSv0G6yj0kh6dv", #7
+            "https://drive.google.com/uc?export=view&id=1xz7wTjLoh2cJtEkH41ZFvsqFC3HmMqQT", #8
+            "https://drive.google.com/uc?export=view&id=1uHmeTA_wFSNxUlC0qUPBePJLSR-D4gmM", #9
+            "https://drive.google.com/uc?export=view&id=1MMkpjdOolNJCRYsv1b-wHkAYZR3RIjcc", #10
+            "https://drive.google.com/uc?export=view&id=1MtXDUBOhC6h6fXrzG78W7uOmzbcPL7o7", #11
+            "https://drive.google.com/uc?export=view&id=1rF0WO08ZjmM-89zTDxcW335vcTW9NwBg", #12
+            "https://drive.google.com/uc?export=view&id=1eI02sBTFNejfKB29vY67oj8_3sEKBaUC", #13
+            "https://drive.google.com/uc?export=view&id=1Jxie1IoliIwtAtDa6Zgw9ehsL-VZ-1gX", #14
+            "https://drive.google.com/uc?export=view&id=1QtMI5-qUOzE2AGdMozbOjvYFgfVUFkNZ", #15
+            "https://drive.google.com/uc?export=view&id=1WAWQxHM1SH7gotdGFXm0-A64ryngkb95", #16
             
         ]
         data_list = [
@@ -686,7 +686,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Memasak",
                 "sosmed": "@anovavona",
                 "kesan": "Kak Annisa kerenn",
-                "pesan": "Semangat menjalani hari-hari kak!",#2
+                "pesan": "Semangat menjalani hari-hari yang indah kak!",#2
                
             },
             {
@@ -710,7 +710,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Jadi admin ig mikfes.hmsd",
                 "sosmed": "@mregiiii_",
                 "kesan": "Bang Regi baik dan murah senyum",
-                "pesan": "Semangat kuliahnya bang regii!",#4
+                "pesan": "Semangat jadi admin mikfes bang!",#4
                 
             },
             {
@@ -1304,9 +1304,9 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1dTtk5R7zwzEs6jqP0GIPN115iqaA1FLp", #1
             "https://drive.google.com/uc?export=view&id=1MBHgmXLgJvUPUvFyufQ34pA2XYn33QpA", #2
             "https://drive.google.com/uc?export=view&id=1MRqKCWonONYJrTfn3EqK1-IUOK9EJoNR", #3
-            "https://drive.google.com/uc?export=view&id=1MIRnZNJDmdNNyugHGK52wLR-UiBcHj5F", #4
-            "https://drive.google.com/uc?export=view&id=1MD0w0B0dO2vJnzATXVuaXdXo-XdF6pEI", #5
-            "https://drive.google.com/uc?export=view&id=1MD-cYR_OWGUGTTv2QRvDSr6_AT_KKGAX", #6
+            "https://drive.google.com/uc?export=view&id=1MD0w0B0dO2vJnzATXVuaXdXo-XdF6pEI", #4
+            "https://drive.google.com/uc?export=view&id=1MD-cYR_OWGUGTTv2QRvDSr6_AT_KKGAX", #5
+            "https://drive.google.com/uc?export=view&id=1MIRnZNJDmdNNyugHGK52wLR-UiBcHj5F", #6
             "https://drive.google.com/uc?export=view&id=1M4krNepyCSUMWYvmhShF-Db1Twl5e7oF", #7
             "https://drive.google.com/uc?export=view&id=1ZbQvA6kHtDH24G0PBOuQRpqaTNrcCOFo", #8
             "https://drive.google.com/uc?export=view&id=1MOuxAs4ANb7XHLhak-lHqIBNF6vVF3pY", #9
