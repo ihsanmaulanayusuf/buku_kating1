@@ -545,7 +545,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Dengerin the adams",
                 "sosmed": "@presilliamg",
                 "kesan": "kak lili cantik banget, cantik yang kalem gitu",  
-                "pesan":""Keep being your lovely self kak lili!"!"# 15
+                "pesan":"Keep being your lovely self kak lili!"# 15
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
