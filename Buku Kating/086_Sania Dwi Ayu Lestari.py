@@ -875,9 +875,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jatimulyo",
                 "hobbi": "BAB setiap jam 7 pagi",
                 "sosmed": "@yogyst",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Departemen"
+                "kesan": "public speakingnya keren",
+                "pesan": "semoga diperlancar menuju jalan sukses"
             },
             {
                 "nama": "Ramadhita Atifa Hendri",
@@ -887,21 +886,19 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Sekretaris Departemen"
+                "kesan": "kakanya lucu, bisa request gaya lucu lucu",
+                "pesan": "tetap ceria kak",
             },
             {
                 "nama": "Nazwa Nabila",
                 "nim": "121450122",
                 "umur": "21",
                 "asal": "Jakarta Selatan",
-                "alamat": "Kochpri",
+                "alamat": "Way Kandis",
                 "hobbi": "Main Golf",
                 "sosmed": "@nazwanbilla",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Hubungan Luar"
+                "kesan": "kakanya seru public speakingnya bagus",
+                "pesan": "semangat dan semoga terus berbagi ilmu ya kak"
             },
             {
                 "nama": "Bastian Heskia Silaban",
@@ -911,9 +908,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Menggambar",
                 "sosmed": "@bastiansilaban_",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "abangnya sedikit pendiem tapi baik",
+                "pesan": "jangan bosen berbagi ilmu ya bang"
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -923,9 +919,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Berkebun",
                 "sosmed": "@deaa.rsn",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "baikk sekali",
+                "pesan": "semoga dipermudah segala urusan nya ya kak"
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",
@@ -935,9 +930,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "kakaknya asik lucuu",
+                "pesan": "stay humble kak"
             },
             {
                 "nama": "Natasya Ega Lina",
@@ -947,9 +941,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Surfing",
                 "sosmed": "@nateee__15",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "lucu sekali ekspresif",
+                "pesan": "semangat menjalani hari hari di itera kak"
             },
             {
                 "nama": "Novelia Adinda",
@@ -959,9 +952,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "kalem",
+                "pesan": "semoga studinya diperlancar dan sesuai harapan"
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -971,9 +963,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "kakanya baik sama lucu",
+                "pesan": "semoga kuliahnya lancar"
             },
             {
                 "nama": "Tobias David Manogari",
@@ -983,8 +974,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "bang tobias baik, asik seruu, enak buat diajak diskusi",
+                "pesan": "stay humble bang tob!",
                 "jabatan": "Staff Divisi Hubungan Luar"
             },
             {
@@ -995,9 +986,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Hubungan Luar"
+                "kesan": "kakanya baik tapi sedikit pendiam",
+                "pesan": "semoga ilmunya makin luas ya kak!"
             },
             {
                 "nama": "Rizky Adrian Bennovry",
@@ -1007,9 +997,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Kepala Divisi Pengabdian Masyarakat"
+                "kesan": "public speakingnya oke, seru buat sharing sharing",
+                "pesan": "keep it up, sukses selalu ya bang"
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
@@ -1019,9 +1008,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "keliatannya seru si, humble",
+                "pesan": "stay humble and keep inspiring"
             },
             {
                 "nama": "Asa Do’a Uyi",
@@ -1031,9 +1019,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "kakanya baik banget",
+                "pesan": "terus jadi orang baik ya ka, semoga kuliahnya diperlancar"
             },
             {
                 "nama": "Chalifia Wananda",
@@ -1043,9 +1030,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "mukanya ga bosenin",
+                "pesan": "semangat terus jadi contoh yang baik"
             },
             {
                 "nama": "Irvan Alfaritzi",
@@ -1055,8 +1041,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "seru buat diajak sharing pengalamannya banyak",
+                "pesan": "semoga lancar segala urusan nya ya bang",
                 "jabatan": "Staff Divisi Pengabdian Masyarakat"
             },
             {
@@ -1067,9 +1053,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "kak izza asik banget seru huble parah",
+                "pesan": "Stay humble dan keep inspiring ya, Kak!"
             },
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
@@ -1079,9 +1064,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "kak alyaa baik sekali, cantik banget lagi lucuuuuu",
+                "pesan": "stay humble ya kak, and keep spreading those good vibes"
             },
             {
                 "nama": "Raid Muhammad Naufal",
@@ -1091,9 +1075,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayths_",
-                "kesan": "",
-                "pesan": "",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "kesan": "baik tapi sedikit pendiem",
+                "pesan": "semangat ya menjalani kegiatan pengmasnya!",
             },
             {
                 "nama": "Tria Yunanni",
@@ -1103,8 +1086,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Dadi",
                 "hobbi": "Olahraga",
                 "sosmed": "@triayunanni",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "cantik, kakanya receh banget",
+                "pesan": "tetep receh ya kak ketawanya nular soalnya",
                 "jabatan": "Staff Divisi Pengabdian Masyarakat"
             }
         ]
