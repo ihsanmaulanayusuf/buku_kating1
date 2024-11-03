@@ -649,8 +649,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1PujWWhHQxNlfXAlAzu8l-QwK6bkukNil", #1
             "https://drive.google.com/uc?export=view&id=1QQQze-9DGOjRIjQsONvyJvvwhWnMRLba", #2
             "https://drive.google.com/uc?export=view&id=1QHdUDlTMeK8-Wr9cg3xBjBJOKIiQJwwY", #3
-            "https://drive.google.com/uc?export=view&id=1NPq51hXzRKmLWpsYO1DfEEKGhj-v3N3R", #4
-            "https://drive.google.com/uc?export=view&id=1R4SvKONJG1OvPpJdmaRReKzQ_jeCSyfz", #5
+            "https://drive.google.com/uc?export=view&id=1uMs1D52GtdCRXagLUpj2lB_CTDzcO9rC", #4
+            "https://drive.google.com/uc?export=view&id=1RWCaoJg0Uz37sQx6ZdPE7NWkbbsZS6dq", #5
             "https://drive.google.com/uc?export=view&id=1Qe4df8BJ-aOdoii_obTA-7PpVbj4fEVz", #6
             "https://drive.google.com/uc?export=view&id=1QPFZDbRUgAhDYwswxQzExIh-kt_UxCMY", #7
             "https://drive.google.com/uc?export=view&id=1PzNcNmmmQUP-D8DCHh6-fKFO2-VkF2BY", #8
@@ -896,7 +896,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "BAB setiap jam 7 pagi",
                 "sosmed": "@yogyst",
                 "kesan": "Abangnya baik",
-                "pesan": "Sukses ya bang!",#1
+                "pesan": "Semangat jadi kadep eksternal ya bang!",#1
             
             },
             {
@@ -908,7 +908,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan": "Kakaknya keren tapi lucu jugaa",
-                "pesan": "Semangat terus kak",#2
+                "pesan": "Semangat terus jadi bagian eksternal ini kak",#2
                 
             },
             {
@@ -919,8 +919,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Kochpri",
                 "hobbi": "Main Golf",
                 "sosmed": "@nazwanbilla",
-                "kesan": "Kakaknya keren",
-                "pesan": "Tetap keren dan terus semangat ya kak!",#3
+                "kesan": "Kakaknya keliatan galak tapi aslinya baik kok",
+                "pesan": "Tetap semangat ya kak!",#3
                
             },
             {
@@ -931,8 +931,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Menggambar",
                 "sosmed": "@bastiansilaban_",
-                "kesan": "Abangnya baik baik dan terlihat kalem",
-                "pesan": "Tetap semangat bang!",#4
+                "kesan": "Abangnya baik dan terlihat kalem",
+                "pesan": "GBU bang!",#4
                 
             },
             {
