@@ -446,7 +446,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Muter - Muter",
                 "sosmed": "@afifahhnsrn",
                 "kesan": "Kakak  hadir dengan aura positifnya. Bikin kami ngerasa nyaman belajar bareng kakak",
-                "pesan": "semangat ya, Kak!! Semoga apa yang kakak cita-citakan segera tercapai."
+                "pesan": "semangat ya, Kak!! Semoga apa yang kakak cita-citakan segera tercapai"
             },
             {
                 "nama": "M. Farhan Athaulloh",
