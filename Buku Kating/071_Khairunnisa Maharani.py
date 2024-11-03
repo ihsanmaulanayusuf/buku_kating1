@@ -120,7 +120,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
-                "nim": "121450077",
+                "nim": "121450137",
                 "umur": "21",
                 "asal":"Bukit Kemuning",
                 "alamat": "Pawen 2 Sukarame",
@@ -298,7 +298,7 @@ elif menu == "Baleg":
                 "pesan":"Teruslah jadi inspirasi untuk orang-orang di sekitar kakak! Sukses selalu!"# 1
             },{
                 "nama": "Muhammad Fahrul Aditya",
-                "nim": "122450000",
+                "nim": "121450156",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
@@ -307,7 +307,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak ini selalu bisa diandalkan, baik dalam situasi santai maupun serius.",  
                 "pesan":"Semoga kakak semakin sukses dan terus semangat mengejar impian!"# 1
             },{
-                "nama": "Berliana enda putri",
+                "nama": "Berliana Enda Putri",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -340,7 +340,7 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Annisa Luthfi Alifia",
+                "nama": "Anissa Luthfi Alifia",
                 "nim": "121450093",
                 "umur": "22",
                 "asal": "Lampung Tengah",
@@ -479,7 +479,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
-                "nim": "122450122",
+                "nim": "122450142",
                 "umur": "20",
                 "asal": "Pekan Baru",
                 "alamat": "Belwis",
@@ -522,7 +522,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Jangan capek jadi contoh yang baik, Kak!"
             },
             {
-                "nama": "Eksanty Febriana Sukma Islamiyati",
+                "nama": "Eksanty Febriana Sukma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal": "Pringsewu",
@@ -544,7 +544,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Jaga kesehatan ya, Kak, jangan terlalu sibuk."
             },
             {
-                "nama": "Oktavia Nurwenda Puspita Sari",
+                "nama": "Oktavia Nurwinda Puspitasari",
                 "nim": "122450041",
                 "umur": "20",
                 "asal": "Lampung Timur",
@@ -761,7 +761,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Syadza Puspadari Azhar",
-                "nim": "122450015",
+                "nim": "122450072",
                 "umur": "20",
                 "asal": "Palembang",
                 "alamat": "Belwis",
@@ -866,7 +866,7 @@ elif menu == "Departemen Eksternal":
         ]
         data_list = [
             {
-                "nama": "Yogy Sae Tama",
+                "nama": "Yogy Sa'e Tama",
                 "nim": "121450041",
                 "umur": "21",
                 "asal": "Tangerang",
@@ -888,7 +888,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Jangan lupa bawa cerita seru dari jalan-jalan ya, Kak!"
             },
             {
-                "nama": "Nazwa Nabila",
+                "nama": "Nazwa Nabilla",
                 "nim": "121450122",
                 "umur": "21",
                 "asal": "Jakarta Selatan",
@@ -932,7 +932,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Terus berbagi keceriaan ya, Kak!"
             },
             {
-                "nama": "Natasya Ega Lina",
+                "nama": "Natasya Ega Lina Marbun",
                 "nim": "122450024",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
@@ -987,7 +987,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Semoga selalu berbahagia ya, Kak!"
             },
             {
-                "nama": "Rizky Adrian Bennovry",
+                "nama": "Rizki Adrian Bennovry",
                 "nim": "121450073",
                 "umur": "21",
                 "asal": "Bekasi",
@@ -1108,8 +1108,8 @@ elif menu == "Departemen Internal":
                 "pesan": "Terus berkarya dan jangan pernah kehilangan semangat ya, Kak!"
             },
             {
-                "nama": "Chatrine Sinaga",
-                "nim": "121450071",
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Airan",
@@ -1119,7 +1119,7 @@ elif menu == "Departemen Internal":
                 "pesan": "Semoga terus menemukan cerita yang inspiratif ya, Kak!"
             },
             {
-                "nama": "M. Akbar Restika",
+                "nama": "M. Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
@@ -1130,7 +1130,7 @@ elif menu == "Departemen Internal":
                 "pesan": "Tetap eksplorasi dan bagikan pengetahuanmu ya, Kak!"
             },
             {
-                "nama": "Renita Siahaan",
+                "nama": "Renta Siahaan",
                 "nim": "122450070",
                 "umur": "21",
                 "asal": "Sumatera Utara",
@@ -1163,7 +1163,7 @@ elif menu == "Departemen Internal":
                 "pesan": "Semoga karya-karyamu selalu menginspirasi banyak orang, Kak!"
             },
             {
-                "nama": "Yosia Retare Banurea",
+                "nama": "Yosia Letare Banurea",
                 "nim": "121450149",
                 "umur": "20",
                 "asal": "Sumatera Utara",
@@ -1185,8 +1185,8 @@ elif menu == "Departemen Internal":
                 "pesan": "Terus semangat berolahraga dan jaga kesehatan ya, Kak!"
             },
             {
-                "nama": "Josua Panggabean",
-                "nim": "122450061",
+                "nama": "Josua Alfa Viando Panggabean",
+                "nim": "121450061",
                 "umur": "21",
                 "asal": "Sumatera Utara",
                 "alamat": "Gerbang Barat",
@@ -1196,7 +1196,7 @@ elif menu == "Departemen Internal":
                 "pesan": "Semoga terus membawa keceriaan bagi orang-orang di sekitar ya, Kak!"
             },
             {
-                "nama": "Azizah Kusuma Putri",
+                "nama": "Azizah Kusumah Putri",
                 "nim": "122450068",
                 "umur": "21",
                 "asal": "Lampung Selatan",
@@ -1250,7 +1250,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "nama": "Andrian Agustinus Lumbangaol",
+                "nama": "Andrian Agustinus Lumban gaol",
                 "nim": "121450090",
                 "umur": "21",
                 "asal": "Panjibako",
@@ -1261,7 +1261,7 @@ elif menu == "Departemen SSD":
                 "pesan": "Tetap semangat dalam mencari peluang ya, Kak!"
             },
             {
-                "nama": "Adisty Syawaida Arianto",
+                "nama": "Adisty Syawalda Ariyanto",
                 "nim": "121450136",
                 "umur": "23",
                 "asal": "Metro",
@@ -1294,7 +1294,7 @@ elif menu == "Departemen SSD":
                 "pesan": "Semoga bisa ikut touring bareng, Kak!"
             },
             {
-                "nama": "Farel Julio Akbar",
+                "nama": "Farrel Julio Akbar",
                 "nim": "122450110",
                 "umur": "20",
                 "asal": "Bogor",
@@ -1478,7 +1478,7 @@ elif menu == "Departemen MEDKRAF":
                 "pesan": "Tetap semangat ya, Kak Najla! Keep inspiring with your creativity."
             },
             {
-                "nama": "Patricia Leondra Diajeng Putri",
+                "nama": "Patricia Leondrea Diajeng Putri",
                 "nim": "122450050",
                 "umur": "20",
                 "asal": "Bandar Lampung",
