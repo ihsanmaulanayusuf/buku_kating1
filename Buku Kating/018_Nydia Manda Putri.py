@@ -335,7 +335,7 @@ elif menu == "Baleg":
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
                 "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
 
             {
@@ -843,7 +843,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Tidur dan Berkembang",
                 "sosmed": "@randaandriana_",
                 "kesan": "Abang nya baik banget dan juga murah senyum",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1026,7 +1026,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
                 "kesan": "Kakak nya baik banget dan juga murah senyum",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Chalifia Wananda",
