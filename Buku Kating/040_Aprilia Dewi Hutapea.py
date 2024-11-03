@@ -180,19 +180,19 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1j1dbuhKO1DDddvS0LrVQFGr5kEXA1XLz", 
-            "https://drive.google.com/uc?export=view&id=1ix9lS6OVoYy62uUm-6HaObrlhSVPf00i",
-            "https://drive.google.com/uc?export=view&id=1j387p89NCpLsQCUUWFVYz04VymT10g_v",
-            "https://drive.google.com/uc?export=view&id=1jNfGQTfxSZ-uqbiypxTbCI6SPIcvvhGr",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1jIYpTFj9zFjtpz3P_9YTMzPxSPkReb_o",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1j387p89NCpLsQCUUWFVYz04VymT10g_v",
-            "https://drive.google.com/uc?export=view&id=1jACVmlpSH9gdP0vwNc6GdN_URxlRADSQ",
-            "https://drive.google.com/uc?export=view&id=1j4n8hfFMMMdq3ADU2VtW6BhpKN2ewBuZ",
-            "https://drive.google.com/uc?export=view&id=1iyUaPMN9Z4dXVWQod3tLT3upASlIwMEJ",
+            "https://drive.google.com/uc?export=view&id=1j1dbuhKO1DDddvS0LrVQFGr5kEXA1XLz", #7
+            "https://drive.google.com/uc?export=view&id=1ix9lS6OVoYy62uUm-6HaObrlhSVPf00i", #8
+            "https://drive.google.com/uc?export=view&id=1j387p89NCpLsQCUUWFVYz04VymT10g_v", #9
+            "https://drive.google.com/uc?export=view&id=1jNfGQTfxSZ-uqbiypxTbCI6SPIcvvhGr", #10
+            "https://drive.google.com/uc?export=view&id=1Lq7-KRSpQ2kXzcYoVlgot814uWt6-gXp",#11
+            "https://drive.google.com/uc?export=view&id=1jIYpTFj9zFjtpz3P_9YTMzPxSPkReb_o",#12
+            "https://drive.google.com/uc?export=view&id=1j387p89NCpLsQCUUWFVYz04VymT10g_v",#13
+            "https://drive.google.com/uc?export=view&id=1M4ULGBnCrzTQYk8Ncq2YGI344TYF-ZMa",#14
+            "https://drive.google.com/uc?export=view&id=1M5U5jnGVXPWyigOkXdKfHM9uXONA92KI", #15
+            "https://drive.google.com/uc?export=view&id=1j2QCFl7UOO6fvtwL_JsqS6eyTiwDH-Ol", #16
+            "https://drive.google.com/uc?export=view&id=1jACVmlpSH9gdP0vwNc6GdN_URxlRADSQ", #17
+            "https://drive.google.com/uc?export=view&id=1j4n8hfFMMMdq3ADU2VtW6BhpKN2ewBuZ", #18
+            "https://drive.google.com/uc?export=view&id=1iyUaPMN9Z4dXVWQod3tLT3upASlIwMEJ", #19
         ]
         data_list = [
            {
@@ -204,7 +204,7 @@ elif menu == "Baleg":
                 "hobi": "Bertanya sama GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak selalu ramah dan mudah diajak ngobrol, suasananya jadi nyaman.",  
-                "pesan":"Semoga kakak terus sukses dalam kuliahnya dan selalu semangat menggapai impian!"
+                "pesan":"Semoga kakak terus sukses dalam kuliahnya dan selalu semangat menggapai impian!" #7
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -215,7 +215,7 @@ elif menu == "Baleg":
                 "hobi": " Membaca",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik diajak tukar pikiran, selalu ada solusi buat setiap masalah.",  
-                "pesan":"Teruslah semangat belajar, kak! Masa depan cerah menanti!"# 1
+                "pesan":"Teruslah semangat belajar, kak! Masa depan cerah menanti!"# 8
             },
             {
                 "nama": "Wulan Sabina",
@@ -226,7 +226,7 @@ elif menu == "Baleg":
                 "hobi": "Menonton Film",
                 "sosmed": "@wlsbn0",
                 "kesan": "Kakak punya sikap positif yang bikin suasana jadi lebih santai tapi tetap produktif.",  
-                "pesan":"Tetap semangat ya kakak! Jangan lupa istirahat di tengah kesibukan kuliah!"# 1
+                "pesan":"Tetap semangat ya kakak! Jangan lupa istirahat di tengah kesibukan kuliah!"#9
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -237,7 +237,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton Dracin",
                 "sosmed": "@anisadini10",
                 "kesan": "Sangat suportif dan selalu memberi dorongan, kakak ini bikin kita jadi lebih termotivasi.",  
-                "pesan":"Sukses selalu untuk kuliahnya! Tetap semangat dan jangan pernah berhenti belajar."# 1
+                "pesan":"Sukses selalu untuk kuliahnya! Tetap semangat dan jangan pernah berhenti belajar."#10
             },{
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
@@ -247,7 +247,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton Drakor",
                 "sosmed": "@ansftynn_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"# 11
             },{
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
@@ -257,7 +257,7 @@ elif menu == "Baleg":
                 "hobi": "Sholat Dhuha",
                 "sosmed": "@fer_yulius",
                 "kesan": "Kakak selalu memberi energi positif",  
-                "pesan":"Semoga kakak selalu diberi kelancaran dalam segala urusan. Tetap semangat!"# 1
+                "pesan":"Semoga kakak selalu diberi kelancaran dalam segala urusan. Tetap semangat!"# 12
             },{
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
@@ -267,7 +267,7 @@ elif menu == "Baleg":
                 "hobi": "Baca Al-qur'an",
                 "sosmed": "@fleurnsh",
                 "kesan": "Kakak ini selalu ramah dan gampang diajak ngobrol, suasana jadi lebih hidup",  
-                "pesan":"Semangat terus, Kak! Jangan menyerah dan teruslah berjuang sampai garis akhir!"# 1
+                "pesan":"Semangat terus, Kak! Jangan menyerah dan teruslah berjuang sampai garis akhir!"# 13
             },{
                 "nama": "Claudhea Angeliani",
                 "nim": "121450124",
@@ -277,7 +277,7 @@ elif menu == "Baleg":
                 "hobi": "Baca Jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "Kakak punya sikap yang tenang, wawasannya luas, dan keren banget",  
-                "pesan":"Semoga sukses di setiap langkah ke depannya, Kak. Teruslah bersinar!"# 1
+                "pesan":"Semoga sukses di setiap langkah ke depannya, Kak. Teruslah bersinar!"# 14
             },{
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
@@ -287,7 +287,7 @@ elif menu == "Baleg":
                 "hobi": "Main Kucing",
                 "sosmed": "@myrrinn",
                 "kesan": "Kakaknya punya aura yang positif dan pendiam.",  
-                "pesan":"Jaga kesehatan dan semoga selalu diberi kemudahan dalam setiap perjalanan hidup, Kak!"# 1
+                "pesan":"Jaga kesehatan dan semoga selalu diberi kemudahan dalam setiap perjalanan hidup, Kak!"# 15
             },{
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
@@ -297,7 +297,7 @@ elif menu == "Baleg":
                 "hobi": "Nyari Sinyal di Gedung F",
                 "sosmed": "@_.dheamelia",
                 "kesan": "Kkakaknya sangat ramah dan suka mengajak brainstorming",  
-                "pesan":"Teruslah jadi inspirasi untuk orang-orang di sekitar kakak! Sukses selalu!"# 1
+                "pesan":"Teruslah jadi inspirasi untuk orang-orang di sekitar kakak! Sukses selalu!"# 16
             },{
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "122450000",
@@ -307,7 +307,7 @@ elif menu == "Baleg":
                 "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak orangnya baik dan sangat peka terhadap rekan kerjanya.",  
-                "pesan":"Semoga kakak semakin sukses dan terus semangat mengejar impian!"# 1
+                "pesan":"Semoga kakak semakin sukses dan terus semangat mengejar impian!"# 17
             },{
                 "nama": "Berliana enda putri",
                 "nim": "122450000",
@@ -317,7 +317,7 @@ elif menu == "Baleg":
                 "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini sosok yang humble dan asik diajak bicara tentang apa saja",  
-                "pesan":"Semoga kakak selalu diberkahi kemudahan dalam segala urusan. Tetap semangat menjalani hari-hari ke depan!"# 1
+                "pesan":"Semoga kakak selalu diberkahi kemudahan dalam segala urusan. Tetap semangat menjalani hari-hari ke depan!"# 18
             },{
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
@@ -327,7 +327,7 @@ elif menu == "Baleg":
                 "hobi": "Suka Bengong",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Kakak selalu membawa aura positif, jadi nyaman kalau ngobrol lama-lama.",  
-                "pesan":"Semoga kakak selalu diberi kebahagiaan dan sukses di setiap langkahnya!"# 1
+                "pesan":"Semoga kakak selalu diberi kebahagiaan dan sukses di setiap langkahnya!"# 19
             },
         ]
         display_images_with_data(gambar_urls, data_list)
