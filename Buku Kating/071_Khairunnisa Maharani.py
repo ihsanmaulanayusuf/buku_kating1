@@ -609,17 +609,14 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1BSvpP6GKzs8Ub4FInJcHIAlRgH-t7w0M", #1
             "https://drive.google.com/uc?export=view&id=1BK8yv6CTmhuuyV9rE4Eesah9lU7TFmCP", #2
             "https://drive.google.com/uc?export=view&id=1BWqFCAxg3fRto87RALxg0B09CFo7goyb", #3
-            "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #4
             "https://drive.google.com/uc?export=view&id=1CWQeZb6_jP-A81vjCUusiIS6XbgUy3wq", #5
             "https://drive.google.com/uc?export=view&id=1CGx32vU5-bXUKCdhfLpzQhHhiK27hyA4", #6
-            "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #7
             "https://drive.google.com/uc?export=view&id=1BKl7N_wmqDjCReqcBkI2kVqeB5wx8HSh", #8
             "https://drive.google.com/uc?export=view&id=1BK3dlTEQUfxJuE5gT8a4ZeBJQ6fd5bPD", #9
             "https://drive.google.com/uc?export=view&id=1BQ3OT-otHNhEgQusrh5SAbH0YMBI76Je", #10
             "https://drive.google.com/uc?export=view&id=1BYPhRDwxic7FkY4cbHAubFrZDamkCqsX", #11
             "https://drive.google.com/uc?export=view&id=1CaououcxDxAckmhtKd414qJPMQ2S4lhN", #12
             "https://drive.google.com/uc?export=view&id=1BUIhn53s6JhhmFL94T0BjL6t-r0EAbJF", #13
-            "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #14
             "https://drive.google.com/uc?export=view&id=1BS6GCx0E0OTKAertM8uxWgc0xlfYCIrW", #15
             "https://drive.google.com/uc?export=view&id=1DeqL45cbuFToqzP3S3VyVIe67103s1l4", #16
             "https://drive.google.com/uc?export=view&id=1BLzKF6VLfFh3QC2OQSS-ZVMnrkZYW6TJ", #17
@@ -661,17 +658,6 @@ elif menu == "Departemen MIKFES":
                 "pesan": "Semoga kakak makin keren di setiap hal yang dijalani!"
             },
             {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": "122450082",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Teluk Betung",
-                "hobbi": "Main Game",
-                "sosmed": "@fadhilfwee",
-                "kesan": "Kayaknya kakak ini rapi banget, selalu tampil oke.",
-                "pesan": "Selalu semangat dan terus berkarya ya, Kak!"
-            },
-            {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
                 "nim": "122450031",
                 "umur": "19",
@@ -692,17 +678,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakak kayaknya bijak banget, cocok jadi role model.",
                 "pesan": "Tetap humble dan jadi diri sendiri ya, Kak!"
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": "Kakak ini kayaknya selalu datang tepat waktu, patut dicontoh!",
-                "pesan": "Terus jadi panutan buat yang lain juga ya, Kak!"
             },
             {
                 "nama": "Anwar Muslim",
@@ -769,17 +744,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "Kakak ini kelihatannya pintar banget, pasti banyak baca.",
                 "pesan": "Semoga makin banyak inspirasi dari setiap buku, Kak!"
-            },
-            {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "121450128",
-                "umur": "23",
-                "asal": "Bandar Lampung",
-                "alamat": "Perumnas Way Kandis",
-                "hobbi": "Membaca",
-                "sosmed": "@rahmn_abdr",
-                "kesan": "Kakak ini terlihat bijak, kayaknya banyak pengalaman.",
-                "pesan": "Semoga selalu sukses dalam setiap langkah, Kak!"
             },
             {
                 "nama": "Aditya Rahman",
@@ -1244,7 +1208,6 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=19jlAHm3_j403ZjB_zdq_hCBMu7Oo_teC", #5
             "https://drive.google.com/uc?export=view&id=1A4THYDA8AQArtMVS0UHwyERJ3NMXYc2q", #6
             "https://drive.google.com/uc?export=view&id=19_S8zBjW-mWiv6cMkxe8zBnqS9zoaSqn", #7
-            "https://drive.google.com/uc?export=view&id=17QUdwvccQh0cz3_7ryKjU4t3NFaPo5v1", #8
             "https://drive.google.com/uc?export=view&id=19c8SRRN1Yf9n-KKHdmPaIhdslFRJwdmr", #9
             "https://drive.google.com/uc?export=view&id=19j0JccEW9M4rLfwCxW08F6Q0ZTvABcup", #10
         ]
@@ -1325,17 +1288,6 @@ elif menu == "Departemen SSD":
                 "sosmed": "@tesakanias",
                 "kesan": "Kak Tessa selalu kreatif dalam berkarya.",
                 "pesan": "Kirimkan karya-karyamu ya, Kak!"
-            },
-            {
-                "nama": "Nabilah Andika Fitriati",
-                "nim": "121450139",
-                "umur": "20",
-                "asal": "Kedaton",
-                "alamat": "Kedaton",
-                "hobbi": "Tidur",
-                "sosmed": "@nabilahanftr",
-                "kesan": "Kak Nabilah selalu tahu kapan waktu istirahat.",
-                "pesan": "Jangan lupa menjaga kesehatan ya, Kak!"
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
