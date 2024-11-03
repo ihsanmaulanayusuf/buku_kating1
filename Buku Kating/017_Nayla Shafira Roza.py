@@ -1239,7 +1239,7 @@ elif menu == "Departemen Internal":
                 "umur": "23",
                 "asal": "Lampung Barat",
                 "alamat": "Labuhan Ratu",
-                "hobi": "Futsal",
+                "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
                 "kesan": "Abangnya keliatan cocok di dept internal ini",
                 "pesan": "Semangat terus bang!",#8
