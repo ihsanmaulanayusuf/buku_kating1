@@ -918,8 +918,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jatimulyo",
                 "hobbi": "BAB setiap jam 7 pagi",
                 "sosmed": "@yogyst",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan banyak memberikan pengalamannya serta ilmu",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Ramadhita Atifa Hendri",
@@ -929,8 +929,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan murah senyum",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Nazwa Nabila",
@@ -940,8 +940,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Main Golf",
                 "sosmed": "@nazwanbilla",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Bastian Heskia Silaban",
@@ -951,8 +951,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Menggambar",
                 "sosmed": "@bastiansilaban_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya seru dan baik",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -962,8 +962,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Berkebun",
                 "sosmed": "@deaa.rsn",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik juga banyak memberi ilmu",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",
@@ -973,8 +973,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Natasya Ega Lina",
@@ -984,8 +984,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Surfing",
                 "sosmed": "@nateee__15",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya murah senyum dan juga baik banget",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Novelia Adinda",
@@ -995,8 +995,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak baik banget dan banyak menceritakan pengalama dan memberi pengetahuan baru",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -1006,8 +1006,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Tobias David Manogari",
@@ -1017,8 +1017,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan banyak menceritakan pengalamannya",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Yohana Manik",
@@ -1028,8 +1028,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik dan juga seru",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Rizky Adrian Bennovry",
@@ -1039,8 +1039,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan banyak memberikan ilmu baru",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
@@ -1050,8 +1050,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan juga seru",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Asa Do’a Uyi",
@@ -1061,7 +1061,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "kesan": "Kakak nya baik banget dan juga murah senyum",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
             {
@@ -1072,8 +1072,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya ramah dan baik juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Irvan Alfaritzi",
@@ -1083,8 +1083,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Youtube, Main Game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya seru dan baik",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Izza Lutfia",
@@ -1094,8 +1094,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan juga menyenangkan",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
@@ -1105,8 +1105,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget, murah senyum, dan juga seru",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Raid Muhammad Naufal",
@@ -1116,8 +1116,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayths_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Tria Yunanni",
@@ -1127,8 +1127,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Dadi",
                 "hobbi": "Olahraga",
                 "sosmed": "@triayunanni",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru banget dan juga baik",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1159,8 +1159,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "Menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan juga banyak cerita pengalamannya serta memberikan ilmu baru",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Chatrine Sinaga",
@@ -1170,8 +1170,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik dan juga murah senyum",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "M. Akbar Restika",
@@ -1181,8 +1181,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya seru dan ramah",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Renita Siahaan",
@@ -1192,8 +1192,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renta.shn",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan ramah juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Salwa Farhanatussaidah",
@@ -1203,8 +1203,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan juga murah senyum",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Rendra Eka Prayoga",
@@ -1214,8 +1214,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Jl. Lapas Raya",
                 "hobbi": "Menulis lagu",
                 "sosmed": "@rendraepr",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Yosia Retare Banurea",
@@ -1225,8 +1225,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Perum Griya Indah",
                 "hobbi": "Nungguin ayam betina berkokok",
                 "sosmed": "@yosiabanurea",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan asik",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Ari Sigit",
@@ -1236,8 +1236,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan Ratu",
                 "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan juga banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Rani Puspita sari",
@@ -1247,8 +1247,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@rannipu",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan juga baik",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Azizah Kusuma Putri",
@@ -1258,8 +1258,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Natar",
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik dan ramah juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1269,8 +1269,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@meirasty_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan asik",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Rendi Alexander Hutagalung",
@@ -1280,8 +1280,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan juga baik",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
         ]
 
@@ -1313,8 +1313,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan banyak memberikan ilmu serta pengalamannya",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Adisty Syawaida Ariyanto",
@@ -1324,8 +1324,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton film",
                 "sosmed": "@adistysa_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Nabila Azhari",
@@ -1335,8 +1335,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Hitung uang",
                 "sosmed": "@zhjung_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik dan murah senyum",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Ahmad Rizqi",
@@ -1346,7 +1346,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Badminton",
                 "sosmed": "@ahmad.ris45",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
+                "kesan": "Abang nya asik dan juga baik",  
                 "pesan": "Semangat terus kuliahnya kak!"
             },
             {
@@ -1357,8 +1357,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Nyuruh-nyuruh",
                 "sosmed": "@dananghk_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik banget, seru, dan juga banyak memberikan ilmu dan pengalamannya",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Farrel Julio Akbar",
@@ -1368,8 +1368,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobbi": "Apa aja",
                 "sosmed": "@farrel_julio",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan banyak memberi ilmu baru",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Tessa Kania Sagala",
@@ -1379,8 +1379,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobbi": "Suka nulis",
                 "sosmed": "@tesakanias",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1390,8 +1390,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik dan juga seru",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
@@ -1401,8 +1401,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Nonton windah",
                 "sosmed": "@alviagnting",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya murah senyum dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
@@ -1412,8 +1412,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jalan Nangka 1",
                 "hobbi": "Tidur",
                 "sosmed": "@dhafinrzqa",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan juga seru",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1423,8 +1423,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Badminton",
                 "sosmed": "@meylanielia",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1461,9 +1461,9 @@ elif menu == "Departemen MEDKRAF":
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "@",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "sosmed": "@wayuraja",
+                "kesan": "Abang nya baik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Elok Fiola",
@@ -1473,8 +1473,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan murah senyum juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Arsyiah Azahra",
@@ -1484,8 +1484,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
@@ -1495,8 +1495,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Pulau Damar",
                 "hobbi": "Lagi Nyari",
                 "sosmed": "@dino_kiper",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan seru",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Muhammad Arsal Ranjana Putra",
@@ -1506,8 +1506,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Nangka 4",
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya seru dan banyak memberi ilmu",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Cintya Bella",
@@ -1517,8 +1517,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Teluk",
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Eka Fidiya Putri",
@@ -1528,8 +1528,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Natar, Lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya asik dan murah senyum juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Najla Juwairia",
@@ -1539,8 +1539,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Airan",
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya seru dan ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Patricia Leondra Diajeng Putri",
@@ -1550,8 +1550,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jatimulyo",
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik banget dan juga seru",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Rahma Neliyana",
@@ -1561,8 +1561,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya ramah dan juga murah senyum",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Try Yani Rizki Nur Rohmah",
@@ -1572,8 +1572,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Korpri",
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik dan ramah",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Dwi Ratna Anggraeni",
@@ -1583,8 +1583,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 5 Pemda",
                 "hobbi": "Membaca",
                 "sosmed": "@dwiratnn_",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik dan asik",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
@@ -1594,8 +1594,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Lapangan Golf UIN",
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya seru dan juga asik",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Nasywa Nur Afifah",
@@ -1605,8 +1605,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya baik dan banyak cerita pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Priska Silvia Ferantiana",
@@ -1616,8 +1616,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Nangka 2",
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Kakak nya ramah dan baik juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Abit Ahmad Oktarian",
@@ -1627,8 +1627,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Rajabasa, Labuhan Dalam",
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya asik dan juga memnceritakan pengalamannya",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Akmal Faiz Abdillah",
@@ -1638,8 +1638,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi": "Main HP",
                 "sosmed": "_akmal.faiz",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan juga ramah",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Hermawan Manurung",
@@ -1649,8 +1649,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani)",
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+                "kesan": "Abang nya baik dan juga seru",  
+                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Khusnun Nisa",
@@ -1660,8 +1660,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Belwis",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
-               "kesan": "Kakak nya asik dan banyak cerita pengalamannya",  
-                "pesan": "Semangat terus kuliahnya kak!"
+               "kesan": "Kakak nya baik banget dan ramah juga",  
+                "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
