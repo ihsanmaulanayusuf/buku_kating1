@@ -143,7 +143,7 @@ if menu == "Kesekjenan":
 
             },
             {
-                "nama": "Hartiti Fadhilaj",
+                "nama": "Hartiti Fadilah",
                 "nim": "12145031",
                 "umur": "21",
                 "asal":"Palembang",
@@ -405,7 +405,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Mempunyai pembawaan yang tegas, mempunyai public speaking yang keren, dan berkarakter",  
+                "kesan": "Mempunyai pembawaan yang tegas dan mempunyai public speaking yang keren",  
                 "pesan": "Terus menginspirasi bang dan semoga impiannya bisa terwujud" #bang econ
             },
             {
@@ -442,7 +442,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semoga sehat selalu, bahagia selalu, dan sukses dalam karirnya" #kak allya
             },
             {
-                "nama": "Eksanty Febriana Sugma Islamiyati",
+                "nama": "Eksanty Febriana Sugma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal":"Jawa Barat",
@@ -544,7 +544,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
-                "nim": "122450122",
+                "nim": "122450142",
                 "umur": "20",
                 "asal":"Pekanbaru",
                 "alamat": "Belwis",
@@ -769,7 +769,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Syadza Puspadari Azhar",
-                "nim": "122450074",
+                "nim": "122450072",
                 "umur": "20",
                 "asal":"Palembang",
                 "alamat": "Belwis",
@@ -866,7 +866,7 @@ elif menu == "Departemen Eksternal":
         data_list = [
             {
                 "nama": "Yogy Sae Tama",
-                "nim": "12145",
+                "nim": "121450041",
                 "umur": "21",
                 "asal":"Tangerang",
                 "alamat": "Jati Mulyo",
@@ -922,7 +922,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",
-                "nim": "122450005",
+                "nim": "122450025",
                 "umur": "19",
                 "asal":"Bandar Lampung",
                 "alamat": "Bandar Lampung",
@@ -977,7 +977,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama"  : "Yohana Manik",
-                "nim"   : "122450",
+                "nim"   : "122450126",
                 "umur"  : "20",
                 "asal"  :"Sumatera Utara",
                 "alamat": "Belwis",
@@ -1131,7 +1131,7 @@ elif menu == "Departemen Internal":
 
             },
             {
-                "nama": "Akbar Resdika",
+                "nama": "M. Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal":"Lampung Barat",
@@ -1230,7 +1230,7 @@ elif menu == "Departemen Internal":
                 "pesan":"Semangat mancingnya kak semoga pas mancing bisa strike" #kak renta
             },
             {
-                "nama": "Yosia Retare Banurea",
+                "nama": "Yosia Letare Banurea",
                 "nim": "121450149",
                 "umur": "20",
                 "asal":"Sumatera Utara",
