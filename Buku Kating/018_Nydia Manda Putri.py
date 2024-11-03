@@ -654,17 +654,14 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1ZG842FNxvXawVwQLjjwGvA8VflI0XYtQ",
             "https://drive.google.com/uc?export=view&id=1YyJcPovQqlK0pTJVFGz1IBtdPbsh7lNF",
             "https://drive.google.com/uc?export=view&id=1Z5zgN5xL54UHBvrnkx-B0_1vOrbzFTaA",
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF",
             "https://drive.google.com/uc?export=view&id=1Z6RvKc-Q5vG-uJ8Bjjl-Ko9_r5zm14is",
             "https://drive.google.com/uc?export=view&id=1ZDzBFM3vYNB9-2nUgpE9FQuEKQ1xrZhX",
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF",
             "https://drive.google.com/uc?export=view&id=1ZAowlmHqiemTlVD7kuCiT-j7qUoxOrL5",
             "https://drive.google.com/uc?export=view&id=1ZAqYi59fucEPHrzWmxrlXwIf1A-7KxYH",
             "https://drive.google.com/uc?export=view&id=1YvgOr-NcxQLXvgA1RdOX2zmjip5zCqyo",
             "https://drive.google.com/uc?export=view&id=1Z-30xbp2wj9SVhhrjwAd9SNEfXmqB-B8",
             "https://drive.google.com/uc?export=view&id=1ZOSWJeMOSjX-NGfrItfyzm9ZPMsmlZ8Q",
             "https://drive.google.com/uc?export=view&id=1ZM3IRx6W-LIEImcc4LasAoSk7EMKhmiC",
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF",
             "https://drive.google.com/uc?export=view&id=1Yr_OC2EGRL2PMrcEeHa4zC0yLz042cSb",
             "https://drive.google.com/uc?export=view&id=1ZXMWvyIpCRJrqW-7UpgBftyggn2-8Wsn",
             "https://drive.google.com/uc?export=view&id=1ZBbVjpccNuA0ZeAQjaoVkJx_a9-VBZfe",
@@ -706,17 +703,6 @@ elif menu == "Departemen MIKFES":
                 "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": "122450082",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Teluk Betung",
-                "hobbi": "Main Game",
-                "sosmed": "@fadhilfwee",
-                "kesan": "Abang nya baik",  
-                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
-            },
-            {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
                 "nim": "122450031",
                 "umur": "19",
@@ -737,17 +723,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakak nya baik banget dan juga ramah",  
                 "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": "Abang nya baik",  
-                "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Anwar Muslim",
@@ -814,17 +789,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "Kakak nya baik banget dan juga ramah serta murah senyum",  
                 "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
-            },
-            {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "121450128",
-                "umur": "23",
-                "asal": "Bandar Lampung",
-                "alamat": "Perumnas Way Kandis",
-                "hobbi": "Membaca",
-                "sosmed": "@rahmn_abdr",
-                "kesan": "Abang nya asik dan seru",  
-                "pesan": "Semangat terus kuliahnya abang agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
             {
                 "nama": "Aditya Rahman",
