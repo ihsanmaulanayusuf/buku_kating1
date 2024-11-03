@@ -118,7 +118,6 @@ if menu == "Kesekjenan":
                 "sosmed": "@amsirahk",
                 "kesan": "Abang ini mirip bang Pandra",  
                 "pesan":"Sukses teruss bang Kahim !!!"# 1
-                "pesan":"Sukses teruss bang Kahim !!!"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -337,7 +336,7 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi": "Main kucing",
                 "sosmed": "@myrriinn",
-                "kesan": "Abang ini baik dan sedikit pendiam",  
+                "kesan": "Abang ini baik dan tinggi!!",  
                 "pesan":""# 13
             }
         ]
@@ -371,7 +370,7 @@ elif menu == "Senator":
                 "hobbi": "Tidur",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Abang ini kece abiezz",  
-                "pesan": "Terus maju ya, Kak! Jangan berhenti berbagi semangat sama yang lain!!!"
+                "pesan": "Terus maju ya, Kak! Jangan berhenti berbagi ilmu sama yang lain!!!"
 # 2
             },
         ]
@@ -456,7 +455,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobbi": "Menolong",
                 "sosmed": "@mfarhan.ath",
-                "kesan": "(Sesuaikan dengan kalian)",
+                "kesan": "Abang ini humble dan selalu senyum. Nyaman banget ngobrol sama bang Ateng, semua pertanyaan dijawab",
                 "pesan": "(Sesuaikan dengan kalian)"
             },
             {
@@ -467,8 +466,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jl. Lapas",
                 "hobbi": "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan": "(Sesuaikan dengan kalian)",
-                "pesan": "(Sesuaikan dengan kalian)"
+                "kesan": "Abang ini tegas, apalagi waktu supporteran",
+                "pesan": "Semangat menjabat sebagai Capo utama Damaskus Bang!!!"
             },
             {
                 "nama": "Kemas Veriandra Ramadhan",
@@ -478,8 +477,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kojo",
                 "hobbi": "Main Game",
                 "sosmed": "@kemasverii",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "Abang ini selalu punya jawaban untuk pertanyaan Kelompok 1. PJ tugas paling Top!",
+                "pesan": "Semoga bang Kemas bisa terus berkembang dan jadi orang sukses di masa depan"
             },
             {
                 "nama": "Presilia",
