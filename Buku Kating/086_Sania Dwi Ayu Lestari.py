@@ -659,7 +659,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1k8zAp2zMGyNZi8ttDxrqB8-k_LJsiLrD", #62
             "https://drive.google.com/uc?export=view&id=1jpkeQR7ysuQKABd3BAejFpTYWB_YoU7B", #63
             "https://drive.google.com/uc?export=view&id=1kAEH8NC_fM6HxUgF-IVjDuyI4asbc5m3", #64
-        
+        ]
         data_list = [
             {
                 "nama": "Rafi Fadhlillah",
