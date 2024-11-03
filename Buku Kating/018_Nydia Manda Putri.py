@@ -216,7 +216,7 @@ elif menu == "Baleg":
                 "alamat": "Way Hui",
                 "hobbi": "Membaca",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak nya baik dan ramah,  
+                "kesan": "Kakak nya baik dan ramah",  
                 "pesan": "Semangat terus kuliahnya kak agar bisa lulus tepat waktu dan jangan lupa jaga kesehatan!"
             },
            
