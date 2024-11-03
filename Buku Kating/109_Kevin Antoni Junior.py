@@ -105,7 +105,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1nYklRTEPIWhv3b8OGpQ1ihwcZmRGWsx-",
             "https://drive.google.com/uc?export=view&id=1nOGkizORQASlGLdVbWmRTHV1oAq1YrYT",
             "https://drive.google.com/uc?export=view&id=1nSFjz-jrx0Ptrv8lOwqL8GUQbby47vie",
-            "https://drive.google.com/uc?export=view&id=1nOGkizORQASlGLdVbWmRTHV1oAq1YrYT",
+            "https://drive.google.com/uc?export=view&id=1nMIhShY-81d6ExBiO3bIVyG2HS_FfIoC",
         ]
         data_list = [
             {
@@ -380,21 +380,21 @@ elif menu == "Departemen PSDA":
     def departemenpsda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1lpHSQT5ROLb_fWXnV95dVR_nA9-PhSwQ",#22
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#23
+            "https://drive.google.com/uc?export=view&id=1AG_VaFeXbvaoj4UDN3OwQ_jEikZe1XUz",#23
             "https://drive.google.com/uc?export=view&id=1n-xu7L_rtAuhLPu_r3wg9EjLMm9gdQ6Y",#24
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#25
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#26
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#27
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#28
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#29
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#30
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#31
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#32
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#33
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#37
+            "https://drive.google.com/uc?export=view&id=1lle-nJpGcGitBYG_87vpd4zHH4USZKDe",#25
+            "https://drive.google.com/uc?export=view&id=1lrsrHCsjPyegYtzIoPlHa442rkpTYerB",#26
+            "https://drive.google.com/uc?export=view&id=1m8SbHmabEaZBCNA-Qc7Mx1gDGZTB3TtQ",#27
+            "https://drive.google.com/uc?export=view&id=1lmjwmLqZHal9fEmwESnE_3JpIlcNK3DM",#28
+            "https://drive.google.com/uc?export=view&id=1lrEVC2hYOelJXZ9gaqIWqEdjicw8WD6F",#29
+            "https://drive.google.com/uc?export=view&id=1mHL87i9UFJuEY-2ozY5Tuh_WoQmGM03a",#30
+            "https://drive.google.com/uc?export=view&id=1mHLYkX4ls-RUMNFrhdxydxDSXphAWeTR",#31
+            "https://drive.google.com/uc?export=view&id=1nEg7c06o3XjEG5vkTbFY8IgS9V9xRWZZ",#32
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#33
+            "https://drive.google.com/uc?export=view&id=1mKU16IxoYcKGO08m9c5F0-WzVxA-RJ75",#34
+            "https://drive.google.com/uc?export=view&id=1mTX2Xeztv9rEGblkOTjCLs14kxbrZAeK",#35
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#36
+            "https://drive.google.com/uc?export=view&id=1m-MipOVbDe2U8rOrAALkiM2KU0z3rwLU",#37
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#38
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#39
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#40
@@ -412,8 +412,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Abang ini asik sekali, punya pemikiran yang luas, public speakingnya bagus, tegas, dan seru untuk diajak diskusi tentang apapun",  
-                "pesan":"Semangat terus kuliahnya bang, semoga bisa cepat lulus dengan hasil yang memuaskan" #22
+                "kesan": "Keren Punya pemikiran keren",  
+                "pesan":"Semoga sukses bang" #22
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
