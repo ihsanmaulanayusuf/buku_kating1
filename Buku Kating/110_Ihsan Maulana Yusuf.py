@@ -226,7 +226,7 @@ elif menu == "Baleg":
                 "hobi": "Menonton Film",
                 "sosmed": "@wlsbn0",
                 "kesan": "Kakak ini cantik, baik, positif vibes juga, ramah sekali",  
-                "pesan":"Pesan dari saya untuk kakak semoga sehat selalu dalam lindungan Sang Maha Kuasa, dipermudah segala urusan, dan semangat terus kuliahnya hingga akhir kak #9
+                "pesan":"Pesan dari saya untuk kakak semoga sehat selalu dalam lindungan Sang Maha Kuasa, dipermudah segala urusan, dan semangat terus kuliahnya hingga akhir kak" #9
             },
             {
                 "nama": "Anisa Dini Amalia",
