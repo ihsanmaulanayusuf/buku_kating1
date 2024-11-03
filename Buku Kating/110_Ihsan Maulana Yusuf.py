@@ -650,7 +650,6 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1uYGw5mc6Bb3nvAj3tNCxMCIuHbskXcVm", #56
             "https://drive.google.com/uc?export=view&id=1xsAwn3ZngdXr-cjQfSOIb50HeoaNHEg0", #57
             "https://drive.google.com/uc?export=view&id=1dzCL700jm3frrMLHeiuRVHGqg3UVinXM", #58
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #59
             "https://drive.google.com/uc?export=view&id=1VFnk7hatyzE7LQEKnkaDyH-X-1ldq4A_", #60
             "https://drive.google.com/uc?export=view&id=1N5Quim5BZzCJ37WQnKxVjuCtMogpCyFh", #61
             "https://drive.google.com/uc?export=view&id=1mVPv4BFpoiFYlmPStnc9nY1Ild96ccZr", #62
@@ -672,7 +671,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Annisa Novantika",
                 "nim": "121450005",
-                "umur": "19",
+                "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Jl. Pulau Sebesi",
                 "hobi": "Memasak",
@@ -683,7 +682,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
-                "umur": "19",
+                "umur": "20",
                 "asal":"Tulang Bawang",
                 "alamat": "Sukarame",
                 "hobi": "Olahraga",
@@ -705,7 +704,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Syalaisha Andina Putriansyah",
                 "nim": "122450121",
-                "umur": "19",
+                "umur": "21",
                 "asal":"Tangerang",
                 "alamat": "Gg. Yudistira",
                 "hobi": "Review jurnal Bu Mika",
@@ -716,7 +715,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
-                "umur": "19",
+                "umur": "21",
                 "asal":"Bukittinggi",
                 "alamat": "Korpri",
                 "hobi": "ML (Machine Learning)",
@@ -778,17 +777,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "Kakak ini memiliki kemampuan mendengarkan yang luar biasa",  
                 "pesan":"Semoga selalu bisa menjadi teman & kakak yang baik bagi semua" #58
-            },
-            {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "122450015",
-                "umur": "19",
-                "asal":"Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@",
-                "kesan": "Abang ini selalu membawa perspektif baru dalam diskusi",  
-                "pesan":"Jangan pernah berhenti berinovasi, ya bang dan bisa jadi atlet renang profesional" #59
             },
             {
                 "nama": "Aditya Rahman",
