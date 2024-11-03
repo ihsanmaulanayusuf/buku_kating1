@@ -118,6 +118,7 @@ if menu == "Kesekjenan":
                 "sosmed": "@amsirahk",
                 "kesan": "Abang ini mirip bang Pandra",  
                 "pesan":"Sukses teruss bang Kahim !!!"# 1
+                "pesan":"Sukses teruss bang Kahim !!!"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
