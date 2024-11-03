@@ -148,7 +148,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "kakanya keliatan tegas dan percaya diri",  
-                "pesan":"semangat terus kuliahnya kakak!"# 4 
+                "pesan":"sangat berkesan, doa terbaik buat kakak"# 4 
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -159,7 +159,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "kakanya serene alias kepribadian nya kaya kalem tenang gitu",  
-                "pesan":"semangat kak semoga sukses!"# 5
+                "pesan":"terimakasih sudah meluangkan waktunya kak, sukses ya kak!"# 5
             },
             {
                 "nama": "Nadila Andhara Putri",
@@ -170,7 +170,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin bang pandra giatara",
                 "sosmed": "@nadillaadr26",
                 "kesan": "Fun-loving dan ceria",  
-                "pesan":"sehat selalu dan semangat kuliahnya ka nadila!"# 1 
+                "pesan":"semoga sukses dan cita citanya tercapai ya ka"# 1 
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -235,8 +235,8 @@ elif menu == "Baleg":
                 "alamat": "Jati agung",
                 "hobbi": "Nonton Drachin",
                 "sosmed": "@anisadini10",
-                "kesan": "",  
-                "pesan":"!"# 4
+                "kesan": "kakanya cantik, asik, soft spoken",  
+                "pesan":"makasih atas motivasinya, "# 4
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -246,8 +246,8 @@ elif menu == "Baleg":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Nonton Drakot",
                 "sosmed": "@ansftynn_",
-                "kesan": "",  
-                "pesan":""# 5
+                "kesan": "Kakak humble banget, semoga ilmunya berkah dan sukses!",  
+                "pesan":"Jaga kesehatan dan semangat selalu, Kak"# 5
             },
             {
                 "nama": "Feryadi Yulius",
