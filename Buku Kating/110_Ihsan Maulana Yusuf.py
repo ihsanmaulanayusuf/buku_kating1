@@ -422,8 +422,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobi": "Bernafas",
                 "sosmed": "@celisabeth",
-                "kesan": "Kakak ini asik, dan murah senyum",  
-                "pesan":"Semangat terus kak, jangan lupa tersenyum" #23
+                "kesan": "Kakak ini asik, cantik, ramah, tegas dan murah senyum, ",  
+                "pesan":"Semangat terus kak, jangan lupa tersenyum, iringi usaha dan doa agar sesuatu yang ingin dicapai bisa maksimal kak" #23
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -727,8 +727,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobi": "Olahraga",
                 "sosmed": "@",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #48
+                "kesan": "Sangat percaya diri dan mampu menjawab pertanyaan dengan baik",  
+                "pesan":"Terus tingkatkan kepercayaan dirimu dalam setiap kesempatan" #48
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
@@ -750,7 +750,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Ngasprak ADS",
                 "sosmed": "@",
                 "kesan": "Abang ini Komunikasinya jelas dan efektif, enak banget diajak ngobrol",  
-                "pesan":"Semangat terus kak" #50
+                "pesan":"Semangat terus kak ngaspraknya dan semangat terus dalam membagi ilmunya, sehat selalu" #50
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -760,8 +760,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Yudistira",
                 "hobi": "Review jurnal Bu Mika",
                 "sosmed": "@",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #51
+                "kesan": "Kakak ini berpengetahuan luas dan selalu update dengan tren terbaru",  
+                "pesan":"Teruslah belajar dan mencari tahu hal-hal baru semoga di masa depan jurnal kakak bisa lebih dikenal" #51
             },
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
@@ -770,9 +770,9 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #52
+                "sosmed": "@",
+                "kesan": "Abang ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "pesan":"Semangat terus bang semoga bisa menjadi perenang profesional" #52
             },
             {
                 "nama": "Anwar Muslim",
@@ -825,7 +825,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #57
             },
@@ -836,7 +836,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #58
             },
@@ -847,7 +847,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #59
             },
@@ -858,7 +858,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #60
             },
@@ -869,7 +869,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #61
             },
@@ -880,7 +880,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #62
             },
@@ -891,7 +891,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #63
             },
@@ -902,7 +902,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #64
             },
@@ -913,7 +913,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
+                "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #65
             },
