@@ -656,25 +656,21 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=144d_GMivPfTDdTSWa-65Jaa_nmkYndSZ", #45
             "https://drive.google.com/uc?export=view&id=14TiG3kI5XDL5vWRa9Mxm0qUJvOWNGDRn", #46
-            "https://drive.google.com/uc?export=view&id=13z_RGrlAsN_nApdIaL-cM2igEiTDnniZ", #47
             "https://drive.google.com/uc?export=view&id=14GQGStkvtbVLWPPnrB9YFmPDrIj-OQhA", #48
-            "https://drive.google.com/uc?export=view&id=1QlM5gWNxjxzZ4huYCUCsFbC33vdLv85I", #49
             "https://drive.google.com/uc?export=view&id=13rMvVgBney8i_yWG6ZFDPsaYJWNbnvl2", #50
             "https://drive.google.com/uc?export=view&id=142S0xhuXJ19moD7DZsPnVqzEV5i2YiKh", #51
-            "https://drive.google.com/uc?export=view&id=1QlM5gWNxjxzZ4huYCUCsFbC33vdLv85I", #52
             "https://drive.google.com/uc?export=view&id=13rwBxaLHxMFPPYIcaWKmYtAZv8CFVQS0", #53
             "https://drive.google.com/uc?export=view&id=142FesM97x-My7qX5qLtlsZJ8Tb8kXXy7", #54
             "https://drive.google.com/uc?export=view&id=14aeUPWkdiwcKB45iOscqPP2mEhq8Uz0G", #55
             "https://drive.google.com/uc?export=view&id=13quf-EUDI25qAWoLrOaNjPWlaqSpxzgw", #56
             "https://drive.google.com/uc?export=view&id=1496IITjFmrvOybyGvGZ8G0ZnpNVddUAl", #57
             "https://drive.google.com/uc?export=view&id=13huD1qwgD53vAyoYDlbjNOC2-vHkUmN0", #58
-            "https://drive.google.com/uc?export=view&id=1QlM5gWNxjxzZ4huYCUCsFbC33vdLv85I", #59
             "https://drive.google.com/uc?export=view&id=14LuMQ6Xp40l7pHjKFDBX7aaRMeRGpDYO", #60
             "https://drive.google.com/uc?export=view&id=13igYSg7i7PU8xL8zPqlvkOrYbNqZ8lah", #61
             "https://drive.google.com/uc?export=view&id=14OoDd5PLEPPPEXAPy4xoHrF_nUs8jVGT", #62
-            "https://drive.google.com/uc?export=view&id=1QlM5gWNxjxzZ4huYCUCsFbC33vdLv85I", #63
+            "https://drive.google.com/uc?export=view&id=13z_RGrlAsN_nApdIaL-cM2igEiTDnniZ", #63
             "https://drive.google.com/uc?export=view&id=13w8N8V9u1QWeu5EXOUGZsxtM6CfIrubR", #64
-            "https://drive.google.com/uc?export=view&id=1QlM5gWNxjxzZ4huYCUCsFbC33vdLv85I", #65
+
         ]
         data_list = [
             {
@@ -698,17 +694,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anovavona",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak kuliahnya, semoga setelah lulus nanti bisa mendapatkan pekerjaan sesuai dengan yang kakak mau" #46
-            },
-            {
-                "nama": "Mujadid Choirus Surya",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #47
+        
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -720,17 +706,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #48
-            },
-            {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #49
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -753,17 +728,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #51
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "122450015",
-                "umur": "19",
-                "asal":"Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #52
             },
             {
                 "nama": "Anwar Muslim",
@@ -832,17 +796,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semangat terus kak" #58
             },
             {
-                "nama": "Abdurrahman Al-atsary",
-                "nim": "122450015",
-                "umur": "19",
-                "asal":"Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #59
-            },
-            {
                 "nama": "Aditya Rahman",
                 "nim": "122450015",
                 "umur": "19",
@@ -896,17 +849,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@jaclinaclcv",
                 "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
                 "pesan":"Semangat terus kak" #64
-            },
-            {
-                "nama": "Vita Anggraini",
-                "nim": "122450015",
-                "umur": "19",
-                "asal":"Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@jaclinaclcv",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #65
             },
          ]
         display_images_with_data(gambar_urls, data_list)
