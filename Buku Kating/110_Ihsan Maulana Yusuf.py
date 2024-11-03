@@ -389,10 +389,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1KX-7P3BHz1vnMDzjTNiSbYK0kCzexo-K", #30
             "https://drive.google.com/uc?export=view&id=1ixrJFfIFSnhdhLJSjnxw8c1-lT6_cO9N", #31
             "https://drive.google.com/uc?export=view&id=1IZdlioTBZ9BuYD6flw7iMwirz-I-CVHd", #32
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #33
             "https://drive.google.com/uc?export=view&id=1UlIGJaGmKRpVZsufC8x3VnMN64f68y3z", #34
             "https://drive.google.com/uc?export=view&id=1oF2ILseFnmh3Zb1Gi1EIjQ-he4h933F4", #35
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #36
             "https://drive.google.com/uc?export=view&id=1cwwLR90vieznnhcbGXyvQcQldVpU96mt", #37
             "https://drive.google.com/uc?export=view&id=1_D7mOlSQ77xuCoKbwbvWRJW7OrnieDGs", #38
             "https://drive.google.com/uc?export=view&id=1-FsbN3aYy_Q0o9vvlIdusmqovDUx-vr2", #39
@@ -525,17 +523,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kak kuliahnya, sehat-sehat selalu ya kak" #32
             },
             {
-                "nama": " Ibnu Farhan Al-Ghifari",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": "@-",
-                "kesan": "Abang ini asik",  
-                "pesan":"Semangat terus bang" #33
-            },
-            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -556,17 +543,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@kemasverii",
                 "kesan": "Abang ini pinter, suhunya codingan, baik, asik juga, seru diajak ngobrol dan diskusi",  
                 "pesan":"Semangat terus bang kuliahnya, semoga apa yang di cita-citakan bisa terwujud" #35
-            },
-            {
-                "nama": "Leonard Andreas Napitupulu",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": "@-",
-                "kesan": "Abang ini tegas, asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang" #36
             },
             {
                 "nama": "Presilia",
@@ -665,12 +641,9 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1LPWD-gDJpIV_wn3_-gpvlFbwocQ1cPOH", #45
             "https://drive.google.com/uc?export=view&id=1TWpkXvYOFkIFg4d4HqvK-IXC059wWBlf", #46
-            "https://drive.google.com/uc?export=view&id=1yyIb4HueVQljI_EYzDmwOgFSiP8B_VSR", #47
             "https://drive.google.com/uc?export=view&id=1MC6kdaqg2Nlb6V0-H6SAermZ8pAa_bNL", #48
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #49
             "https://drive.google.com/uc?export=view&id=1u3ObS1xNusM40hJenMg1z7Dd6gwPi7iT", #50
             "https://drive.google.com/uc?export=view&id=1uPqY_7qlxg0J-D5nSgabEQ70-_Ko2Qck", #51
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #52
             "https://drive.google.com/uc?export=view&id=14wRDE4igCAEn46UsW8HxdBqp6iCNRZGK", #53
             "https://drive.google.com/uc?export=view&id=1SLQH-VW9FNWP29o0nVVRnkyUYRKLq56H", #54
             "https://drive.google.com/uc?export=view&id=1fbpkSmskM4wgfCcnztr9KHNi4e3i6oNS", #55
@@ -683,7 +656,6 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1mVPv4BFpoiFYlmPStnc9nY1Ild96ccZr", #62
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #63
             "https://drive.google.com/uc?export=view&id=1bdBEZVaGVFImxosV17agg-rIx7ZkGKdb", #64
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #65
         ]
         data_list = [
             {
@@ -709,17 +681,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semangat terus kak kuliahnya, semoga setelah lulus nanti bisa mendapatkan pekerjaan sesuai dengan yang kakak mau" #46
             },
             {
-                "nama": "Mujadid Choirus Surya",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #47
-            },
-            {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
                 "umur": "19",
@@ -729,17 +690,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sahid22__",
                 "kesan": "Sangat percaya diri dan mampu menjawab pertanyaan dengan baik",  
                 "pesan":"Terus tingkatkan kepercayaan diri bang dalam setiap kesempatan" #48
-            },
-            {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": " ",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #49
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -762,17 +712,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakak ini berpengetahuan luas dan selalu update dengan tren terbaru",  
                 "pesan":"Teruslah belajar dan mencari tahu hal-hal baru semoga di masa depan jurnal kakak bisa lebih dikenal" #51
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "122450015",
-                "umur": "19",
-                "asal":"Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@",
-                "kesan": "Abang ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus bang semoga bisa menjadi perenang profesional" #52
             },
             {
                 "nama": "Anwar Muslim",
@@ -859,8 +798,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobi": "Ngoding WISATA",
                 "sosmed": "@rahm_adityaa",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #60
+                "kesan": "Abang ini sangat menghargai pendapat orang lain",  
+                "pesan":"Semoga selalu menginspirasi orang lain untuk berbicara ya bang" #60
             },
             {
                 "nama": "Eggi satria",
@@ -870,8 +809,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #61
+                "kesan": "Abang ini konsisten dalam menyampaikan materi, sangat profesional",  
+                "pesan":"Terus pertahankan profesionalismenya bang, sukses selalu bang" #61
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -879,10 +818,10 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal":"Tulang Bawang",
                 "alamat": "Jl Kelengkeng Raya",
-                "hobi": "Nonton K-Drama"
+                "hobi": "Nonton K-Drama",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #62
+                "kesan": "Kakak ini penuh motivasi, membuat saya lebih bersemangat",  
+                "pesan":"Teruslah memotivasi, semoga selalu diberikan keberkahan kak" #62
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -903,19 +842,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl Nangka 3",
                 "hobi": "Berolahraga",
                 "sosmed": "@randardn",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #64
-            },
-            {
-                "nama": "Vita Anggraini",
-                "nim": "122450015",
-                "umur": "19",
-                "asal":"Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
-                "pesan":"Semangat terus kak" #65
+                "kesan": "Abang ini sangat antusias saat berbagi pengetahuan",  
+                "pesan":"Semoga antusiasme itu terus ada, sukses untuk abang randa" #64
             },
          ]
         display_images_with_data(gambar_urls, data_list)
