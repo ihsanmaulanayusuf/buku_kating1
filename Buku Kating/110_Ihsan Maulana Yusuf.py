@@ -988,7 +988,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Muara enim",
                 "alamat": "Korpri",
                 "hobi": "Nyuci baju",
-                "sosmed": "@-",
+                "sosmed": "@u_yippy",
                 "kesan": "Kakak ini sangat inspiratif dan penuh motivasi, selalu mendorong orang lain",  
                 "pesan":"Semoga terus menginspirasi banyak orang dengan semangat kakak" #80
             },
@@ -1070,11 +1070,11 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1SNj0J7eh0fdJDX7rnHaf5pikEOAeCSUf", #89
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #90
             "https://drive.google.com/uc?export=view&id=1Pazqi3pSxG18QJc58ALRYtaFpTtn9gRM", #91
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #92
+            "https://drive.google.com/uc?export=view&id=1aKOuUJrVyuANLyHE6Msc1hxLPHzRlhn8", #92
             "https://drive.google.com/uc?export=view&id=1pkitQk81ZLsrBi0Xoc-D1at3Q8N7y9bB", #93
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #94
+            "https://drive.google.com/uc?export=view&id=10BLWeQKyUYfyuXaipOfVtGUdW0pepcpT", #94
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #95
-            "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #96
+            "https://drive.google.com/uc?export=view&id=1Cnea6MCIa4MzrOLIHTlkzyWCsqQ6X9uf", #96
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #97
             "https://drive.google.com/uc?export=view&id=1nrs4kPPxWNyrYyrPvfFMPTwsO_Jt4ZuF", #98
             "https://drive.google.com/uc?export=view&id=1f9fENquXS0Joza_pOveBn1pPHjKuOYAl", #99
