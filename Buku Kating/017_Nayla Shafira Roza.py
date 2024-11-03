@@ -1494,8 +1494,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "Kakaknya baik, pinter, dan ramah",
-                "pesan": "Semangat kuliahnya kak!",#2
+                "kesan": "Kakaknya cantik, pinter, dan ramah",
+                "pesan": "Semoga lulus kuliah tepat waktu ya kak, semangat!",#2
               
             },
             {
@@ -1507,7 +1507,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
                 "kesan": "Kakaknya lucu, baik, dan ramah",
-                "pesan": "Semangat terus kak!",#3
+                "pesan": "Semoga targetnya tercapai ya kak!",#3
                
             },
             {
@@ -1531,7 +1531,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
                 "kesan": "Abangnya baik dan ramah",
-                "pesan": "Semangat bang!",#5
+                "pesan": "Semangat merangkai kode bang!",#5
               
             },
             {
@@ -1542,7 +1542,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Teluk",
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan": "Kakaknya kayak model ",
+                "kesan": "Kakaknya kayak model, tinggi semampai",
                 "pesan": "Semangat kuliahnya kak!",#6
            
             },
@@ -1554,8 +1554,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Natar, Lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "Kakaknya baik dan ramah",
-                "pesan": "Semangat kuliahnya kak!",#7
+                "kesan": "Kakaknya seru, baik dan ramah",
+                "pesan": "Semoga bahagia terus ya kak!",#7
            
             },
             {
@@ -1578,8 +1578,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jatimulyo",
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
-                "kesan": "Kak cia yang super duper ramah",
-                "pesan": "Sehat selalu kak",#9
+                "kesan": "Kak cia words of affirmation sekalii",
+                "pesan": "Semangat menjalani hidup kak",#9
              
             },
             {
@@ -1590,8 +1590,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan": "Kakaknya baikk dan keren sekalii",
-                "pesan": "Sehat selalu kak!",#10
+                "kesan": "Kakaknya baikk, ramah bener dan keren sekalii",
+                "pesan": "Sehat dan bahagia terus ya kak!",#10
             
             },
             {
@@ -1603,7 +1603,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "Kakaknya baik dan ramah",
-                "pesan": "Semangat kuliahnya kak",#11
+                "pesan": "Semangat mendalami hobinya kak",#11
               
             },
             {
@@ -1614,8 +1614,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 5 Pemda",
                 "hobbi": "Membaca",
                 "sosmed": "@dwiratnn_",
-                "kesan": "Kakakanya baik dan ramah",
-                "pesan": "Semangat kak!",#12
+                "kesan": "Kakakanya baik kalem dan teduh",
+                "pesan": "Sehat selalu kak!",#12
             
             },
             {
@@ -1627,7 +1627,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
                 "kesan": "Abangnya lucu dan kreatif",
-                "pesan": "Semangat terus bang!",#13
+                "pesan": "Semaangat baca komik bang!",#13
      
             },
             {
@@ -1638,8 +1638,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
-                "kesan": "Kakaknya asik dan baik",
-                "pesan": "Semanga medkraf kak!",#14
+                "kesan": "Kakaknya asik dan baik hati",
+                "pesan": "Semangat ngedrakor kak!",#14
           
             },
             {
@@ -1650,8 +1650,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Nangka 2",
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
-                "kesan": "Kakaknya baik dan lucu",
-                "pesan": "Semangat kuliahnya kak!",#15
+                "kesan": "Kakaknya baik dan buat nyaman saat diajak bicara",
+                "pesan": "Jangan keseringan baca novel angst ya kak",#15
             
             },
             {
@@ -1663,7 +1663,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
                 "kesan": "Abangnya lucu, jago desain",
-                "pesan": "Semangat jadi medkraf",#16
+                "pesan": "Semangat ngegame dan ngodingnya bang!",#16
             
             },
             {
@@ -1687,7 +1687,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "Abang asprak alproo",
-                "pesan": "Semangat kuliahnya ya bang",#18
+                "pesan": "Semangat desain bang!",#18
 
             },
             {
