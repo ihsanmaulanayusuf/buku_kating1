@@ -1158,7 +1158,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
                 "kesan": "Abangnya lucu dan keren banget",
-                "pesan": "Semangat ya bang!",#!
+                "pesan": "Semangat jadi kadep internal ya bang!",#!
                 
             },
             {
@@ -1169,8 +1169,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan": "Kakaknya canti dan keliatan cocok di dept internal",
-                "pesan": "Semangat terus ya kak kuliahnya!",#2
+                "kesan": "Kakaknya cantik dan keliatan cocok di dept internal",
+                "pesan": "Semangat belajar terus kak!",#2
               
             },
             {
@@ -1181,8 +1181,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
-                "kesan": "Abangnya lucu dan keren sekalii",
-                "pesan": "Semangat kuliahnya bang!",#3
+                "kesan": "Abangnya keren sekalii",
+                "pesan": "Semoga abang sehat selalu!",#3
                 
             },
             {
@@ -1193,8 +1193,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
-                "kesan": "Kakaknya baik dan lucuu",
-                "pesan": "Semangat kak!",#4
+                "kesan": "Kakaknya ramah, baik dan lucuu",
+                "pesan": "Terusin sifat ramahnya ya kak!",#4
                
             },
             {
@@ -1205,8 +1205,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan": "Kakaknya baik dan pintar",
-                "pesan": "Semangat kuliahnya kak!",#5
+                "kesan": "Kakaknya murah senyum",
+                "pesan": "Jangan lupa senyum setiap mengawali hari kak!",#5
           
             },
             {
@@ -1230,7 +1230,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Nungguin ayam betina berkokok",
                 "sosmed": "@yosiabanurea",
                 "kesan": "Abangnya baik dan keren",
-                "pesan": "Semangat kuliahnya bang!",#7
+                "pesan": "Semaoga abang diberi kelancaran dalam mengerjakan apapun!",#7
            
             },
             {
@@ -1239,10 +1239,10 @@ elif menu == "Departemen Internal":
                 "umur": "23",
                 "asal": "Lampung Barat",
                 "alamat": "Labuhan Ratu",
-                "hobi": "Futsal",
+                "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan": "Abangnya keliatan cocok di dept internal ini",
-                "pesan": "Semangat terus bang!",#8
+                "kesan": "Vibes abangnya mewakili internal banget",
+                "pesan": "Semangat futsalnya bang!",#8
             
             },
             {
@@ -1253,8 +1253,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Ngejokes",
                 "sosmed": "@josuapanggabean_",
-                "kesan": "Abangnya baik dan keren betul",
-                "pesan": "Semangat bang!",#9
+                "kesan": "Abangnya suka bikin orang ketawa",
+                "pesan": "Semangat buat jokes yang fresh bang!",#9
            
             },
             {
@@ -1265,8 +1265,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Natar",
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan": "Kakaknya baik dan lucu",
-                "pesan": "Semangat terus kak kuliahnya!",#10
+                "kesan": "Kakaknya pasti rajin",
+                "pesan": "Semangat berkebun kak!",#10
           
             },
             {
@@ -1278,7 +1278,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Nonton",
                 "sosmed": "@meirasty_",
                 "kesan": "Kakaknya baik dan adem banget diliatnya",
-                "pesan": "Semangat terus kak!",#11
+                "pesan": "Kak Meira harus nonton film netflix!",#11
                
             },
             {
