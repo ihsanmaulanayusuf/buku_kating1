@@ -1172,7 +1172,7 @@ elif menu == "Departemen Internal":
                 "hobi": "Ngeliat cogan",
                 "sosmed": "@slwfn_694",
                 "kesan": "Kakaknya asik dan humble",  
-                "pesan":"Semoga dapat cowo spek oppa korea kak" #kak salwa
+                "pesan":"Semoga hari-harinya ketemu cogan terus ya kak!" #kak salwa
             },
             {
                 "nama": "Ari Sigit",
@@ -1422,7 +1422,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Nonton",
                 "sosmed": "@",
                 "kesan": "Abangnya baik dan pembawaan bicaranya enak didengar",  
-                "pesan":"Semangat terus kuliahnya bang!" #bang wahyu
+                "pesan":"Selalu menginspirasi dan menjadi teladan bang!" #bang wahyu
             },
             {
                 "nama": "Elok Fiola",
@@ -1432,8 +1432,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Bandar Lampung",
                 "hobi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "Kakaknya baik dan asik",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak elok
+                "kesan": "Ramah banget dan asik",  
+                "pesan":"Semoga hari-hari kakak terasa seperti hari libur terus!" #kak elok
             },
             {
                 "nama": "Arsyiah Azahra",
@@ -1443,8 +1443,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Tanjung Senang",
                 "hobi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "Kakaknya baik dan lucu",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak arsyiah
+                "kesan": "Lucu dan baik banget",  
+                "pesan":"Semangat nugasnya kak dan semoga sehat selalu!" #kak arsyiah
             },
             {
                "nama": "Cintya Bella",
@@ -1454,8 +1454,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Teluk",
                 "hobi": "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan": "Kakaknya baik dan tinggi",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak cibel
+                "kesan": "Kakaknya kalem banget dan kakaknya cocok jadi model",  
+                "pesan":"Semangat ngegym dan jangan lupa jaga kesehatan kak!" #kak cibel
             },
             {
                 "nama": "Eka Fidiya Putri",
@@ -1466,7 +1466,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
                 "kesan": "Ramah banget dan selalu energik",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak eka
+                "pesan":"Terus semangat dan selalu ramah ya kak!" #kak eka
             },
             {
                 "nama": "Najla Juwairia",
@@ -1476,8 +1476,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Airan",
                 "hobi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan": "Kakaknya baik dan keren",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak najla
+                "kesan": "Keren dan pendiam",  
+                "pesan":"Semangat nulis nya kak, semoga tulisan kakak dapat menginspirasi orang lain!" #kak najla
             },
             {
                 "nama": "Patricia Leondrea Diajeng Putri",
@@ -1487,8 +1487,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jatimulyo",
                 "hobi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
-                "kesan": "Kakaknya baik dan seru",  
-                "pesan":"Semangat ngeasprak dan kuliahnya kak!" #kak patricia
+                "kesan": "Lucu, seru, dan ceria",  
+                "pesan":"Semangat ngeaspraknya kak dan jangan lupa sisihkan waktu buat nonton film!" #kak patricia
             },
             {
                 "nama": "Rahma Neliyana",
@@ -1498,8 +1498,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan": "Kakaknya baik, ramah banget, dan lucu",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak rahma
+                "kesan": "Kakaknya menyenangkan, ramah banget, dan lucu",  
+                "pesan":"Tetap jadi pribadi yang menyenangkan dan semoga selalu semangat baca kodingannya kak!" #kak rahma
             },
             {
                 "nama": "Try Yani Rizki Nur Rohmah",
@@ -1509,8 +1509,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Korpri",
                 "hobi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan": "Kakaknya baik dan seru",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak try
+                "kesan": "Baik dan seruu banget",  
+                "pesan":"Sukses dalam karirnya dan semangat menggapai cita-citanya!" #kak try
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
@@ -1520,8 +1520,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Pulau Damar",
                 "hobi": "Lagi Nyari",
                 "sosmed": "@dino_kiper",
-                "kesan": "Abangnya baik dan tinggi",  
-                "pesan":"Semangat terus kuliahnya bang!" #bang muhammad
+                "kesan": "Tinggi dan asik",  
+                "pesan":"Semangat mencari hobinya bang semoga cepat ketemu!" #bang muhammad
             },
             {
                 "nama": "Dwi Ratna Anggraeni",
@@ -1531,8 +1531,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 5 Pemda",
                 "hobi": "Membaca",
                 "sosmed": "@dwiratnn_",
-                "kesan": "Kakaknya baik dan kalem",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak dwi
+                "kesan": "Baik dan kalem",  
+                "pesan":"Semangat menjalani hari-hari di perkuliahannya kak!" #kak dwi
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
@@ -1542,8 +1542,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Lapangan Golf UIN",
                 "hobi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "Abangnya baik dan seru",  
-                "pesan":"Semangat terus kuliahnya bang!" #bang gym
+                "kesan": "Baik banget dan sangat peduli",  
+                "pesan":"Semangat dalam mnegejar cita-citanya bang!" #bang gym
             },
             {
                 "nama": "Nasywa Nur Afifah",
@@ -1554,7 +1554,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Nonton drakor",
                 "sosmed": "@nsywanaf",
                 "kesan": "Kakaknya baik dan asik",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak nasywa
+                "pesan":"Semoga kakak bisa ketemu idola kakak di drakor" #kak nasywa
             },
             {
                 "nama": "Priska Silvia Ferantiana",
@@ -1564,8 +1564,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jl. Nangka 2",
                 "hobi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
-                "kesan": "Kakaknya baik dan ramah",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak priska
+                "kesan": "Baik dan asik banget",  
+                "pesan":"Jangan lupa tersenyum dan bahagia kak!" #kak priska
             },
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
@@ -1575,8 +1575,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Nangka 4",
                 "hobi": "Ngoding",
                 "sosmed": "@arsal.utama",
-                "kesan": "Abangnya baik dan seru",  
-                "pesan":"Semangat terus kuliahnya bang!" #bang arsal
+                "kesan": "Abangnya kalem dan seru diajak diskusi",  
+                "pesan":"Semoga selalu lancar dalam setiap aktivitasnya bang!" #bang arsal
             },
             {
                 "nama": "Khusnun Nisa",
@@ -1587,7 +1587,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "Kakaknya baik, seru, dan enak diajak diskusi",  
-                "pesan":"Semangat terus kuliahnya kak!" #kak khusnun
+                "pesan":"Semangat terus ngerjain tugasnya kak dan selalu bahagia ya!" #kak khusnun
             },
             {
                 "nama": "Abit Ahmad Oktarian",
@@ -1598,7 +1598,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Ngoding, gaming",
                 "sosmed": "@abitahmad",
                 "kesan": "Abangnya murah senyum, lucu, dan seru",  
-                "pesan":"Semangat terus kuliahnya bang!" #bang abit
+                "pesan":"Semangat ngodingnya bang dan semoga sehat selalu!" #bang abit
             },
             {
                 "nama": "Akmal Faiz Abdillah",
@@ -1608,8 +1608,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobi": "Main HP",
                 "sosmed": "@_akmal.faiz",
-                "kesan": "Kelihatannya abangnya asik, baik dan seru",  
-                "pesan":"Semangat terus kuliahnya bang!" #bang akmal
+                "kesan": "Baik, seru, dan kelihatannya abangnya asik",  
+                "pesan":"Semoga suskses dalam studinya dan karirnya bang!" #bang akmal
             },
             {
                 "nama": "Hermawan Manurung",
