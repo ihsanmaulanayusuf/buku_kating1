@@ -749,7 +749,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Permadi",
                 "hobi": "Ngasprak ADS",
                 "sosmed": "@",
-                "kesan": "Kakak ini asik, dan mempunyai pikiran serta public speaking yang bagus",  
+                "kesan": "Abang ini Komunikasinya jelas dan efektif, enak banget diajak ngobrol",  
                 "pesan":"Semangat terus kak" #50
             },
             {
