@@ -131,14 +131,14 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1dG3saD1v1svC9qOBCURzLdQPm8lIIxpt",
             "https://drive.google.com/uc?export=view&id=18eqn8Q5fIikdFfwb4MKJcMxCNx_iOiUp",
             "https://drive.google.com/uc?export=view&id=18_Us-qRt-xWdIIhD_K4AzwBOkjESCoNa",
-            "https://drive.google.com/uc?export=view&id=1RtnVwiRw0QeKthU_Z8Xz4gCVt7MPc-Gg",
+            "https://drive.google.com/uc?export=view&id=1bIYdulB9FHFojIF4cia5BAT0EY7U27ay",
             "https://drive.google.com/uc?export=view&id=1cahQXYq7jDVlEkLM2MgZPZFINcn9_BFe",
             "https://drive.google.com/uc?export=view&id=1d9UQTot_hzldBH2bWB8MiHGTpBFyjfgE",
             "https://drive.google.com/uc?export=view&id=1WZScsJ1fzfznd-fvmaVyOQyRZahgUrrX",
             "https://drive.google.com/uc?export=view&id=14EOtOghvGGvR98Ympg2tndzoHFo97iNU",
             "https://drive.google.com/uc?export=view&id=1ck4eAmxfk3SNRjrD2CGlSUAjPJj_Ajuw",
             "https://drive.google.com/uc?export=view&id=1jyPINzk7dkpsmA2zAfHtEu_rTl--QDQp",
-            "https://drive.google.com/uc?export=view&id=1kMlvs0orwtOHIDbhW0FJnNszS8NcBdTb",
+            "https://drive.google.com/uc?export=view&id=1TVznPh4ZQAtK1IIrnkHVC1lxEkWxEouB",
             "https://drive.google.com/uc?export=view&id=1d5NWYIrEVOBeauFCEMrlUkLkoFrK7aHO",
         ]
         data_list = [
