@@ -1301,7 +1301,7 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def departemenssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #1
+            "https://drive.google.com/uc?export=view&id=1dTtk5R7zwzEs6jqP0GIPN115iqaA1FLp", #1
             "https://drive.google.com/uc?export=view&id=1MBHgmXLgJvUPUvFyufQ34pA2XYn33QpA", #2
             "https://drive.google.com/uc?export=view&id=1MRqKCWonONYJrTfn3EqK1-IUOK9EJoNR", #3
             "https://drive.google.com/uc?export=view&id=1MIRnZNJDmdNNyugHGK52wLR-UiBcHj5F", #4
@@ -1453,7 +1453,7 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def departemenmedkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1xZ_083oLqAxmnj_67aZqmx6JSr1LIq_b", #1
+            "https://drive.google.com/uc?export=view&id=1x8j3W_txOOtNWa2sPU8Ka8KfsQdw9SpB", #1
             "https://drive.google.com/uc?export=view&id=1CSSHv8CNOX--9R-nPIiTU98DaSFQYMmS", #2
             "https://drive.google.com/uc?export=view&id=1nch9siwHCAZJYB_p_Z_7ioA7eUvzyrkb", #3
             "https://drive.google.com/uc?export=view&id=1jmYCvSkAy-MMXIPmq-D9XdpDWeQ0z3wX", #4
