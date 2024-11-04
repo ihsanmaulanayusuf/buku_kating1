@@ -209,7 +209,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Annisa Cahyani Surya",
-                "nim": "122450000",
+                "nim": "121450114",
                 "umur": "21",
                 "asal":"Tangerang Selatan",
                 "alamat": "Way Hui",
@@ -493,7 +493,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus bang kuliahnya dan semangat menjalani hidup ini bang" #29
             },
             {
-                "nama": "Oktavia Nurwenda Puspita Sari",
+                "nama": "Oktavia Nurwinda Puspita Sari",
                 "nim": "122450041",
                 "umur": "20",
                 "asal":"Lampung Timur",
