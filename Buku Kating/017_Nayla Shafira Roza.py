@@ -966,7 +966,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
-                "hobbi": "Main sepak takraw",
+                "hobbi": "Pulang malam",
                 "sosmed": "@jasminednva",
                 "kesan": "Kakaknya aktif di berbagai kegiatan",
                 "pesan": "Sukses selalu kak!",#9
