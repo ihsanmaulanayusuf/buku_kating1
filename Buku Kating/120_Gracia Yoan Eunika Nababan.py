@@ -378,10 +378,10 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1zAV8ubsdhEP8hLGSx6D0l-Cy-SrKCdUw", #kak afifah
             "https://drive.google.com/uc?export=view&id=1T1Y3AmgHVb38M74tIlajAdv0LU0a_BzY", #kak allya
             "https://drive.google.com/uc?export=view&id=1fppMLu9lW6Dqh3Ivv3ET3rLqujWSGkDR", #kak eksanty
-            "https://drive.google.com/uc?export=view&id=18FFYXStMqd0nJ1DSfZ9g03f_Xf1WdLRA", #bang deri
-            "https://drive.google.com/uc?export=view&id=17T8mQu7JoIJ34Gp4OtIW7OehaRj-mMjl", #kak okta
             "https://drive.google.com/uc?export=view&id=15O1wFRBBL-6CnyHdG03sZiObWNUIpNOf", #kak farahanum
             "https://drive.google.com/uc?export=view&id=1SJBR8830ArwIeedJJ5rpBZu4-uVP1jPZ", #bang ferdy
+            "https://drive.google.com/uc?export=view&id=18FFYXStMqd0nJ1DSfZ9g03f_Xf1WdLRA", #bang deri
+            "https://drive.google.com/uc?export=view&id=17T8mQu7JoIJ34Gp4OtIW7OehaRj-mMjl", #kak okta
             "https://drive.google.com/uc?export=view&id=1I1D_PIcLwCclXzN6l7Zmlnagt8nAlCrQ", #bang depan
             "https://drive.google.com/uc?export=view&id=1TXUm18LQjY9Vjesd-fC5joWipaepGa7l", #bang jo
             "https://drive.google.com/uc?export=view&id=1M2bkf0VH4oIOoN1cjJCqwBgg70PH_NAz", #bag kem
@@ -452,28 +452,6 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kuliahnya kak dan semoga apa yang diimpikan bisa terwujud kak!" #Kak eksanty
             },
             {
-                "nama": "M. Deriansyah Okutra",
-                "nim": "122450101",
-                "umur": "19",
-                "asal":"Kayu Agung",
-                "alamat": "Jalan Pagar Alam Kedaton",
-                "hobi": "Ngukur Jalan",
-                "sosmed": "@dransyh_",
-                "kesan": "Abangnya lucu banget, asik, dan murah senyum",  
-                "pesan":"Terus lucu ya bang dan semoga cepat lulus kuliah!" #bang deri
-            },
-            {
-                "nama": "Oktavia Nurwinda Puspitasari",
-                "nim": "122450041",
-                "umur": "20",
-                "asal":"Lampung Timur",
-                "alamat": "Way Huwi",
-                "hobi": "Travelling",
-                "sosmed": "@_oktavianrwnda_",
-                "kesan": "Baik dan keren", 
-                "pesan":"Tetap semangat kak dan semoga kakak bisa ke tempat yang ingin kakak kunjungin" #kak okta
-            },
-            {
                 "nama": "Farahanum Afifah Ardiansyah",
                 "nim": "122450056",
                 "umur": "20",
@@ -494,6 +472,28 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@ferdy_kevin",
                 "kesan": "Kalem dan humble",  
                 "pesan":"Semoga hari harinya dipenuhi kebahagiaan dan berkat bang" #bang ferdy
+            },
+            {
+                "nama": "M. Deriansyah Okutra",
+                "nim": "122450101",
+                "umur": "19",
+                "asal":"Kayu Agung",
+                "alamat": "Jalan Pagar Alam Kedaton",
+                "hobi": "Ngukur Jalan",
+                "sosmed": "@dransyh_",
+                "kesan": "Abangnya lucu banget, asik, dan murah senyum",  
+                "pesan":"Terus lucu ya bang dan semoga cepat lulus kuliah!" #bang deri
+            },
+            {
+                "nama": "Oktavia Nurwinda Puspitasari",
+                "nim": "122450041",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Way Huwi",
+                "hobi": "Travelling",
+                "sosmed": "@_oktavianrwnda_",
+                "kesan": "Baik dan keren", 
+                "pesan":"Tetap semangat kak dan semoga kakak bisa ke tempat yang ingin kakak kunjungin" #kak okta
             },
             {
                 "nama": "Deyvan Loxefal",
