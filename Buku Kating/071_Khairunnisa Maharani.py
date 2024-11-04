@@ -1036,7 +1036,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jakarta",
                 "hobbi": "Baca",
                 "sosmed": "@tria_y062",
-                "kesan": "Kak dita tuh cantik dan imut terus baik hati juga sering senyum",
+                "kesan": "Kak Tria tuh cantik dan imut terus baik hati juga sering senyum",
                 "pesan": "Semangat mengerjakan tugas kuliah, Kak!"
             },
       {
