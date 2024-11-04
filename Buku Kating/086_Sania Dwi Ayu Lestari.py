@@ -842,14 +842,14 @@ elif menu == "Departemen Eksternal":
     def departemeneksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1hR6zHwJo9c7GsY5XZGcF_r9ROQPMhdpH", #1
-            "https://drive.google.com/uc?export=view&id=1hKWeDIwI-h373OEM6wfpofvXhUlIkGGh", #2
+            "https://drive.google.com/uc?export=view&id=1hPj409PAuAvDfBYsI9PgVOYNjfOp8rg_", #2
             "https://drive.google.com/uc?export=view&id=1h-OKHg-df0KcIkw073PG3hlpk7IN3_Xj", #3
             "https://drive.google.com/uc?export=view&id=1gpLmmWiOzRv4hujh6keQfK4xrvO_GaL3", #4
             "https://drive.google.com/uc?export=view&id=1hDnxPSsf4Vb_j1RIsgUxpSGUCtJLs-ui", #5
             "https://drive.google.com/uc?export=view&id=1hUi9lkyO_TO4Oo6ZFF7JQXNvCLYisgLu", #6
             "https://drive.google.com/uc?export=view&id=1h3yB9qNUbfvu9uD-6c0wQCzAlilcmEP_", #7
             "https://drive.google.com/uc?export=view&id=1gviXPnfeOzKW8dZHvV3Jd1xwZsn0DK4Q", #8
-            "https://drive.google.com/uc?export=view&id=1hPj409PAuAvDfBYsI9PgVOYNjfOp8rg_", #9
+            "https://drive.google.com/uc?export=view&id=1hKWeDIwI-h373OEM6wfpofvXhUlIkGGh", #2
             "https://drive.google.com/uc?export=view&id=1gx7ADYCMVTTwyloaKR9tHDyPXF5enlIX", #10
             "https://drive.google.com/uc?export=view&id=1hFys3GoNumh6EZj8MlQWUhK9LRegqLVh", #11
             "https://drive.google.com/uc?export=view&id=1i3GXDU9pazfI_0hEN_LGg-YJpeaGw_fD", #12
