@@ -754,7 +754,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal": "Sukabumi",
                 "alamat": "Korpri",
-                "hobbi": "Ngoding dan buat konten WISATA",
+                "hobi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr",
                 "kesan": "Bang Eggi tuh pinter banget dan keren sering membantu",
                 "pesan": "Semoga terus berkarya dan seru-seruan, Kak!"
