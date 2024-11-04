@@ -825,8 +825,9 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=17mAMrMIpGEpTUKuzI0vMJM3YR0tQUD5R", #15
             "https://drive.google.com/uc?export=view&id=17clFpLooK4hdSxU8La_DCFSRbgCGbKyA", #16
             "https://drive.google.com/uc?export=view&id=17jDscDbS4Rx6wsL9EzHcviSZ61mpecrl", #17
-            "https://drive.google.com/uc?export=view&id=17bzGX0XVOLsY60siyNErh82LFJZYwITO", #19
-            "https://drive.google.com/uc?export=view&id=178cw49H9lFRurKILz8xjSHXd9R_wvlGO", #20
+            "https://drive.google.com/uc?export=view&id=17bzGX0XVOLsY60siyNErh82LFJZYwITO", #18
+            "https://drive.google.com/uc?export=view&id=178cw49H9lFRurKILz8xjSHXd9R_wvlGO", #19
+            "https://drive.google.com/uc?export=view&id=17jck-30bMbHh6S0D5pYwa_KcM5Rc2o9X", #20
         ]
         data_list = [
             {
@@ -1037,6 +1038,17 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@tria_y062",
                 "kesan": "Kak dita tuh cantik dan imut terus baik hati juga sering senyum",
                 "pesan": "Semangat mengerjakan tugas kuliah, Kak!"
+            },
+      {
+                "nama": "Khaalishah Zuhrah Alyaa Vanefi",
+                "nim": "122450034",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi": "Mengaji",
+                "sosmed": "@alyaavanevi",
+                "kesan": "Kak Alya tuh paling gemoy",
+                "pesan": "Bahagia dan sukses selalu kak alyaaa!"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
