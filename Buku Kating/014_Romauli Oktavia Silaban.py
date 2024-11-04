@@ -102,8 +102,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1pHCPurAGtHLG8hhf8JlAEnxT7i_8oYqY", #1
             "https://drive.google.com/uc?export=view&id=1pQkb6oMl8MsJlHwcBfSrjPH4Fvw0uABs", #2
             "https://drive.google.com/uc?export=view&id=1pF0tjkPfpbPcELLrQ4Ef7c6MqDBm8Bgj",
-            "https://drive.google.com/uc?export=view&id=1pFn6DNTJ5Bel9lJuSzL_cbM2s1nR_i9N",#3
-            "https://drive.google.com/uc?export=view&id=1pMMV9oVLXJfaIbk7lYjqXzdN6CgCSJnU", #4
+            "https://drive.google.com/uc?export=view&id=1pMMV9oVLXJfaIbk7lYjqXzdN6CgCSJnU",
+            "https://drive.google.com/uc?export=view&id=1pFn6DNTJ5Bel9lJuSzL_cbM2s1nR_i9N",#4
             "https://drive.google.com/uc?export=view&id=1pPBkaqOFBreeI6tTviG9MxwG7jjZ8dTs", #5
             
         ]
@@ -113,7 +113,7 @@ if menu == "Kesekjenan":
                 "nim": "121450142",
                 "umur": "21",
                 "asal":"Palembang",
-                "alamat": "Pulau Damar",
+                "alamat": "Pulau Damar,Way Kandis",
                 "hobi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "bang kharisma sangat berwibawa dan memiliki wawasan yang luas",  
@@ -123,10 +123,10 @@ if menu == "Kesekjenan":
                 "nama": "Pandra Insani Putra Azwar",
                 "nim": "121450137",
                 "umur": "21",
-                "asal":"Bukit Kemuning",
-                "alamat": "Pawen 2 Sukarame",
+                "asal":"Bukit Kemuning, Lampung Utara",
+                "alamat": "Jl.Terusan Pulau Bawean 2 , Sukarame",
                 "hobi": "Main gitar",
-                "sosmed": "@pndrinsni21",
+                "sosmed": "@pndrinsni27",
                 "kesan": "Bang Pandra orangnya asik dan tegas",  
                 "pesan":"tutor gitarnya dong bang, semangat kuliahnya bang pandra"# 2
             },
@@ -134,23 +134,12 @@ if menu == "Kesekjenan":
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
-                "asal":"Pagar Alam",
+                "asal":"Pagar Alam , Sumatera Selatan",
                 "alamat": "Kotabaru",
-                "hobi": " Nonton Drakorr",
+                "hobi": " Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "kak meliza orangnya baik dan asik",  
                 "pesan":"semoga kak meliza punya jodoh spek aktor koreah"# 3
-            },
-            {
-                "nama": "Putri Maulida Chairani",
-                "nim": "121450050",
-                "umur": "21",
-                "asal":"Payakumbuh",
-                "alamat": "Nangka 4",
-                "hobi": "Dengerin  bang Pandra Gitaran",
-                "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kak putri pembawaannya baik , ramah, dan mudah senyum",  
-                "pesan":"happy smile terus ya kak putri"# 5
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -162,6 +151,17 @@ if menu == "Kesekjenan":
                 "sosmed": "@hrtfdlh",
                 "kesan": "kak hartiti ramah dan mudah senyum",  
                 "pesan":"semangat kuliahnya kak titi"# 4
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh , Sumatrea Barat",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin bang Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kak putri pembawaannya baik , ramah, dan mudah senyum",  
+                "pesan":"happy smile terus ya kak putri"# 5
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -185,13 +185,13 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1pnQwBdI8d_KBpxDdj36iO5Bf3akZ1zuJ", #8
             "https://drive.google.com/uc?export=view&id=1q--U4G4GczFrHDe_VuSfSg3c84aSdV_K", #9
             "https://drive.google.com/uc?export=view&id=1q9VBbGxFfARX0PaBx7beF3bV5ZodrK_G",
+            "https://drive.google.com/uc?export=view&id=1pxO7NgXtSLLhEMlNhpoKKkFsuvJM3gET",
+            "https://drive.google.com/uc?export=view&id=1pp_qr_nHz-QXnmZeyqGDOKRy0O5nJmcj", #15
             "https://drive.google.com/uc?export=view&id=1pge39OdEP_uNU1mUF4aXFdpvEgK5-j88",#11
             "https://drive.google.com/uc?export=view&id=1q7VB6D2DVZfz2iXA3qXMfp631lwFdw0i",
             "https://drive.google.com/uc?export=view&id=1pahloEKWL1Piki8l-ozribwaN8sMxNhB", #12
-            "https://drive.google.com/uc?export=view&id=1pxO7NgXtSLLhEMlNhpoKKkFsuvJM3gET",
             "https://drive.google.com/uc?export=view&id=1piufZmfFTdwIZUmHYjgntPAEbb-zf6aU", #14
             "https://drive.google.com/uc?export=view&id=1q2O_hYNI5pAbA0t8xvmRhyMPsOMJXAxR",
-            "https://drive.google.com/uc?export=view&id=1pp_qr_nHz-QXnmZeyqGDOKRy0O5nJmcj", #15
             "https://drive.google.com/uc?export=view&id=1q6pfhMRjcGUD59unfidgr6FrdcPLN1kf", #16
             "https://drive.google.com/uc?export=view&id=1q5cyhlZqkME5FjCB8p-87US5LXti-qvU", #17
         ]
@@ -211,7 +211,7 @@ elif menu == "Baleg":
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
                 "umur": "21",
-                "asal":"Tangerang Selatan",
+                "asal": "Tangerang Selatan",
                 "alamat": "Way Huwi",
                 "hobi": "Membaca",
                 "sosmed": "@annisacahyanisurya",
@@ -241,9 +241,31 @@ elif menu == "Baleg":
                 "pesan":"semoga kak dini punya pacar spek aktor cina" #10
             },
             {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "kak clau orangnya baik, my singer team",  
+                "pesan": "tahun ini jadi wl lagi dong kak, suara kak clau bagus banget" #13
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450126",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": " Sukarame",
+                "hobi": "Melukis",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Bang Fahrul asik dan mudah bergaul",  
+                "pesan":"spill lukisan bang, karyanya jangan lupa dijual bang biar jadi cuan" #17
+            },
+            {
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
-                "umur": "19",
+                "umur": "20",
                 "asal":"Bernung, Pesawaran",
                 "alamat": "Bandar Lampung",
                 "hobi": "Nonton Drakor",
@@ -261,17 +283,6 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "bang feryadi mudah senyum dan baik",  
                 "pesan":"hobinya jangan berubah ya bang" #12
-            },
-            {
-                "nama": "Claudhea Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobi": "Baca Jurnal",
-                "sosmed": "@dylebee",
-                "kesan": "kak clau orangnya baik, my singer team",  
-                "pesan": "tahun ini jadi wl lagi dong kak, suara kak clau bagus banget" #13
             },
             {
                 "nama": "Renisha Putri Giani",
@@ -305,17 +316,6 @@ elif menu == "Baleg":
                 "sosmed": "@_.dheamelia",
                 "kesan": "kak dhea kece dan asik",  
                 "pesan":"semoga ketemu ya kak dhea sinyalnya apalagi di basement" #16
-            },
-            {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450126",
-                "umur": "22",
-                "asal":"Surakarta",
-                "alamat": " Sukarame",
-                "hobi": "Melukis",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "Bang Fahrul asik dan mudah bergaul",  
-                "pesan":"spill lukisan bang, karyanya jangan lupa dijual bang biar jadi cuan" #17
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -356,8 +356,8 @@ elif menu == "Senator":
                 "umur": "22",
                 "asal":"Lampung Tengah",
                 "alamat": "Kos Putri Rahayu",
-                "hobi": "Bernyanyi",
-                "sosmed": "@annisalutfia_",
+                "hobi": "Dengerin bang Bintang nyanyi",
+                "sosmed": "@annisalutfi_",
                 "kesan": "Kak luthfi orangnya baik , ceria dan public speakingnya bagus bangeet",  
                 "pesan":"makasih ya kak luthfi udah dengan keluh kesah kami, semangat kuliahnya kak" #20
             },
@@ -382,13 +382,13 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1YUj1rA1R7eR5HuLwEeBlO8rq1f8IYlC0", #22
             "https://drive.google.com/uc?export=view&id=1ZEmkMLtffVrIXwJPEvgcQacmxlx9PLsA", #23
             "https://drive.google.com/uc?export=view&id=1ZAMZw3n5FMl7Fm8lD0n55lE3uKA1E-EA", #24
+            "https://drive.google.com/uc?export=view&id=1YHwXs_aCaXdrAZTiiJdFfpoGjU4fElPm", #31
             "https://drive.google.com/uc?export=view&id=1ZENVxN3AXdz57OTS0Xs9hSThsvJ2zGSa", #25
             "https://drive.google.com/uc?export=view&id=1YbOTchA4MqemvlugWfnjTL5QIQuINqOz", #26
             "https://drive.google.com/uc?export=view&id=1Z8i1FDXg9ot6Xi8t2SpQyaAYSnhjaDRp", #27
             "https://drive.google.com/uc?export=view&id=1Yk556WBA1XNXxMDBtG0NkWDirMYrymG8", #28
             "https://drive.google.com/uc?export=view&id=1YcRL6SS06Rh6c00UP-kOVWeO5dkia7s5", #29
             "https://drive.google.com/uc?export=view&id=1Y_JbJqFNfu4K6pT_QTdchsAjuK7Pw9jw", #30
-            "https://drive.google.com/uc?export=view&id=1YHwXs_aCaXdrAZTiiJdFfpoGjU4fElPm", #31
             "https://drive.google.com/uc?export=view&id=1YySgWmaeu7bwY-Rg30Gz2JLdsRaVRn19", #32
             "https://drive.google.com/uc?export=view&id=1YOZPBx5QQFUGj_zFaBlP_UHLwl4BA01C", #33
             "https://drive.google.com/uc?export=view&id=1YPn8zJFRcp9PfTQ_Zkl8qme_YTLSG_hh", #34
@@ -407,7 +407,7 @@ elif menu == "Departemen PSDA":
                 "nim": "121450026",
                 "umur": "21",
                 "asal":"Bekasi",
-                "alamat": "Kouiuhbam",
+                "alamat": "Kobam",
                 "hobi": "Travelling",
                 "sosmed": "@ericsonchandra99",
                 "kesan": "bang ericson orangnya baik dan aktif di setiap kegiatan",  
@@ -420,9 +420,20 @@ elif menu == "Departemen PSDA":
                 "asal":"Tangerang",
                 "alamat": "Kemiling",
                 "hobi": "Bernafas",
-                "sosmed": "@celisabeth",
+                "sosmed": "@celisabethh_",
                 "kesan": "kak sabeth orangnya baik dan tegas",  
                 "pesan":"semangat kuliahnya kak sabeth" #23
+            },
+            {
+                "nama": "Deyvan Loxefal",
+                "nim": "1214500148",
+                "umur": "21",
+                "asal": "Duri, Riau",
+                "alamat": "Pulau Damar Kobam",
+                "hobi": "Belajar",
+                "sosmed": "@depanloo",
+                "kesan": "bang deyvan orangnya baik dan ramah",  
+                "pesan": "semangat belajarnya bang" #31
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -500,17 +511,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@_ oktavianrwnda _",
                 "kesan": "kak okta orangnya tegas",  
                 "pesan": "keep strong terus kuliahnya kak okta" #30
-            },
-            {
-                "nama": "Deyvan Loxefal",
-                "nim": "1214500148",
-                "umur": "21",
-                "asal": "Duri, Riau",
-                "alamat": "Pulau Damar Kobam",
-                "hobi": "Belajar",
-                "sosmed": "@depanloo",
-                "kesan": "bang deyvan orangnya baik dan ramah",  
-                "pesan": "semangat belajarnya bang" #31
             },
             {
                 "nama": "Syalaisha Andini Putriansyah",
@@ -1126,7 +1126,7 @@ elif menu == "Departemen Internal":
                 "pesan"    : "awas dinonya lari bang, abangnya mirip abe"
             },
             {
-                "nama"     : "Renita Siahaan",
+                "nama"     : "Renta Siahaan",
                 "nim"      : "122450070",
                 "umur"     : "21",
                 "asal"     : "Sumatera Utara",
