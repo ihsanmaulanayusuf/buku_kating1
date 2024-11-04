@@ -664,25 +664,25 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def departemenmikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#37
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#38
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#39
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#40
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#42
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#43
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#44
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#37
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#38
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#39
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#40
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
+            "https://drive.google.com/uc?export=view&id=12ypJ6Gu4uxlbcg-DIrfxWxxeAX4mNtBd",#34
+            "https://drive.google.com/uc?export=view&id=12oSane8dnxmnWYsgajWUnJoetLT_cpZ6",#35
+            "https://drive.google.com/uc?export=view&id=12niNhdhHOZ9fVKdb3PC6gJc4a1J3adtS",#36
+            "https://drive.google.com/uc?export=view&id=12iZp0RHZUk_oEM2nctinrM5rho1M-fDa",#37
+            "https://drive.google.com/uc?export=view&id=13EsHpEaUkZLmX4fBCb9wKgWn603UfzlS",#38
+            "https://drive.google.com/uc?export=view&id=131Po3Bs29ztcnUxwW0OH7UfypzPFE4z-",#39
+            "https://drive.google.com/uc?export=view&id=12oq_Kprq09W_2i6s041VKkPb7lexSFRE",#40
+            "https://drive.google.com/uc?export=view&id=131gb2JP68wCNS0_FO_YxYF7mXmjNppyO",#41
+            "https://drive.google.com/uc?export=view&id=131qL6naWsLfdlZ52Ksy_NQE465HLDzxY",#42
+            "https://drive.google.com/uc?export=view&id=13EsHpEaUkZLmX4fBCb9wKgWn603UfzlS",#43
+            "https://drive.google.com/uc?export=view&id=12mouefRNePuxh0qGmi_ebMOdwCiYXlsL",#44
+            "https://drive.google.com/uc?export=view&id=130Iue6ZyffJxJsY38oFMLI7ten1WUYfj",#34
+            "https://drive.google.com/uc?export=view&id=12vE-GsDMvkGgkmtl8VCLoop7cirlrs_V",#35
+            "https://drive.google.com/uc?export=view&id=12kB2N3SvJsuiLIHslQjMmDonFYnV2rf6",#36
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#37
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#38
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#39
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#40
+            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#41
            
         ]
         data_list = [
@@ -695,10 +695,10 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
                 "kesan": "Gayanya santai tapi tetap kelihatan smart, keren!",
-                "pesan": "Sukses terus ya, Kak, semoga lancar sampai wisuda!"
+                "pesan": "Sukses terus ya, Kak, semoga lancar sampai wisuda!"#1
             },
             {
-                "nama": "Annisa Novantika",
+                "nama": "Annisa Novantika",#2
                 "nim": "121450005",
                 "umur": "21",
                 "asal": "Lampung Utara",
