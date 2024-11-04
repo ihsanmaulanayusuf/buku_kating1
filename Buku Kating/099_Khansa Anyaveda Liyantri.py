@@ -1607,8 +1607,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi": "Main HP",
                 "sosmed": "_akmal.faiz",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "Abang ini keliatannya perhatian dan pintar bangett",
+                "pesan": "Semangat terus bang, pertahanin perhatian ke anak anaknyaa!!"
             },
             {
                 "nama": "Hermawan Manurung",
@@ -1618,8 +1618,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani)",
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "Abang ini humoris, perhatian jugaa",
+                "pesan": "Makasih ya bang!! Semoga kebaikan yang abang sampaikan berbalik kembali ke abang"
             },
             {
                 "nama": "Khusnun Nisa",
@@ -1629,8 +1629,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Belwis",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "Kakak ini Polos, imut, dan baik sekali",
+                "pesan": "Semangat terus kak bikin design nyaaa!!!"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
