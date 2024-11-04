@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@amsirahk",
-                "kesan": "Abang ini mirip bang Pandra",  
+                "kesan": "Abang ini keren bangett, ramahh, aktif, suka bercerita. satu lagi, mirip bang Pandra",  
                 "pesan":"Sukses teruss bang Kahim !!!"# 1
             },
             {
@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "alamat": "Bawean 2",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": "Abang ini mirip bang Gumi",  
+                "kesan": "Abang ini humble dan baik, sering menjawab pertanyaan waktu wawancara juga",  
                 "pesan":"Semangat terus kuliahnya bang Sekjen"# 2
             },
             {
@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wulandarimelinza",
-                "kesan": "kakaknya imut banget",  
+                "kesan": "kakaknya cantik dan imut banget",  
                 "pesan":"Tetaplah rendah hati dan jangan berhenti belajar. Masa depanmu pasti cerah kakak sekre cantikk!!! "# 3
             },
             {
@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "kakaknya baik dan sedikit pendiam seperti kak Hartiti",  
+                "kesan": "kakaknya ramahhh bangett, dan keliatan agak introvert",  
                 "pesan":"Jangan pernah berhenti berjuang dan selalu berikan yang terbaik kakak sekre 1!!!"# 5
             },
             {
@@ -172,7 +172,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Bang Pandra gitaran kaya kak Putri",
                 "sosmed": "@nadillaandr26",
                 "kesan": "kakaknya keren dan tegas bangett",  
-                "pesan":"Jangan berhenti belajar dan teruslah menginspirasi orang-orang di sekitar kakak bendahara 1!!!"# 6
+                "pesan":"Semangat ngaspraknya Kak Nadilla jangan berhenti belajar dan teruslah menginspirasi orang-orang di sekitar kakak bendahara 1!!!"# 6
             }, 
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1139,7 +1139,7 @@ elif menu == "Departemen Internal":
                 "asal": "Lampung Barat",
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
-                "sosmed": "@akbar_restika",
+                "sosmed": "@akbar_resdika",
                 "kesan": "Abang ini aktif dan suka menjawab pertanyaan dengan baik",
                 "pesan": "Makasih sharingnya bang, semoga abang selalu dimudahkan dalam segala hal" #kadiv keharmonisasian
             },
@@ -1228,8 +1228,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Natar",
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "Kakak ini Keren, dan soft spoken banget",
+                "pesan": "Semangat terus ya kak, semoga kakak bisa jadi orang yang selalu menginspirasi ya Kak!!"
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1239,8 +1239,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@meirasty_",
-                "kesan": "",
-                "pesan": ""
+                "kesan": "Kakak ini cantik dan humble bangett",
+                "pesan": "Tetep jadi orang yang baik ya kak, pertahanin humble juga ya!!"
             },
             {
                 "nama": "Rendi Alexander Hutagalung",
@@ -1430,7 +1430,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "@",
+                "sosmed": "@wayyulaja",
                 "kesan": "Abang ini keren, ramah dan ga pelit ilmu, bikin kita merasa dihargai",
                 "pesan": "Semoga Abang selalu diberi kebahagiaan dan tercapai semua yang diinginkan" #1 kadep
             },
