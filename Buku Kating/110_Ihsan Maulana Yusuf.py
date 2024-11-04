@@ -1442,8 +1442,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Korpri",
                 "hobi": "Bernyanyi dan menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan": " ",  
-                "pesan":" " #120
+                "kesan": "Kakak ini pembawaanya tenang, cantik, ramah",  
+                "pesan":"Semangat kuliahnya kak, semoga bernyanyi ga hanya sebatas hobi kakak, dan semoga juga kakak bisa menajadi penyanyi yang berawal dari hobi menyanyi" #120
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
@@ -1486,8 +1486,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
-                "kesan": " ",  
-                "pesan":" " #124
+                "kesan": "Kakak ini cantik, kalem, baik ",  
+                "pesan":"Sehat selalu kak, semoga segala urusan kakak diperlancar sama Tuhan" #124
             },
             {
                 "nama": "Priska Silvia Ferantiana",
