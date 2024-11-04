@@ -1,81 +1,71 @@
-import streamlit as st
+# Import library yang diperlukan
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import streamlit as st
 
-# Judul aplikasi
-st.title("Analisis dan Visualisasi Data Magang CEO HMSD 2024")
-st.write("Unggah file CSV atau gunakan data bawaan untuk memulai analisis.")
+# Menampilkan Judul dan Deskripsi Aplikasi
+st.title("Analisis Data Magang CEO HMSD 2024")
+st.write("Analisis ini bertujuan untuk memahami persebaran peserta magang CEO HMSD 2024 berdasarkan data statistik deskriptif dan visualisasi yang mendukung.")
 
-# Mengunggah file CSV
-uploaded_file = st.file_uploader("Unggah file CSV", type=["csv"])
+# 1. Membaca Dataset
+# Baca file CSV yang diunggah
+data_magang = pd.read_csv('https://raw.githubusercontent.com/ihsanmaulanayusuf/buku_kating1/refs/heads/main/Pendataan%20Peserta%20Magang%20CEO%20HMSD%202024%20(Responses)%20-%20Form%20Responses%201%20-%20Pendataan%20Peserta%20Magang%20CEO%20HMSD%202024%20(Responses)%20-%20Form%20Responses%201.csv.csv')
 
-# Membaca data dari file CSV default jika tidak ada file yang diunggah
-if uploaded_file is not None:
-    data_magang = pd.read_csv(uploaded_file)
-else:
-    data_magang = pd.read_csv('Pendataan Peserta Magang CEO HMSD 2024 (Responses) - Form Responses 1 - Pendataan Peserta Magang CEO HMSD 2024 (Responses) - Form Responses 1.csv')  # Menggunakan file bawaan di repositori GitHub
+# Menampilkan Dataset
+st.subheader("Dataset Peserta Magang")
+st.write(data_magang)
 
-# Menampilkan data awal
-st.subheader("Data Magang Awal")
-st.write(data_magang.head())
+# 2. Analisis Statistik Deskriptif
+st.subheader("Analisis Statistik Deskriptif")
 
-# 1. Cleaning 'Provinsi' column
+# Membersihkan kolom yang diperlukan
 data_magang['1. Asal Provinsi'] = data_magang['1. Asal Provinsi'].str.strip()
 
-# 2. Filtering data
-data_lampung = data_magang[data_magang['1. Asal Provinsi'] == 'Lampung']
-data_luar_lampung = data_magang[data_magang['1. Asal Provinsi'] != 'Lampung']
+# Menghitung jumlah peserta dari masing-masing provinsi
+jumlah_peserta = data_magang['1. Asal Provinsi'].value_counts()
 
-# 3. Displaying filtered results
-st.write("Jumlah peserta dari Lampung:", len(data_lampung))
-st.write("Jumlah peserta dari luar Lampung:", len(data_luar_lampung))
+# Statistik deskriptif pada kolom usia jika ada
+if 'Umur' in data_magang.columns:
+    rata_umur = np.mean(data_magang['Umur'])
+    median_umur = np.median(data_magang['Umur'])
+    range_umur = np.max(data_magang['Umur']) - np.min(data_magang['Umur'])
+    variance_umur = np.var(data_magang['Umur'])
+    std_dev_umur = np.std(data_magang['Umur'])
+    quartiles_umur = np.percentile(data_magang['Umur'], [25, 50, 75])
 
-# Menghitung statistik dasar
-data_counts = [len(data_lampung), len(data_luar_lampung)]
-mean = np.mean(data_counts)
-median = np.median(data_counts)
-range_value = np.max(data_counts) - np.min(data_counts)
-variance = np.var(data_counts)
-std_dev = np.std(data_counts)
-quartiles = np.percentile(data_counts, [25, 50, 75])
+    # Menampilkan hasil analisis statistik
+    st.write("Rata-rata Umur:", rata_umur)
+    st.write("Median Umur:", median_umur)
+    st.write("Range Umur:", range_umur)
+    st.write("Variansi Umur:", variance_umur)
+    st.write("Standar Deviasi Umur:", std_dev_umur)
+    st.write("Kuartil Umur:", quartiles_umur)
+else:
+    st.write("Data usia peserta tidak tersedia.")
 
-# Menampilkan statistik
-st.subheader("Statistik Dasar")
-st.write("Rata-rata:", mean)
-st.write("Median:", median)
-st.write("Range:", range_value)
-st.write("Variansi:", variance)
-st.write("Standar Deviasi:", std_dev)
-st.write("Kuartil:", quartiles)
+# 3. Visualisasi Data
+st.subheader("Visualisasi Data")
 
-# Visualisasi grafik batang
-st.subheader("Grafik Batang Jumlah Peserta")
-fig, ax = plt.subplots()
-jumlah_peserta = pd.Series(data_counts, index=['Lampung', 'Luar Lampung'])
-jumlah_peserta.plot(kind='bar', color=['pink', 'yellow'], ax=ax)
-ax.set_xlabel('Kategori Asal')
-ax.set_ylabel('Jumlah Peserta')
-ax.set_title('Perbandingan Jumlah Peserta Magang dari Lampung dan Luar Lampung')
-st.pyplot(fig)
+# Grafik Bar untuk Jumlah Peserta Berdasarkan Provinsi
+st.write("Grafik Bar Jumlah Peserta dari Setiap Provinsi")
+st.bar_chart(jumlah_peserta)
 
-# Visualisasi scatter plot
-st.subheader("Scatter Plot Jumlah Peserta")
-fig, ax = plt.subplots()
-ax.scatter(jumlah_peserta.index, jumlah_peserta.values, color=['pink', 'yellow'], s=100)
-ax.set_xlabel('Kategori Asal')
-ax.set_ylabel('Jumlah Peserta')
-ax.set_title('Perbandingan Jumlah Peserta Magang dari Lampung dan Luar Lampung')
-ax.grid(True)
-st.pyplot(fig)
+# Grafik Boxplot untuk Distribusi Umur (jika data umur tersedia)
+if 'Umur' in data_magang.columns:
+    fig, ax = plt.subplots()
+    ax.boxplot(data_magang['Umur'], vert=True, patch_artist=True, boxprops=dict(facecolor="lightblue"))
+    ax.axhline(y=rata_umur, color='red', linestyle='--', label=f'Mean: {rata_umur}')
+    ax.axhline(y=median_umur, color='green', linestyle='-', label=f'Median: {median_umur}')
+    ax.set_ylabel('Umur')
+    ax.set_title('Boxplot Distribusi Umur Peserta Magang')
+    ax.legend()
+    st.pyplot(fig)
+else:
+    st.write("Tidak ada data umur untuk membuat visualisasi boxplot.")
 
-# Visualisasi boxplot
-st.subheader("Boxplot Data Peserta")
-fig, ax = plt.subplots()
-ax.boxplot(data_counts, vert=True, patch_artist=True, boxprops=dict(facecolor="lightblue"))
-ax.axhline(y=mean, color='red', linestyle='--', label=f'Mean: {mean}')
-ax.axhline(y=median, color='green', linestyle='-', label=f'Median: {median}')
-ax.set_ylabel('Nilai')
-ax.set_title('Boxplot Data Magang')
-ax.legend()
-st.pyplot(fig)
+# 4. Kesimpulan Analisis
+st.subheader("Kesimpulan")
+st.write("""
+Berdasarkan analisis data, terdapat perbedaan jumlah peserta magang dari masing-masing provinsi. Jika data usia tersedia, kita juga dapat melihat distribusi usia peserta dan memahami variansi serta penyebaran data umur mereka.
+""")
