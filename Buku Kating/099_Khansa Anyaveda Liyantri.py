@@ -382,15 +382,14 @@ elif menu == "Departemen PSDA":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=13BpftEyugi_nRv8CIDEIsW1yQdpIp71u", #1
             "https://drive.google.com/uc?export=view&id=13BpmwuKnTQjMnD4ryi2uLsogzD1B-K4L", #2
-            "https://drive.google.com/uc?export=view&id=136UJRINLiEB7RrXEMOrT4rzxhI4ibRbv", #
-            "https://drive.google.com/uc?export=view&id=12yUZvSEV9aUowxiQ9pN-2HQA7_5S5svZ", #
+            "https://drive.google.com/uc?export=view&id=136UJRINLiEB7RrXEMOrT4rzxhI4ibRbv", #3
             "https://drive.google.com/uc?export=view&id=1370U9MU4g5ZeOQM0J7YsWHdqUtC8b-bE", #12
             "https://drive.google.com/uc?export=view&id=13BPlGIxGQoyXtolPHAGKG4qbAWsQ2uNd", #13
             "https://drive.google.com/uc?export=view&id=136eCdtwSL3NfGUMj8n0Bth7qxQj8O3Xk", #14
             "https://drive.google.com/uc?export=view&id=13ApcRlYZNxfwZmk0-2y6JTPDXZ7OMsTy", #15
             "https://drive.google.com/uc?export=view&id=137HxddapiW0_cSOCrDlXuJfc7KMqHX3_", #20
             "https://drive.google.com/uc?export=view&id=136hwJD2xkkVClv4dHAwhf8QhJ_OG-TkY", #21
-            "https://drive.google.com/uc?export=view&id=12yUZvSEV9aUowxiQ9pN-2HQA7_5S5svZ", #
+            "https://drive.google.com/uc?export=view&id=12yUZvSEV9aUowxiQ9pN-2HQA7_5S5svZ", #4
             "https://drive.google.com/uc?export=view&id=13-rqDTBmm4KOyZq4ecg-vAHZfIhTjqaS", #8
             "https://drive.google.com/uc?export=view&id=12zOPuMl59yIcZIeqiCk46GRqu-Ensv3e", #6
             "https://drive.google.com/uc?export=view&id=12u2MFwJLQERa_onjNE426p6Z9KHqOR_q", #7
@@ -1101,6 +1100,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=18Q41oCyPwUxpvwtR2o95ibckDX6D07AC", #3
             "https://drive.google.com/uc?export=view&id=18NwLy52otdSjr6RL_gbxNuqv2UO3xxCq", #4
             "https://drive.google.com/uc?export=view&id=18JHDOUofaz1PExraec8nlInXAXPwbdOr", #5
+            "https://drive.google.com/uc?export=view&id=18MGYNe15NMfU0oPUjqEye-bMolY3HnyY", #13
             "https://drive.google.com/uc?export=view&id=18OU0J4feGJUeYRcszqnAywdomNjXUt4r", #6
             "https://drive.google.com/uc?export=view&id=18VF810Sfhco5E9qbWq3lAJBtr-C9m28a", #7
             "https://drive.google.com/uc?export=view&id=18UMOSA-CcetN80Q4S6xDb82kSO0fBcEA", #8
@@ -1108,7 +1108,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=18SMexfGUyfYH9PsWQ6DVI_IBpr6mZOVg", #10
             "https://drive.google.com/uc?export=view&id=18Sex_0--fg65Z4uXGUgY_3btgvDwl97X", #11
             "https://drive.google.com/uc?export=view&id=18TBDbisdE3UsgNxlpCTBhk9YU7oa3DG4", #12
-            "https://drive.google.com/uc?export=view&id=18MGYNe15NMfU0oPUjqEye-bMolY3HnyY", #13
         ]
         data_list = [
             {
@@ -1120,7 +1119,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
                 "kesan": "Abang ini ramah, keren, dan asik juga orangnya",
-                "pesan": "Semoga Bang Dimas bisa terus berkembang dan sukses di mana pun berada. tetap jadi orang keren ya bang!!!"
+                "pesan": "Semoga Bang Dimas bisa terus berkembang dan sukses di mana pun berada. tetap jadi orang keren ya bang!!!"# kadep
             },
             {
                 "nama": "Chatrine Sinaga",
@@ -1131,7 +1130,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
                 "kesan": "Kakak ini selalu tenang dan sabar",
-                "pesan": "Makasih banyak, Kak Catherine. Semoga ke depannya tambah lancar kariernya!"
+                "pesan": "Makasih banyak, Kak Catherine. Semoga ke depannya tambah lancar kariernya!" #sekdep
             },
             {
                 "nama": "M. Akbar Resdika",
@@ -1142,7 +1141,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
                 "kesan": "Abang ini aktif dan suka menjawab pertanyaan dengan baik",
-                "pesan": "Makasih sharingnya bang, semoga abang selalu dimudahkan dalam segala hal"
+                "pesan": "Makasih sharingnya bang, semoga abang selalu dimudahkan dalam segala hal" #kadiv keharmonisasian
             },
             {
                 "nama": "Renta Siahaan",
@@ -1165,6 +1164,17 @@ elif menu == "Departemen Internal":
                 "sosmed": "@slwfhn_694",
                 "kesan": "Kakak ini baik, humble, positif vibes",
                 "pesan": "Tetap jadi kakak yang hebat ya, Kak. Semoga semua usahanya berbuah manis!"
+            },
+            {
+                "nama": "Rani Puspita Ningrum",
+                "nim": "122450022",
+                "umur": "20",
+                "asal": "Metro",
+                "alamat": "Rajabasa",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@rannipu",
+                "kesan": "Kakak ini cantik, baik, dan cool banget",
+                "pesan": "Semangat terus kuliahnya kak, semoga bisa lulus tepat waktu dengan IPK yang diharapkan"
             },
             {
                 "nama": "Rendra Eka Prayoga",
@@ -1197,7 +1207,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
                 "kesan": "Abang ini baik dan sedikit pendiam",
-                "pesan": "Semangat terus Bang, Jangan lupa senyummm!!"
+                "pesan": "Semangat terus Bang, Jangan lupa senyummm!!" #kadiv kerohanian
             },
             {
                 "nama": "Josua Panggabean",
@@ -1243,17 +1253,6 @@ elif menu == "Departemen Internal":
                 "kesan": "Abang ini baik, pintar, dan terlihat sedikit pendiam",
                 "pesan": "Terimakasih Bang, Semoga kebaikan Abang dibalas dengan kesuksesan"
             },
-            {
-                "nama": "Rani Puspita Ningrum",
-                "nim": "122450022",
-                "umur": "20",
-                "asal": "Metro",
-                "alamat": "Rajabasa",
-                "hobbi": "Mendengarkan musik",
-                "sosmed": "@rannipu",
-                "kesan": "Kakak ini cantik, baik, dan cool banget",
-                "pesan": "Semangat terus kuliahnya kak, semoga bisa lulus tepat waktu dengan IPK yang diharapkan"
-            }
         ]
         display_images_with_data(gambar_urls, data_list)
     departemeninternal()
