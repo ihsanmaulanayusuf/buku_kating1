@@ -104,7 +104,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1nWq9M81Uurl1non0b-AJm5dHZ1qkod3y",
             "https://drive.google.com/uc?export=view&id=1nYklRTEPIWhv3b8OGpQ1ihwcZmRGWsx-",
             "https://drive.google.com/uc?export=view&id=1nOGkizORQASlGLdVbWmRTHV1oAq1YrYT",
-            "https://drive.google.com/uc?export=view&id=1P8WwN8w9rpXK3IzNbNY9g_PxPWJpoE46",
+            "https://drive.google.com/uc?export=view&id=1MYIpqPg_hI78b22AVd2QOPAApalVhu0d",
             "https://drive.google.com/uc?export=view&id=1nMIhShY-81d6ExBiO3bIVyG2HS_FfIoC",
         ]
         data_list = [
@@ -906,26 +906,27 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def departemeneksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
+            "https://drive.google.com/uc?export=view&id=1H4TZJykTf0mBdW73facrR99CnMnliz9g",#34
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
+            "https://drive.google.com/uc?export=view&id=1BDzfxwOSV3nBvflNLBNgnNVvHa1Ok0xT",#35
+            "https://drive.google.com/uc?export=view&id=1XlOREggDvyd83MdQ1eYmhqlNdGtSu6q3",#36
+            "https://drive.google.com/uc?export=view&id=15GadjXnt8hZ2Hg0aWXDMbIXVjIMtCJ_X",#37
+            "https://drive.google.com/uc?export=view&id=1AwkwnrXemrVDUuj57SUajKbne7h71s6-",#38
+            "https://drive.google.com/uc?export=view&id=1Ak1MWPgrU7hy-IWUeNjZCyOZttoJ8IC0",#39
+            "https://drive.google.com/uc?export=view&id=1wPOFwEKgc1u9B6sPWlr3qQfKUUgMZyvB",#40
+            "https://drive.google.com/uc?export=view&id=1nrwjMUS8PmE9laZnoVYAGse3d8EezpDO",#41
+            "https://drive.google.com/uc?export=view&id=1o-916n1BnC0MuxIEGNtAU6hSOGLndbSQ",#42
+            "https://drive.google.com/uc?export=view&id=1xYA0A0v-X8ua1ia5U3B4z1N5_y4LzPxa",#43
+            "https://drive.google.com/uc?export=view&id=1tJ0oJEqmhEHznTbWaiGvl692tShNefOf",#44
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#37
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#38
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#39
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#40
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#42
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#43
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#44
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
+            "https://drive.google.com/uc?export=view&id=1tPPPwmv4squFxeOU8VoYYl1WJXBQc5Wq",#34
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#37
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#38
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#39
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#40
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
+            "https://drive.google.com/uc?export=view&id=14tpKvDsPfRO9j_ppgT4fG3-ULq5mIp1v",#37
+            "https://drive.google.com/uc?export=view&id=1ufqY1h7xSHgEOCopCfZc20I8YJn0KlQ5",#38
+            "https://drive.google.com/uc?export=view&id=1tedclqhwim4kWKgQS3Hb0OwKpHFhZ4C2",#39
+            "https://drive.google.com/uc?export=view&id=12ZEKJMZuInJvm__PzLZ9RWL9GqDpOV0u",#40
+            "https://drive.google.com/uc?export=view&id=1tXXQXLJu_-_5EHmKMtqfdmRiLbzAkj2z",#41
+            
         ]
         data_list = [
             {
