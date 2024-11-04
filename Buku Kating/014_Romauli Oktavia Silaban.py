@@ -382,7 +382,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1YUj1rA1R7eR5HuLwEeBlO8rq1f8IYlC0", #22
             "https://drive.google.com/uc?export=view&id=1ZEmkMLtffVrIXwJPEvgcQacmxlx9PLsA", #23
             "https://drive.google.com/uc?export=view&id=1YHwXs_aCaXdrAZTiiJdFfpoGjU4fElPm", #31
-              "https://drive.google.com/uc?export=view&id=1ZAMZw3n5FMl7Fm8lD0n55lE3uKA1E-EA", #24
+            "https://drive.google.com/uc?export=view&id=1ZAMZw3n5FMl7Fm8lD0n55lE3uKA1E-EA", #24
             "https://drive.google.com/uc?export=view&id=1ZENVxN3AXdz57OTS0Xs9hSThsvJ2zGSa", #25
             "https://drive.google.com/uc?export=view&id=1YbOTchA4MqemvlugWfnjTL5QIQuINqOz", #26
             "https://drive.google.com/uc?export=view&id=1Z8i1FDXg9ot6Xi8t2SpQyaAYSnhjaDRp", #27
@@ -874,13 +874,13 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat kuliahnya bang yogy jangan lupa istirahat" #66
             },
             {
-                "nama": "Ramadhita Atifa Hendri",
-                "nim": "121450031",
-                "umur": "21",
-                "asal":"Bandar Lampung",
-                "alamat": "TVRI",
-                "hobi": "Jalan-jalan",
-                "sosmed": "@ramadhitaatifa",
+                "nama": "Ratu Keisha Jasmine Deanova",
+                "nim": " 122450106",
+                "umur": "20",
+                "asal":"Jakarta Selatan",
+                "alamat": "Way Kandis",
+                "hobi": "Pulang malam",
+                "sosmed": "@jasminednva",
                 "kesan": "kak dhita orangnya baik dan senyumnya manis",  
                 "pesan":"tetap semangat kak" #67
             },
