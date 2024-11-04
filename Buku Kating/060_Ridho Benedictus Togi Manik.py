@@ -1068,7 +1068,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Yohana Manik",
-                "nim": "122450",
+                "nim": "122450126",
                 "umur": "20",
                 "asal":"Sumatera Utara",
                 "alamat": "Belwis",
@@ -1268,7 +1268,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Ari Sigit",
-                "nim": "121450",
+                "nim": "121450069",
                 "umur": "23",
                 "asal":"Lampung Barat",
                 "alamat": "Labuhan Ratu",
@@ -1290,7 +1290,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Dearni Monica Br Manik",
-                "nim": "121450",
+                "nim": "121450075",
                 "umur": "21",
                 "asal":"Tangerang",
                 "alamat": "Jati Mulyo",
