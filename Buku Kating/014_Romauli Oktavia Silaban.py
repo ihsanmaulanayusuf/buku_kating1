@@ -398,7 +398,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1Y2yj3_Ap8G95MeiEYkCwA1clq3mZXMdv", #38
             "https://drive.google.com/uc?export=view&id=1YppUQUdQCSTGVdiXAgHnt2HR7Knd6wf4", #39
             "https://drive.google.com/uc?export=view&id=1YkXeFZz3l_nQrK2IpQ6R8UWglDFwynr8", #40
-            "https://drive.google.com/uc?export=view&id=1Z4xI2Bn4C3kppnRzRF7cFStyOUcO6hMB", #41
+            "https://drive.google.com/uc?export=view&id=1vWkFZTxoZq9bDq3nE7yYMCUwxR_nY_ZM", #41
             "https://drive.google.com/uc?export=view&id=1YsfJXTvkEyQ-IeVeRYq-wUh7x6dOymmN", #42
         ]
         data_list = [
