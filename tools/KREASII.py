@@ -1,12 +1,10 @@
 import streamlit as st
 import random
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
 
 st.title("Visualisasi Data Peserta Magang CEO HMSD 2024")
 st.write("Selamat datang!")
 
+import pandas as pd
 data_magang = pd.read_csv('/content/Pendataan Peserta Magang CEO HMSD 2024 (Responses) - Form Responses 1.csv')
 data_magang
 
@@ -21,6 +19,7 @@ data_luar_lampung = data_magang[data_magang['1. Asal Provinsi'] != 'Lampung']
 print("Jumlah peserta dari Lampung:", len(data_lampung))
 print("Jumlah peserta dari luar Lampung:", len(data_luar_lampung))
 
+import numpy as np
 data_magang = [50, 62]
 mean = np.mean(data_magang)
 print("Rata-rata:", mean)
@@ -39,6 +38,9 @@ print("Standar Deviasi:", std_dev)
 
 quartiles = np.percentile(data_magang, [50, 62])
 print("Kuartil:", quartiles)
+
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # Misalkan ini adalah dataset Anda (silakan ganti dengan dataset asli)
 data_magang = pd.DataFrame({
@@ -63,6 +65,9 @@ plt.ylabel('Jumlah Peserta')
 plt.title('Perbandingan Jumlah Peserta Magang dari Lampung dan Luar Lampung')
 plt.xticks(rotation=0)
 plt.show()
+
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # Misalkan ini adalah dataset Anda (silakan ganti dengan dataset asli)
 data_magang = pd.DataFrame({
