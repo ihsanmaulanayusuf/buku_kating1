@@ -1,3 +1,9 @@
+import streamlit as st
+import random
+
+st.title("Pendataan Peserta Magang CEO HMSD 2024")
+st.write("Selamat datang!")
+
 import pandas as pd
 data_magang = pd.read_csv('/content/Pendataan Peserta Magang CEO HMSD 2024 (Responses) - Form Responses 1.csv')
 data_magang
