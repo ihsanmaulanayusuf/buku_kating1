@@ -162,7 +162,7 @@ if menu == "Kesekjenan":
                 "pesan":"terimakasih sudah meluangkan waktunya kak, sukses ya kak!"# 5
             },
             {
-                "nama": "Nadila Andhara Putri",
+                "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
                 "asal":"Metro",
@@ -251,7 +251,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450126",
+                "nim": "121450156",
                 "umur": "22",
                 "asal":"Surakarta",
                 "alamat": "Sukarame",
@@ -447,7 +447,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Keep it fun, kak! semoga semua impian nya terwujud"# 4
             },
             {
-                "nama": "Eksanty Febriana Sugma Islamiyati",
+                "nama": "Eksanty Febriana Sugma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal":"Jawa Barat",
@@ -491,7 +491,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semoga terus bawa energy positif ya bang deri!"# 8
             },
             {
-                "nama": "Oktavia Nurwenda Puspita Sari",
+                "nama": "Oktavia Nurwinda Puspitasari",
                 "nim": "122450041",
                 "umur": "20",
                 "asal":"Lampung Timur",
@@ -547,7 +547,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
-                "nim": "122450122",
+                "nim": "122450142",
                 "umur": "20",
                 "asal":"Pekanbaru",
                 "alamat": "Belwis",
@@ -590,7 +590,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"terus jadi orang baik ya bang! terimakasi sudah jadi orang baik"# 17
             },
             {
-                "nama": "Gede Moana",
+                "nama": "Gede Moena",
                 "nim": "122450014",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -771,7 +771,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Syadza Puspadari Azhar",
-                "nim": "122450015",
+                "nim": "122450072",
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
@@ -815,7 +815,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450015",
+                "nim": "122450013",
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
@@ -988,7 +988,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "semoga ilmunya makin luas ya kak!"
             },
             {
-                "nama": "Rizky Adrian Bennovry",
+                "nama": "Rizki Adrian Bennovry",
                 "nim": "121450073",
                 "umur": "21",
                 "asal": "Bekasi",
@@ -1010,7 +1010,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "stay humble and keep inspiring"
             },
             {
-                "nama": "Asa Do’a Uyi",
+                "nama": "Asa Doa Uyi",
                 "nim": "122450005",
                 "umur": "20",
                 "asal": "Muara Enim",
@@ -1078,7 +1078,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Tria Yunanni",
-                "nim": "122450127",
+                "nim": "122450062",
                 "umur": "20",
                 "asal": "Palembang",
                 "alamat": "Way Dadi",
@@ -1124,8 +1124,8 @@ elif menu == "Departemen Internal":
                 "jabatan": "Kepala Departemen Internal" #1
             },
             {
-                "nama": "Chatrine Firdhasari Maulina Sinaga",
-                "nim": "121450071",
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Airan",
@@ -1135,7 +1135,7 @@ elif menu == "Departemen Internal":
                 "pesan": "stay postive kak" #2
             },
             {
-                "nama": "M. Akbar Restika",
+                "nama": "M. Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
@@ -1157,7 +1157,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat kuliah nya kak rani" #kak rani4
             },
             {
-                "nama": "Renita Siahaan",
+                "nama": "Renta Siahaan",
                 "nim": "122450070",
                 "umur": "21",
                 "asal": "Sumatera Utara",
@@ -1192,7 +1192,7 @@ elif menu == "Departemen Internal":
                 "jabatan": "Staff Keharmonisasian" #7
             },
             {
-                "nama": "Yosia Retare Banurea",
+                "nama": "Yosia Letare Banurea",
                 "nim": "121450149",
                 "umur": "20",
                 "asal": "Sumatera Utara",
@@ -1215,7 +1215,7 @@ elif menu == "Departemen Internal":
                 "jabatan": "Kepala Divisi Kerohanian" #9
             },
             {
-                "nama": "Azizah Kusuma Putri",
+                "nama": "Azizah Kusumah Putri",
                 "nim": "122450068",
                 "umur": "21",
                 "asal": "Lampung Selatan",
@@ -1293,7 +1293,7 @@ elif menu == "Departemen SSD":
                 "pesan": "Semangat terus bang kuliahnya" #101
             },
             {
-                "nama": "Adisty Syawaida Ariyanto",
+                "nama": "Adisty Syawalda Ariyanto",
                 "nim": "121450136",
                 "umur": "22",
                 "asal": "Metro",
@@ -1370,7 +1370,7 @@ elif menu == "Departemen SSD":
                 "pesan": "semoga diperlancar dalam segala hal ya kak" #108
             },
             {
-                "nama": "Alvia Asrinda Br.Gintng",
+                "nama": "Alvia Asrinda Br.Ginting",
                 "nim": "122450077",
                 "umur": "20",
                 "asal": "Binjai",
