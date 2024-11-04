@@ -1039,7 +1039,7 @@ elif menu == "Departemen Eksternal":
                 "pesan": "suka sama kakak yang ekstrovert banget, stay positive vibes terus kak" #83
             },
             {
-                "nama": "Khaalishah Zuhrah Alyaa Vanefi",
+                "nama": "Khaalishah Zahrah Alyaa Vanefi",
                 "nim": "122450034",
                 "umur": "20",
                 "asal": "Bandar Lampung",
