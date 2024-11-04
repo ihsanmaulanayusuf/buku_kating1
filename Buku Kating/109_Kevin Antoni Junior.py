@@ -187,7 +187,6 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1lcr5vzdwBXamZkDYzOve-TUc4j0YL5mg",
             "https://drive.google.com/uc?export=view&id=1kubut7GlIBhpGJK88Q3xPf2z9XcTABgS",
             "https://drive.google.com/uc?export=view&id=1lc0Vgc5f2aShBiZI1dvpWCzrzYxs8wGv",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1kvcTU7dop1bdGbXCVovK28fH5Q7XVTUN",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1l-pMaA_vqOy3gmdvDqK2WhVoNnJHCO1n",
@@ -261,17 +260,6 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!" #12
-            },
-            {
-                "nama": "Claudhea Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobbi": "Baca Jurnal",
-                "sosmed": "@dylebee",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!" #13
             },
             {
                 "nama": "Renisha Putri Giani",
@@ -390,10 +378,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1mHL87i9UFJuEY-2ozY5Tuh_WoQmGM03a",#30
             "https://drive.google.com/uc?export=view&id=1mHLYkX4ls-RUMNFrhdxydxDSXphAWeTR",#31
             "https://drive.google.com/uc?export=view&id=1nEg7c06o3XjEG5vkTbFY8IgS9V9xRWZZ",#32
-            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#33
             "https://drive.google.com/uc?export=view&id=1mKU16IxoYcKGO08m9c5F0-WzVxA-RJ75",#34
             "https://drive.google.com/uc?export=view&id=1mTX2Xeztv9rEGblkOTjCLs14kxbrZAeK",#35
-            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#36
             "https://drive.google.com/uc?export=view&id=1m-MipOVbDe2U8rOrAALkiM2KU0z3rwLU",#37
             "https://drive.google.com/uc?export=view&id=1lx4RnaCZq19zBXMa_re6eaYbw_zS5mWS",#38
             "https://drive.google.com/uc?export=view&id=1mXovCGmq2jj8Tpz_6sebqvrw0jO3vig5",#39
@@ -526,17 +512,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kak kuliahnya" #32
             },
             {
-                "nama": " Ibnu Farhan Al-Ghifari",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@-",
-                "kesan": "-",  
-                "pesan":"Semoga sukses bang" #33
-            },
-            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -557,17 +532,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@kemasverii",
                 "kesan": "Pj tugas sepuh coding , the best emang",  
                 "pesan":"Semangat terus bang, semoga sukses" #35
-            },
-            {
-                "nama": "Leonard Andreas Napitupulu",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@-",
-                "kesan": " ",  
-                "pesan":"Semangat terus bang" #36
             },
             {
                 "nama": "Presilia",
@@ -670,7 +634,6 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#37
             "https://drive.google.com/uc?export=view&id=12iZp0RHZUk_oEM2nctinrM5rho1M-fDa",#37
             "https://drive.google.com/uc?export=view&id=13EsHpEaUkZLmX4fBCb9wKgWn603UfzlS",#38
-            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#37
             "https://drive.google.com/uc?export=view&id=131Po3Bs29ztcnUxwW0OH7UfypzPFE4z-",#39
             "https://drive.google.com/uc?export=view&id=12oq_Kprq09W_2i6s041VKkPb7lexSFRE",#40
             "https://drive.google.com/uc?export=view&id=131gb2JP68wCNS0_FO_YxYF7mXmjNppyO",#41
@@ -681,8 +644,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=130Iue6ZyffJxJsY38oFMLI7ten1WUYfj",#34
             "https://drive.google.com/uc?export=view&id=12vE-GsDMvkGgkmtl8VCLoop7cirlrs_V",#35
             "https://drive.google.com/uc?export=view&id=12kB2N3SvJsuiLIHslQjMmDonFYnV2rf6",#36
-            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#37
-            "https://drive.google.com/uc?export=view&id=1lIabC2iu_V-mfWymntz2tz9SGnsvGm9A",#38
+            
             
            
             
@@ -754,17 +716,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "Kakak kayaknya bijak banget, cocok jadi role model.",
                 "pesan": "Tetap humble dan jadi diri sendiri ya, Kak!"
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": "Kakak ini kayaknya selalu datang tepat waktu, patut dicontoh!",
-                "pesan": "Terus jadi panutan buat yang lain juga ya, Kak!"
             },
             {
                 "nama": "Anwar Muslim",
@@ -875,28 +826,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@pratiwifebiya",
                 "kesan": "Kakak ini keliatan fun dan pasti punya banyak rekomendasi K-Drama.",
                 "pesan": "Semoga terus menikmati setiap episode yang ditonton, Kak!"
-            },
-            {
-                "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450013",
-                "umur": "20",
-                "asal": "Lampung",
-                "alamat": "Karang Anyar",
-                "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "Kakak ini pasti seru dan asik, bisa jadi teman main yang keren.",
-                "pesan": "Semoga selalu menemukan game yang seru, Kak!"
-            },
-            {
-                "nama": "Randa Andriana Putra",
-                "nim": "122450083",
-                "umur": "21",
-                "asal": "Banten",
-                "alamat": "Jl Nangka 3",
-                "hobbi": "Berolahraga",
-                "sosmed": "@randardn",
-                "kesan": "Kakak ini keliatan aktif, pasti sehat dan bugar.",
-                "pesan": "Semoga terus semangat berolahraga dan sehat selalu, Kak!"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -907,7 +836,6 @@ elif menu == "Departemen Eksternal":
     def departemeneksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1H4TZJykTf0mBdW73facrR99CnMnliz9g",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
             "https://drive.google.com/uc?export=view&id=1BDzfxwOSV3nBvflNLBNgnNVvHa1Ok0xT",#35
             "https://drive.google.com/uc?export=view&id=1XlOREggDvyd83MdQ1eYmhqlNdGtSu6q3",#36
             "https://drive.google.com/uc?export=view&id=15GadjXnt8hZ2Hg0aWXDMbIXVjIMtCJ_X",#37
@@ -918,9 +846,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1o-916n1BnC0MuxIEGNtAU6hSOGLndbSQ",#42
             "https://drive.google.com/uc?export=view&id=1xYA0A0v-X8ua1ia5U3B4z1N5_y4LzPxa",#43
             "https://drive.google.com/uc?export=view&id=1tJ0oJEqmhEHznTbWaiGvl692tShNefOf",#44
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
             "https://drive.google.com/uc?export=view&id=1tPPPwmv4squFxeOU8VoYYl1WJXBQc5Wq",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
             "https://drive.google.com/uc?export=view&id=14tpKvDsPfRO9j_ppgT4fG3-ULq5mIp1v",#37
             "https://drive.google.com/uc?export=view&id=1ufqY1h7xSHgEOCopCfZc20I8YJn0KlQ5",#38
             "https://drive.google.com/uc?export=view&id=1tedclqhwim4kWKgQS3Hb0OwKpHFhZ4C2",#39
@@ -939,17 +865,6 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@yogyyy",
                 "kesan": "Abang ini asik, tegas, baik, pemikirannya luas, dan bagus dalam publik speaking",  
                 "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #66
-            },
-            {
-                "nama": "Ramadhita Atifa Hendri",
-                "nim": "121450031",
-                "umur": "21",
-                "asal":"Bandar Lampung",
-                "alamat": "TVRI",
-                "hobbi": "Jalan-jalan",
-                "sosmed": "@ramadhitaatifa",
-                "kesan": "Kakak ini asik, baik, pemikirannya luas, dan publik speakingnya bagus",  
-                "pesan":"Semangat terus kak kuliahnya, bahagia selalu" #67
             },
             {
                 "nama": "Nazwa Nabilla",
@@ -1062,17 +977,6 @@ elif menu == "Departemen Eksternal":
                 "pesan":"Semangat terus bang kuliahnya, semoga hasilnya sesuai dengan keinginan abang" #77
             },
             {
-                "nama": "Arafi Ramadhan Maulana",
-                "nim": "121450143",
-                "umur": "21",
-                "asal":"Lubuk Linggau, Sumatera Selatan",
-                "alamat": "Jl. Nangka 4",
-                "hobbi": "Olahraga",
-                "sosmed": "@rafadhlillahh13",
-                "kesan": "Abang ini asik, baik, pemikirannya luas",  
-                "pesan":"Semangat terus bang kuliahnya, semoga bisa lulus dengan hasil yang memuaskan" #78
-            },
-            {
                 "nama": "Asa Do'a Uyi",
                 "nim": "122450005",
                 "umur": "20",
@@ -1082,17 +986,6 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@-",
                 "kesan": "Kakak ini asik, baik, pintar, dan murah senyum",  
                 "pesan":"Semangat terus kak kuliahnya, ceria terus ya kak" #79
-            },
-            {
-                "nama": "Chalifia Wananda",
-                "nim": "122450076",
-                "umur": "20",
-                "asal":"Padang",
-                "alamat": "Sukarame",
-                "hobbi": " ",
-                "sosmed": " ",
-                "kesan": "Kakak ini asik, baik, dan bagus dalam komunikasi",  
-                "pesan":"Semangat terus kak kuliahnya" #80
             },
             {
                 "nama": "Irvan Alfaritzi",
@@ -1166,7 +1059,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1JHHlzpdyfKvRDzSUooVktl9EpbuFsN-c",#40
             "https://drive.google.com/uc?export=view&id=1yOPcg-4_Zk7CNkM2b3yDQKjR8KFMgdG6",#41
             "https://drive.google.com/uc?export=view&id=1wwhVMvnu9Qnlnwvff37EH99tZLD2-yjs",#42
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#43
             "https://drive.google.com/uc?export=view&id=1YmgzoXmGUhKAQAuKBnwv9WbxWFAIHCqn",#44
             "https://drive.google.com/uc?export=view&id=1j8Tq8nVzfl4i9Zb4FuacWS1eTeY-I8d5",#34
             
@@ -1270,17 +1162,6 @@ elif menu == "Departemen Internal":
                 "sosmed": "@josuapanggabean_",
                 "kesan": "Kak Josua selalu bisa bikin orang tertawa.",
                 "pesan": "Semoga terus membawa keceriaan bagi orang-orang di sekitar ya, Kak!"
-            },
-            {
-                "nama": "Azizah Kusuma Putri",
-                "nim": "122450068",
-                "umur": "21",
-                "asal": "Lampung Selatan",
-                "alamat": "Natar",
-                "hobbi": "Berkebun",
-                "sosmed": "@azizahksma15",
-                "kesan": "Kak Azizah selalu ramah dan suka berbagi hasil kebunnya.",
-                "pesan": "Tetap semangat berkebun dan berbagi ya, Kak!"
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1447,7 +1328,6 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1vB60Pr_yi0FK_DjVMCI4MxOkilQWypP9",#34
             "https://drive.google.com/uc?export=view&id=1ujKwrfuSbVLvlRp1Lc8iYQRJyv2rmeL2",#35
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
             "https://drive.google.com/uc?export=view&id=1u3mo2PgPuQHumkwl2uVYC-M6W1nlJUOT",#37
             "https://drive.google.com/uc?export=view&id=1tpbUqFCPVB5kZ5qLHwDVrlvFeo5hwypf",#38
             "https://drive.google.com/uc?export=view&id=1uioMZJV-DgPj9N7YOdsqk_6t8qatfUC7",#39
@@ -1488,17 +1368,6 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@elokfiola",
                 "kesan": "Kak Elok keliatan cekatan dan teliti. Profesional banget kalau kerja!",
                 "pesan": "Tetap semangat, Kak Elok! Jangan lupa sisihkan waktu buat diri sendiri juga!"
-            },
-            {
-                "nama": "Arsyiah Azahra",
-                "nim": "121450035",
-                "umur": "21",
-                "asal": "Bandar Lampung",
-                "alamat": "Tanjung Senang",
-                "hobbi": "Nugas",
-                "sosmed": "@arsyiah._",
-                "kesan": "Kak Arsyiah sosok yang kuat dan selalu totalitas. Kerja kerasnya bikin salut!",
-                "pesan": "Jangan lupa rehat juga, Kak. Semoga makin sukses ke depannya!"
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
