@@ -1168,7 +1168,7 @@ elif menu == "Departemen Internal":
                 "asal":"Pesawaran",
                 "alamat": "Airan raya",
                 "hobi": "Ngeliat cogan",
-                "sosmed": "@slwfn_694",
+                "sosmed": "@slwafhn_694",
                 "kesan": "Kakaknya asik dan humble",  
                 "pesan":"Semoga hari-harinya ketemu cogan terus ya kak!" #kak salwa
             },
@@ -1265,7 +1265,7 @@ elif menu == "Departemen SSD":
                 "asal":"Panjibako",
                 "alamat": "Jl. Bel",
                 "hobi": "Mencari Uang",
-                "sosmed": "@andriangaol",
+                "sosmed": "@andrianlgaol",
                 "kesan": "Abangnya baik dan asik",  
                 "pesan":"Semangat mencari uangnya bang!" #bang andrian
 
@@ -1300,7 +1300,7 @@ elif menu == "Departemen SSD":
                 "asal":"Bukittinggi",
                 "alamat": "Airan 1",
                 "hobi": "Badminton",
-                "sosmed": "@ahmad.ris45",
+                "sosmed": "@ahmad.riz45",
                 "kesan": "Lucu dan keren",  
                 "pesan":"Semoga setiap aktivitasnya lancar tanpa kendala bang!" #bang ahmad
             },
@@ -1322,7 +1322,7 @@ elif menu == "Departemen SSD":
                 "asal":"Bogor",
                 "alamat": "Lapas",
                 "hobi": "Apa aja",
-                "sosmed": "@farrel_julio",
+                "sosmed": "@farrel__julio",
                 "kesan": "Keren dan baik",  
                 "pesan":"Semangat terus kuliahnya bang!" #bang farrel
 
@@ -1367,7 +1367,7 @@ elif menu == "Departemen SSD":
                 "asal":"Balam",
                 "alamat": "Jalan Nangka 1",
                 "hobi": "Tidur",
-                "sosmed": "@dhafinrzqa",
+                "sosmed": "@dhafinrzqa13",
                 "kesan": "Seru dan baik",  
                 "pesan":"Semoga impiannya bisa terwujud bang!" #bang dhafin
             },
@@ -1418,7 +1418,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal":"Makassar",
                 "alamat": "Sukarame",
                 "hobi": "Nonton",
-                "sosmed": "@",
+                "sosmed": "",
                 "kesan": "Abangnya baik dan pembawaan bicaranya enak didengar",  
                 "pesan":"Selalu menginspirasi dan menjadi teladan bang!" #bang wahyu
             },
@@ -1540,7 +1540,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Lapangan Golf UIN",
                 "hobi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "Baik banget dan sangat peduli",  
+                "kesan": "Baik banget dan namanya unik bang keren",  
                 "pesan":"Semangat dalam mnegejar cita-citanya bang!" #bang gym
             },
             {
