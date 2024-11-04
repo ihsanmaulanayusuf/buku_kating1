@@ -1423,7 +1423,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal"     : "Makassar, Sulsel",
                 "alamat"   : "Sukarame",
                 "hobbi"    : "Nonton",
-                "sosmed"   : "@-",
+                "sosmed"   : "@wayyulaja",
                 "kesan"    : "Abangnya keren, tegas, dan baik",  
                 "pesan"    : "Semoga kuliah dan kegiatan abang yang lain tetap lancar dan sukses!"
             },
