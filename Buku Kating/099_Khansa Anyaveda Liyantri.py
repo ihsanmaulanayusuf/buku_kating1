@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=151iYJpuIdkm-bU_5rX1Puw_12bub9AXf",# 1
-            "https://drive.google.com/uc?export=view&id=151UwaScsvKhi30bJ2hLeh0oH4c8Kyjmj",# 2
-            "https://drive.google.com/uc?export=view&id=1540ux8D6-fGiU0iDbpuyN9vdHN7QZL-I",# 3
-            "https://drive.google.com/uc?export=view&id=151sC0kOm2X20V6lWxf9yLyBoH9v8Uxem",# 4
-            "https://drive.google.com/uc?export=view&id=152sV2D_Oo4wdZdKG175Oo32yxGidokQt",# 5
-            "https://drive.google.com/uc?export=view&id=152QQBffwirZqfZIIWzSg6ISc1-X3ZHPn",# 6
+            "https://drive.google.com/uc?export=view&id=151iYJpuIdkm-bU_5rX1Puw_12bub9AXf",# 1kahim
+            "https://drive.google.com/uc?export=view&id=151UwaScsvKhi30bJ2hLeh0oH4c8Kyjmj",# 2sekjen
+            "https://drive.google.com/uc?export=view&id=1540ux8D6-fGiU0iDbpuyN9vdHN7QZL-I",# 3sekum
+            "https://drive.google.com/uc?export=view&id=151sC0kOm2X20V6lWxf9yLyBoH9v8Uxem",# 4bendum
+            "https://drive.google.com/uc?export=view&id=152sV2D_Oo4wdZdKG175Oo32yxGidokQt",# 5sekre1
+            "https://drive.google.com/uc?export=view&id=152QQBffwirZqfZIIWzSg6ISc1-X3ZHPn",# 6bend1
             
         ]
         data_list = [
@@ -184,16 +184,16 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=15BLGseVaYlVEfi7beBYG6Y6d9ofR4T3u",# 1
             "https://drive.google.com/uc?export=view&id=158mbC7-s_hbg2-NUrhWyshll0bSVL8gw",# 2
             "https://drive.google.com/uc?export=view&id=158k_5TL_FMFYfe1D5M4wB5orr6LvScCz",# 3
-            "https://drive.google.com/uc?export=view&id=15CfgkXCIRPy5iXV4yKSSwqILtLTyuTY2",# 4
-            "https://drive.google.com/uc?export=view&id=1HQ3eLyEdnan3O0d8vjn-CmvddPzzVOAV",# 5
+            "https://drive.google.com/uc?export=view&id=15CfgkXCIRPy5iXV4yKSSwqILtLTyuTY2",# 4.
+            "https://drive.google.com/uc?export=view&id=15Cv8mLfxLkglsdKQnO6stXTxT7rNEltV",# 12
             "https://drive.google.com/uc?export=view&id=157-PqUArCiusclvdIi6LbTzR3ONUhUFq",# 6
             "https://drive.google.com/uc?export=view&id=15A43GmlG9j4TXi9hqajZ18nJfCMSlIGY",# 7
+            "https://drive.google.com/uc?export=view&id=1HQ3eLyEdnan3O0d8vjn-CmvddPzzVOAV",# 5
+            "https://drive.google.com/uc?export=view&id=1HQ_d0TJCofwMY0rDZHpwUNKJ29lCASIX",# 13
+            "https://drive.google.com/uc?export=view&id=15C73VM9UVl6ByrthN56L57k5NQDRFOlx",# 11
             "https://drive.google.com/uc?export=view&id=159VkYNPiYdWkev85LGCmr2iDkAIdQllP",# 8
             "https://drive.google.com/uc?export=view&id=156Lb-l2AdrdyQv8nJdY9fpqwG-nITJHi",# 9
             "https://drive.google.com/uc?export=view&id=156y5bWZYw2J76E9mH9exYZJJz0MQk9hv",#10
-            "https://drive.google.com/uc?export=view&id=15C73VM9UVl6ByrthN56L57k5NQDRFOlx",# 11
-            "https://drive.google.com/uc?export=view&id=15Cv8mLfxLkglsdKQnO6stXTxT7rNEltV",# 12
-            "https://drive.google.com/uc?export=view&id=1HQ_d0TJCofwMY0rDZHpwUNKJ29lCASIX",# 13
         ]
         data_list = [
             {
@@ -205,7 +205,7 @@ elif menu == "Baleg":
                 "hobbi": "Nanya ke GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "selalu sigap kalau ditanya tentang organisasi",  
-                "pesan":"Makasih banyak udah jadi panutan, Kak! Semoga Kak Tri makin sukses dan bisa cepet lulus IPK besar."# 1
+                "pesan":"Makasih banyak udah jadi panutan, Kak! Semoga Kak Tri makin sukses dan bisa cepet lulus IPK besar."# 1kadep
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -216,7 +216,7 @@ elif menu == "Baleg":
                 "hobbi": "Membaca, menonton",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini ramah dan baik hati",  
-                "pesan":"Teruslah berkembang dan jangan takut sama tantangan baru. Masa depan cerah nungguin kakak!!!"# 2
+                "pesan":"Teruslah berkembang dan jangan takut sama tantangan baru. Masa depan cerah nungguin kakak!!!"# 2sekre
             },
             {
                 "nama": "Wulan Sabina",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "hobbi": "Belajar, nonton film, tidur",
                 "sosmed": "@wlsbn0",
                 "kesan": "Kakak ini cantik banget!!!",  
-                "pesan":"Kakak pasti bisa capai semua yang apa yang dicita-citakan!!"# 3
+                "pesan":"Kakak pasti bisa capai semua yang apa yang dicita-citakan!!"# 3bend
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -238,84 +238,7 @@ elif menu == "Baleg":
                 "hobbi": "Nonton Drachin",
                 "sosmed": "@anisadini10",
                 "kesan": "Kakak ini imut", 
-                "pesan":"semangat terus kuliahnya kakak imut !!!"# 4
-            },
-            {
-                "nama": "Claudhea Angeliani",
-                "nim": "122450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobbi": "Baca Jurnal",
-                "sosmed": "@dylebee",
-                "kesan": "Kakak ini vibesnya positif, bikin semangat kita ikut naik",  
-                "pesan":"sehat selalu kakakk!!"# 5
-            },
-            {
-                "nama": "Feryadi Yulius",
-                "nim": "122450087",
-                "umur": "20",
-                "asal":"Sumatera Selatan",
-                "alamat": "Way Kandis",
-                "hobbi": "Baca buku",
-                "sosmed": "@fer_yulius",
-                "kesan": "ramah dan nggak segan ngajarin kami",  
-                "pesan":"Semoga semua yang terbaik ada di masa depan abang"# 6
-            },
-            {
-                "nama": "Renisha Putri Giani",
-                "nim": "122450079",
-                "umur": "21",
-                "asal":"Bandar Lampung",
-                "alamat": "Teluk Betung",
-                "hobbi": "Jualan pancing",
-                "sosmed": "@fleurnsh",
-                "kesan": "Manis bangettttt!!!",  
-                "pesan":"Jangan pernah ragu buat terus maju dan cari pengalaman baru. Kakak pasti bakal sukses!!!"# 7
-            },
-            {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450156",
-                "umur": "22",
-                "asal":"Surakarta",
-                "alamat": "Sukarame",
-                "hobbi": "Melukis, olahraga",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "baik",  
-                "pesan":"Terima kasih banyak, bang Fahrul! Semoga sukses dan sehat selalu Bang"# 8
-            },
-            {
-                "nama": "Jeremia Susanto",
-                "nim": "122450022",
-                "umur": "20",
-                "asal":"Bandar Lampung",
-                "alamat": "Bandar Lampung",
-                "hobbi": "Bengong",
-                "sosmed": "@jeremia_s_",
-                "kesan": "Abang ini aktif menjawab pertanyaan",  
-                "pesan":"Makasih banyak ya, Bang! Semoga Abang dapet semua yang diimpikan. Tetap semangat."# 9
-            },
-            {
-                "nama": "Berliana Enda Putri",
-                "nim": "122450065",
-                "umur": "20",
-                "asal":"Sumatera Barat",
-                "alamat": "Way Huwi",
-                "hobbi": "Duduk di tepi pantai sambil galauin bintang ynag tinggal satu",
-                "sosmed": "@berlyyanda",
-                "kesan": "lucu dan seru",  
-                "pesan":"Tetap semangat terus ya, Kak! Aku doain kesuksesan selalu bersama Kakak"# 10
-            },
-            {
-                "nama": "Dhea Amelia Putri",
-                "nim": "122450004",
-                "umur": "20",
-                "asal":"Ogan Ilir",
-                "alamat": "Natar",
-                "hobbi": "Nyari Sinyal di gedung F",
-                "sosmed": "@_.dheamelia",
-                "kesan": "gemas dan random",  
-                "pesan":"Kak Dhea selalu bawa energi positif ke tim. Bikin suasana jadi semangat"# 11
+                "pesan":"semangat terus kuliahnya kakak imut !!!"# 4kk1
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -326,7 +249,40 @@ elif menu == "Baleg":
                 "hobbi": "Nonton drakor",
                 "sosmed": "@ansftynn_",
                 "kesan": "kakak ini baik dan sedikit pendiam",  
-                "pesan":"super sabar dan nggak pernah marah walaupun kita banyak nanya."# 12
+                "pesan":"super sabar dan nggak pernah marah walaupun kita banyak nanya."# 12anggotakk1
+            },
+            {
+                "nama": "Feryadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Sumatera Selatan",
+                "alamat": "Way Kandis",
+                "hobbi": "Baca buku",
+                "sosmed": "@fer_yulius",
+                "kesan": "ramah dan nggak segan ngajarin kami",  
+                "pesan":"Semoga semua yang terbaik ada di masa depan abang"# 6anggotakk1
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Jualan pancing",
+                "sosmed": "@fleurnsh",
+                "kesan": "Manis bangettttt!!!",  
+                "pesan":"Jangan pernah ragu buat terus maju dan cari pengalaman baru. Kakak pasti bakal sukses!!!"# 7anggotakk1
+            },
+            {
+                "nama": "Claudhea Angeliani",
+                "nim": "122450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Baca Jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "Kakak ini vibesnya positif, bikin semangat kita ikut naik",  
+                "pesan":"sehat selalu kakakk!!"# 5kk2
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -337,7 +293,51 @@ elif menu == "Baleg":
                 "hobbi": "Main kucing",
                 "sosmed": "@myrriinn",
                 "kesan": "Abang ini baik dan tinggi!!",  
-                "pesan":""# 13
+                "pesan":""# 13anggotakk2
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal":"Ogan Ilir",
+                "alamat": "Natar",
+                "hobbi": "Nyari Sinyal di gedung F",
+                "sosmed": "@_.dheamelia",
+                "kesan": "gemas dan random",  
+                "pesan":"Kak Dhea selalu bawa energi positif ke tim. Bikin suasana jadi semangat"# 11anggotakk2
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": "Sukarame",
+                "hobbi": "Melukis, olahraga",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "baik",  
+                "pesan":"Terima kasih banyak, bang Fahrul! Semoga sukses dan sehat selalu Bang"# 8kk3
+            },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Bengong",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Abang ini aktif menjawab pertanyaan",  
+                "pesan":"Makasih banyak ya, Bang! Semoga Abang dapet semua yang diimpikan. Tetap semangat."# 9anggotakk3
+            },
+            {
+                "nama": "Berliana Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobbi": "Duduk di tepi pantai sambil galauin bintang ynag tinggal satu",
+                "sosmed": "@berlyyanda",
+                "kesan": "lucu dan seru",  
+                "pesan":"Tetap semangat terus ya, Kak! Aku doain kesuksesan selalu bersama Kakak"# 10anggotakk3
             }
         ]
         display_images_with_data(gambar_urls, data_list)
