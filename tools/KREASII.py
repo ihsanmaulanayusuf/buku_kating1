@@ -9,8 +9,8 @@ st.title("Analisis Data Peserta Magang CEO HMSD 2024")
 
 # Penjelasan Umum
 st.write("""
-Selamat datang di aplikasi analisis data peserta magang CEO HMSD 2024. 
-Pada analisis ini, kita akan melihat data peserta magang yang berasal dari berbagai daerah dan melakukan analisis statistik 
+Selamat datang di artikel analisis data peserta magang CEO HMSD 2024 oleh Kelompok 1 Jordan. 
+Pada analisis ini, kita akan melihat dan menjelaskan data peserta magang yang berasal dari berbagai daerah dan melakukan analisis statistik 
 deskriptif serta visualisasi data untuk memberikan gambaran mengenai peserta magang ini.
 """)
 
@@ -56,6 +56,11 @@ st.write("Variansi jumlah peserta:", variance)
 st.write("Standar deviasi jumlah peserta:", std_dev)
 st.write("Kuartil:", quartiles)
 
+st.write("""
+Dari data yang didapatkan, bisa dilihat bahwa peserta magang dari luar Lampung (63 orang) lebih banyak dibandingkan peserta dari Lampung (49 orang). Hal ini menunjukkan bahwa program ini menarik banyak peserta dari berbagai daerah di luar Lampung.
+Rata-rata dan median yang sama di angka 56 menunjukkan bahwa distribusi jumlah peserta cenderung simetris, atau dengan kata lain, tidak ada kelompok yang dominan secara drastis.
+""")
+
 # 4. Visualisasi Data
 st.header("4. Visualisasi Data")
 st.write("""
@@ -72,6 +77,10 @@ ax.set_ylabel('Jumlah Peserta')
 ax.set_title('Perbandingan Jumlah Peserta Magang dari Lampung dan Luar Lampung')
 st.pyplot(fig)
 
+st.write("""
+Pada grafik batang, kita bisa melihat dengan jelas bahwa batang untuk peserta dari luar Lampung lebih tinggi dibandingkan batang peserta dari Lampung, yang mengonfirmasi bahwa jumlah peserta dari luar Lampung memang lebih besar.
+""")
+
 # Visualisasi Boxplot
 fig, ax = plt.subplots(figsize=(6, 8))
 ax.boxplot(jumlah_peserta, vert=True, patch_artist=True, boxprops=dict(facecolor="lightblue"))
@@ -81,3 +90,14 @@ ax.set_ylabel('Jumlah Peserta')
 ax.set_title('Boxplot Jumlah Peserta Berdasarkan Asal')
 ax.legend()
 st.pyplot(fig)
+
+st.write("""
+Pada boxplot, distribusi data terlihat cukup merata dengan sedikit rentang antara peserta dari Lampung dan luar Lampung. Hal ini menunjukkan bahwa perbedaan jumlah peserta antara kedua kelompok tidak terlalu besar dan data cenderung simetris tanpa adanya outlier yang signifikan.
+""")
+
+st.write("""
+Dari analisis ini, kita bisa menyimpulkan bahwa yang mengikuti program magang CEO HMSD 2024 dan yang masuk Prodi Sains Data menarik banyak minat dari luar Lampung dan memiliki persebaran jumlah peserta yang cukup merata di antara kedua kelompok Luar Lampung dan dari Lampung.
+""")
+
+st.write("""
+Terima kasih telah membaca analisis data peserta magang CEO HMSD 2024 dari kelompok 1 Jordan ini ya!.""")
