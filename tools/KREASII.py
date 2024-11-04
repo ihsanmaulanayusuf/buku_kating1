@@ -4,15 +4,19 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Judul aplikasi
-st.title("Visualisasi Data Peserta Magang CEO HMSD 2024")
-st.write("Selamat datang!")
+st.title("Analisis dan Visualisasi Data Magang CEO HMSD 2024")
+st.write("/content/Data Magang.csv")
 
 # Mengunggah file CSV
-uploaded_file = st.file_uploader("Unggah file CSV", type=["csv"])
+uploaded_file = st.file_uploader("/content/Data Magang.csv)
 
 if uploaded_file is not None:
     # Membaca data dari file yang diunggah
-    data_magang = pd.read_csv(uploaded_file)
+    data_magang = pd.read_csv(/content/Data Magang.csv)
+
+    # Menampilkan data awal
+    st.subheader("Data Magang Awal")
+    st.write(data_magang.head())
 
     # 1. Cleaning 'Provinsi' column
     data_magang['1. Asal Provinsi'] = data_magang['1. Asal Provinsi'].str.strip()
@@ -21,11 +25,11 @@ if uploaded_file is not None:
     data_lampung = data_magang[data_magang['1. Asal Provinsi'] == 'Lampung']
     data_luar_lampung = data_magang[data_magang['1. Asal Provinsi'] != 'Lampung']
 
-    # 3. Displaying results
+    # 3. Displaying filtered results
     st.write("Jumlah peserta dari Lampung:", len(data_lampung))
     st.write("Jumlah peserta dari luar Lampung:", len(data_luar_lampung))
 
-    # Statistik dasar
+    # Menghitung statistik dasar
     data_counts = [len(data_lampung), len(data_luar_lampung)]
     
     mean = np.mean(data_counts)
@@ -36,6 +40,7 @@ if uploaded_file is not None:
     quartiles = np.percentile(data_counts, [25, 50, 75])
 
     # Menampilkan statistik
+    st.subheader("Statistik Dasar")
     st.write("Rata-rata:", mean)
     st.write("Median:", median)
     st.write("Range:", range_value)
