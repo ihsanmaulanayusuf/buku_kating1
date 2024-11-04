@@ -179,19 +179,19 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1fgWqssmUziuaHQFIhr_DGWdhbn4q529v",
-            "https://drive.google.com/uc?export=view&id=1fyaC5ll6cdrFiObneJq1_ZiHe16DpQY6",
-            "https://drive.google.com/uc?export=view&id=1g6XAp6EaGDT4VRU_P_ZzZy9YV2OjQlso",
-            "https://drive.google.com/uc?export=view&id=1gKwnARsd07N3GCM8X465ikdrD-DEPHUW",
-            "https://drive.google.com/uc?export=view&id=1gQ9B0HT3YhoWyrbNB3RZJVVmMdiz4GkG",
-            "https://drive.google.com/uc?export=view&id=1gFk42bc_4efBRkvym4etYFX6WXIMPjzp",
-            "https://drive.google.com/uc?export=view&id=1fpA9i32p1kBNW_5oaJ5F3ONVhH2y5LWK",
-            "https://drive.google.com/uc?export=view&id=14qk7upfYCxCRKkfyquWu9qCIpRgWUbOn",
-            "https://drive.google.com/uc?export=view&id=14qbyVX3Ecvd7NjVC6K9fDRv6_PH17rIY",
-            "https://drive.google.com/uc?export=view&id=1fjhLldMZX79mtV2naj7MXNd5BBQaDo3-",
-            "https://drive.google.com/uc?export=view&id=1fvDgdR0Wfk9_Kmg84MCOsO7TdHhSuDU5",
-            "https://drive.google.com/uc?export=view&id=1gJhtp3YxE2T4LAIQlwFHTY2RGsX3rJz-",
-            "https://drive.google.com/uc?export=view&id=1gITGp2A-lpgSSNxPzgDuXCh4J6i79QYS",
+            "https://drive.google.com/uc?export=view&id=1fgWqssmUziuaHQFIhr_DGWdhbn4q529v", #1
+            "https://drive.google.com/uc?export=view&id=1fyaC5ll6cdrFiObneJq1_ZiHe16DpQY6", #2
+            "https://drive.google.com/uc?export=view&id=1g6XAp6EaGDT4VRU_P_ZzZy9YV2OjQlso", #3
+            "https://drive.google.com/uc?export=view&id=1gKwnARsd07N3GCM8X465ikdrD-DEPHUW", #4
+            "https://drive.google.com/uc?export=view&id=14qk7upfYCxCRKkfyquWu9qCIpRgWUbOn", #8
+            "https://drive.google.com/uc?export=view&id=1fvDgdR0Wfk9_Kmg84MCOsO7TdHhSuDU5", #11
+            "https://drive.google.com/uc?export=view&id=1gQ9B0HT3YhoWyrbNB3RZJVVmMdiz4GkG", #5
+            "https://drive.google.com/uc?export=view&id=1gFk42bc_4efBRkvym4etYFX6WXIMPjzp", #6
+            "https://drive.google.com/uc?export=view&id=1fpA9i32p1kBNW_5oaJ5F3ONVhH2y5LWK", #7
+            "https://drive.google.com/uc?export=view&id=14qbyVX3Ecvd7NjVC6K9fDRv6_PH17rIY", #9
+            "https://drive.google.com/uc?export=view&id=1fjhLldMZX79mtV2naj7MXNd5BBQaDo3-", #10
+            "https://drive.google.com/uc?export=view&id=1gJhtp3YxE2T4LAIQlwFHTY2RGsX3rJz-", #12
+            "https://drive.google.com/uc?export=view&id=1gITGp2A-lpgSSNxPzgDuXCh4J6i79QYS", #13
         ]
         data_list = [
             {
@@ -239,6 +239,28 @@ elif menu == "Baleg":
                 "pesan":"makasih atas motivasinya, "# 4
             },
             {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung timur",
+                "alamat": "Lampung timur",
+                "hobbi": "Baca jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "cantik bangettt",  
+                "pesan":"semoga dipermudah dalam segala hal ya kak, semangat!"# 8
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450126",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": "Sukarame",
+                "hobbi": "Melukis",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "abangnya baik, tapi sedikit pendiem",  
+                "pesan":"semangat kuliah ya bang, semoga diperlancar dalam segala hal"# 11
+            },
+            {
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
                 "umur": "19",
@@ -272,17 +294,6 @@ elif menu == "Baleg":
                 "pesan":"Semoga sehat-sehat terus dan sukses selalu!"# 7
             },
             {
-                "nama": "Claudhea Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung timur",
-                "alamat": "Lampung timur",
-                "hobbi": "Baca jurnal",
-                "sosmed": "@dylebee",
-                "kesan": "cantik bangettt",  
-                "pesan":"semoga dipermudah dalam segala hal ya kak, semangat!"# 8
-            },
-            {
                "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -303,17 +314,6 @@ elif menu == "Baleg":
                 "sosmed": "@_.dheamelia",
                 "kesan": "kak dhea asik, friendly banget",  
                 "pesan":"semoga hari harinya terus berwarna ya kak!"# 10
-            },
-            {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450126",
-                "umur": "22",
-                "asal":"Surakarta",
-                "alamat": "Sukarame",
-                "hobbi": "Melukis",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "abangnya baik, tapi sedikit pendiem",  
-                "pesan":"semangat kuliah ya bang, semoga diperlancar dalam segala hal"# 11
             },
             {
                "nama": "Berliana Enda Putri",
