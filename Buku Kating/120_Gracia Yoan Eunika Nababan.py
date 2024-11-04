@@ -256,7 +256,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Muhammad fachrul Aditya",
-                "nim": "121450126",
+                "nim": "121450156",
                 "umur": "22",
                 "asal":"Surakarta",
                 "alamat": "Sukarame",
@@ -516,7 +516,7 @@ elif menu == "Departemen PSDA":
                 "hobi": "Minum kopi, belajar, bikin deyvan senang",
                 "sosmed": "@roselivnes__",
                 "kesan": "Kakaknya jago basket, asik, dan baik",  
-                "pesan":"Semangat terus kuliahnya, basketnya kak, dan jangan lelah bikin bang deyvan senang!" #kak vanessa
+                "pesan":"Semangat terus kuliahnya dan semoga selalu bahagaia kak!" #kak vanessa
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -645,8 +645,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1bKU_PYXcMkF3IA6wdXRKYkDsB39k0cAc", #kak dinda
             "https://drive.google.com/uc?export=view&id=1ufAiRZrrKLPFSdZtEMviJAeGhqrLgfbE", #kak marleta
             "https://drive.google.com/uc?export=view&id=1VZkHwMbxchrmLkJZ_2nj3odt-mNVnmRJ", #kak rut
-            "https://drive.google.com/uc?export=view&id=1qHkw0rNj60mtNRZi4az493RHbr5OYmWg", #kak syadza
             "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc", #bang adit
+            "https://drive.google.com/uc?export=view&id=1qHkw0rNj60mtNRZi4az493RHbr5OYmWg", #kak syadza
             "https://drive.google.com/uc?export=view&id=10HtMXzV8oBASuu8L7UKsruQ_O3NmxmhB", #bang eggi
             "https://drive.google.com/uc?export=view&id=1Cp_sIhIu5a70rheKW0-_A5NXfv7cRNxj", #kak febiya
             "https://drive.google.com/uc?export=view&id=1Cziha9Z0PhCGP0fVjSDi4mM3KCF1cfo6", #bang happy
@@ -766,17 +766,6 @@ elif menu == "Departemen MIKFES":
 
             },
             {
-                "nama": "Syadza Puspadari Azhar",
-                "nim": "122450072",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Belwis",
-                "hobi": "Membangkitkan bilangan",
-                "sosmed": "@puspadrr",
-                "kesan": "Keren dan dekat kakaknya nyaman",  
-                "pesan":"Semangat membangkitkan bilangannya kak!" 
-            },
-            {
                 "nama"  : "Aditya Rahman",
                 "nim"   : "122450113",
                 "umur"  : "20",
@@ -786,6 +775,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@rahm_adityaa",
                 "kesan" : "Abangnya cool dan jago ngoding",  
                 "pesan" :"Tetap berkarya dan selalu sukses dalam studinya bang!"
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Belwis",
+                "hobi": "Membangkitkan bilangan",
+                "sosmed": "@puspadrr",
+                "kesan": "Keren dan dekat kakaknya nyaman",  
+                "pesan":"Semangat membangkitkan bilangannya kak!" 
             },
             {
                 "nama": "Eggi satria",
@@ -882,7 +882,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobi": "Jalan-jalan",
                 "sosmed": "@ramadhitatifa",
-                "kesan": "Kelhatannya kakaknya rajin dan seru",  
+                "kesan": "Kakaknya seruu",  
                 "pesan":"Semoga sukses dalam akademik dan non-akademiknya kak" #kak ramadhita
             },
             {
