@@ -1106,9 +1106,10 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1lpcSqwS3sPDwAEN_jVZjBZuX1AF7Fqe1", #7
             "https://drive.google.com/uc?export=view&id=1m-dAQylJ-YIFi2Ono6Yc5Noi8QF9VQPl", #8
             "https://drive.google.com/uc?export=view&id=1m8PBgRGBPOPmjFB0B50HNdNV5KA82ckB", #9
-            "https://drive.google.com/uc?export=view&id=1lqpt1AoHM82GFNoFNudrvq7-xaVJCON4", #10
-            "https://drive.google.com/uc?export=view&id=1luIGhQtMTZM7RjB8MAk6y1KtbBmIIQ9l", #11
-            "https://drive.google.com/uc?export=view&id=1mDEfNHWGG8f1ZbQZ4cv5NBilL1DGQOVe", #12
+            "https://drive.google.com/uc?export=view&id=1mEzUxjxva6h_t4N9wB14666ckulCIr_8", #10
+            "https://drive.google.com/uc?export=view&id=1lqpt1AoHM82GFNoFNudrvq7-xaVJCON4", #11
+            "https://drive.google.com/uc?export=view&id=1luIGhQtMTZM7RjB8MAk6y1KtbBmIIQ9l", #12
+            "https://drive.google.com/uc?export=view&id=1mDEfNHWGG8f1ZbQZ4cv5NBilL1DGQOVe", #13
             
         ]
         data_list = [
@@ -1225,7 +1226,7 @@ elif menu == "Departemen Internal":
                 "sosmed": "@azizahksma15",
                 "kesan": "baik, ramah, kalem",
                 "pesan": "semangat berkebun kak",
-                "jabatan": "Staff Kerohanian" #9
+                "jabatan": "Staff Kerohanian" #10
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1237,7 +1238,7 @@ elif menu == "Departemen Internal":
                 "sosmed": "@meirasty_",
                 "kesan": "kalem bangett",
                 "pesan": "stay kalem ya kak, sukses selalu",
-                "jabatan": "Staff Kerohanian" #10
+                "jabatan": "Staff Kerohanian" #11
             },
             {
                 "nama": "Rendi Alexander Hutagalung",
@@ -1248,7 +1249,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
                 "kesan": "abangnya kayanya introvert",
-                "pesan": "sukses untuk kuliahnya ya bang!", #11
+                "pesan": "sukses untuk kuliahnya ya bang!", #12
             },
             {
                 "nama": "Josua Alfa Viando Panggabean",
@@ -1259,7 +1260,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Ngejokes",
                 "sosmed": "@josuapanggabean_",
                 "kesan": "baik, humoris",
-                "pesan": "semoga lulus dengan hasil sesuai harapan"
+                "pesan": "semoga lulus dengan hasil sesuai harapan" #13
             }
         ]
         display_images_with_data(gambar_urls, data_list)
