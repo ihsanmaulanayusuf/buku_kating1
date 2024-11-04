@@ -1283,7 +1283,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
                 "kesan": "Abang ini keren, dan terlihat seperti bisa diandalkan",
-                "pesan": "Semangat terus Bang Kadep, semoga urusannya selalu dipermudah"
+                "pesan": "Semangat terus Bang Kadep, semoga urusannya selalu dipermudah" #kadep
             },
             {
                 "nama": "Adisty Syawaida Arianto",
@@ -1294,7 +1294,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Nonton Film",
                 "sosmed": "@adistysa_",
                 "kesan": "Kakak ini cantik dan positif vibes bangetttt",
-                "pesan": "Semoga kakak selalu dikelilingi keberuntungan."
+                "pesan": "Semoga kakak selalu dikelilingi keberuntungan." #sekdep
             },
             {
                 "nama": "Nabila Azhari",
@@ -1305,7 +1305,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Menghitung Uang",
                 "sosmed": "@zhjung",
                 "kesan": "Kakak ini orangnya ceria",
-                "pesan": "Terimakasih banyak kak, Semoga lancar terus kuliahnya"
+                "pesan": "Terimakasih banyak kak, Semoga lancar terus kuliahnya"# kadiv kwu
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -1360,7 +1360,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
                 "kesan": "Kakak ini sedikit pendiam, tapi baik dan ramah",
-                "pesan": "Semoga sukses terus dan selalu tercapai semua keinginan Kakak"
+                "pesan": "Semoga sukses terus dan selalu tercapai semua keinginan Kakak" #kadiv sponsorship
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1432,7 +1432,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton",
                 "sosmed": "@",
                 "kesan": "Abang ini keren, ramah dan ga pelit ilmu, bikin kita merasa dihargai",
-                "pesan": "Semoga Abang selalu diberi kebahagiaan dan tercapai semua yang diinginkan"
+                "pesan": "Semoga Abang selalu diberi kebahagiaan dan tercapai semua yang diinginkan" #1 kadep
             },
             {
                 "nama": "Elok Fiola",
@@ -1443,7 +1443,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
                 "kesan": "Kakak ini cantik banget, dan terilaht disiplin",
-                "pesan": "Semangat terus kuliah dan ngaspraknya kak Elok, jangan bosen ngajarin kita ya!!"
+                "pesan": "Semangat terus kuliah dan ngaspraknya kak Elok, jangan bosen ngajarin kita ya!!" #2 sekdep
             },
             {
                 "nama": "Arsyiah Azahra",
@@ -1454,29 +1454,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
                 "kesan": "Kakak ini keren dan seru banget orangnya",
-                "pesan": "Semoga ke depannya selalu sukses ya kak!!"
-            },
-            {
-                "nama": "Muhammad Kaisar Firdaus",
-                "nim": "121450135",
-                "umur": "21",
-                "asal": "Pesawaran",
-                "alamat": "Pulau Damar",
-                "hobbi": "Lagi Nyari",
-                "sosmed": "@dino_kiper",
-                "kesan": "Abang ini keren, tegas, dan menghargai orang lain",
-                "pesan": "Terimakasih Bang!!, semoga Abang lancar selalu dalam karier dan hidup"
-            },
-            {
-                "nama": "Muhammad Arsal Ranjana Putra",
-                "nim": "121450111",
-                "umur": "21",
-                "asal": "Depok",
-                "alamat": "Nangka 4",
-                "hobbi": "Ngoding",
-                "sosmed": "@arsal.utama",
-                "kesan": "Abang ini baik dan ramah, suka membantu kalau ada yang kesulitan",
-                "pesan": "Terimakasih ilmunya bang,  Semoga sukses dan jadi inspirasi!"
+                "pesan": "Semoga ke depannya selalu sukses ya kak!!" #3 kadiv media & konten
             },
             {
                 "nama": "Cintya Bella",
@@ -1487,7 +1465,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "Kakak ini cantik, murah senyum, dan tinggi bangettttt!!!",
-                "pesan": "Semangat terus kak, semoga selalu diberi kesehatan biar bisa ngegym teruss!!"
+                "pesan": "Semangat terus kak, semoga selalu diberi kesehatan biar bisa ngegym teruss!!" 
             },
             {
                 "nama": "Eka Fidiya Putri",
@@ -1545,6 +1523,17 @@ elif menu == "Departemen MEDKRAF":
                 "pesan": "Semangat terus ya kak, semoga sehat dan sukses selalu"
             },
             {
+                "nama": "Muhammad Kaisar Firdaus",
+                "nim": "121450135",
+                "umur": "21",
+                "asal": "Pesawaran",
+                "alamat": "Pulau Damar",
+                "hobbi": "Lagi Nyari",
+                "sosmed": "@dino_kiper",
+                "kesan": "Abang ini keren, tegas, dan menghargai orang lain",
+                "pesan": "Terimakasih Bang!!, semoga Abang lancar selalu dalam karier dan hidup" #4 kadiv pdd
+            },
+            {
                 "nama": "Dwi Ratna Anggraeni",
                 "nim": "122450008",
                 "umur": "20",
@@ -1587,6 +1576,17 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@prskslv",
                 "kesan": "Kakak ini orangnya seru, ceria, dan terlihat sabar",
                 "pesan": "Semangat terus kak, jangan sering-sering nangis dong walaupun hobi:("
+            },
+            {
+                "nama": "Muhammad Arsal Ranjana Putra",
+                "nim": "121450111",
+                "umur": "21",
+                "asal": "Depok",
+                "alamat": "Nangka 4",
+                "hobbi": "Ngoding",
+                "sosmed": "@arsal.utama",
+                "kesan": "Abang ini baik dan ramah, suka membantu kalau ada yang kesulitan",
+                "pesan": "Terimakasih ilmunya bang,  Semoga sukses dan jadi inspirasi!" #5 kadiv SSD
             },
             {
                 "nama": "Abit Ahmad Oktarian",
