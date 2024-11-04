@@ -536,6 +536,7 @@ elif menu == "Departemen PSDA":
                 "sosmed"   : "@allyaislami_",
                 "kesan"    : "Kakak ini asik, ramah, dan lucuu",  
                 "pesan"    : "Semangat terus kak Allya"#12
+            },
             {
                 "nama"     : "Eksanty Febriana Sugma Islamiyati",
                 "nim"      : "122450001",
