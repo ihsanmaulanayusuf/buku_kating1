@@ -1036,8 +1036,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Berkebun",
                 "sosmed": "@tobiassiagian",
-                "kesan": "Abang ini asik, baik, santai tapi tegas, serta seru untuk diajak diskusi",  
-                "pesan":"Semangat terus bang kuliahnya, sukses selalu dimanapun abang berada" #75
+                "kesan": "Abang ini keren",  
+                "pesan":"Semangat terus bang kuliahnya, sukses selalu dimanapun abang berada tetep rangkul kitorang bang hehe" #75
             },
             {
                 "nama": "Yohana Manik",
@@ -1124,8 +1124,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "daplok kelompok 1",
                 "sosmed": "@alyaavanefi",
-                "kesan": "Kakak ini cantik, baik banget, murah senyum, perhatian, dan daplok paling best lah",  
-                "pesan":"Semangat terus kak kuliahnya, bahagia terus dan sehat selalu" #83
+                "kesan": "cantik,baik,perhatian,merengutpun cantik perfect banget emang",  
+                "pesan":"Semangat terus kak kuliahnya, bahagia terus dan sehat selalu semoga sukses kakk" #83
             },
             {
                 "nama": "Raid Muhammad Naufal",
@@ -1367,8 +1367,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Touring",
                 "sosmed": "@dananghk_",
-                "kesan": "Kak Danang selalu ceria dan siap membantu.",
-                "pesan": "Semoga bisa ikut touring bareng, Kak!"
+                "kesan": "best daplok",
+                "pesan": "Semangat terus bang sehatt selalu"
             },
             {
                 "nama": "Farel Julio Akbar",
