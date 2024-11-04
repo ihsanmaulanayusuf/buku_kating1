@@ -112,7 +112,7 @@ if menu == "Kesekjenan":
                 "nama": "Kharisma Gumilang",
                 "nim": "121450142",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Pulau Damar",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
@@ -134,7 +134,7 @@ if menu == "Kesekjenan":
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
-                "asal":"Pagar Alam",
+                "asal": "Pagar Alam",
                 "alamat": "Kotabaru",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
@@ -145,12 +145,12 @@ if menu == "Kesekjenan":
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "Kakaknya baik banget",  
-                "pesan":"semoga sukses kak"# 4
+                "pesan": "semoga sukses kak"# 4
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -201,144 +201,144 @@ elif menu == "Baleg":
                 "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
-                "asal":"Bogor",
+                "asal": "Bogor",
                 "alamat": "Raden Saleh",
                 "hobbi": "Bertanya sama GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak selalu ramah dan mudah diajak ngobrol, suasananya jadi nyaman.",  
-                "pesan":"Semoga kakak terus sukses dalam kuliahnya dan selalu semangat menggapai impian!"#1
+                "pesan": "Semoga kakak terus sukses dalam kuliahnya dan selalu semangat menggapai impian!"#1
             },
             {
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450124",
                 "umur": "21",
-                "asal":"Tangerang Selatan",
+                "asal": "Tangerang Selatan",
                 "alamat": "Way Hui",
                 "hobbi": " Membaca",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "kakak ini bisa diajak cerita apa aja",  
-                "pesan":"Semangat belajarnya kak"#2
+                "pesan": "Semangat belajarnya kak"#2
             },
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
                 "umur": "21",
-                "asal":"Medan",
+                "asal": "Medan",
                 "alamat": "Raden Saleh",
                 "hobbi": "Menonton Film",
                 "sosmed": "@wlsbn0",
                 "kesan": "Kakaknya punya vibes positif yang bikin tenang",  
-                "pesan":"Semangat untuk menebarkan hal positif kak!"#3
+                "pesan": "Semangat untuk menebarkan hal positif kak!"#3
             },
             {
                 "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "20",
-                "asal":"Tangerang",
+                "asal": "Tangerang",
                 "alamat": "Jati Agung",
                 "hobbi": "Nonton Dracin",
                 "sosmed": "@anisadini10",
                 "kesan": "Peka sama lingkungan, supportif banget.",  
-                "pesan":"Terus kasih kita dukungan ya kak, semangat!"#4
+                "pesan": "Terus kasih kita dukungan ya kak, semangat!"#4
             },
              {
                 "nama": "Claudhea Angeliani",
                 "nim": "1214500124",
                 "umur": "19",
-                "asal":"Lampung Timur",
+                "asal": "Lampung Timur",
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "Kakaknya asik diajak bicara",  
-                "pesan":"semangat menggapai cita-citanya kak !!!"#5
+                "pesan": "semangat menggapai cita-citanya kak !!!"#5
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450156",
                 "umur": "22",
-                "asal":"Surakarta",
+                "asal": "Surakarta",
                 "alamat": "Sukarame",
                 "hobbi": "Melukis",
                 "sosmed": "@fhrul.pdf",
                 "kesan": "Abangnya punya vibes lucu tapi  tenang dan pinter",  
-                "pesan":"Semoga kuliahnya lancar terus ya bang!"#6
+                "pesan": "Semoga kuliahnya lancar terus ya bang!"#6
             },
             {
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
                 "umur": "20",
-                "asal":"Bernung Pesawaran",
+                "asal": "Bernung Pesawaran",
                 "alamat": "Bandar Lampung",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@ansftynn_",
                 "kesan": "Kakaknya punya vibes lucu tapi  tenang dan pinter",  
-                "pesan":"Semoga kuliahnya lancar terus ya kak!"#7
+                "pesan": "Semoga kuliahnya lancar terus ya kak!"#7
             },
             {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
-                "asal":"Padang",
+                "asal": "Padang",
                 "alamat": "Belwis",
                 "hobbi": "Solat Dhuha",
                 "sosmed": "@fer_yulius",
                 "kesan": "Abangnya pendiam tapi tetap seru",  
-                "pesan":"Lancar selalu kuliahnya bang"#8
+                "pesan": "Lancar selalu kuliahnya bang"#8
             },
             {
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
                 "umur": "21",
-                "asal":"Bandar Lampung",
+                "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
                 "hobbi": "Baca Al-Quran",
                 "sosmed": "@myrrinn",
                 "kesan": "Kakaknya baik, dan pintar",  
-                "pesan":"Jaga kesehatan biar tetap semangat ya kak!!"#9
+                "pesan": "Jaga kesehatan biar tetap semangat ya kak!!"#9
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "1224500018",
                 "umur": "20",
-                "asal":"Jakarta",
+                "asal": "Jakarta",
                 "alamat": "Korpri",
                 "hobbi": "Main kucing",
                 "sosmed": "@myrriinn",
                 "kesan": "Abangnya baik dan ramah banget",  
-                "pesan":"Selalu berbuat kebaikan ya!"#10
+                "pesan": "Selalu berbuat kebaikan ya!"#10
             },
             { 
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "20",
-                "asal":"Ogan Ilir",
+                "asal": "Ogan Ilir",
                 "alamat": "Natar",
                 "hobbi": "Nyari sinyal di gedung F",
                 "sosmed": "@_.dheamelia",
                 "kesan": "Kakaknya punya lucu dan selalu bikin orang lain tertawa",  
-                "pesan":"Semoga hidup kakak baik-baik terus ya!"#11
+                "pesan": "Semoga hidup kakak baik-baik terus ya!"#11
             },
             {
                 "nama": "Berliana enda putri",
                 "nim": "122450000",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@berlyyanda",
                 "kesan": "Kakaknya bisa bikin seneng semua orang",  
-                "pesan":"Semoga kakak selalu diberkahi kebahagiaan!"#12
+                "pesan": "Semoga kakak selalu diberkahi kebahagiaan!"#12
             },
             {
                "nama": "Jeremia Susanto",
                 "nim": "122450022",
                 "umur": "20",
-                "asal":"Bandar Lampung",
+                "asal": "Bandar Lampung",
                 "alamat": "Billabong, Gedong Air",
                 "hobbi": "Suka Bengong",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Kakak selalu buat orang lain ketawa",  
-                "pesan":"Terus menghibur orang sekitar ya kak!"#13
+                "pesan": "Terus menghibur orang sekitar ya kak!"#13
             },
         ]
         display_images_with_data(gambar_urls, data_list)
