@@ -431,7 +431,7 @@ elif menu == "Departemen PSDA":
                 "asal": "Tangerang",
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
-                "sosmed": "@celisabeth",
+                "sosmed": "@celisabethh_",
                 "kesan": "Kakak nya baik banget dan seru sekali",  
                 "pesan": "Jangan lupa jaga kesehatan ya kak dan tetap semangat semangat!"
             },
@@ -1425,7 +1425,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "@wayuraja",
+                "sosmed": "@wayyulaja",
                 "kesan": "Abang nya baik dan banyak cerita pengalamannya",  
                 "pesan": "Semangat terus kuliahnya bang agar bisa lulus tepat waktu!"
             },
