@@ -1153,18 +1153,18 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def departemeninternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#35
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#36
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#37
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#38
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#39
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#40
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#41
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#42
+            "https://drive.google.com/uc?export=view&id=1UEBj0AEAfa_aI6Hltaqk2Z6Xw4CsnMYa",#34
+            "https://drive.google.com/uc?export=view&id=1JDuAWudKxSFVtYS9oSI3BSMhNhQeicJH",#35
+            "https://drive.google.com/uc?export=view&id=1saa6N_y4izY39UAYrO0dCKHP9XOO8JO7",#36
+            "https://drive.google.com/uc?export=view&id=1DJ06NkGeIi-ohpwJ-ZfwWXwIBj2h_s0n",#37
+            "https://drive.google.com/uc?export=view&id=1TkEwcuHZJaMEiZ15AFia64i-WuufTzUt",#38
+            "https://drive.google.com/uc?export=view&id=1haqAz7pndcxxLjmU6vlub1LoF9InalY2",#39
+            "https://drive.google.com/uc?export=view&id=1JHHlzpdyfKvRDzSUooVktl9EpbuFsN-c",#40
+            "https://drive.google.com/uc?export=view&id=1yOPcg-4_Zk7CNkM2b3yDQKjR8KFMgdG6",#41
+            "https://drive.google.com/uc?export=view&id=1wwhVMvnu9Qnlnwvff37EH99tZLD2-yjs",#42
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#43
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#44
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#34
+            "https://drive.google.com/uc?export=view&id=1YmgzoXmGUhKAQAuKBnwv9WbxWFAIHCqn",#44
+            "https://drive.google.com/uc?export=view&id=1j8Tq8nVzfl4i9Zb4FuacWS1eTeY-I8d5",#34
             
         ]
         data_list = [
