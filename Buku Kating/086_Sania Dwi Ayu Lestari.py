@@ -1153,7 +1153,7 @@ elif menu == "Departemen Internal":
                 "umur": "21",
                 "asal":"Metro",
                 "alamat": "Rajabasa",
-                "hobi": "Mengaji",
+                "hobbi": "Mengaji",
                 "sosmed": "@rannipu",
                 "kesan": "kakanya baik tapi keliatannya aga introvert",  
                 "pesan":"semangat kuliah nya kak rani" #kak rani4
