@@ -694,7 +694,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi"    : "Olahraga",
                 "sosmed"   : "@rafadhlillahh13",
                 "kesan"    : "Abangnya pinter dan diskusi sama kakak seru banget! Banyak insight baru yang didapat",  
-                "pesan"    : "Terima kasih bang! Harapannya bisa lebih sering berdiskusi dengan abang!
+                "pesan"    : "Terima kasih bang! Semoga bisa terus belajar dari abangnya!"
             },
             {
                 "nama"     : "Annisa Novantika",
@@ -705,7 +705,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi"    : "Memasak",
                 "sosmed"   : "@anovavona",
                 "kesan"    : "Kakak ini baik, ramah, dan penuh semangat",  
-                "pesan"    : "Semoga selalu selalu dalam hal apapun kakak!"
+                "pesan"    : "Semoga sukses selalu dalam hal apapun kakak!"
             },
             {
                 "nama"     : "Mujadid Choirus Surya",
@@ -727,7 +727,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi"    : "Olahraga",
                 "sosmed"   : "@sahid22__",
                 "kesan"    : "Abang ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "pesan"    : "Semangat selalu kuliahnya dan jangan lupa tersenyum bang"
             },
             {
                 "nama"     : "Fadhil Fitra Wijaya",
@@ -782,7 +782,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi"    : "ML (Machine Learning)",
                 "sosmed"   : "@here.am.ai",
                 "kesan"    : "Abang ini kalem, sabar, ramah, dan baik",  
-                "pesan"    : "Semangat dan semoga kita bisa terus berkomunikasi dan berbagi ide bang!"
+                "pesan"    : "Semangat dan semoga selalu sabar ngajarin kita ya bang"
             },
             {
                 "nama"     : "Deva Anjani Khayyuninafsyah",
@@ -793,7 +793,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi"    : "Resume Webinar",
                 "sosmed"   : "@anjaniiidev",
                 "kesan"    : "Kakak ini baik, asik banget diajak ngobrol, dan ramah",  
-                "pesan"    : "Semoga bisa mendengar lebih banyak cerita inspiratif dari kakak dan semangat terus kak"
+                "pesan"    : "Semoga bisa mendengar lebih banyak cerita yang keren dari kakak dan semangat terus kak"
             },
             {
                 "nama"     : "Dinda Nababan",
@@ -953,8 +953,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Jatimulyo",
                 "hobbi"    : "Bangun pagi",
                 "sosmed"   : "@yogyyyyyyy",
-                "kesan"    : "Abang ini asik, ramah, dan public speakingnya bagus",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abangnya tegas namun punya vibe yang asik banget",  
+                "pesan"    : "Tetap semangat bang! Sukses selalu, semoga bisa terus berkarya dan jadi teladan!"
             },
             {
                 "nama"     : "Ramadhita Atifa Hendri",
@@ -964,8 +964,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "TVRI",
                 "hobbi"    : "Jalan-jalan",
                 "sosmed"   : "@ramadhitatifa",
-                "kesan"    : "Kakak ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini baik, ramah yang bikin ngobrol jadi enak dan informatif",  
+                "pesan"    : "Harapan terbaik buat kakak, semoga semua rencana kakak tercapai!"
             },
             {
                 "nama"     : "Nazwa Nabilla",
@@ -975,8 +975,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Way Kandis",
                 "hobbi"    : "Belajar",
                 "sosmed"   : "@nazwanbilla",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak seru banget ngejelasin, bikin wawancara jadi hidup",  
+                "pesan"    : "Semangat dan semoga sukses selalu dalam belajarnya kak!"
             },
             {
                 "nama"     : "Bastian Heskia Silaban",
@@ -986,8 +986,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Belwis",
                 "hobbi"    : "Main game",
                 "sosmed"   : "@bastiansilaban_",
-                "kesan"    : "Abang ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abang ini baik, open-minded, dan ramah",  
+                "pesan"    : "Semangat bang, semoga terus diberi kemudahan dalam perjalanan kuliah dan kegiatan lainnya!"
             },
             {
                 "nama"     : "Dea Mutia Risani",
@@ -997,8 +997,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Korpri",
                 "hobbi"    : "Dengerin musik",
                 "sosmed"   : "@deaa.rsn",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini asik, ramah, dan seru banget ngejelasinnya",  
+                "pesan"    : "Sukses dan semangat selalu kak! Semoga bisa terus jadi inspirasi buat kita semua!"
             },
             {
                 "nama"     : "Esteria Rohanauli Sidauruk",
@@ -1008,8 +1008,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Bandar Lampung",
                 "hobbi"    : "Kirim BC-an",
                 "sosmed"   : "@esteriars",
-                "kesan"    : "Kakak ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini baik, asik, dan  selalu ramah",  
+                "pesan"    : "Terima kasih atas waktunya kak, semoga kakak bisa makin sukses dan bahagia!"
             },
             {
                 "nama"     : "Natasya Ega Lina Marbun",
@@ -1019,8 +1019,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Pemda",
                 "hobbi"    : "Jadi humas",
                 "sosmed"   : "@nateee__15",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini kalem, ramah, dan baik",  
+                "pesan"    : "Tetap semangat kak! sukses selalu, semoga bisa terus berkarya"
             },
             {
                 "nama"     : "Novelia Adinda",
@@ -1030,8 +1030,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Belwis",
                 "hobbi"    : "Tidur",
                 "sosmed"   : "@nvliaadinda",
-                "kesan"    : "Kakak ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini baik, ramah, dan soft spoken yang bikin ngobrol jadi nyaman",  
+                "pesan"    : "Semangat terus, semoga semua rencana kedepan kakak tercapai"
             },
             {
                 "nama"     : "Ratu Keisha Jasmine Deanova",
@@ -1041,8 +1041,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Way Kandis",
                 "hobbi"    : "Pulang malam",
                 "sosmed"   : "@jasminednva",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini ramah dan positive vibes",  
+                "pesan"    : "Semoga semua pengalaman berharga kakak di sini jadi bekal hebat buat ke depannya!"
             },
             {
                 "nama"     : "Tobias David Manogari",
@@ -1052,8 +1052,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Pemda",
                 "hobbi"    : "Berkebun",
                 "sosmed"   : "@tobiassiagian",
-                "kesan"    : "Abang ini baik, asik, seru, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abangnya kelihatan tegas ternyata asik dan baik",  
+                "pesan"    : "Abangnya keren! Semoga terus semangat dan sukses di semua bidang bang!"
             },
             {
                 "nama"     : "Yohana Manik",
@@ -1063,8 +1063,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Belwis",
                 "hobbi"    : "Menimba ilmu",
                 "sosmed"   : "@yo_anamnk",
-                "kesan"    : "Kakak ini asik, ramah, dan kakak",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini keren dan punya perspektif yang luas",  
+                "pesan"    : "Semangat selalu kuliahnya kakak dan makasih atas ilmu yang bermanfaatnya kak"
             },
             {
                 "nama"     : "Rizki Adrian Bennovry",
@@ -1074,8 +1074,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "TVRI",
                 "hobbi"    : "Bikin portofolio",
                 "sosmed"   : "@rzkdrnnn",
-                "kesan"    : "Abang ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abangnya ternyata humble dan asik banget, bikin sesi wawancara jadi enjoy",  
+                "pesan"    : "Sukses selalu bang! Semoga langkah apapun selalu dilancarkan bang"
             },
             {
                 "nama"     : "Arafi Ramadhan Maulana",
@@ -1085,8 +1085,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Way Huwi",
                 "hobbi"    : "Imam TVRI",
                 "sosmed"   : "@arafiramadhanmaulana",
-                "kesan"    : "Abang ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abang ini humble, ramah, dan komunikatif",  
+                "pesan"    : "Semoga abangnya selalu dikelilingi hal-hal baik dan mencapai semua cita-citanya!"
             },
             {
                 "nama"     : "Asa Doa Uyi",
@@ -1096,8 +1096,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Korpri",
                 "hobbi"    : "Nyuci baju",
                 "sosmed"   : "@u_yippy",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini ramah, baik, humble banget bikin nyaman untuk ngobrol",  
+                "pesan"    : "Semoga kakak selalu diberi kesehatan dan kekuatan buat jalani semua kesibukan!"
             },
             {
                 "nama"     : "Chalifia Wananda",
@@ -1107,8 +1107,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Sukarame",
                 "hobbi"    : "Q-Time",
                 "sosmed"   : "@chlfawww",
-                "kesan"    : "Kakak ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini lucu, baik, dan ramah banget",  
+                "pesan"    : "Harapan terbaik buat kakak! Semoga selalu sukses dan terus menginspirasi."
             },
             {
                 "nama"     : "Irvan Alfaritzi",
@@ -1118,8 +1118,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Sukarame",
                 "hobbi"    : "Nonton Youtube, Main Game",
                 "sosmed"   : "@alfaritziirvan",
-                "kesan"    : "Abang ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abang ini ramah, baik, dan cara menjawabnya saat wawancara santai tapi tetap fokus.",  
+                "pesan"    : "Tetap jadi inspirasi bang! Semoga ilmu yang abang bagi makin luas manfaatnya."
             },
             {
                 "nama"     : "Izza Lutfia",
@@ -1129,8 +1129,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Teluk Betung",
                 "hobbi"    : "Main Rubik",
                 "sosmed"   : "@izzalutfiaa",
-                "kesan"    : "Kakak ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini baik, asik, ramah, dan ceria banget",  
+                "pesan"    : "Bahagia selalu kak, semoga ilmu yang kakak bagi makin luas manfaatnya."
             },
             {
                 "nama"     : "Khaalishah Zuhrah Alyaa Vanefi",
@@ -1140,8 +1140,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Rajabasa",
                 "hobbi"    : "Jadi daplok kelompok 1",
                 "sosmed"   : "@alyaavanefi",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakaknya lucu, supportif, sabar dan baik banget",  
+                "pesan"    : "Jangan cape buat ngajarin dan ngingetin kita ya kak, semangat dan bahagia selalu kakak!"
             },
             {
                 "nama"     : "Raid Muhammad Naufal",
@@ -1151,8 +1151,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Sukarame",
                 "hobbi"    : "Telat",
                 "sosmed"   : "@rayths_",
-                "kesan"    : "Abang ini baik, asik, dan ramah",  
-                "pesan"    : "Semangat selalu kuliahnya bang!"
+                "kesan"    : "Abang ini ramah, asik, bikin ngobrol jadi enak dan informatif",  
+                "pesan"    : "Harapannya, kakak makin sukses dan tetap semangat berbagi ilmu ke kita"
             },
             {
                 "nama"     : "Tria Yunanni",
@@ -1162,8 +1162,8 @@ elif menu == "Departemen Eksternal":
                 "alamat"   : "Sukarame",
                 "hobbi"    : "Membaca chat",
                 "sosmed"   : "@tria_y062",
-                "kesan"    : "Kakak ini asik, ramah, dan baik",  
-                "pesan"    : "Semangat selalu kuliahnya kakak!"
+                "kesan"    : "Kakak ini asik, ceria, dan punya energi positif yang bikin kita semangat",  
+                "pesan"    : "Semoga kuliah dan kegiatan kakak lancar semua! Terima kasih sudah berbagi kak"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
