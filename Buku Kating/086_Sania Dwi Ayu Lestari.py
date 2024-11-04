@@ -384,20 +384,20 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1kxKOuBdBcNLPnHrzKeliGCvQz3ZltV8V", #1
             "https://drive.google.com/uc?export=view&id=1lGu70rWDDpkVRpa9cRGLZRMzrmBNKdGK", #2
             "https://drive.google.com/uc?export=view&id=1kjp3ld_lqrneYkR5uBaZuBrcaLypSQEQ", #3
-            "https://drive.google.com/uc?export=view&id=1kcQIhguidw01Is36N7mXwUqK_as2C95y", #10
-            "https://drive.google.com/uc?export=view&id=1kU6qJ8wzb4N1REuRYXHefmJn6y_bET90", #17
             "https://drive.google.com/uc?export=view&id=1kk8O_bT_Qn1kUW3ePNXZyVR0EY0AtzrT", #4
             "https://drive.google.com/uc?export=view&id=1l68HV_2dJCE_fzMxiQj3kPGtUZbKYqOr", #5
             "https://drive.google.com/uc?export=view&id=1kl4fosqOdBaMur1DMlnnSy2WTqaORx83", #6
             "https://drive.google.com/uc?export=view&id=1k_N0NWKTlAgW_0eU5BPOB48XsQBcK5IM", #7
             "https://drive.google.com/uc?export=view&id=1km_WYwb3yOBevAqdP0xNV5d33myvM8Ff", #8
             "https://drive.google.com/uc?export=view&id=1l8lXiNTNVrbjGlNS-LTksZNcBCuNFWVe", #9
+            "https://drive.google.com/uc?export=view&id=1kcQIhguidw01Is36N7mXwUqK_as2C95y", #10
             "https://drive.google.com/uc?export=view&id=1kdrU2AwCeOUjikTsoQmTMB50u1eQVuIt", #11
             "https://drive.google.com/uc?export=view&id=1knKy2B1gBMnkfx6Zd3sC2lWDD-gyu-Zg", #12
             "https://drive.google.com/uc?export=view&id=1kkjGxzjnaG5gznpCjpGFBECACuz8iZMz", #13
             "https://drive.google.com/uc?export=view&id=1l94wpBW5tRsqikDVwd04dYL7MZaoDWkQ", #14
             "https://drive.google.com/uc?export=view&id=1lE75AV0F5SM4BHS3IK_-5jpH61c98sVJ", #15
             "https://drive.google.com/uc?export=view&id=1lDqzBgknljRlHeJsjUTMP2TpK4NZvIwl", #16
+            "https://drive.google.com/uc?export=view&id=1kU6qJ8wzb4N1REuRYXHefmJn6y_bET90", #17
             "https://drive.google.com/uc?export=view&id=1kVYbs2E6394NaYZBZJ78Z2losM3Bg7bC", #18
             "https://drive.google.com/uc?export=view&id=1lGnY5-IftXz9HH3X_5rDfS8eruEeis7o", #19
             "https://drive.google.com/uc?export=view&id=1kWg5hvU0j95IXgyqVxU1-VwvFxH5nIU8", #20
@@ -436,28 +436,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@afifahnsrn",
                 "kesan": "Cantikk bangettt",  
                 "pesan":"Keep being awesome!!"# 3
-            },
-            {
-                "nama": "Deyvan Loxefal",
-                "nim": "121450148",
-                "umur": "21",
-                "asal":"Duri, Riau",
-                "alamat": "Pulau damar, Kobam",
-                "hobbi": "Belajar",
-                "sosmed": "@depanloo",
-                "kesan": "abangnya seru, asikk, bisa bikin suasana jadi ceria,",  
-                "pesan":"semoga terus berbagi keceriaan ya bang!"# 10
-            },
-            {
-                "nama": "M. Farhan Athaulloh",
-                "nim": "121450117",
-                "umur": "21",
-                "asal":"Lampung",
-                "alamat": "Kota baru",
-                "hobbi": "Menolong",
-                "sosmed": "@mfarhan.ath",
-                "kesan": "pembawaan nya santai, friendly jugaa, suka menolong",  
-                "pesan":"terus jadi orang baik ya bang! terimakasi sudah jadi orang baik"# 17
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -526,6 +504,17 @@ elif menu == "Departemen PSDA":
                 "pesan":"Keep that calmness kak okta"# 9
             },
             {
+                "nama": "Deyvan Loxefal",
+                "nim": "121450148",
+                "umur": "21",
+                "asal":"Duri, Riau",
+                "alamat": "Pulau damar, Kobam",
+                "hobbi": "Belajar",
+                "sosmed": "@depanloo",
+                "kesan": "abangnya seru, asikk, bisa bikin suasana jadi ceria,",  
+                "pesan":"semoga terus berbagi keceriaan ya bang!"# 10
+            },
+            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -590,6 +579,17 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@roselivness",
                 "kesan": "kakanya baik, seru kalo ngobrol selalu punya kata kata yang tepat",  
                 "pesan":"tetap ramah dan rendah hati ya ka!"# 16
+            },
+            {
+                "nama": "M. Farhan Athaulloh",
+                "nim": "121450117",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Kota baru",
+                "hobbi": "Menolong",
+                "sosmed": "@mfarhan.ath",
+                "kesan": "pembawaan nya santai, friendly jugaa, suka menolong",  
+                "pesan":"terus jadi orang baik ya bang! terimakasi sudah jadi orang baik"# 17
             },
             {
                 "nama": "Gede Moana",
