@@ -1417,7 +1417,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal":"Makassar",
                 "alamat": "Sukarame",
                 "hobi": "Nonton",
-                "sosmed": "",
+                "sosmed": "@wayyulaja",
                 "kesan": "Abangnya baik dan pembawaan bicaranya enak didengar",  
                 "pesan":"Selalu menginspirasi dan menjadi teladan bang!" #bang wahyu
             },
