@@ -1358,7 +1358,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "@",
+                "sosmed": "@wayyulaja",
                 "kesan": "Kak Wahyu kelihatan berwibawa dan visioner. Salut sama dedikasinya di departemen.",
                 "pesan": "Semangat terus, Kak! Jangan lupa istirahat di tengah kesibukan, ya."
             },
