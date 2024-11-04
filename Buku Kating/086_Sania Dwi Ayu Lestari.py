@@ -887,7 +887,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan": "kakanya lucu, bisa request gaya lucu lucu",
-                "pesan": "tetap ceria kak",
+                "pesan": "tetap ceria kak"
             },
             {
                 "nama": "Nazwa Nabila",
@@ -1076,7 +1076,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayths_",
                 "kesan": "baik tapi sedikit pendiem",
-                "pesan": "semangat ya menjalani kegiatan pengmasnya!",
+                "pesan": "semangat ya menjalani kegiatan pengmasnya!"
             },
             {
                 "nama": "Tria Yunanni",
@@ -1087,8 +1087,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Olahraga",
                 "sosmed": "@triayunanni",
                 "kesan": "cantik, kakanya receh banget",
-                "pesan": "tetep receh ya kak ketawanya nular soalnya",
-                "jabatan": "Staff Divisi Pengabdian Masyarakat"
+                "pesan": "tetep receh ya kak ketawanya nular soalnya"
             }
         ]
         display_images_with_data(gambar_urls, data_list)
