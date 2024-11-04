@@ -419,7 +419,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Tangerang",
                 "alamat": "Kemiling",
                 "hobi": "Bernafas",
-                "sosmed": "@celisabeth",
+                "sosmed": "@celisabethh_",
                 "kesan": "Kakak ini asik, cantik, ramah, tegas dan murah senyum, ",  
                 "pesan":"Semangat terus kak, jangan lupa tersenyum, iringi usaha dan doa agar sesuatu yang ingin dicapai bisa maksimal kak" #23
             },
@@ -1353,7 +1353,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal":"Makassar, Sulawesi Selatan",
                 "alamat": "Sukarame",
                 "hobi": "Nonton",
-                "sosmed": "@",
+                "sosmed": "@wayyulaja",
                 "kesan": "Abang ini tegas, baik, sangat menghargai orang lain, disiplin, serta seru untuk diajak diskusi",  
                 "pesan":"Semangat bang semoga bisa cepat lulus, dan mendapatkan pekerjaan yang bagus, sesuai kemampuan dan minat abang, semoga semangat abang tidak pernah padam ya" #112
             },
