@@ -80,4 +80,4 @@ if uploaded_file is not None:
     st.pyplot(fig)
 
 else:
-    st.write("Silakan unggah file CSV untuk melanjutkan.")
+    st.write("/content/Data Magang.csv")
