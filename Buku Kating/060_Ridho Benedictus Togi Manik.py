@@ -942,7 +942,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1-9R9ZlKdLYUoJUTsufwNFs4tZkTpaQq8", #71
             "https://drive.google.com/uc?export=view&id=1WHZ0BzKhuBXQolW-H8jIkuzoRIc9jtBa", #72
             "https://drive.google.com/uc?export=view&id=1_bL8OeY6UOvozBZivFwRpiQLP7wIdQAK", #73
-            "https://drive.google.com/uc?export=view&id=11hYUxBsPrDIR_k6H5TvTyOSSHYkB4xNlN", #74
+            "https://drive.google.com/uc?export=view&id=1hYUxBsPrDIR_k6H5TvTyOSSHYkB4xNlN", #74
             "https://drive.google.com/uc?export=view&id=1aOGjqUYogxyGnprVl8QJSg-DviNIQNiJ", #75
             "https://drive.google.com/uc?export=view&id=1_JM_IIWJrRCk2LlhHZJ18wHHKzU-b58H", #76
             "https://drive.google.com/uc?export=view&id=1FfiS1nxEHqbqs_PAaTxV3_H0kD-aAj46", #77
