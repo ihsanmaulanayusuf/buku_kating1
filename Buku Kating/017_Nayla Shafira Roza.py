@@ -185,7 +185,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1Jj4Cc7PW9FXZbZyUvnEXn-Ia5XNshxbf", #2
             "https://drive.google.com/uc?export=view&id=1rVnhRYy-X8KD5RXAJ1SargEjOp06HsS-", #3
             "https://drive.google.com/uc?export=view&id=1-Ip-p2G6pDretXHluvm3S3VaYUvgB8Mm", #4
-            "https://drive.google.com/uc?export=view&id=1Kw03vZ-2K67azi-G82PX2YpWE_xzS5j", #5 
+            "https://drive.google.com/uc?export=view&id=1vyF51h5f1tsyMFUJHFg521GrS4b1rxsf", #5 
             "https://drive.google.com/uc?export=view&id=1YLxMZM5I5OEJMQeHqScmVis2v4ap33_T", #6 
             "https://drive.google.com/uc?export=view&id=1KSNB68psloidEVMXV33-wvJI2TOd86W8", #7
             "https://drive.google.com/uc?export=view&id=1ju57v-IuAcDOy-jiGDyygBov9ZMPNVHT", #8
@@ -382,13 +382,13 @@ elif menu == "Departemen PSDA":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1oU_VbxLR6fUM7920Yd5SM1e5hG-VYiM4", #1
             "https://drive.google.com/uc?export=view&id=1QjXY4nVal4Btj2Y1M4u6k3mt5EllBSyb", #2
-            "https://drive.google.com/uc?export=view&id=1-Cfi3fOw1ObYwk_lmp-6EUhWl5tfl4nH", #3
-            "https://drive.google.com/uc?export=view&id=1aW8-X29lu2un3Mxn1oYcgtYtNBtUtU7z", #4
+            "https://drive.google.com/uc?export=view&id=1F-CWJoSvbEwOmy92FRKs7MaKT06NRhAq", #3
+            "https://drive.google.com/uc?export=view&id=1UOdh8qL5y7DO8dJ9Y1oJPRcI_eDE-IPf", #4
             "https://drive.google.com/uc?export=view&id=15Ce45_vykMbhPpmk9YneQi3aJ-H6-Pgx", #5
             "https://drive.google.com/uc?export=view&id=1GArDgE5JlQVRrkfY7Bc8QSIZQ98eA43S", #6
             "https://drive.google.com/uc?export=view&id=1hcjnIUWvPBFmju-RHQWeTomvc6YkwMio", #7
             "https://drive.google.com/uc?export=view&id=156jSV4SZUhkhjUmhZWOKqAF5fvvBVpz0", #8
-            "https://drive.google.com/uc?export=view&id=15Db6AQCC0gSrgaZ87Iqbe7GGg4Ybpym", #9
+            "https://drive.google.com/uc?export=view&id=15Db6AQCC0gSrgaZ87Iqbe7GGg4YbpymP", #9
             "https://drive.google.com/uc?export=view&id=1bv3c8h-WWIWDBmB3C_K4O18nyrkpLka9", #10
             "https://drive.google.com/uc?export=view&id=1bbbT48DIMnrSWK_ik8Tw7vZz10-DFiEN", #11
             "https://drive.google.com/uc?export=view&id=1aW8-X29lu2un3Mxn1oYcgtYtNBtUtU7z", #12
