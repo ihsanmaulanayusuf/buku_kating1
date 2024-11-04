@@ -779,7 +779,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Membangkitkan bilangan",
                 "sosmed": "@puspadrr",
                 "kesan": "Kakak ini sangat inspiratif",
-                "pesan": "Semoga Kak Dika terus jadi penyemangat bagi orang-orang di sekitar"
+                "pesan": "Semoga Kak Syadza terus jadi penyemangat bagi orang-orang di sekitar"
             },
             {
                 "nama": "Aditya Rahman",
@@ -941,7 +941,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Surfing",
                 "sosmed": "@nateee__15",
-                "kesan": "",
+                "kesan": "Kakak ini humble dan selalu senyum",
                 "pesan": ""
             },
             {
