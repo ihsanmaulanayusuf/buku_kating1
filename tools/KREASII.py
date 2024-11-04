@@ -19,7 +19,7 @@ st.header("1. Membaca Dataset")
 st.write("Dataset diambil dari file CSV yang berisi data peserta magang CEO HMSD 2024.")
 # Link CSV dari GitHub
 data_magang = pd.read_csv('https://raw.githubusercontent.com/ihsanmaulanayusuf/buku_kating1/refs/heads/main/Pendataan%20Peserta%20Magang%20CEO%20HMSD%202024%20(Responses)%20-%20Form%20Responses%201%20-%20Pendataan%20Peserta%20Magang%20CEO%20HMSD%202024%20(Responses)%20-%20Form%20Responses%201.csv.csv')
-st.dataframe(data_magang.head())  # Menampilkan beberapa baris data untuk referensi
+st.dataframe(data_magang)  # Menampilkan beberapa baris data untuk referensi
 
 # 2. Membersihkan Data
 st.header("2. Membersihkan Data")
