@@ -293,7 +293,7 @@ elif menu == "Baleg":
                 "hobbi": "Main kucing",
                 "sosmed": "@myrriinn",
                 "kesan": "Abang ini baik dan tinggi!!",  
-                "pesan":""# 13anggotakk2
+                "pesan":"Semoga Abang selalu diperi kelancaran dalam mencapai cita-cita"# 13anggotakk2
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -314,7 +314,7 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobbi": "Melukis, olahraga",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "baik",  
+                "kesan": "Abang ini baik dan sedikit pendiam",  
                 "pesan":"Terima kasih banyak, bang Fahrul! Semoga sukses dan sehat selalu Bang"# 8kk3
             },
             {
@@ -383,24 +383,24 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=13BpftEyugi_nRv8CIDEIsW1yQdpIp71u", #1
             "https://drive.google.com/uc?export=view&id=13BpmwuKnTQjMnD4ryi2uLsogzD1B-K4L", #2
             "https://drive.google.com/uc?export=view&id=12yUZvSEV9aUowxiQ9pN-2HQA7_5S5svZ", #3
-            "https://drive.google.com/uc?export=view&id=136UJRINLiEB7RrXEMOrT4rzxhI4ibRbv", #4
-            "https://drive.google.com/uc?export=view&id=135mjT7mM2uvxU0S5AUkxJ3qA8tB5pzlv", #5
-            "https://drive.google.com/uc?export=view&id=12zOPuMl59yIcZIeqiCk46GRqu-Ensv3e", #6
-            "https://drive.google.com/uc?export=view&id=12u2MFwJLQERa_onjNE426p6Z9KHqOR_q", #7
-            "https://drive.google.com/uc?export=view&id=13-rqDTBmm4KOyZq4ecg-vAHZfIhTjqaS", #8
-            "https://drive.google.com/uc?export=view&id=130b-gVC38gd_sl81U1nGK7jdAnn2bnfS", #9
-            "https://drive.google.com/uc?export=view&id=12u5ntP021raozEk9bDZL1SwuF6ibvll_", #10
-            "https://drive.google.com/uc?export=view&id=13-Xhcgkd23VSAccFUaWK1FZOWtXlao7b", #11
             "https://drive.google.com/uc?export=view&id=1370U9MU4g5ZeOQM0J7YsWHdqUtC8b-bE", #12
             "https://drive.google.com/uc?export=view&id=13BPlGIxGQoyXtolPHAGKG4qbAWsQ2uNd", #13
             "https://drive.google.com/uc?export=view&id=136eCdtwSL3NfGUMj8n0Bth7qxQj8O3Xk", #14
             "https://drive.google.com/uc?export=view&id=13ApcRlYZNxfwZmk0-2y6JTPDXZ7OMsTy", #15
+            "https://drive.google.com/uc?export=view&id=137HxddapiW0_cSOCrDlXuJfc7KMqHX3_", #20
+            "https://drive.google.com/uc?export=view&id=136hwJD2xkkVClv4dHAwhf8QhJ_OG-TkY", #21
+            "https://drive.google.com/uc?export=view&id=136UJRINLiEB7RrXEMOrT4rzxhI4ibRbv", #4
+            "https://drive.google.com/uc?export=view&id=13-rqDTBmm4KOyZq4ecg-vAHZfIhTjqaS", #8
+            "https://drive.google.com/uc?export=view&id=12zOPuMl59yIcZIeqiCk46GRqu-Ensv3e", #6
+            "https://drive.google.com/uc?export=view&id=12u2MFwJLQERa_onjNE426p6Z9KHqOR_q", #7
+            "https://drive.google.com/uc?export=view&id=130b-gVC38gd_sl81U1nGK7jdAnn2bnfS", #9
+            "https://drive.google.com/uc?export=view&id=12u5ntP021raozEk9bDZL1SwuF6ibvll_", #10
+            "https://drive.google.com/uc?export=view&id=13-Xhcgkd23VSAccFUaWK1FZOWtXlao7b", #11
+            "https://drive.google.com/uc?export=view&id=135mjT7mM2uvxU0S5AUkxJ3qA8tB5pzlv", #5
             "https://drive.google.com/uc?export=view&id=135LuXCkCfiuzhaq4OLCB0NM5KZgYIDK2", #16
             "https://drive.google.com/uc?export=view&id=133oPZTYCLFkxGaW_xiTI4sANtMlHHr2i", #17
             "https://drive.google.com/uc?export=view&id=132tMDBhaqRMGJDbj5ihVFVTxaUn_5B8m", #18
             "https://drive.google.com/uc?export=view&id=132jT5V3scf-mcU4lpFBWMvhCQIydj-iS", #19
-            "https://drive.google.com/uc?export=view&id=137HxddapiW0_cSOCrDlXuJfc7KMqHX3_", #20
-            "https://drive.google.com/uc?export=view&id=136hwJD2xkkVClv4dHAwhf8QhJ_OG-TkY", #21
         ]
         data_list = [
             {
@@ -412,7 +412,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
                 "kesan": "Abang ini jago banget dalam organisasi, sangat menginspirasi.",
-                "pesan": "Semoga sukses terus, baik di akademik maupun di organisasi. Makin keren lagi ya, Bang!"
+                "pesan": "Semoga sukses terus, baik di akademik maupun di organisasi. Makin keren lagi ya, Bang!" #1 kadep 
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
@@ -423,18 +423,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
                 "kesan": "orangnya penuh semangat, bikin kami jadi lebih termotivasi.",
-                "pesan": "Terus semangat ya, Kak Abet! Semoga ilmu dan kerja keras kakak bisa jadi inspirasi buat banyak orang."
-            },
-            {
-                "nama": "Deyvan Loxefal",
-                "nim": "121450148",
-                "umur": "21",
-                "asal": "Riau",
-                "alamat": "Pulau Damar",
-                "hobbi": "Belajar",
-                "sosmed": "@depanloo",
-                "kesan": "selalu sabar ngadepin kami yang sering nanya-nanya. Baik banget!",
-                "pesan": "Semangat terus, Kak! Kami yakin bang Ericson bakal sukses di mana pun nanti"
+                "pesan": "Terus semangat ya, Kak Abet! Semoga ilmu dan kerja keras kakak bisa jadi inspirasi buat banyak orang." #2sekre
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -445,84 +434,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Muter - Muter",
                 "sosmed": "@afifahhnsrn",
                 "kesan": "Kakak  hadir dengan aura positifnya. Bikin kami ngerasa nyaman belajar bareng kakak",
-                "pesan": "Semangat ya, Kak!! Semoga apa yang kakak cita-citakan segera tercapai"
-            },
-            {
-                "nama": "M. Farhan Athaulloh",
-                "nim": "121450117",
-                "umur": "21",
-                "asal": "Lampung",
-                "alamat": "Kota Baru",
-                "hobbi": "Menolong",
-                "sosmed": "@mfarhan.ath",
-                "kesan": "Abang ini humble dan selalu senyum. Nyaman banget ngobrol sama bang Ateng, semua pertanyaan dijawab",
-                "pesan": "Abang ini keren banget bisa jawab pertanyaan yang kami tanyakan"
-            },
-            {
-                "nama": "Johannes Krisjon Silitonga",
-                "nim": "122450043",
-                "umur": "19",
-                "asal": "Tangerang",
-                "alamat": "Jl. Lapas",
-                "hobbi": "Ngasprak",
-                "sosmed": "@johanneskrisjnnn",
-                "kesan": "Abang ini tegas, apalagi waktu supporteran",
-                "pesan": "Semangat menjabat sebagai Capo utama Damaskus Bang!!!"
-            },
-            {
-                "nama": "Kemas Veriandra Ramadhan",
-                "nim": "122450016",
-                "umur": "19",
-                "asal": "Bekasi",
-                "alamat": "Kojo",
-                "hobbi": "Main Game",
-                "sosmed": "@kemasverii",
-                "kesan": "Abang ini selalu punya jawaban untuk pertanyaan Kelompok 1. PJ tugas paling Top!",
-                "pesan": "Semoga bang Kemas bisa terus berkembang dan jadi orang sukses di masa depan"
-            },
-            {
-                "nama": "Presilia",
-                "nim": "122450081",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Kota Baru",
-                "hobbi": "Dengerin Lomba Sihir",
-                "sosmed": "@presiliamg",
-                "kesan": "Kakak ini ramah banget, selalu senyum",
-                "pesan": "Tetap baik dan ramah ya Kak, sukses selalu"
-            },
-            {
-                "nama": "Rafa Aqilla Jungjunan",
-                "nim": "122450142",
-                "umur": "20",
-                "asal": "Pekan Baru",
-                "alamat": "Belwis",
-                "hobbi": "Baca Webtoon",
-                "sosmed": "@rafaaqilla",
-                "kesan": "Kakak ini orangnya tenang",
-                "pesan": "Semoga Kakak selalu diberi kelancaran dalam segala hal"
-            },
-            {
-                "nama": "Sahid Maulana",
-                "nim": "122450109",
-                "umur": "21",
-                "asal": "Depok",
-                "alamat": "Airan Raya",
-                "hobbi": "Nonton Jagad review",
-                "sosmed": "@sahid_maulana",
-                "kesan": "Abang ini tegas dan perhatian, bikin kita ngerasa diperhatikan",
-                "pesan": "Semoga makin sukses dan tetap jadi inspirasi buat adik-adik di organisasi"
-            },
-            {
-                "nama": "Vanessa Olivia Rose",
-                "nim": "121450108",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Perum Korpri",
-                "hobbi": "Belajar",
-                "sosmed": "@roselivnes__",
-                "kesan": "Kakak ini cool bangett, jago basket jugaaa!!",
-                "pesan": "Kami doakan semoga makin sukses buat Kak Vaness biar aku bisa nyanyi 'Dataku menang lagi'"
+                "pesan": "Semangat ya, Kak!! Semoga apa yang kakak cita-citakan segera tercapai" #3kadiv kaderisasi
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -533,7 +445,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nongs",
                 "sosmed": "@allyaislami_",
                 "kesan": "Kakak ini tegas dan diplin banget, bikin kita lebih termotivasi untuk jadi lebih baik",
-                "pesan": "Terima kasih banyak, Kak! Semoga sukses selalu menyertai Kak Allya"
+                "pesan": "Terima kasih banyak, Kak! Semoga sukses selalu menyertai Kak Allya" #12 staff kaderisasi
             },
             {
                 "nama": "Eksanty Febriana Sukma Islamiaty",
@@ -544,7 +456,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nyari sinyal di gedung F",
                 "sosmed": "@eksantyfebriana",
                 "kesan": "Kakak ini kreatif dan selalu kasih ide-ide brilian",
-                "pesan": "Terus berkarya dan sukses ya, Kak! Semoga semua rencana Kak Eksanty berjalan lancar"
+                "pesan": "Terus berkarya dan sukses ya, Kak! Semoga semua rencana Kak Eksanty berjalan lancar" #13 staff kaderisasi
             },
             {
                 "nama": "M. Deriansyah Okutra",
@@ -555,7 +467,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Nongki - nongki",
                 "sosmed": "@dransyah_",
                 "kesan": "Abang ini selalu bikin suasana jadi cair, santai dan seru banget orangnya",
-                "pesan": "Tetap jadi sosok yang asik ya, Bang! Semoga Bang Deri selalu dilancarkan dalam segala hal"
+                "pesan": "Tetap jadi sosok yang asik ya, Bang! Semoga Bang Deri selalu dilancarkan dalam segala hal" #14 staff kaderisasi
             },
             {
                 "nama": "Oktavia Nurwendah Puspita Sari",
@@ -566,51 +478,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Scroll Tiktok",
                 "sosmed": "@oktavianrwnda",
                 "kesan": "Kakak ini membawa suasana yang positif dan hangat",
-                "pesan": "Semoga kak Okta selalu bahagia dan sukses di masa depan"
-            },
-            {
-                "nama": "Gede Moena",
-                "nim": "121450014",
-                "umur": "21",
-                "asal": "Bekasi",
-                "alamat": "Korpri Raya",
-                "hobbi": "Belajar, Game, Baca Komik",
-                "sosmed": "@gedemoenaa",
-                "kesan": "Abang ini ramah dan nggak pelit ilmu, selalu bantu jawab pertanyaan kalau kita bertanya",
-                "pesan": "Tetap humble ya, Kak. Aku doakan semoga Abang selalu mendapatkan yang terbaik"
-            },
-            {
-                "nama": "Jaclin Alcavella",
-                "nim": "122450015",
-                "umur": "19",
-                "asal": "Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobbi": "Berenang",
-                "sosmed": "@jaclinaclcv_",
-                "kesan": "Kak Jaclin positive vibes dan kreatif bangett",
-                "pesan": "Terima kasih atas semua bantuan Kak! Semoga sukses selalu kakak MC."
-            },
-            {
-                "nama": "Rafly Prabu Darmawan",
-                "nim": "122450140",
-                "umur": "20",
-                "asal": "Bangka Belitung",
-                "alamat": "Sukarame",
-                "hobbi": "Main Game",
-                "sosmed": "@raflyy_pd",
-                "kesan": "Abang ini selalu mendengarkan pertanyaan kita dengan baik",
-                "pesan": "Semoga abang selalu dikelilingi oleh orang-orang baik "
-            },
-            {
-                "nama": "Syalaisha Andini Putriansyah",
-                "nim": "122450111",
-                "umur": "21",
-                "asal": "Tangerang",
-                "alamat": "Sukarame",
-                "hobbi": "Baca",
-                "sosmed": "@syalaisha.i_",
-                "kesan": "sangat ramah dan selalu siap berbagi ilmu",
-                "pesan": "Terima kasih, Kak! Semoga Kakak selalu dipermudah di semua urusan"
+                "pesan": "Semoga kak Okta selalu bahagia dan sukses di masa depan" #15 staff kaderisasi
             },
             {
                 "nama": "Ferdy Kevin Naibaho",
@@ -621,7 +489,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Baca Kitab Suci",
                 "sosmed": "@ferdy_kevin",
                 "kesan": "Abang ini selalu bisa mengatasi setiap masalah dengan tenang",
-                "pesan": "Tetap jadi jadi panutan bagi kita semua ya Bang"
+                "pesan": "Tetap jadi jadi panutan bagi kita semua ya Bang" #20 staff kaderisasi
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -632,7 +500,139 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Bengong",
                 "sosmed": "@farahanumafifahh",
                 "kesan": "Kakak ini murah senyum dan cantik bangett",
-                "pesan": "Jangan pernah berubah, ya Kak! Semoga sukses dalam setiap langkah"
+                "pesan": "Jangan pernah berubah, ya Kak! Semoga sukses dalam setiap langkah" #21 staff kaderisasi
+            },
+            {
+                "nama": "Deyvan Loxefal",
+                "nim": "121450148",
+                "umur": "21",
+                "asal": "Riau",
+                "alamat": "Pulau Damar",
+                "hobbi": "Belajar",
+                "sosmed": "@depanloo",
+                "kesan": "selalu sabar ngadepin kami yang sering nanya-nanya. Baik banget!",
+                "pesan": "Semangat terus, Kak! Kami yakin bang Ericson bakal sukses di mana pun nanti" #4kadiv manjakat
+            },
+            {
+                "nama": "Presilia",
+                "nim": "122450081",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Kota Baru",
+                "hobbi": "Dengerin Lomba Sihir",
+                "sosmed": "@presiliamg",
+                "kesan": "Kakak ini ramah banget, selalu senyum",
+                "pesan": "Tetap baik dan ramah ya Kak, sukses selalu" #8 bendahara manjakat
+            },
+            {
+                "nama": "Johannes Krisjon Silitonga",
+                "nim": "122450043",
+                "umur": "19",
+                "asal": "Tangerang",
+                "alamat": "Jl. Lapas",
+                "hobbi": "Ngasprak",
+                "sosmed": "@johanneskrisjnnn",
+                "kesan": "Abang ini tegas, apalagi waktu supporteran",
+                "pesan": "Semangat menjabat sebagai Capo utama Damaskus Bang!!!" #6staff manjakat
+            },
+            {
+                "nama": "Kemas Veriandra Ramadhan",
+                "nim": "122450016",
+                "umur": "19",
+                "asal": "Bekasi",
+                "alamat": "Kojo",
+                "hobbi": "Main Game",
+                "sosmed": "@kemasverii",
+                "kesan": "Abang ini selalu punya jawaban untuk pertanyaan Kelompok 1. PJ tugas paling Top!",
+                "pesan": "Semoga bang Kemas bisa terus berkembang dan jadi orang sukses di masa depan" #7staf manjakat
+            },
+            {
+                "nama": "Rafa Aqilla Jungjunan",
+                "nim": "122450142",
+                "umur": "20",
+                "asal": "Pekan Baru",
+                "alamat": "Belwis",
+                "hobbi": "Baca Webtoon",
+                "sosmed": "@rafaaqilla",
+                "kesan": "Kakak ini orangnya tenang",
+                "pesan": "Semoga Kakak selalu diberi kelancaran dalam segala hal" #9 staff manjakat
+            },
+            {
+                "nama": "Sahid Maulana",
+                "nim": "122450109",
+                "umur": "21",
+                "asal": "Depok",
+                "alamat": "Airan Raya",
+                "hobbi": "Nonton Jagad review",
+                "sosmed": "@sahid_maulana",
+                "kesan": "Abang ini tegas dan perhatian, bikin kita ngerasa diperhatikan",
+                "pesan": "Semoga makin sukses dan tetap jadi inspirasi buat adik-adik di organisasi" #10 staff manjakat
+            },
+            {
+                "nama": "Vanessa Olivia Rose",
+                "nim": "121450108",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Perum Korpri",
+                "hobbi": "Belajar",
+                "sosmed": "@roselivnes__",
+                "kesan": "Kakak ini cool bangett, jago basket jugaaa!!",
+                "pesan": "Kami doakan semoga makin sukses buat Kak Vaness biar aku bisa nyanyi 'Dataku menang lagi'" #11 staff manjakat
+            },
+            {
+                "nama": "M. Farhan Athaulloh",
+                "nim": "121450117",
+                "umur": "21",
+                "asal": "Lampung",
+                "alamat": "Kota Baru",
+                "hobbi": "Menolong",
+                "sosmed": "@mfarhan.ath",
+                "kesan": "Abang ini humble dan selalu senyum. Nyaman banget ngobrol sama bang Ateng, semua pertanyaan dijawab",
+                "pesan": "Abang ini keren banget bisa jawab pertanyaan yang kami tanyakan" #5kadiv orba
+            },
+            {
+                "nama": "Gede Moena",
+                "nim": "121450014",
+                "umur": "21",
+                "asal": "Bekasi",
+                "alamat": "Korpri Raya",
+                "hobbi": "Belajar, Game, Baca Komik",
+                "sosmed": "@gedemoenaa",
+                "kesan": "Abang ini ramah dan nggak pelit ilmu, selalu bantu jawab pertanyaan kalau kita bertanya",
+                "pesan": "Tetap humble ya, Kak. Aku doakan semoga Abang selalu mendapatkan yang terbaik" #16 staff orba
+            },
+            {
+                "nama": "Jaclin Alcavella",
+                "nim": "122450015",
+                "umur": "19",
+                "asal": "Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobbi": "Berenang",
+                "sosmed": "@jaclinaclcv_",
+                "kesan": "Kak Jaclin positive vibes dan kreatif bangett",
+                "pesan": "Terima kasih atas semua bantuan Kak! Semoga sukses selalu kakak MC." #17 staff orba
+            },
+            {
+                "nama": "Rafly Prabu Darmawan",
+                "nim": "122450140",
+                "umur": "20",
+                "asal": "Bangka Belitung",
+                "alamat": "Sukarame",
+                "hobbi": "Main Game",
+                "sosmed": "@raflyy_pd",
+                "kesan": "Abang ini selalu mendengarkan pertanyaan kita dengan baik",
+                "pesan": "Semoga abang selalu dikelilingi oleh orang-orang baik " #18 staff orba
+            },
+            {
+                "nama": "Syalaisha Andini Putriansyah",
+                "nim": "122450111",
+                "umur": "21",
+                "asal": "Tangerang",
+                "alamat": "Sukarame",
+                "hobbi": "Baca",
+                "sosmed": "@syalaisha.i_",
+                "kesan": "sangat ramah dan selalu siap berbagi ilmu",
+                "pesan": "Terima kasih, Kak! Semoga Kakak selalu dipermudah di semua urusan" #19 staff orba
             }
         ]
         display_images_with_data(gambar_urls, data_list)
