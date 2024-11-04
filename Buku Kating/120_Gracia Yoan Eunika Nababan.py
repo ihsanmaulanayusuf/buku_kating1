@@ -255,7 +255,7 @@ elif menu == "Baleg":
                 "pesan":"Semoga sukses dalam karirnya kak!" #7
             },
             {
-                "nama": "Muhammad fachrul Aditya",
+                "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450156",
                 "umur": "22",
                 "asal":"Surakarta",
@@ -376,21 +376,21 @@ elif menu == "Departemen PSDA":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1bGrtJvqxyagI71zr0yOgCYOATjcdjnSv", #bang econ
             "https://drive.google.com/uc?export=view&id=1hd_ZBV8YXCjifW3POxChGh5B9432VlOo", #kak abeth
-            "https://drive.google.com/uc?export=view&id=1I1D_PIcLwCclXzN6l7Zmlnagt8nAlCrQ", #bang depan
             "https://drive.google.com/uc?export=view&id=1zAV8ubsdhEP8hLGSx6D0l-Cy-SrKCdUw", #kak afifah
-            "https://drive.google.com/uc?export=view&id=1N8IaM0W29s9Pw1UV48uidylVqw6vdfPC", #bang ateng
+            "https://drive.google.com/uc?export=view&id=1T1Y3AmgHVb38M74tIlajAdv0LU0a_BzY", #kak allya
+            "https://drive.google.com/uc?export=view&id=1fppMLu9lW6Dqh3Ivv3ET3rLqujWSGkDR", #kak eksanty
+            "https://drive.google.com/uc?export=view&id=18FFYXStMqd0nJ1DSfZ9g03f_Xf1WdLRA", #bang deri
+            "https://drive.google.com/uc?export=view&id=17T8mQu7JoIJ34Gp4OtIW7OehaRj-mMjl", #kak okta
+            "https://drive.google.com/uc?export=view&id=15O1wFRBBL-6CnyHdG03sZiObWNUIpNOf", #kak farahanum
+            "https://drive.google.com/uc?export=view&id=1SJBR8830ArwIeedJJ5rpBZu4-uVP1jPZ", #bang ferdy
+            "https://drive.google.com/uc?export=view&id=1I1D_PIcLwCclXzN6l7Zmlnagt8nAlCrQ", #bang depan
             "https://drive.google.com/uc?export=view&id=1TXUm18LQjY9Vjesd-fC5joWipaepGa7l", #bang jo
             "https://drive.google.com/uc?export=view&id=1M2bkf0VH4oIOoN1cjJCqwBgg70PH_NAz", #bag kem
             "https://drive.google.com/uc?export=view&id=137TseVQV8bjwy8rpn7jFVH3Hdf-0HLXg", #kak presilia
             "https://drive.google.com/uc?export=view&id=1ChmIvTdvsivyaMx54qkCcHKr1Cq_oO5Z", #kak rafa
             "https://drive.google.com/uc?export=view&id=1OIJyWN2aU_A7NqdDMYghhCX3uutNS3Q7", #bang sahid
             "https://drive.google.com/uc?export=view&id=1o_Gu7xby0jCOwP50ngKqo-CkzjPS9dMq", #kak vanes 
-            "https://drive.google.com/uc?export=view&id=1T1Y3AmgHVb38M74tIlajAdv0LU0a_BzY", #kak allya
-            "https://drive.google.com/uc?export=view&id=1c1c6ZOytsjEGJeWPLiSPIFy9w56z-ioi", #kak eksanty
-            "https://drive.google.com/uc?export=view&id=1Dkk4HDAX80mKS7KyeYuhAx3fKY-f45IO", #bang deri
-            "https://drive.google.com/uc?export=view&id=17T8mQu7JoIJ34Gp4OtIW7OehaRj-mMjl", #kak okta
-            "https://drive.google.com/uc?export=view&id=15O1wFRBBL-6CnyHdG03sZiObWNUIpNOf", #kak farahanum
-            "https://drive.google.com/uc?export=view&id=1SJBR8830ArwIeedJJ5rpBZu4-uVP1jPZ", #bang ferdy
+            "https://drive.google.com/uc?export=view&id=1N8IaM0W29s9Pw1UV48uidylVqw6vdfPC", #bang ateng
             "https://drive.google.com/uc?export=view&id=1FgME2Ar8gTqa5X7to2dkLgsn0rG-8AS9", #bang gede
             "https://drive.google.com/uc?export=view&id=12kIyMuSNELwUt6GZk_lPGgBsY6I9Y2CB", #kak jaclin
             "https://drive.google.com/uc?export=view&id=1KyUWdpG4tnwBO98Izq3bB-nFT4qpF7iP", #bang rafly
@@ -420,17 +420,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"Sukses dalam studinya dan semangat mengejar cita-cita kak" #kak abeth
             },
             {
-                "nama": "Deyvan Loxefal",
-                "nim": "121450148",
-                "umur": "21",
-                "asal":"Duri, Riau",
-                "alamat": "Pulau Damar Kobam",
-                "hobi": "Belajar",
-                "sosmed": "@depanloo",
-                "kesan": "Lucu banget, seru, dan baik",  
-                "pesan":"Jangan pernah cape menghibur orang ya bang" #bang depan
-            },
-            {
                 "nama": "Nisrina Nur Afifah",
                 "nim": "122450052",
                 "umur": "19",
@@ -442,15 +431,81 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kuliahnya kak dan tugas nya lancar semua!" #kak affifah
             },
             {
-                "nama": "M. Farhan Athaulloh",
-                "nim": "121450117",
+                "nama": "Allya Nurul Islami Pasha",
+                "nim": "122450033",
+                "umur": "20",
+                "asal":"Sumatera Barat",
+                "alamat": "Gg. Perwira Belwis",
+                "hobi": "Main",
+                "sosmed": "@allyaislami_",
+                "kesan": "Ramah, asik, dan baik",  
+                "pesan": "Bahagia selalu, sukses dalam karirnya, dan jangan lupa jaga kesehatan kak" #kak allya
+            },
+            {
+                "nama": "Eksanty Febriana Sugma Islamiaty",
+                "nim": "122450001",
+                "umur": "20",
+                "asal":"Jawa Barat",
+                "alamat": "Metro",
+                "hobi": "Nyopet",
+                "sosmed": "@eksantyfebriana",
+                "kesan": "Ramah, baik dan murah senyum",  
+                "pesan": "Semangat terus kuliahnya kak dan semoga apa yang diimpikan bisa terwujud kak!" #Kak eksanty
+            },
+            {
+                "nama": "M. Deriansyah Okutra",
+                "nim": "122450101",
+                "umur": "19",
+                "asal":"Kayu Agung",
+                "alamat": "Jalan Pagar Alam Kedaton",
+                "hobi": "Ngukur Jalan",
+                "sosmed": "@dransyh_",
+                "kesan": "Abangnya lucu banget, asik, dan murah senyum",  
+                "pesan":"Terus lucu ya bang dan semoga cepat lulus kuliah!" #bang deri
+            },
+            {
+                "nama": "Oktavia Nurwinda Puspitasari",
+                "nim": "122450041",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Way Huwi",
+                "hobi": "Travelling",
+                "sosmed": "@_oktavianrwnda_",
+                "kesan": "Baik dan keren", 
+                "pesan":"Tetap semangat kak dan semoga kakak bisa ke tempat yang ingin kakak kunjungin" #kak okta
+            },
+            {
+                "nama": "Farahanum Afifah Ardiansyah",
+                "nim": "122450056",
+                "umur": "20",
+                "asal":"Padang",
+                "alamat": "Sukarame",
+                "hobi": "Bengong",
+                "sosmed": "@farahanumafifahh",
+                "kesan": "Murah senyum dan keren",  
+                "pesan":"Semoga segala urusannya lancar dan tetap menjadi orang yang murahsenyum kak" #kak farahanum
+            },
+            {
+                "nama": "Ferdy Kevin Naibaho",
+                "nim": "122450107",
+                "umur": "19",
+                "asal":"Medan",
+                "alamat": "Jalan Pangeran Senopati Raya 18",
+                "hobi": "Baca Kitab Suci",
+                "sosmed": "@ferdy_kevin",
+                "kesan": "Kalem dan humble",  
+                "pesan":"Semoga hari harinya dipenuhi kebahagiaan dan berkat bang" #bang ferdy
+            },
+            {
+                "nama": "Deyvan Loxefal",
+                "nim": "121450148",
                 "umur": "21",
-                "asal":"Lampung",
-                "alamat": "Kota Baru",
-                "hobi": "Menolong",
-                "sosmed": "@mfarhan.ath",
-                "kesan": "Baik banget, santai, dan cara berkomunikasinya enak didengar dan dipahami",  
-                "pesan":"Jaga kesehatan dan jangan pernah cape nolong orang bang!" #bang ateng
+                "asal":"Duri, Riau",
+                "alamat": "Pulau Damar Kobam",
+                "hobi": "Belajar",
+                "sosmed": "@depanloo",
+                "kesan": "Lucu banget, seru, dan baik",  
+                "pesan":"Jangan pernah cape menghibur orang ya bang" #bang depan
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -519,73 +574,18 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya dan semoga selalu bahagaia kak!" #kak vanessa
             },
             {
-                "nama": "Allya Nurul Islami Pasha",
-                "nim": "122450033",
-                "umur": "20",
-                "asal":"Sumatera Barat",
-                "alamat": "Gg. Perwira Belwis",
-                "hobi": "Main",
-                "sosmed": "@allyaislami_",
-                "kesan": "Ramah, asik, dan baik",  
-                "pesan": "Bahagia selalu, sukses dalam karirnya, dan jangan lupa jaga kesehatan kak" #kak allya
+                "nama": "M. Farhan Athaulloh",
+                "nim": "121450117",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Menolong",
+                "sosmed": "@mfarhan.ath",
+                "kesan": "Baik banget, santai, dan cara berkomunikasinya enak didengar dan dipahami",  
+                "pesan":"Jaga kesehatan dan jangan pernah cape nolong orang bang!" #bang ateng
             },
             {
-                "nama": "Eksanty Febriana Sugma Islamiaty",
-                "nim": "122450001",
-                "umur": "20",
-                "asal":"Jawa Barat",
-                "alamat": "Metro",
-                "hobi": "Nyopet",
-                "sosmed": "@eksantyfebriana",
-                "kesan": "Ramah, baik dan murah senyum",  
-                "pesan": "Semangat terus kuliahnya kak dan semoga apa yang diimpikan bisa terwujud kak!" #Kak eksanty
-            },
-            {
-                "nama": "M. Deriansyah Okutra",
-                "nim": "122450101",
-                "umur": "19",
-                "asal":"Kayu Agung",
-                "alamat": "Jalan Pagar Alam Kedaton",
-                "hobi": "Ngukur Jalan",
-                "sosmed": "@dransyh_",
-                "kesan": "Abangnya lucu banget, asik, dan murah senyum",  
-                "pesan":"Terus lucu ya bang dan semoga cepat lulus kuliah!" #bang deri
-            },
-            {
-                "nama": "Oktavia Nurwenda Puspita Sari",
-                "nim": "122450041",
-                "umur": "20",
-                "asal":"Lampung Timur",
-                "alamat": "Way Huwi",
-                "hobi": "Travelling",
-                "sosmed": "@_oktavianrwnda_",
-                "kesan": "Baik dan keren", 
-                "pesan":"Tetap semangat kak dan semoga kakak bisa ke tempat yang ingin kakak kunjungin" #kak okta
-            },
-            {
-                "nama": "Farahanum Afifah Ardiansyah",
-                "nim": "122450056",
-                "umur": "20",
-                "asal":"Padang",
-                "alamat": "Sukarame",
-                "hobi": "Bengong",
-                "sosmed": "@farahanumafifahh",
-                "kesan": "Murah senyum dan keren",  
-                "pesan":"Semoga segala urusannya lancar dan tetap menjadi orang yang murahsenyum kak" #kak farahanum
-            },
-            {
-                "nama": "Ferdy Kevin Naibaho",
-                "nim": "122450107",
-                "umur": "19",
-                "asal":"Medan",
-                "alamat": "Jalan Pangeran Senopati Raya 18",
-                "hobi": "Baca Kitab Suci",
-                "sosmed": "@ferdy_kevin",
-                "kesan": "Kalem dan humble",  
-                "pesan":"Semoga hari harinya dipenuhi kebahagiaan dan berkat bang" #bang ferdy
-            },
-            {
-                "nama": "Gede Moana",
+                "nama": "Gede Moena",
                 "nim": "121450014",
                 "umur": "21",
                 "asal":"Bekasi",
@@ -597,7 +597,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Jaclin Alcavella",
-                "nim": "121450015",
+                "nim": "122450015",
                 "umur": "19",
                 "asal":"Sumatera Selatan",
                 "alamat": "Korpri",
@@ -645,8 +645,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1bKU_PYXcMkF3IA6wdXRKYkDsB39k0cAc", #kak dinda
             "https://drive.google.com/uc?export=view&id=1ufAiRZrrKLPFSdZtEMviJAeGhqrLgfbE", #kak marleta
             "https://drive.google.com/uc?export=view&id=1VZkHwMbxchrmLkJZ_2nj3odt-mNVnmRJ", #kak rut
-            "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc", #bang adit
             "https://drive.google.com/uc?export=view&id=1qHkw0rNj60mtNRZi4az493RHbr5OYmWg", #kak syadza
+            "https://drive.google.com/uc?export=view&id=1CXYxfH77XFnJ4ZbMXCjSwyVxxTcPopdc", #bang adit
             "https://drive.google.com/uc?export=view&id=10HtMXzV8oBASuu8L7UKsruQ_O3NmxmhB", #bang eggi
             "https://drive.google.com/uc?export=view&id=1Cp_sIhIu5a70rheKW0-_A5NXfv7cRNxj", #kak febiya
             "https://drive.google.com/uc?export=view&id=1Cziha9Z0PhCGP0fVjSDi4mM3KCF1cfo6", #bang happy
@@ -766,17 +766,6 @@ elif menu == "Departemen MIKFES":
 
             },
             {
-                "nama"  : "Aditya Rahman",
-                "nim"   : "122450113",
-                "umur"  : "20",
-                "asal"  :"Metro",
-                "alamat": "Korpri",
-                "hobi" : "Ngoding wisata",
-                "sosmed": "@rahm_adityaa",
-                "kesan" : "Abangnya cool dan jago ngoding",  
-                "pesan" :"Tetap berkarya dan selalu sukses dalam studinya bang!"
-            },
-            {
                 "nama": "Syadza Puspadari Azhar",
                 "nim": "122450072",
                 "umur": "20",
@@ -786,6 +775,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "Keren dan dekat kakaknya nyaman",  
                 "pesan":"Semangat membangkitkan bilangannya kak!" 
+            },
+            {
+                "nama"  : "Aditya Rahman",
+                "nim"   : "122450113",
+                "umur"  : "20",
+                "asal"  :"Metro",
+                "alamat": "Korpri",
+                "hobi" : "Ngoding wisata",
+                "sosmed": "@rahm_adityaa",
+                "kesan" : "Abangnya cool dan jago ngoding",  
+                "pesan" :"Tetap berkarya dan selalu sukses dalam studinya bang!"
             },
             {
                 "nama": "Eggi satria",
@@ -863,7 +863,7 @@ elif menu == "Departemen Eksternal":
         ]
         data_list = [
             {
-                "nama": "Yogy Sae Tama",
+                "nama": "Yogy Sa'e Tama",
                 "nim": "121450041",
                 "umur": "21",
                 "asal":"Tangerang",
@@ -930,7 +930,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"Semangat terus kuliahnya kak!" #kak ester
             },
             {
-               "nama": "Natasya Ega Lina",
+               "nama": "Natasya Ega Lina Marbun",
                 "nim": "122450024",
                 "umur": "19",
                 "asal":"Sumatera Utara",
@@ -1235,7 +1235,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Perum Griya Indah",
                 "hobi": "Nungguin ayam betina berkokok",
                 "sosmed": " @yosiabanurea",
-                "kesan": "Abangnya jago futsal",  
+                "kesan": "Abangnya baik dan asik",  
                 "pesan":"Semoga setiap aktivitasnya lancar tanpa kendala bang" #bang yosia
             },
         ]
@@ -1271,7 +1271,7 @@ elif menu == "Departemen SSD":
 
             },
             {
-                "nama": "Adisty Syawaida Ariyanto",
+                "nama": "Adisty Syawalda Ariyanto",
                 "nim": "121450136",
                 "umur": "22",
                 "asal":"Metro",
@@ -1391,22 +1391,22 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1e1pYUq3PoQA6sH9TmpviNGl_Xi3QdPB1", #bang wahyu
             "https://drive.google.com/uc?export=view&id=1sFmFz-X3SGwSrySZO43uIlrKuT--_oPw", #kak elok
-            "https://drive.google.com/uc?export=view&id=12o_S0QQssjQ1G1x-NprCk_KEieMDMUx9", #kak arsyiah
-            "https://drive.google.com/uc?export=view&id=1E2kaV8ZMNrf02MR55ZfcDqUxsfAqk7m1", #kak cibel
+            "https://drive.google.com/uc?export=view&id=1X5s-Bn4RPPr9SGG40-ySHOnKshGVVWDx", #kak arsyiah
+            "https://drive.google.com/uc?export=view&id=1ZCSymoVfIAVdBL50Z3lYZzk_TtuFFkWA", #kak cibel
             "https://drive.google.com/uc?export=view&id=1XeDPBqw3BnABTpiT0lDOGVHLR9Q1z-KF", #kak eka
-            "https://drive.google.com/uc?export=view&id=1WYOp2q4Dj3QN9_nBzi3LwOcUSILo5MG1", #kak najla
+            "https://drive.google.com/uc?export=view&id=1IrMjIRDChYG39x63-akeTw2YqYrptBS7", #kak najla
             "https://drive.google.com/uc?export=view&id=1-QL3uLt-Xi610DGmFhUzdVw5wRfGJAQW", #kak cia
             "https://drive.google.com/uc?export=view&id=1it1hAhKz1afPONuFGUrddfG8gYJtQH5I", #kak rahma
             "https://drive.google.com/uc?export=view&id=1HXLT18rQH6E6HTYR_QHnGtfnMkIZdTOF", #kak try
             "https://drive.google.com/uc?export=view&id=1tRMBKV75gX5tvVeK7euGp41PgL9HvqKv", #bang kaisar
-            "https://drive.google.com/uc?export=view&id=1TbEJbBSg_dBwTwaiUR5-ADf266s7dJUR", #kak dwi
-            "https://drive.google.com/uc?export=view&id=1RXBLddKM8ZShOPJtK4Ie2ZWfg1e5FI3h", #bang gym
+            "https://drive.google.com/uc?export=view&id=1kcL6QJGJ8i8HzihSeM-MEpPVDTcNZ9mW", #kak dwi
+            "https://drive.google.com/uc?export=view&id=1IXQtoSPR_DrGu5AL5G9VcEPLH5b-32Ie", #bang gym
             "https://drive.google.com/uc?export=view&id=10MMcm2PpO-1Kze2rJ9hJ7SZbqw0IULCR", #kak nasywa
-            "https://drive.google.com/uc?export=view&id=1f-dhjqMJ4SoB0wDaH-T-oHJq3hThFJcp", #kak priska
+            "https://drive.google.com/uc?export=view&id=1XFGpAoz1BiJk-TFgtZMAcm070iV6Uo8w", #kak priska
             "https://drive.google.com/uc?export=view&id=1UNB2u9mWwncigR5M1XLcCW-uRS7Qn-hm", #bang arsal
             "https://drive.google.com/uc?export=view&id=17hZAx1uwJsfGYF2PZLBhcp-pHdd4g4Kv", #kak khusnun
             "https://drive.google.com/uc?export=view&id=1bZRdue4fowxRS6K8AIVN_98bnk-tnS-E", #bang abit 
-            "https://drive.google.com/uc?export=view&id=1lWeVU6njoLCfkLICaTQ2wWUzirFttTY4", #bang akmal
+            "https://drive.google.com/uc?export=view&id=1uIm34DZMgx0JXX13z01Ml2Y-v6m74yNh", #bang akmal
             "https://drive.google.com/uc?export=view&id=1hgQwAS5CYwQ_O0CO3A342bAH7tFtN9rA", #bang hermawan
             
         ]
