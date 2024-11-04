@@ -203,7 +203,7 @@ elif menu == "Baleg":
                 "hobbi": "Bertanya sama GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Engaging sama friendly banget, cara ngomongnya bikin orang betah dengerin dan wawasannya luas jadi seru",  
-                "pesan":"every small step takes you closer to your goal, semoga terus menginspirasi kak!"
+                "pesan":"every small step takes you closer to your goal, semoga terus menginspirasi kak!" 
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -315,7 +315,7 @@ elif menu == "Baleg":
                 "kesan": "kak dhea asik, friendly banget",  
                 "pesan":"semoga hari harinya terus berwarna ya kak!"# 10
             },
-            {
+             {
                "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "20",
@@ -336,9 +336,7 @@ elif menu == "Baleg":
                 "sosmed": "@jeremia_s_",
                 "kesan": "bang jere baik banget asik jugaa  humoris jadinya seru ga tegang",  
                 "pesan":"Semangat kuliahnya bang!"# 13
-            },
-            
-            
+            },  
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
