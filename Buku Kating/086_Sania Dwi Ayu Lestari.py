@@ -720,7 +720,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Bukittinggi",
                 "alamat": "Korpri",
                 "hobbi": "ML (Machine Learning)",
-                "sosmed": "@",
+                "sosmed": "@here.am.ai",
                 "kesan": "baikk dan agag pendiam",  
                 "pesan":"semangat menggapai cita cita ya bang" #50
             },
