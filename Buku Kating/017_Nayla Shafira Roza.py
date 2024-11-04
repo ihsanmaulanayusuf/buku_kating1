@@ -241,7 +241,7 @@ elif menu == "Baleg":
                 "kesan": "Peka sama lingkungan, supportif banget.",  
                 "pesan":"Terus kasih kita dukungan ya kak, semangat!"#4
             },
-            {
+             {
                 "nama": "Claudhea Angeliani",
                 "nim": "1214500124",
                 "umur": "19",
@@ -536,7 +536,6 @@ elif menu == "Departemen PSDA":
                 "sosmed"   : "@allyaislami_",
                 "kesan"    : "Kakak ini asik, ramah, dan lucuu",  
                 "pesan"    : "Semangat terus kak Allya"#12
-            },
             {
                 "nama"     : "Eksanty Febriana Sugma Islamiyati",
                 "nim"      : "122450001",
@@ -581,7 +580,7 @@ elif menu == "Departemen PSDA":
                 "kesan"    : "Abang ini baik, asik, dan ramah",  
                 "pesan"    : "Semangat selalu kuliahnya bang!"#16
             },
-            {
+             {
                 "nama"     : "Jaclin Alcavella",
                 "nim"      : "122450015",
                 "umur"     : "19",
