@@ -922,7 +922,7 @@ elif menu == "Departemen Eksternal":
                 "nama": "Ratu Keisha Jasmine Deanova",
                 "nim": "122450106",
                 "umur": "20",
-                "asal": "Jakarta Selatan",
+                "asal": "Bogor",
                 "alamat": "Way Kandis",
                 "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
