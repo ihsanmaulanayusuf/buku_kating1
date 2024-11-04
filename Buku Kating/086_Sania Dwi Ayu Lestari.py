@@ -709,7 +709,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Tangerang",
                 "alamat": "Gg. Yudistira",
                 "hobbi": "Review jurnal Bu Mika",
-                "sosmed": "@",
+                "sosmed": "@dkselsd_31",
                 "kesan": "kakanya kalem pendiem, kembaran kaka yang di psda",  
                 "pesan":"Semangat terus kak" #49
             },
