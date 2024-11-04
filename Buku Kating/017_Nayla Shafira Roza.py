@@ -457,7 +457,7 @@ elif menu == "Departemen PSDA":
                 "hobbi"    : "@menolong",
                 "sosmed"   : "@mfarhan.ath",
                 "kesan"    : "abang Ateng ini baik bangett suka menolong yang lagi kesusahan",  
-                "pesan"    : "Sehat selalu orang baik!#5
+                "pesan"    : "Sehat selalu orang baik!"#5
             },
             {
               
