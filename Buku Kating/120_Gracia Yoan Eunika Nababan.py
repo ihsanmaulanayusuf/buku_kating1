@@ -188,12 +188,12 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1aHSlA8xzCqpjE3uVzhRNStT0zyX5POUo",#2
             "https://drive.google.com/uc?export=view&id=10HlLY9RZ2J11NaAI-lcOv_6u1Ku6nBvh",#3
             "https://drive.google.com/uc?export=view&id=1Dp07vXIkUG2iC04B3wIEpvQCNVvxq4Z1",#4
-            "https://drive.google.com/uc?export=view&id=1bYhvJJVKOw-qTvuDtJ2PmqvkIPJrUMXi",#kak claudhea
-            "https://drive.google.com/uc?export=view&id=1XLwRMp-nUeR7mkaMEHv4Thx8NQKygWUg",#bang fachrul
             "https://drive.google.com/uc?export=view&id=1Ffk9SXS1tLeogQlM8nqmscilaqXUXQSE",#5
+            "https://drive.google.com/uc?export=view&id=1bYhvJJVKOw-qTvuDtJ2PmqvkIPJrUMXi",#kak claudhea
             "https://drive.google.com/uc?export=view&id=1gqKqs1xSchDmHs-yV6Hvbe2j_t7wNO3G",#6
             "https://drive.google.com/uc?export=view&id=1mcaAXEfl3s1SelPYauHeh7YucCyRvxJn",#8
             "https://drive.google.com/uc?export=view&id=1NjhtffCc82MtBFUSA2fzTAVC5_imxkkg",#9
+            "https://drive.google.com/uc?export=view&id=1XLwRMp-nUeR7mkaMEHv4Thx8NQKygWUg",#bang fachrul
             "https://drive.google.com/uc?export=view&id=1sJah5S-pKWQjvjRxYrAj_Wc5zcAxnWkO",#12
             "https://drive.google.com/uc?export=view&id=1hUiGkZy3YhqCfERBH08wPtevcIY9vPbM",#11
     
@@ -244,29 +244,6 @@ elif menu == "Baleg":
                 "pesan": "Semangat menjalani kuliahnya kak dan semoga bisa ketemu idola dari cinanya kak" #4
             },
             {
-                "nama": "Claudhea Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobi": "Baca Jurnal",
-                "sosmed": "@dylebee",
-                "kesan": "Kakanya baik banget dan kalem",  
-                "pesan":"Semoga sukses dalam karirnya kak!" #7
-            },
-            {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450156",
-                "umur": "22",
-                "asal":"Surakarta",
-                "alamat": "Sukarame",
-                "hobi": "Melukis",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "Pendiam dan baik",  
-                "pesan":"Sukses di masa depan dan semoga suatu saat lukissan abang bisa terkenal" #bang fachrul
-
-            },
-            {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -276,6 +253,17 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "Baik, pendiam, dan keren banget jurnal nya diterbitin",  
                 "pesan":"Semanagat menjalani hari-hari dan sukses dalam studinya bang!" #5
+            },
+            {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "Kakanya baik banget dan kalem",  
+                "pesan":"Semoga sukses dalam karirnya kak!" #7
             },
             {
                 "nama": "Renisha Putri Giani",
@@ -311,6 +299,18 @@ elif menu == "Baleg":
                 "pesan":"Semoga cepat lulus kuliah kak!" #9
             },
             {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": "Sukarame",
+                "hobi": "Melukis",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Pendiam dan baik",  
+                "pesan":"Sukses di masa depan dan semoga suatu saat lukissan abang bisa terkenal" #bang fahrul
+
+            },
+            {
                 "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "20",
@@ -331,7 +331,6 @@ elif menu == "Baleg":
                 "sosmed": "@jeremia_s_",
                 "kesan": "Abangnya keren, asik, dan aktif menjawaab pertanyaan",  
                 "pesan":"Semangat menjalani hari-harinya dan lancar dalam semua aktivitasnya bang" #11
-
             },
         ]
         display_images_with_data(gambar_urls, data_list)
